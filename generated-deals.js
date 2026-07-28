@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-31d0aed73459",
+    "date": "July 27, 2026",
+    "publishedISO": "2026-07-27T14:42:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deputies: Nearly 30 people arrested after illegal ‘street takeover’ blocks roadway",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX Carolina News",
+    "summary": "Deputies: Nearly 30 people arrested after illegal ‘street takeover’ blocks roadway FOX Carolina News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPaVZDbTJBQmNpYTZweURiTXJiazJiR2J3ZE5EZHphenlFM0w1TjNKUzVUNFd5Z2hMRnFTRGZBa2MwdGZBSEZDcnBzOWRyS2RwLW9QS25Tdk8zU2ZYTWJSWGdEeXRoX3lNX0l2Rlk0UkQzRVRiUTlqeWUxMXU1ZE5SMGg3WFRtZ3htem1Temt3SVhCNzBOdWtZaFFZMm1XMjhrUGpUODR1cjAycnR3Rnd5S1RMZlJ5Qkw3Tk5N?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-8820d750b50f",
     "date": "July 27, 2026",
     "publishedISO": "2026-07-27T13:28:00+00:00",
@@ -451,87 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c94148a07936",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T11:15:00+00:00",
-    "acquirer": "TransDigm Announces",
-    "target": "Prince & Izant",
-    "headline": "TransDigm Announces Acquisition of Prince & Izant",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "TransDigm Announces Acquisition of Prince & Izant PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWRSdWphWFdGQ29Qd191RXkwYU9kcjdqclBjY0hYYV9LcGxycElCLVhzYjNhVWJ6SjExWEVNalBaTWliYkZuSFRoX0N1LWVSWUxFcF9nSk1lcWpsalk0YmhydUlneGFtcG50QXNNbFVTMnBwUC1fYlo3OE9Rd0pESWdOcUp0cEVzRzNJS0RYd3ZKU3RqQU5BeGJPZWdWd2ZpNTRLZXFYUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fafdf0ad1235",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T11:00:00+00:00",
+    "id": "news-2c63dae9f1dd",
+    "date": "July 26, 2026",
+    "publishedISO": "2026-07-26T18:32:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "InterVest capital partners Acquires Kapitus",
+    "headline": "United quietly pursued a merger with Delta last year: report",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "InterVest capital partners Acquires Kapitus PR Newswire",
+    "sourceName": "Crain's Chicago Business",
+    "summary": "United quietly pursued a merger with Delta last year: report Crain's Chicago Business",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,12 +558,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYm9vYmpYb3FPaGxMTGh0dE02UVhBMGV1Skx1SUZqOFJadlhzUlk1djQtY00wTXVrb19KZWExRDl5US1Vc0JmR0lIeGtIaHFzZTIyLTFSWnFlNDhra1BVbDVRY2lvVHd6X1pEZk5uLWVvTTR0Z1BCOUJRenVrZFVLa0paQUljaG5pZFpYelpoQUxVN09CV2c1Y1RYU3F2UmFY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUlXaUtvUF8zUTd3YkUyOGlNY1FSdUZtTG1sRDNTckRnYkJTaHoyVlRndzlnOEZURmprX2N1NW5Ed0QzQTdWN0hidkc5NXl2REpjb1ZxTjhkOEtNdE1acnpfeGVsLVFaRDhHUWUxOTdoQ28zWkJpazRoQUFDMWxFTFdNZEZMcjkxQVpuYzVHRkY1OEtPWUlvbzhyaU5PUG8?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Jul 27, 2026"
+        "date": "Jul 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1576,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-869cbc81ab8f",
+    "date": "July 24, 2026",
+    "publishedISO": "2026-07-24T16:57:51+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Downtown Orlando bike takeover disrupts traffic, delays emergency vehicles",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX 35 Orlando",
+    "summary": "Downtown Orlando bike takeover disrupts traffic, delays emergency vehicles FOX 35 Orlando",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjBuU2VESjZ5UFpnWXZNRWczYUF6c3dIRTlWS0lzWnpBM3J6LTRMSWUzeDVtQkxqX1o1RkNDS3dpa2VjQVBtLUNISW42ZUo5S3NzZ2hURTVMUnhtRTZRdHlENHVpYjQtTlU1YXd4czlCVU8wWWxNXy00dnI4ZElkb01aWE1nc29MZ2tJdUpud3VlYm45ZlFPT0xVQjdLMkNlMzNXY0pCSlhYU05MLWFZ0gG0AUFVX3lxTE5pWlc5UFNlUlB4MTdGazRPaEZpam1rX2M3ZzJVYmRSUlNiLWhBbVpocDI3Yk9jVThCQUlmSEk4RUhPcGR4Yy1oRmpGLU5BLTNxbkMydTlsYTR3NjN1STB4WkNrN2w5T1hhaXBzSGd6dGNhX1JuejhEZnVPWXgzTkRzcW5NMlJ3OGpvUXB5NzJEbjl3MnNGTXJKZG5KVmJRWjMxT1JlLXJvOEZGcFhoZzRvMWtlQg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-85b99dd33983",
     "date": "July 24, 2026",
     "publishedISO": "2026-07-24T05:43:32+00:00",
@@ -1614,6 +1689,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c38a6c54f022",
+    "date": "July 23, 2026",
+    "publishedISO": "2026-07-23T14:32:51+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeThGOGF2R2FrQ194SUxyVmNjQ0I1TWg5ai1hN3AteU5rS3ZUZmZMampVeU10d3l3MUYwRjlFYWVIaVMzcjdmN2JlYmFRTmI0S2dPQzNGVE03VWxkejhsbVA4akFTLWJhM2FMZ1hNbE9XbzFfTG5UVWoxNWFtVHFVOHdQbXhETUVNNEdOVlI4eHB2NjFVN1oyMktUZEdOVjkwTmhZYndHR0hmVjRLWnRnVEJlSy0wNnVCcm9Jb1BiZTE4eXVCYWgyOW5sYWY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 23, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1953,7 +2103,7 @@ window.generatedDeals = [
   {
     "id": "news-91e6ca59f012",
     "date": "July 22, 2026",
-    "publishedISO": "2026-07-22T12:27:00+00:00",
+    "publishedISO": "2026-07-22T12:28:35+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Kone Confirms Guidance Despite Costs of TK Elevator Acquisition",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-09c7ad93a9b4",
-    "date": "July 21, 2026",
-    "publishedISO": "2026-07-21T16:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Altana Acquires AI Platform to Tackle Customs Complexity",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Altana Acquires AI Platform to Tackle Customs Complexity WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTTFrX2t1djFROVF6YllrSnRXeFJUTWpDQmNRZkw5NXV1anItWUVVMVVYcGJtZzZhU084M0xINDBRam4yeFMwdkxjX1VzR0l0cUN3cWlhcW5mam9RSjlVVF9KYkkxQi1EbzVkMVl1VVJxYWNQTEdKUVRwTTdHdzhmWVRuNkZISU40SllIdHpmTnNQVjZwNTBQeFB0blBNYkF1N2Npaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-27445cb8b057",
-    "date": "July 21, 2026",
-    "publishedISO": "2026-07-21T15:48:23+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Lawmakers call for special session to debate Dominion-NextEra merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "Lawmakers call for special session to debate Dominion-NextEra merger Virginia Mercury",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxON0QwTGFVQ0t6aERzVGs2Z0NaUExVV2syTm5EM09TbkU4bnNtb1h3MHhDVHFKVXR4ZWxaZXZHUUZIY0IwMlo3ZFlEMnlzM2UxNG9iZUJEUVh1cVhSUUQ2dmhPOUVVSFlCT3NROVdZLWlDNi1UZ0pqNHB5bWlMaWVzMVdKWEwwdWJ0aHV4MWNMS00wWTlXVzh3dzh6ZkNxVmE3UmdacGhYV0FDaXdV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 21, 2026"
       },
       {
         "stage": "Terms verified",
