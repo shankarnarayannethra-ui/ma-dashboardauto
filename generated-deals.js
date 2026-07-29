@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-8f0ae9bbbfcd",
+    "date": "July 29, 2026",
+    "publishedISO": "2026-07-29T13:19:13+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows",
+    "valueBillions": 65.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVo3LWRHa295SG5WeUt6dUdNa2JyYTh0RGVER1hGQjZKSXptNE4xOEpJNUVDbDQzSTBycGRra3RGeVNvVjc3TzRPcHRDUkFvdkd2Wnh0T09pN3pXaVNvOHNsRVV3WWdlRm1TNjZDdHUyMFlDUWZVZW9wckctZnh2WmRGU0JQUGtxUEFZVWlmSGpWeGNDQzJHMDE3WEk4ZzZqaVVsemdmdkpYdGpxVE80aEU4MWU3QWM5TnBoU2xOSzEway1sNkZFZ1pyRU1nMU9k?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-41ade0252679",
+    "date": "July 28, 2026",
+    "publishedISO": "2026-07-28T21:09:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | The Paramount-Warner Merger Could Save Hollywood",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-42a2c6ab486e",
     "date": "July 28, 2026",
     "publishedISO": "2026-07-28T20:18:30+00:00",
@@ -1201,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-120e3431fb37",
+    "date": "July 24, 2026",
+    "publishedISO": "2026-07-24T21:13:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount to delay Warner Bros. merger until as late as June 2027",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "Paramount to delay Warner Bros. merger until as late as June 2027 CBS News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNN0dJbm5TS1FhUVhlWW9Fc01TZTFsdFlRdTlMc09uSHRfSmdZNTBlRjU3NHNCdEU0bWVRNUo4YV80bkdKV0pTVG56R3hTbGQ0MFd1ZVozWU5JM05ETktwUTFNQWxwaWtkaHJ1THQwWkhWYVNJZFdxMmxZQVFGWERRWjdIZXpTSXg0MXc3d255RDNMQ0NnT0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b486d29fc611",
     "date": "July 24, 2026",
     "publishedISO": "2026-07-24T20:50:32+00:00",
@@ -1428,7 +1653,7 @@ window.generatedDeals = [
   {
     "id": "news-c9aadc8fe1dd",
     "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T19:50:26+00:00",
+    "publishedISO": "2026-07-24T19:48:54+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Paramount agrees to delay Warner Bros. Discovery takeover for months",
@@ -1876,81 +2101,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-85b99dd33983",
-    "date": "July 23, 2026",
-    "publishedISO": "2026-07-23T10:17:09+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNadzdGd1U1QzFkUTNhbFhvT1QtNFREV0phUjY0ZG9vZWFVR3JPVU1iR1JrUVM1T1M0ZDdEeGtCUW5YUTlqbnZwUk5HdnB0MDNBWkRwZWpMLXN3RDdkOVhvdUJkQXMxMnloY0t5RFdKY0NjRl9sTjFDZ2dscl82ZEVTRHVZT3JyeXQyNDRzLVRHMlBKY05hamY2UUNVM3F2ZTdlTmdkR0FlaVdhd2E5b0k5NG1KeUhfQkVJMnZYR0hrSE9f?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-79d2f6631609",
     "date": "July 23, 2026",
     "publishedISO": "2026-07-23T07:03:32+00:00",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZi1YamlsWE5NLTNkV0ZVQW5mRU9tcm1iejBNamdtckRGeU4xWnN2U1RRSThwTGtYSTJiZnA3U3B2S2UxSDJIME5jeENhYTMtN0NyNWJGdmp6RDVnUk1KYndwR1BiRTJWMTRrT2l2WUpib1hydDVXOG1ReE5Ec3lPbEk5TEZVeGEzZlBjZEFGMlFlWld1dnhfMmdBWHY5ckI2YU92T1hTTWVUX29wZzMtdXIzVzZRSVJGdEZWS2IxOHhUX3VtOFNpNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-91e6ca59f012",
-    "date": "July 22, 2026",
-    "publishedISO": "2026-07-22T12:27:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Kone Confirms Guidance Despite Costs of TK Elevator Acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Kone Confirms Guidance Despite Costs of TK Elevator Acquisition WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeEw3VGpiWU5TWndQVzYxck1kNHJqd2E5NnlnWXlHVWdOZkY2ZmpZN0hvZXN1alpuclJCNHpwaDFEb2tabDNsWUlUSC00U2pZekcycDRobWxJUnZ1OFYtM0cxLVlnU2hfUU42SVVXT09QaXhYcldaUUFUTGwxTC1Tc2RweUtVSndwRHZqMGZSdlhqUjRPUGRTRzNFX19PdlhWclNGNEFLREprTDBLbVNN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f760533605bd",
-    "date": "July 22, 2026",
-    "publishedISO": "2026-07-22T11:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Garmin acquires TrainingPeaks and TrainHeroic, leading endurance and strength training platforms for athletes and coaches",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Garmin acquires TrainingPeaks and TrainHeroic, leading endurance and strength training platforms for athletes and coaches PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwJBVV95cUxPZUJrVDh0amxLT1plT01aZVFHWU9Lamp2bV9RRE5raHNjbUVrTU5ScWlrcWJBMkJDRFZROWEwblEwT0hEckxUZGNmQ0NOTzFBOWxPenZ3dTFhMDVyZ0NxU2NjRVFFYy1xLURaSVFqeHQ3dVpwRS1LenNWWnVqbm1JSEU4bDN6ZlpoRXUxYklfR3ZvbURCVmpqVE9iY0VpTzNuRjV4bnFMcmhRSzZpcWEzREVSVmpqbGpLWlpaLUlpeHEyYU1yNi1LMjJOSVFMNkNmQUhxMU9MU2R1WGd2ZlhmNjR5c2RQWmtWTGpDbzM2TjJxSHVFVk1SY3ZiS3BQTFRQWm0wMkxyYw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
