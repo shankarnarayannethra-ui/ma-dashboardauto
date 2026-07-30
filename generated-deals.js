@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
+    "sourceName": "qualcomm.com",
+    "summary": "Qualcomm Completes Acquisition of Modular qualcomm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -114,81 +114,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 29, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-71c40af15f80",
-    "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T23:50:08+00:00",
-    "acquirer": "LEONARDO IS EXPANDING IN THE US WITH THE",
-    "target": "RAFT",
-    "headline": "LEONARDO IS EXPANDING IN THE US WITH THE ACQUISITION OF RAFT",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Leonardo S.p.A.",
-    "summary": "LEONARDO IS EXPANDING IN THE US WITH THE ACQUISITION OF RAFT Leonardo S.p.A.",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEdhRHJlZGNqcG5WaWdYeWpDZ0tWcG1QT1pvUXdXZFZhLTFyUjVudTJkb0h5U0w4NWRaR2RkVFNrTDlnRE1NcUlCXzk3ZkxlNmYyR2o0VHk0d3gtQ2FHamdqb25PV2dDakZ6THJIUHhUd1gxc2ktaTNmY29yZjloV3lWRVJpNUZIeHZ2VUEyWm5ZN2l6LXZSbl93aWlfSkZFbllrSTJTNXhveXkwZEpydkJaNzA5ZjM5TlNCaGtpWFNpclh4RVFMUA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 28, 2026"
       },
       {
         "stage": "Terms verified",
@@ -390,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AT&T Newsroom",
-    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T Newsroom",
+    "sourceName": "about.att.com",
+    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar about.att.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -826,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2c63dae9f1dd",
+    "id": "news-54737af9ec7e",
     "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T18:32:00+00:00",
+    "publishedISO": "2026-07-26T15:18:42+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "United quietly pursued a merger with Delta last year: report",
+    "headline": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Crain's Chicago Business",
-    "summary": "United quietly pursued a merger with Delta last year: report Crain's Chicago Business",
+    "sourceName": "ABC7 New York",
+    "summary": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island ABC7 New York",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUlXaUtvUF8zUTd3YkUyOGlNY1FSdUZtTG1sRDNTckRnYkJTaHoyVlRndzlnOEZURmprX2N1NW5Ed0QzQTdWN0hidkc5NXl2REpjb1ZxTjhkOEtNdE1acnpfeGVsLVFaRDhHUWUxOTdoQ28zWkJpazRoQUFDMWxFTFdNZEZMcjkxQVpuYzVHRkY1OEtPWUlvbzhyaU5PUG8?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWhua3RSWkJRT2VZeGtQdjRBMS1ydmc0NWpmd0pxQjZJMkN6ZUlOdjc4NHNjeXJtMEljVGt6S2VuY3luQjc2R1VnWDhUemd6QzZiWnc3aF9TNUR1RDgxbEZsOC12NDQ5YXlocmVCTm1CLUhVaWYyZGluX05YaDc2MjVVOVFtdGpvbTh6X0plV1MxUmJ3QVRVVlNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-54737af9ec7e",
-    "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T15:18:42+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island",
+    "id": "news-18553c0d2092",
+    "date": "July 25, 2026",
+    "publishedISO": "2026-07-25T12:22:11+00:00",
+    "acquirer": "Jim Cramer Says Kimberly-Clark’s",
+    "target": "Kenvue Creates a High-Margin Powerhouse",
+    "headline": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -915,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 New York",
-    "summary": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island ABC7 New York",
+    "sourceName": "Yahoo Finance",
+    "summary": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,12 +858,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWhua3RSWkJRT2VZeGtQdjRBMS1ydmc0NWpmd0pxQjZJMkN6ZUlOdjc4NHNjeXJtMEljVGt6S2VuY3luQjc2R1VnWDhUemd6QzZiWnc3aF9TNUR1RDgxbEZsOC12NDQ5YXlocmVCTm1CLUhVaWYyZGluX05YaDc2MjVVOVFtdGpvbTh6X0plV1MxUmJ3QVRVVlNn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOWnVsSlp1d2RsQzZyZ3BrLXcySkZ3aVotMVVLOHN6QVpDenotS3ByNHNSSnRaY3hCS3hIWWt6c3hSUjgwTVN6elNLYXo4TmJkbFBMeDNZd29LeTBQa0xpNzJGVVBZMkRQREVHd0dLLUhkSmJMOG52ZW8wTlJiQnBMUDFLWk51TUtqRVhkMFZPQ1ZxUU40VThJcjJSOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Jul 26, 2026"
+        "date": "Jul 25, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount agrees to months-long delay of Warner Bros. merger Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "Paramount agrees to months-long delay of Warner Bros. merger latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NPR",
-    "summary": "Paramount says it will pause its Warner acquisition while legal challenges play out NPR",
+    "sourceName": "npr.org",
+    "summary": "Paramount says it will pause its Warner acquisition while legal challenges play out npr.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1578,7 +1503,7 @@ window.generatedDeals = [
   {
     "id": "news-c9aadc8fe1dd",
     "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T19:48:54+00:00",
+    "publishedISO": "2026-07-24T19:50:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Paramount agrees to delay Warner Bros. Discovery takeover for months",
@@ -1609,6 +1534,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWd0NHlHdDNYNW5IZksyS1NIUlBEV2Fuck03MmswT1ZYMEM2NjRPcnJsZ1IzYnhlRjRvSHJjRkRTOFRjNFVGNldrelZ6R0tpSE5zSGFFSkhKYmFrMDFlcGlxUlM3Tzg4N1d4THhIVVFmZzJJcmVIdThyalpBSk9CakhQVVNlZXd5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6e224006c02d",
+    "date": "July 24, 2026",
+    "publishedISO": "2026-07-24T19:40:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VLQnVzaHFVUl8yTXRmNjk2TU80Q0owdGJEZUsxVlMxeGd4MkVFQU1FV0M1d3VROGNrcnVETWJwcnNta0ZlaHpkWjJDTWdfS2o3Tk5xN3JCcFBjdWxXV25WMXdub1pTNXJEU1p5TEhkRnFmV3cySm1TbEVxdllyVFREM1JBX21aNC03WGY0Y1RPdlNHVTh0Wl80TDVLQVp5UXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1759,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTjBuU2VESjZ5UFpnWXZNRWczYUF6c3dIRTlWS0lzWnpBM3J6LTRMSWUzeDVtQkxqX1o1RkNDS3dpa2VjQVBtLUNISW42ZUo5S3NzZ2hURTVMUnhtRTZRdHlENHVpYjQtTlU1YXd4czlCVU8wWWxNXy00dnI4ZElkb01aWE1nc29MZ2tJdUpud3VlYm45ZlFPT0xVQjdLMkNlMzNXY0pCSlhYU05MLWFZ0gG0AUFVX3lxTE5pWlc5UFNlUlB4MTdGazRPaEZpam1rX2M3ZzJVYmRSUlNiLWhBbVpocDI3Yk9jVThCQUlmSEk4RUhPcGR4Yy1oRmpGLU5BLTNxbkMydTlsYTR3NjN1STB4WkNrN2w5T1hhaXBzSGd6dGNhX1JuejhEZnVPWXgzTkRzcW5NMlJ3OGpvUXB5NzJEbjl3MnNGTXJKZG5KVmJRWjMxT1JlLXJvOEZGcFhoZzRvMWtlQg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f248ad8cf547",
+    "date": "July 24, 2026",
+    "publishedISO": "2026-07-24T15:17:02+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Commerzbank chairman says bank is ready for takeover talks with UniCredit",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Commerzbank chairman says bank is ready for takeover talks with UniCredit Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE5sN1BxMkFBOEh5WjdGaGx2V2pTN21fdGt1cVlQZEJBWHV0ZkczOUNELWRqREo3T3BwVkQzUzFuOFI2eEMxVzNIRHotdVd3UWVDVW5IRWtJb0xGc0dvY0lENHVrN05SdEg5b05XNFpsQy1JcU5GZzBBaHFwSWxXVHk4M2RHd1V3dzhqRWNvWjg4eTNKRldIQ01jVWlWQUxRcEdvMGZzS2M?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPUF9CdncyTEtXeXhqdjZFejVKTkFUaTZVUEVTS3c5dDhnMUlJZnVnOFRiRk1QcnZZVXBnU1dIcHVEYVV0aGNzUUZQNkwxMmMyNjRLNS1idHVpbWo0MVpXREhwWTY0Nm9tQWRpS2NTR3ZGc0oyVDVUUjd6dWljMGsxcm1FRC1CaDFkSzA0N2JkOE9aSjBKbmduZ20xekEyNEhRNUtwY3BPblNiZGl0QURzRlJRRmpTd2tIckE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-79d2f6631609",
-    "date": "July 23, 2026",
-    "publishedISO": "2026-07-23T07:03:32+00:00",
-    "acquirer": "UniCredit CEO tells CNBC",
-    "target": "Commerzbank could happen in fourth quarter",
-    "headline": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter cnbc.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNUDFObEdHTElNT1h4QkN2UnkwcXZzRlVjOHRsek5XV2cwSFdMSlBUbXlQdC1OLTVuV254R3hRaGJWUFFFQlJTc295bWdsMVlCckRENEV4NTNoWjk1VjMtN0EybkF5VGczOW5hamxUTUZYLUwzNm8yU3h2dVA0emFZTEhKd3FydldXNGl2RlpUNEloQ3c4Q2fSAZsBQVVfeXFMUGpIX2RDYmt2YkE0M0NEb0d1QjVRU0U2ZzViTDNuYWRiU2JZS3RybHRLRlh5VG9rbTR4TzVoaVY4MDF4ZzFvSnA1SWdROVhOcEktYU9tc19VREFtcnJ4dXRqM3RsVDduQjlTTDUtSGpPSzZ5a01qa05iVE9rVzFJbVQ1UGhZVDRiZ3dKY1kzTmdUb21pRC0yaGRTcDg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
