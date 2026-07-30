@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ccef71a80da9",
+    "date": "July 29, 2026",
+    "publishedISO": "2026-07-29T13:59:38+00:00",
+    "acquirer": "Qualcomm Completes",
+    "target": "Modular",
+    "headline": "Qualcomm Completes Acquisition of Modular",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Qualcomm",
+    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNvNW9keFp6d3ZtaXhDNTVIWVZia0xnQ003ZWZCLXBvSjJzclJFOW9jWHdNZFYySXREWVp2ZjRRcWptdUc3ejlENDBpcWxtMFFxX05JWWJja3lqTlpJMHFxWS11OVFQRHg3cG1mcEF6aXlUdi1JT0sxR2tVMURQOVNIalZkcE5IWDFCUEMtcGZHZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-8f0ae9bbbfcd",
     "date": "July 29, 2026",
     "publishedISO": "2026-07-29T13:19:13+00:00",
@@ -39,6 +114,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-71c40af15f80",
+    "date": "July 28, 2026",
+    "publishedISO": "2026-07-28T23:50:08+00:00",
+    "acquirer": "LEONARDO IS EXPANDING IN THE US WITH THE",
+    "target": "RAFT",
+    "headline": "LEONARDO IS EXPANDING IN THE US WITH THE ACQUISITION OF RAFT",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Leonardo S.p.A.",
+    "summary": "LEONARDO IS EXPANDING IN THE US WITH THE ACQUISITION OF RAFT Leonardo S.p.A.",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOcEdhRHJlZGNqcG5WaWdYeWpDZ0tWcG1QT1pvUXdXZFZhLTFyUjVudTJkb0h5U0w4NWRaR2RkVFNrTDlnRE1NcUlCXzk3ZkxlNmYyR2o0VHk0d3gtQ2FHamdqb25PV2dDakZ6THJIUHhUd1gxc2ktaTNmY29yZjloV3lWRVJpNUZIeHZ2VUEyWm5ZN2l6LXZSbl93aWlfSkZFbllrSTJTNXhveXkwZEpydkJaNzA5ZjM5TlNCaGtpWFNpclh4RVFMUA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 28, 2026"
       },
       {
         "stage": "Terms verified",
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ionq.com",
-    "summary": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology ionq.com",
+    "sourceName": "IonQ",
+    "summary": "IonQ Receives Regulatory Approval to Complete Acquisition of SkyWater Technology IonQ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-65172b72341d",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T12:37:33+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "3 arrested on Long Island after massive 200+ ATV, dirt bike street takeover",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NBC New York",
-    "summary": "3 arrested on Long Island after massive 200+ ATV, dirt bike street takeover NBC New York",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNWk00a25IVU10YXQtYmhhUEJ6bl9Xdm1PU1BPdU1CZHEyTVJCUW55Y2xDSFpHbmxWaHJDYmZ4eURMYUlHa1VZbElCTFNoY2lWbkZSNFRSREZjN2UtQ0gySnBBX3RGX1A0bk5yVk9yTzhNelFLWXRsZFFfMjNsQUdPZVVmMXUtLXZQb19rdW85Wk5meXhtRmRxcnduNzNCV3k1NVNETkZwcFdtUjJqVWVXeHljdGFzYlFHS0ozMUJ30gHGAUFVX3lxTE5YQ09DSzRiZXpYNTFnbE9IU1dZTUN6YnFCV3NvRE9EOERRZDNEQ09pQTA3V0ptUXZGblZ4UURXV0N3S0Q2eU1ZRElSc1p6UjBNMXZvM3BPUDNScnhNeDF0QVlWUmFJdE1Jek9aOUhYblJYd08zZkV2NU1mVUUyNDROZWwtWjR0YnRlZnhxUUp2MlVTVVJLVWhlNXV1aDlXYmxQYmhOYjlnU0s2TU1WcGRfa1FCMkp3SWZrM0NSTTFvS09WSVJBUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6ca5dc5c15d8",
     "date": "July 27, 2026",
     "publishedISO": "2026-07-27T12:00:13+00:00",
@@ -751,12 +826,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-54737af9ec7e",
+    "id": "news-2c63dae9f1dd",
     "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T15:18:42+00:00",
+    "publishedISO": "2026-07-26T18:32:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island",
+    "headline": "United quietly pursued a merger with Delta last year: report",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 New York",
-    "summary": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island ABC7 New York",
+    "sourceName": "Crain's Chicago Business",
+    "summary": "United quietly pursued a merger with Delta last year: report Crain's Chicago Business",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWhua3RSWkJRT2VZeGtQdjRBMS1ydmc0NWpmd0pxQjZJMkN6ZUlOdjc4NHNjeXJtMEljVGt6S2VuY3luQjc2R1VnWDhUemd6QzZiWnc3aF9TNUR1RDgxbEZsOC12NDQ5YXlocmVCTm1CLUhVaWYyZGluX05YaDc2MjVVOVFtdGpvbTh6X0plV1MxUmJ3QVRVVlNn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUlXaUtvUF8zUTd3YkUyOGlNY1FSdUZtTG1sRDNTckRnYkJTaHoyVlRndzlnOEZURmprX2N1NW5Ed0QzQTdWN0hidkc5NXl2REpjb1ZxTjhkOEtNdE1acnpfeGVsLVFaRDhHUWUxOTdoQ28zWkJpazRoQUFDMWxFTFdNZEZMcjkxQVpuYzVHRkY1OEtPWUlvbzhyaU5PUG8?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d48beb56ca41",
-    "date": "July 25, 2026",
-    "publishedISO": "2026-07-25T19:46:00+00:00",
+    "id": "news-54737af9ec7e",
+    "date": "July 26, 2026",
+    "publishedISO": "2026-07-26T15:18:42+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Newport Beach police on high alert after ‘takeover' plans circulate on social media",
+    "headline": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC Los Angeles",
-    "summary": "Newport Beach police on high alert after ‘takeover' plans circulate on social media NBC Los Angeles",
+    "sourceName": "ABC7 New York",
+    "summary": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island ABC7 New York",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,12 +933,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPQ09NZk1ZeFp3Y3BwdEJ0Rk44OVNTTkJJS2R1SGVRLXc1U1A4QjkxQVBiVnBJTHhYTnJTX2hSb1ZPTHo1YUhxMHZoN1J1Ylh3ekNFU1J4TUdVMi1rdmw3MWNqNzlYZVNNalBGT2tra1JiSjR1aExLQXFTbS1scDFpX2t4bWZYQlhXYV90VnlhVVU5QWlsYlJ2SkNLOEhPN2dhQmt1TXEzRWJMTWU2M196QUJYM2NUSDhCNklYUl84eHZrcTJPS0t6YWFlSdIB0wFBVV95cUxNc28xaFJIaXBtMVp5cFNCTjdBaG9UNmJOV0dwdDc3N1RlUEduOENUS2lUUE9yWnZBdVk5aHRxY2Y5NHZEMFlERXFHRW1yc0Q3UjVrLVlpMzZHUUlWLVpqeFUweHR0WDh6bmM1bE95Ujc5UXptdDZXaE1pY2lrMzJHLUdqZ3ZjNmgzcklMU2lCaUNoeTZfamYyTUl4aEdWaFo2UjJZVXY5QTgtdXZ0WVI3M2RJRGlPZlBPWUx0ZHVZdmlSRDdZQ1NQXzhzMHBMbXlwR2Rr?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWhua3RSWkJRT2VZeGtQdjRBMS1ydmc0NWpmd0pxQjZJMkN6ZUlOdjc4NHNjeXJtMEljVGt6S2VuY3luQjc2R1VnWDhUemd6QzZiWnc3aF9TNUR1RDgxbEZsOC12NDQ5YXlocmVCTm1CLUhVaWYyZGluX05YaDc2MjVVOVFtdGpvbTh6X0plV1MxUmJ3QVRVVlNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Jul 25, 2026"
+        "date": "Jul 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1503,7 +1578,7 @@ window.generatedDeals = [
   {
     "id": "news-c9aadc8fe1dd",
     "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T19:50:26+00:00",
+    "publishedISO": "2026-07-24T19:48:54+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Paramount agrees to delay Warner Bros. Discovery takeover for months",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnn.com",
-    "summary": "Paramount agrees to delay Warner Bros. Discovery takeover for months cnn.com",
+    "sourceName": "CNN",
+    "summary": "Paramount agrees to delay Warner Bros. Discovery takeover for months CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1534,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWd0NHlHdDNYNW5IZksyS1NIUlBEV2Fuck03MmswT1ZYMEM2NjRPcnJsZ1IzYnhlRjRvSHJjRkRTOFRjNFVGNldrelZ6R0tpSE5zSGFFSkhKYmFrMDFlcGlxUlM3Tzg4N1d4THhIVVFmZzJJcmVIdThyalpBSk9CakhQVVNlZXd5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6e224006c02d",
-    "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T19:40:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPb0VLQnVzaHFVUl8yTXRmNjk2TU80Q0owdGJEZUsxVlMxeGd4MkVFQU1FV0M1d3VROGNrcnVETWJwcnNta0ZlaHpkWjJDTWdfS2o3Tk5xN3JCcFBjdWxXV25WMXdub1pTNXJEU1p5TEhkRnFmV3cySm1TbEVxdllyVFREM1JBX21aNC03WGY0Y1RPdlNHVTh0Wl80TDVLQVp5UXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,12 +1801,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f248ad8cf547",
+    "id": "news-85b99dd33983",
     "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T15:17:02+00:00",
+    "publishedISO": "2026-07-24T05:43:32+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Commerzbank chairman says bank is ready for takeover talks with UniCredit",
+    "headline": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1816,7 +1816,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "Commerzbank chairman says bank is ready for takeover talks with UniCredit Reuters",
+    "summary": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1833,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOeE5sN1BxMkFBOEh5WjdGaGx2V2pTN21fdGt1cVlQZEJBWHV0ZkczOUNELWRqREo3T3BwVkQzUzFuOFI2eEMxVzNIRHotdVd3UWVDVW5IRWtJb0xGc0dvY0lENHVrN05SdEg5b05XNFpsQy1JcU5GZzBBaHFwSWxXVHk4M2RHd1V3dzhqRWNvWjg4eTNKRldIQ01jVWlWQUxRcEdvMGZzS2M?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPLUNadzdGd1U1QzFkUTNhbFhvT1QtNFREV0phUjY0ZG9vZWFVR3JPVU1iR1JrUVM1T1M0ZDdEeGtCUW5YUTlqbnZwUk5HdnB0MDNBWkRwZWpMLXN3RDdkOVhvdUJkQXMxMnloY0t5RFdKY0NjRl9sTjFDZ2dscl82ZEVTRHVZT3JyeXQyNDRzLVRHMlBKY05hamY2UUNVM3F2ZTdlTmdkR0FlaVdhd2E5b0k5NG1KeUhfQkVJMnZYR0hrSE9f?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1909,6 +1909,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPV0N3bTlaODRZX0FaRzl0UzhlckVHYzJQQkFXLTBKdnRVYjRYWmhRRGs3Z1RWQWVPMWUtV3J6NUhzUnJSdU9pTWdHRGJoN3pidkQ1a2lZTTBkY3BLLVRIcXZ1dV9fbEFRdjdldXdtMkhaRVZncWdfYmZkQU5lV1R5aWw4MUZ4NjhLNHY2TWotcTZNRzBuX083LW9pZHFvcnNpcWN5ZDVJbVEwdTlNQzhPOHdCRQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c38a6c54f022",
+    "date": "July 23, 2026",
+    "publishedISO": "2026-07-23T14:32:51+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "McCormick plans secondary London listing after Unilever Foods merger, unveils operating structure Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPeThGOGF2R2FrQ194SUxyVmNjQ0I1TWg5ai1hN3AteU5rS3ZUZmZMampVeU10d3l3MUYwRjlFYWVIaVMzcjdmN2JlYmFRTmI0S2dPQzNGVE03VWxkejhsbVA4akFTLWJhM2FMZ1hNbE9XbzFfTG5UVWoxNWFtVHFVOHdQbXhETUVNNEdOVlI4eHB2NjFVN1oyMktUZEdOVjkwTmhZYndHR0hmVjRLWnRnVEJlSy0wNnVCcm9Jb1BiZTE4eXVCYWgyOW5sYWY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "UniCredit CEO tells CNBC acquisition of Commerzbank could happen in fourth quarter cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-33b1d7bf0340",
-    "date": "July 22, 2026",
-    "publishedISO": "2026-07-22T22:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "As state takeover pressure mounts, Austin ISD will close another middle school",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KUT",
-    "summary": "As state takeover pressure mounts, Austin ISD will close another middle school KUT",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNZi1YamlsWE5NLTNkV0ZVQW5mRU9tcm1iejBNamdtckRGeU4xWnN2U1RRSThwTGtYSTJiZnA3U3B2S2UxSDJIME5jeENhYTMtN0NyNWJGdmp6RDVnUk1KYndwR1BiRTJWMTRrT2l2WUpib1hydDVXOG1ReE5Ec3lPbEk5TEZVeGEzZlBjZEFGMlFlWld1dnhfMmdBWHY5ckI2YU92T1hTTWVUX29wZzMtdXIzVzZRSVJGdEZWS2IxOHhUX3VtOFNpNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 22, 2026"
       },
       {
         "stage": "Terms verified",
