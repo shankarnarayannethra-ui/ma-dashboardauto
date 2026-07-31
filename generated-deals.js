@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
+    "sourceName": "espn.com",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -34,81 +34,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWJrQ19FbFEzZVk2cDNiaERieG1STFNKbDRqQVhVOWN5U19ETDlMV21nQVhnU2dwTE55SlUzZmJwajJ6ZkdwR2hSVlV6VmgwclFWa3QxeGItZGlaUkNOcmdCZzVVcVJpRXdqT3hfYjRNX3pXY2hnMFBsVWdzNWp1RjU2NW9jaDdqSEZUb2xkOFhnV08tTTBkaC02NmFHdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-695b1fa6135c",
-    "date": "July 30, 2026",
-    "publishedISO": "2026-07-30T13:14:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "LCID 2026: Maximize Acquisition Flexibility Panel",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "aflcmc.af.mil",
-    "summary": "LCID 2026: Maximize Acquisition Flexibility Panel aflcmc.af.mil",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUhULWFEQ0dxUzlZVV9Sam94WHpLdm5yd1I1ZHVuc3pGTGFOTUdKRlQxdVk4YllFRGJaNk9ldTBIcXpJTS16OTdKblRKbE1nZENGbDlSdUhMdXQ3UHM0VlVrZHE5dTVKeGJzYVh2ZzBtbkZXWHhGQi13T0RXb2FNVmxpVjIzNVZncDIzS2F6VHcwa24tUlJtWmVZNUs?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -240,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Opinion | Could Jettisoning CNN Save the Paramount Merger? The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Opinion | Could Jettisoning CNN Save the Paramount Merger? nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -376,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-18835c702fc0",
+    "date": "July 29, 2026",
+    "publishedISO": "2026-07-29T10:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "latimes.com",
+    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround latimes.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQeVFKcTlhOExrMEdiZDhTWmZlLU5DWkRsR1BUaUF1ejI1OTRvdnhCOHdudmU5OXhiRFRValE2LXNveWczckRFaUVHdnJHdU51ZDJ4cTNBQW5MRjRkaVNyLW5ab3ZjcHhVX2N1amI3T1RVQlUxOVNMWTNaZXFDVmpzbWs2bkJtcDVsanp5UFZpd2QzckRIaWNTQW0xYUJxVmJwak1NeHctV0NLUk8wNWRDSEpSRUh6emFfTGMwOWFPWHg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c9a15c6a97c1",
     "date": "July 28, 2026",
     "publishedISO": "2026-07-28T23:20:52+00:00",
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Source New Mexico",
-    "summary": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM Source New Mexico",
+    "sourceName": "sourcenm.com",
+    "summary": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM sourcenm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "about.att.com",
-    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar about.att.com",
+    "sourceName": "AT&T",
+    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1126,81 +1126,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2c63dae9f1dd",
-    "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T18:32:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "United quietly pursued a merger with Delta last year: report",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "chicagobusiness.com",
-    "summary": "United quietly pursued a merger with Delta last year: report chicagobusiness.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUlXaUtvUF8zUTd3YkUyOGlNY1FSdUZtTG1sRDNTckRnYkJTaHoyVlRndzlnOEZURmprX2N1NW5Ed0QzQTdWN0hidkc5NXl2REpjb1ZxTjhkOEtNdE1acnpfeGVsLVFaRDhHUWUxOTdoQ28zWkJpazRoQUFDMWxFTFdNZEZMcjkxQVpuYzVHRkY1OEtPWUlvbzhyaU5PUG8?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-54737af9ec7e",
     "date": "July 26, 2026",
     "publishedISO": "2026-07-26T15:18:42+00:00",
@@ -1290,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Paramount Agrees to Pause Its Warner Bros. Merger WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Paramount Agrees to Pause Its Warner Bros. Merger wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount agrees to months-long delay of Warner Bros. merger Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "Paramount agrees to months-long delay of Warner Bros. merger latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NPR",
-    "summary": "Paramount says it will pause its Warner acquisition while legal challenges play out NPR",
+    "sourceName": "npr.org",
+    "summary": "Paramount says it will pause its Warner acquisition while legal challenges play out npr.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Forbes",
-    "summary": "Here’s Why Paramount’s Decision To Delay WBD Merger Could Cost It Over $1 Billion Forbes",
+    "sourceName": "forbes.com",
+    "summary": "Here’s Why Paramount’s Decision To Delay WBD Merger Could Cost It Over $1 Billion forbes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Paramount to delay Warner Bros. merger until as late as June 2027 CBS News",
+    "sourceName": "cbsnews.com",
+    "summary": "Paramount to delay Warner Bros. merger until as late as June 2027 cbsnews.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC News",
-    "summary": "Paramount Skydance agrees to halt Warner Bros. merger until as late as next June NBC News",
+    "sourceName": "nbcnews.com",
+    "summary": "Paramount Skydance agrees to halt Warner Bros. merger until as late as next June nbcnews.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Guardian",
-    "summary": "Paramount agrees to pause $110bn Warner Bros merger as case plays out The Guardian",
+    "sourceName": "theguardian.com",
+    "summary": "Paramount agrees to pause $110bn Warner Bros merger as case plays out theguardian.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Paramount agrees to delay WBD acquisition to as late as June 2027 amid legal challenge cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,6 +1801,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c9aadc8fe1dd",
+    "date": "July 24, 2026",
+    "publishedISO": "2026-07-24T19:48:54+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount agrees to delay Warner Bros. Discovery takeover for months",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "cnn.com",
+    "summary": "Paramount agrees to delay Warner Bros. Discovery takeover for months cnn.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWd0NHlHdDNYNW5IZksyS1NIUlBEV2Fuck03MmswT1ZYMEM2NjRPcnJsZ1IzYnhlRjRvSHJjRkRTOFRjNFVGNldrelZ6R0tpSE5zSGFFSkhKYmFrMDFlcGlxUlM3Tzg4N1d4THhIVVFmZzJJcmVIdThyalpBSk9CakhQVVNlZXd5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6e224006c02d",
     "date": "July 24, 2026",
     "publishedISO": "2026-07-24T19:40:00+00:00",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial Variety",
+    "sourceName": "variety.com",
+    "summary": "Paramount Agrees to Postpone Warner Bros. Merger Until After Antitrust Trial variety.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Agrees to Delay Warner Bros. Merger for Months The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Paramount Agrees to Delay Warner Bros. Merger for Months nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Commerzbank chairman says bank is ready for takeover talks with UniCredit Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Commerzbank chairman says bank is ready for takeover talks with UniCredit reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Musk keeps Tesla-SpaceX merger speculation alive, cites growing overlap reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
