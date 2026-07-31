@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-91b253974592",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T01:00:00+00:00",
+    "publishedISO": "2026-07-31T10:56:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-732a0cc36ff3",
+    "date": "July 29, 2026",
+    "publishedISO": "2026-07-29T15:00:07+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | Could Jettisoning CNN Save the Paramount Merger?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "Opinion | Could Jettisoning CNN Save the Paramount Merger? The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczd6cm1tQkJ3LUZyV0R3MUdBSkdMYzFHbl8wMVVtcE44Y2l4SlR4T1JLN0loM2poWl9MZ3NBWjI5endDeUV2Ykt0RGJ6OWtLVXpCNXgxVnRoWjhGd3dJaklrbFYwd1QyRmNpQmxHaFhvX0Rmb0dlY29Vdm1xcFVNVG9mWUlhaWlkOEtpRHhzUTdvQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ccef71a80da9",
     "date": "July 29, 2026",
     "publishedISO": "2026-07-29T13:59:38+00:00",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AT&T",
-    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T",
+    "sourceName": "about.att.com",
+    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar about.att.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-7f989352ca45",
+    "date": "July 28, 2026",
+    "publishedISO": "2026-07-28T08:31:39+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Indiana Capital Chronicle",
+    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells Indiana Capital Chronicle",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVHhBa1lpSWNQYnpRbm9WZlZnekdLWjB1cktuOFJhWkNaNHc3LWNwZnFIN0Y0ZXBsaU94Vy1pTVBBcFUzak9XNDZGMFN1d2x5LUhDRi13YzNmOHFCbXR0eEdleUlpUzVZTkJmSTdmRGtvaVh4ZzlqS1VSTktQSEhtNHdGQUZHS1REcEJLVFZfS20xa1I1UEEzUWtscGJaOEZNS2hjQVFWWE9uemxSblBUajRnVW9SOERBNGllQmZDWTJoVUhsV3BHV2FYay1MWm1LZ1d6cUNDR2ZVclpRN3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-624bfd18f63b",
     "date": "July 27, 2026",
     "publishedISO": "2026-07-27T22:47:06+00:00",
@@ -765,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "federalnewsnetwork.com",
-    "summary": "House NDAA proposes major acquisition workforce reforms federalnewsnetwork.com",
+    "sourceName": "Federal News Network",
+    "summary": "House NDAA proposes major acquisition workforce reforms Federal News Network",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -934,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmZLb0g4UEE2Q3FuS3I5dy1hTlUxZ1VjVWYydWNvUHlHS1UtbTNyQ2IxbHVnY0t4UVVOUlRTSEh4N0NRZ29EMFdScTZ2THV4SnlRRlhTOEhIX2JCYkh2U0FsWTlQandDc2ZXX2oyd0xZZGstcDlCNmtZTlhMbGlwSmNrN2RNcng0WERyT1Z3bVNmaTZObUpXNy1nd3ZOQXREM3oxaXdJWUxnSUlYcE9v?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8820d750b50f",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T13:28:00+00:00",
-    "acquirer": "American Industrial Partners Completes",
-    "target": "Avanos Medical, Inc.",
-    "headline": "American Industrial Partners Completes Acquisition of Avanos Medical, Inc.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "American Industrial Partners Completes Acquisition of Avanos Medical, Inc. PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOQzlicjMzTFZBS1Q4WTNnaDFJRHFfMUJlNDIyWlM1ZTRwNFcxMHFyNEFVUktwNkhVUmhxdDNXemVGTEZfUWlUVEd1OEcyOFVvV2FPSnZCblAxb0JkdERQQ1NKTHk2Y3lheUctanVGRVV1T0dkN29NNTdGSHhCem82QWZSM0FDQ3VHWVk1djUyei1iWmdQc3J2NWNZUDJ4UlBZaENiWWxjZnVmckJfVlk5TVJaYWszTnJFNThvRUdDbWZCUEZYT2sw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Paramount agrees to months-long delay of Warner Bros. merger latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount agrees to months-long delay of Warner Bros. merger Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1834,81 +1909,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE54V3Y1eWF1WW5OVTVEOWZrdTVnVFpGSHBOWkdwWU4tc2ZHMTI2QnJyQnVJQ1FRTFNrcUE5UnNzdzlCVmxuWktrM0FCNnM4Q0w3dHhrYWFPVlN3eHVMZjFzUUdnWnNDTkZJLTFUdVQzS1rSAXZBVV95cUxQNDFHUDlkRVZKQVF0NW8xZjZCRXhTeGMzYU9GSV9veXpxN3ViNU44OGU5OTljZlJIVzZQTHVfNmxKU2ZlaDlhVmRMTklYaFFvbk1Vam5ROWxONXA1cFBLVnN0c0VMWXZqOGpkX0NhUTBuMEdxLWdn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c9aadc8fe1dd",
-    "date": "July 24, 2026",
-    "publishedISO": "2026-07-24T19:48:54+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount agrees to delay Warner Bros. Discovery takeover for months",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNN",
-    "summary": "Paramount agrees to delay Warner Bros. Discovery takeover for months CNN",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNUWd0NHlHdDNYNW5IZksyS1NIUlBEV2Fuck03MmswT1ZYMEM2NjRPcnJsZ1IzYnhlRjRvSHJjRkRTOFRjNFVGNldrelZ6R0tpSE5zSGFFSkhKYmFrMDFlcGlxUlM3Tzg4N1d4THhIVVFmZzJJcmVIdThyalpBSk9CakhQVVNlZXd5?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
