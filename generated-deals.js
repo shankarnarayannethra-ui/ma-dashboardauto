@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch ESPN",
+    "sourceName": "espn.com",
+    "summary": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1djcjZKN3NFSzREcmVFdFFLSGtwU2FvNzZNQ3NuX09aVDB5RFluaVpYWUdsN2FHMWxMdl9aNG90SEFSSi11T2ttbW5lS1FObDZSRnlJQ1lMLXVLR1FOcnpNWGVHQ0VvOFNHYW5wYWhhSEw5QUxlWkl2SmJVdnNsN3hucUdvT1RtcHhCR2RvNmtHNUxyZGpxYzVaR29CcUpWTHlKTkpTNFlaUFVxdjZha1VsUzBVNHZXM3h3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-77e126f8d70f",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T09:49:00+00:00",
+    "acquirer": "eBay completes $1.2bn",
+    "target": "fashion resale platform Depop",
+    "headline": "eBay completes $1.2bn acquisition of fashion resale platform Depop",
+    "valueBillions": 1.2,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "finance.yahoo.com",
+    "summary": "eBay completes $1.2bn acquisition of fashion resale platform Depop finance.yahoo.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW4tdWpFSE5nRDJFNXkyQ3BNZFNtMVIyWEdJOVhTY1ZOOW5nNGItMXBtTVdNWklIYTIxZFRUaVJlbmY5aEZTX2kwME51SzEzMUJMQ3pkUmhVaW04cFdGOHVsWTR5SWxDbnIyRDVGOVkwN1FfdWJNMW9SUWVlLTQ5SDFHSUJ5UWdVV3pWN2xKX01UYVdMRk1PU1hUdGowUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
+    "sourceName": "espn.com",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1051,81 +1126,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c9a15c6a97c1",
-    "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T23:20:52+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "New York City FC Acquires Forward Luighi Hanri Sousa Santos on Loan from SE Palmeiras",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "New York City FC",
-    "summary": "New York City FC Acquires Forward Luighi Hanri Sousa Santos on Loan from SE Palmeiras New York City FC",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZ2ZOVmNhWG9NX2Rrai1FcmZuWnFFZ1Y5RkJTeGFIWUg3LWRkX1Q2VndZX3lXZ3J1UmlvSTktbDdVQWR4NVhwYUZGR0s0R3l1cUg5WUNweG9DYnpkVEdGTHFTWFBzaUJpZ2ZCdmt2RHVTNG9QcXo2YlZ2M0dtSkpzRGExOXYteWxfNV9sbk5LZFV1cHY5Smt6QzFaUTA0N0dOOGFpcTN1V0VHYV9vZXRqX3p3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d83f5d33a7d4",
     "date": "July 28, 2026",
     "publishedISO": "2026-07-28T22:15:35+00:00",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "sourcenm.com",
-    "summary": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM sourcenm.com",
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM Source New Mexico",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround WSJ",
+    "sourceName": "wsj.com",
+    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "indianacapitalchronicle.com",
-    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells indianacapitalchronicle.com",
+    "sourceName": "Indiana Capital Chronicle",
+    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells Indiana Capital Chronicle",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Sources: Caldwell-Pope to join 76ers after Grizzlies buyout ESPN",
+    "sourceName": "espn.com",
+    "summary": "Sources: Caldwell-Pope to join 76ers after Grizzlies buyout espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
