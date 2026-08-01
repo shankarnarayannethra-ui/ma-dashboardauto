@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0e4bcf9a63f9",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T20:29:00+00:00",
+    "acquirer": "Tesla",
+    "target": "SpaceX",
+    "headline": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Barron's",
+    "summary": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off Barron's",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVDBmYkJ2cWh6bG41eEdvRnJnTTlWRWl0ZmdJdS1IV09hamZZX1VkZUYyN2ZpMGJ3LVhSNVFKT096Q1FsTlBCZ0JhVDZpVGh5Z0wzdWFKdHdmcGVuMTFYSzNUMzFUck9BSDZ2ZVZhX2ZxZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7501b1ab1703",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T20:26:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Oregon clears emergency merger of Willamette Valley hospitals",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "OregonLive.com",
+    "summary": "Oregon clears emergency merger of Willamette Valley hospitals OregonLive.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0tLNm05dWh5YnlrT0twVXRQZDZmNWYwZzVVN0VHcHNPSzVfU01yUkVHX1RvXzFJZWMzWmtFQVFXR3lmakg2dFdOV1U3d1BYaWtJZG9fNDBBMjVPNXhBRG9EazFremFsa3BNOGN4QlJmdk9pYmI3dHNuaURMRmdkYWdSTzlfcGZHQjBIYlhQWWh0emxCcGRHdjd5ZVZlN1hBUEpGNVdwM2hZMUlZ0gHAAUFVX3lxTFBIVXdjZDNPY01HQno0UkJOcy1Fd1RCQXF6MUdLVWFRX2xMRDRuN0YyTXc2UXRQaVU3Y0hMSDVJdEtkN3FHNHE4QzZ4bl9sdmJlWHBDWTR1YjdXV251UzFyaDhuZHFYTmFXWUlHdzhobmJYdVRydDlOMG1BT2c5dnc2NFFtMFY3bGM2TlAwcFllVnRoZ1FSTHlkdlhXank1aWs4QTZDa2xCVmp6VktWakdYMkRMU2Q2b0VIYTdod3hoOQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-72d76b69f987",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T19:53:00+00:00",
@@ -228,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-f68de4ea67de",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T05:30:00+00:00",
+    "publishedISO": "2026-07-31T05:45:00+00:00",
     "acquirer": "Regulators approve private equity",
     "target": "New Mexico Gas Co.",
     "headline": "Regulators approve private equity buyout of New Mexico Gas Co.",
@@ -451,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6361cdfcd412",
-    "date": "July 30, 2026",
-    "publishedISO": "2026-07-30T10:06:35+00:00",
-    "acquirer": "Thoma Bravo Completes",
-    "target": "padoa, a leading occupational healthtech platform in France | Thoma Bravo",
-    "headline": "Thoma Bravo Completes Acquisition of padoa, a leading occupational healthtech platform in France | Thoma Bravo",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Thoma Bravo",
-    "summary": "Thoma Bravo Completes Acquisition of padoa, a leading occupational healthtech platform in France | Thoma Bravo Thoma Bravo",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQSDFmQ1AwQXdrMHFTaW1CaUxCUTZjSHYzZC1JMnVqV25wNFNBb1lpM010dGhPdkM3amRfdVIybVAtZGQzcllCOGs1Rk1Ta3kwUTg2bU51eDVSX1h5Z01sU2VOMVdsM0hHSTd0QTlKaXVDQ0lWdkIwRl9WV3h1OTMxdWJ5VGpNNkxsSk9BOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f3d354d04c34",
     "date": "July 29, 2026",
     "publishedISO": "2026-07-29T15:00:07+00:00",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "Processa acquires Vidya for potential rival to Rhapsido fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "Processa acquires Vidya for potential rival to Rhapsido Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Indiana Capital Chronicle",
-    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells Indiana Capital Chronicle",
+    "sourceName": "indianacapitalchronicle.com",
+    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells indianacapitalchronicle.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1576,81 +1651,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-065f5574ed40",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T18:10:50+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "A Merger Closing Mystery",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "A Merger Closing Mystery Bloomberg.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNWkVGMkFyV0VBZlRVb3VmXzRBanlBdjNGd2V2aXpXeWNpdUUxaWpTTm5TNk1ISno2aERaTXowTDFBT3FCZnhlbk85T3VjR2RraV9sT20xZHRUVUlZRWZ3R0RnWTJ3c3dqM3dvSndoMnVOakh2dUhhWjF2S2RCQmdCRTR5MGppblFm?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a31430c9bdb1",
     "date": "July 27, 2026",
     "publishedISO": "2026-07-27T15:54:28+00:00",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Jim Cramer Says Kimberly-Clark’s Acquisition of Kenvue Creates a High-Margin Powerhouse finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
