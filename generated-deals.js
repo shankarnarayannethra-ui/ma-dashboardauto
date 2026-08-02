@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-d42505fbddd9",
-    "date": "August 1, 2026",
-    "publishedISO": "2026-08-01T16:54:00+00:00",
+    "id": "news-117cf0281823",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T22:04:36+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Driver, 3 passengers arrested after fleeing street takeover on I-75: FHP",
+    "headline": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wtsp.com",
-    "summary": "Driver, 3 passengers arrested after fleeing street takeover on I-75: FHP wtsp.com",
+    "sourceName": "Reuters",
+    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXRqTzZJaWNMbFViLTVfWVVVcWJ6NGZWVi04cHRhNHNudHNnakZOT05mSmtpbTRnZUppZHNDbXhlS0dBQjFIOEl2c1g4RHh6Tm1iclRTMHVaTEFFN0dJQ25YM3NPVG9aUm9fZms0dGFEWFNaUVZQby1Gd3lTZDJNYTkxUG5ENkg2aXVES250dFJ4YlpQOWU3Y1BCYTVFbC1nRkxWbVNQLVlERXZiY1ExRkRaaDRfbHhqLWxodU1mdjNhWGVXVElqOUVjcS12ak56VHhuS05PUTZVVkFNMVByLWRNZEE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdEclhjdWNoWWhaVmktWjFwdjZ2cFhVMXl4M2xScFpFS1VMOGJ0aVBRNzFRdVJndFpZTlBuTnlvZ2dzYnBoMTZYeThaMFhYY2JpYmFYeUFpYUNpTHh3X3NLZHlZbEZzM3FIakJieGw3OVdTSU5qSkczU0FqYzU4WWhhemVReC1Sd1JkUXhfTWFtVmZlaXozdjRiTnRCb283MVlad2VmSWVKdTF3SlpKT0xRRkgtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 1, 2026"
+        "date": "Jul 31, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-117cf0281823",
+    "id": "news-9b7d5883a27a",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T22:04:36+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan",
+    "publishedISO": "2026-07-31T21:46:29+00:00",
+    "acquirer": "FTC approves IonQ",
+    "target": "SkyWater semiconductor ‍foundry",
+    "headline": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan reuters.com",
+    "sourceName": "Reuters",
+    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdEclhjdWNoWWhaVmktWjFwdjZ2cFhVMXl4M2xScFpFS1VMOGJ0aVBRNzFRdVJndFpZTlBuTnlvZ2dzYnBoMTZYeThaMFhYY2JpYmFYeUFpYUNpTHh3X3NLZHlZbEZzM3FIakJieGw3OVdTSU5qSkczU0FqYzU4WWhhemVReC1Sd1JkUXhfTWFtVmZlaXozdjRiTnRCb283MVlad2VmSWVKdTF3SlpKT0xRRkgtUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0e4bcf9a63f9",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T20:29:00+00:00",
+    "acquirer": "Tesla",
+    "target": "SpaceX",
+    "headline": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Barron's",
+    "summary": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off Barron's",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVDBmYkJ2cWh6bG41eEdvRnJnTTlWRWl0ZmdJdS1IV09hamZZX1VkZUYyN2ZpMGJ3LVhSNVFKT096Q1FsTlBCZ0JhVDZpVGh5Z0wzdWFKdHdmcGVuMTFYSzNUMzFUck9BSDZ2ZVZhX2ZxZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows reuters.com",
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "foxbusiness.com",
-    "summary": "United reportedly approached Delta Air Lines about a potential merger foxbusiness.com",
+    "sourceName": "Fox Business",
+    "summary": "United reportedly approached Delta Air Lines about a potential merger Fox Business",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,81 +2134,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRENHZkRvSE1iaWtid1FFcVI3VnNfSkpwTWhVWHkxLVQzV0dRMHlWeE9HNlRWTzZwRGdYVVRCX1hQeUt4Z3hfcGhpenBqc1lEMTBaYjVQb2JZTF9VcTljbi13OVY1WHhSMDF2N29PMTc3X2JsNklrWEFGRzFuQXliUjBEbzZxTmMzXzlHbG5uSFFlTjE5MjcwbTZoNV9KQdIBowFBVV95cUxQbks2N2FnbGIxV0ZWNlFZM2hEckJtRHdpTFQwMWpjajZfcWFIWUEwVGRLQ2FEa0NhbmNWc29UaUgzb2xBX2dGNmk1M3pqYUtmcWpqRTloZVpTU3Q2NEdrcVFiQmo3RVdCcGZGYmNPWW8zSTdPVG4yam0xNC11SkF6VS1NaXBJVDVFaDEzVzhDRjBNRFU5c3ZFLTRTZ0s2NUtnN3V3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c63dae9f1dd",
-    "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T18:32:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "United quietly pursued a merger with Delta last year: report",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Crain's Chicago Business",
-    "summary": "United quietly pursued a merger with Delta last year: report Crain's Chicago Business",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQUUlXaUtvUF8zUTd3YkUyOGlNY1FSdUZtTG1sRDNTckRnYkJTaHoyVlRndzlnOEZURmprX2N1NW5Ed0QzQTdWN0hidkc5NXl2REpjb1ZxTjhkOEtNdE1acnpfeGVsLVFaRDhHUWUxOTdoQ28zWkJpazRoQUFDMWxFTFdNZEZMcjkxQVpuYzVHRkY1OEtPWUlvbzhyaU5PUG8?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
