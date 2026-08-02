@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-117cf0281823",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T22:04:36+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdEclhjdWNoWWhaVmktWjFwdjZ2cFhVMXl4M2xScFpFS1VMOGJ0aVBRNzFRdVJndFpZTlBuTnlvZ2dzYnBoMTZYeThaMFhYY2JpYmFYeUFpYUNpTHh3X3NLZHlZbEZzM3FIakJieGw3OVdTSU5qSkczU0FqYzU4WWhhemVReC1Sd1JkUXhfTWFtVmZlaXozdjRiTnRCb283MVlad2VmSWVKdTF3SlpKT0xRRkgtUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9b7d5883a27a",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T21:46:29+00:00",
@@ -301,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0410fadda1b2",
+    "id": "news-6636e24967bf",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T20:22:40+00:00",
+    "publishedISO": "2026-07-31T20:01:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "John Oliver Staying With 'Last Week Tonight' Amid Merger \"Denial\"",
+    "headline": "Santiam Hospital-Salem Health merger granted emergency approval by OHA",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "John Oliver Staying With 'Last Week Tonight' Amid Merger \"Denial\" The Hollywood Reporter",
+    "sourceName": "Statesman Journal",
+    "summary": "Santiam Hospital-Salem Health merger granted emergency approval by OHA Statesman Journal",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3QxSXRydFJ6R09mTWZtdWdsTXJXMk53LW1oM1FiRnlTQ25TdTAxM29MS3k4dVBla1gyT2JIaFhremRTdGRIWUlqWVBJOW8zS0lSalNnWTdDbGtOOGhBSmhYbjZJbGFYV1JUV2dYWTcxbEhSVjV3ZXBWTnE0eDBfcWVYbHlsVmtSQ2lDODFjcTVRcFpUNjhwS0pueDNXc0RkVXZIck94Vl9SQ0FWVDAtSUtsak0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNRnR0X3lSU250R2VJN2s5OVlLRVFKQ0xnaWZMbUJvNmtpZTE0UExEelk4cWxTTnhBelEyVkNXdlpxZHhIMUJGdlhYaEx2NVVaQWc0ZlpLeFEwR082and3X2VuU0Z6MFlLNm5vZnduSXNqQndJNU5PcTU0bFdURG16UHcxTnVKaDh0SXFTVGgtV3kxVVlaZG8wNkZXazBKNjJXTUJYci1pcXVlellDaElWM3NoU3RmMXlCOGhZcFVWOEd4blcyb09NckF3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nscale",
-    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform Nscale",
+    "sourceName": "nscale.com",
+    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform nscale.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1576,6 +1501,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-bc29326ca89b",
+    "date": "July 28, 2026",
+    "publishedISO": "2026-07-28T15:10:10+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "PayPal leaves the door open to a higher takeover offer following earnings beat",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TechCrunch",
+    "summary": "PayPal leaves the door open to a higher takeover offer following earnings beat TechCrunch",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHhkS0VKTk5wREdMTnhkRVc5b1pEdDlwYUZYdHc5NHdoV0NwOEZ0WXl0XzlvTE1DMERWVDdQRlNYNzVDcVdpbm5JcGI3QWNGRGdMbDdxdm9sR3R1UHVhRk5kbkNwektmc0lvbFpJMFVyVjZMb2xVRkEyZzlRbmd0bnVHQ1hYUXhTcUxEU0dySm9XVXB6U1V5OW1PekFiM1pVYjNEN0E1Sk16ZE5MeUhxalRzVQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fe5134d93bab",
     "date": "July 28, 2026",
     "publishedISO": "2026-07-28T14:20:00+00:00",
@@ -1689,6 +1689,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-573673e1b0d3",
+    "date": "July 27, 2026",
+    "publishedISO": "2026-07-27T23:52:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | A Setback for the MAGA Media Takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "Opinion | A Setback for the MAGA Media Takeover The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9NRlhGcEdTN01ZZXBJOXpiZ0hNQXVSeW80bmdjbTh4RGJHRDhwVUFQZDM1UWxYLXlIT1lUZHo5S1BscjZwbmxhSWRZTTh2RThuWXRvVHRyYWNDUHlFVkx5N2NTeGZDYmw0d3VWeUVPelo1SE9vckdJRXc4UQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 27, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1876,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a31430c9bdb1",
+    "id": "news-398f225fce2d",
     "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T15:54:28+00:00",
+    "publishedISO": "2026-07-27T15:07:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "NextEra on track to close Dominion merger by late 2027, executives say",
+    "headline": "Ellison Addresses Paramount-Warner Bros. Merger Delay in Staff Memo",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Utility Dive",
-    "summary": "NextEra on track to close Dominion merger by late 2027, executives say Utility Dive",
+    "sourceName": "Variety",
+    "summary": "Ellison Addresses Paramount-Warner Bros. Merger Delay in Staff Memo Variety",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1908,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRmZLb0g4UEE2Q3FuS3I5dy1hTlUxZ1VjVWYydWNvUHlHS1UtbTNyQ2IxbHVnY0t4UVVOUlRTSEh4N0NRZ29EMFdScTZ2THV4SnlRRlhTOEhIX2JCYkh2U0FsWTlQandDc2ZXX2oyd0xZZGstcDlCNmtZTlhMbGlwSmNrN2RNcng0WERyT1Z3bVNmaTZObUpXNy1nd3ZOQXREM3oxaXdJWUxnSUlYcE9v?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnptazdiei0wdTJoYW10RWc3QUktUkx3V3AweVZuTkVoSGhRaDdXTlRWTldybkVvTDRGUVZXY0hGMEhVMmkxQkxxVUlEeHYzd24yaFBBd2x2S3ZEa0pacmRmVF9WNGw3QXVDUmdjbUtUV1F5ekgzMkJ5ajFtU1RfSVBYam4wMW5RZFBiM3VXeVJrZ3IxbDd5T3M0aWJDNURCZHFpZ1dsa3Z0d1lMZVhSVjZQbEU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRENHZkRvSE1iaWtid1FFcVI3VnNfSkpwTWhVWHkxLVQzV0dRMHlWeE9HNlRWTzZwRGdYVVRCX1hQeUt4Z3hfcGhpenBqc1lEMTBaYjVQb2JZTF9VcTljbi13OVY1WHhSMDF2N29PMTc3X2JsNklrWEFGRzFuQXliUjBEbzZxTmMzXzlHbG5uSFFlTjE5MjcwbTZoNV9KQdIBowFBVV95cUxQbks2N2FnbGIxV0ZWNlFZM2hEckJtRHdpTFQwMWpjajZfcWFIWUEwVGRLQ2FEa0NhbmNWc29UaUgzb2xBX2dGNmk1M3pqYUtmcWpqRTloZVpTU3Q2NEdrcVFiQmo3RVdCcGZGYmNPWW8zSTdPVG4yam0xNC11SkF6VS1NaXBJVDVFaDEzVzhDRjBNRFU5c3ZFLTRTZ0s2NUtnN3V3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-54737af9ec7e",
-    "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T15:18:42+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 New York",
-    "summary": "3 arrested, 10 vehicles impounded after 'street takeover' on Long Island ABC7 New York",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNWhua3RSWkJRT2VZeGtQdjRBMS1ydmc0NWpmd0pxQjZJMkN6ZUlOdjc4NHNjeXJtMEljVGt6S2VuY3luQjc2R1VnWDhUemd6QzZiWnc3aF9TNUR1RDgxbEZsOC12NDQ5YXlocmVCTm1CLUhVaWYyZGluX05YaDc2MjVVOVFtdGpvbTh6X0plV1MxUmJ3QVRVVlNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
