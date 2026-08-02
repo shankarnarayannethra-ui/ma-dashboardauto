@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-d42505fbddd9",
+    "date": "August 1, 2026",
+    "publishedISO": "2026-08-01T16:54:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Driver, 3 passengers arrested after fleeing street takeover on I-75: FHP",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "wtsp.com",
+    "summary": "Driver, 3 passengers arrested after fleeing street takeover on I-75: FHP wtsp.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNQXRqTzZJaWNMbFViLTVfWVVVcWJ6NGZWVi04cHRhNHNudHNnakZOT05mSmtpbTRnZUppZHNDbXhlS0dBQjFIOEl2c1g4RHh6Tm1iclRTMHVaTEFFN0dJQ25YM3NPVG9aUm9fZms0dGFEWFNaUVZQby1Gd3lTZDJNYTkxUG5ENkg2aXVES250dFJ4YlpQOWU3Y1BCYTVFbC1nRkxWbVNQLVlERXZiY1ExRkRaaDRfbHhqLWxodU1mdjNhWGVXVElqOUVjcS12ak56VHhuS05PUTZVVkFNMVByLWRNZEE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0e4bcf9a63f9",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T20:29:00+00:00",
@@ -151,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-0410fadda1b2",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T20:22:40+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "John Oliver Staying With 'Last Week Tonight' Amid Merger \"Denial\"",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Hollywood Reporter",
+    "summary": "John Oliver Staying With 'Last Week Tonight' Amid Merger \"Denial\" The Hollywood Reporter",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOV3QxSXRydFJ6R09mTWZtdWdsTXJXMk53LW1oM1FiRnlTQ25TdTAxM29MS3k4dVBla1gyT2JIaFhremRTdGRIWUlqWVBJOW8zS0lSalNnWTdDbGtOOGhBSmhYbjZJbGFYV1JUV2dYWTcxbEhSVjV3ZXBWTnE0eDBfcWVYbHlsVmtSQ2lDODFjcTVRcFpUNjhwS0pueDNXc0RkVXZIck94Vl9SQ0FWVDAtSUtsak0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-72d76b69f987",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T19:53:00+00:00",
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "espn.com",
-    "summary": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch espn.com",
+    "sourceName": "ESPN",
+    "summary": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch ESPN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1djcjZKN3NFSzREcmVFdFFLSGtwU2FvNzZNQ3NuX09aVDB5RFluaVpYWUdsN2FHMWxMdl9aNG90SEFSSi11T2ttbW5lS1FObDZSRnlJQ1lMLXVLR1FOcnpNWGVHQ0VvOFNHYW5wYWhhSEw5QUxlWkl2SmJVdnNsN3hucUdvT1RtcHhCR2RvNmtHNUxyZGpxYzVaR29CcUpWTHlKTkpTNFlaUFVxdjZha1VsUzBVNHZXM3h3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-77e126f8d70f",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T09:49:00+00:00",
-    "acquirer": "eBay completes $1.2bn",
-    "target": "fashion resale platform Depop",
-    "headline": "eBay completes $1.2bn acquisition of fashion resale platform Depop",
-    "valueBillions": 1.2,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "finance.yahoo.com",
-    "summary": "eBay completes $1.2bn acquisition of fashion resale platform Depop finance.yahoo.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRW4tdWpFSE5nRDJFNXkyQ3BNZFNtMVIyWEdJOVhTY1ZOOW5nNGItMXBtTVdNWklIYTIxZFRUaVJlbmY5aEZTX2kwME51SzEzMUJMQ3pkUmhVaW04cFdGOHVsWTR5SWxDbnIyRDVGOVkwN1FfdWJNMW9SUWVlLTQ5SDFHSUJ5UWdVV3pWN2xKX01UYVdMRk1PU1hUdGowUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "espn.com",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
+    "sourceName": "ESPN",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows Reuters",
+    "sourceName": "reuters.com",
+    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,12 +1351,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b3ae530e33cd",
+    "id": "news-cc82dc7b8291",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T20:18:30+00:00",
+    "publishedISO": "2026-07-28T20:20:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "IonQ Receives Regulatory Approval for SkyWater Acquisition",
+    "headline": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "IonQ",
-    "summary": "IonQ Receives Regulatory Approval for SkyWater Acquisition IonQ",
+    "sourceName": "WSJ",
+    "summary": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREszQnZTSHVSOF96MFRUZUdxWWJqWVVLdURyNldvNEozaTQzT1RxQXd0b1VZSXBBR3RUZWU1WmU0RTl2NGxLTlJJWVBTbGFQYUx1amEzVWp1cjhCUlZZYW1teTBzd2Y0X0RXRlVBRWk5SUNXWF8wVldiakE3RndUREJXY1JyX0tFdjBOU3prODlQM2NTVW02N1ZNVUc0dk1HVnFzVXJLTFFmdw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEQ2TEVKb2JmTnprckVsMGRFN2czeFhwR2d1S3VPa3dDYjRzVV9fS0ZEQ09KUEJoLWUwQnpDUU9rWWs3WmM1TndVaF9ObXY1a29WQVRiY3FyRTIwemZocHV2eXhPYVI0M01Yei1Ja0xVRDV4WTNIQk9XY1BHQ1FqdmRwSEgxSXJhNjJ3eHhBMkotSXFBOS1LNDJUWGs4cEhuRDdnYmNjcWxVZVlvUUVwbA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround wsj.com",
+    "sourceName": "WSJ",
+    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Union Pacific, Norfolk Southern File Supplemental Information to STB on Merger WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-46a24475b11c",
-    "date": "July 25, 2026",
-    "publishedISO": "2026-07-25T21:55:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Sources: Caldwell-Pope to join 76ers after Grizzlies buyout",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "espn.com",
-    "summary": "Sources: Caldwell-Pope to join 76ers after Grizzlies buyout espn.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNb3VjTDUtSWFtZmRnSWh2dmVQQldvU1NhNGZGaGF2TzRGSl82WDV0bHJOWjRqblZXMXBBdzE1S1d1bzI4cWJUZkJHN1EtOVpaNXZsNHF2VEJMNzMya2h5UnYzd19WWExiakpkR2NkRUwyYlQ1cC1JZ0V4Z2x1QlZpV1ZBSnZaV1AzcXd0X2xiM3RmRF9WaG5zYUZn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 25, 2026"
       },
       {
         "stage": "Terms verified",
