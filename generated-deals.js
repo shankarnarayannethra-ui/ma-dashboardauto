@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0e4bcf9a63f9",
+    "id": "news-117cf0281823",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T20:29:00+00:00",
-    "acquirer": "Tesla",
-    "target": "SpaceX",
-    "headline": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off",
+    "publishedISO": "2026-07-31T22:04:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Barron's",
-    "summary": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off Barron's",
+    "sourceName": "reuters.com",
+    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVDBmYkJ2cWh6bG41eEdvRnJnTTlWRWl0ZmdJdS1IV09hamZZX1VkZUYyN2ZpMGJ3LVhSNVFKT096Q1FsTlBCZ0JhVDZpVGh5Z0wzdWFKdHdmcGVuMTFYSzNUMzFUck9BSDZ2ZVZhX2ZxZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYkdEclhjdWNoWWhaVmktWjFwdjZ2cFhVMXl4M2xScFpFS1VMOGJ0aVBRNzFRdVJndFpZTlBuTnlvZ2dzYnBoMTZYeThaMFhYY2JpYmFYeUFpYUNpTHh3X3NLZHlZbEZzM3FIakJieGw3OVdTSU5qSkczU0FqYzU4WWhhemVReC1Sd1JkUXhfTWFtVmZlaXozdjRiTnRCb283MVlad2VmSWVKdTF3SlpKT0xRRkgtUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fox Business",
-    "summary": "United reportedly approached Delta Air Lines about a potential merger Fox Business",
+    "sourceName": "foxbusiness.com",
+    "summary": "United reportedly approached Delta Air Lines about a potential merger foxbusiness.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
