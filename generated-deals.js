@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-9b7d5883a27a",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T21:46:29+00:00",
-    "acquirer": "FTC approves IonQ",
-    "target": "SkyWater semiconductor ‍foundry",
-    "headline": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
+    "id": "news-9cde9455b27d",
+    "date": "August 2, 2026",
+    "publishedISO": "2026-08-02T21:27:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AstraZeneca said to have explored Bristol Myers merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
+    "sourceName": "Fortune",
+    "summary": "AstraZeneca said to have explored Bristol Myers merger Fortune",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Jul 31, 2026"
+        "date": "Aug 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0e4bcf9a63f9",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T20:29:00+00:00",
-    "acquirer": "Tesla",
-    "target": "SpaceX",
-    "headline": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off",
+    "id": "news-75442c40a4ab",
+    "date": "August 2, 2026",
+    "publishedISO": "2026-08-02T21:14:32+00:00",
+    "acquirer": "AstraZeneca",
+    "target": "Bristol-Myers Squibb in talks over potential",
+    "headline": "AstraZeneca and Bristol-Myers Squibb in talks over potential merger - Report",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Barron's",
-    "summary": "Tesla and SpaceX Merger Speculation Heats Up and Elon Musk Tries to Cool It Off Barron's",
+    "sourceName": "finance.yahoo.com",
+    "summary": "AstraZeneca and Bristol-Myers Squibb in talks over potential merger - Report finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBzVDBmYkJ2cWh6bG41eEdvRnJnTTlWRWl0ZmdJdS1IV09hamZZX1VkZUYyN2ZpMGJ3LVhSNVFKT096Q1FsTlBCZ0JhVDZpVGh5Z0wzdWFKdHdmcGVuMTFYSzNUMzFUck9BSDZ2ZVZhX2ZxZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdC1XTkhHQ2F2bm9lV3E5OE5teFJ1bkFpZHRmWlAyVlZyQjRHdnVtZjQwY3dMUXpwYVBWS0xKblNsaGg1M1EzSFB0REE1MHB4Q2VTY2Utc0xnLUpSRWJzVHZDZFZON3B3ZGlXM3AwLVE5M2cyQVlXLU1GbDM4N2l6djZrbzJmWDFiempRN1hSa1pSOUhvNDc0LVQ1SDdYTm02?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9b7d5883a27a",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T21:46:29+00:00",
+    "acquirer": "FTC approves IonQ",
+    "target": "SkyWater semiconductor ‍foundry",
+    "headline": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,6 +676,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1b3e4d6bdf82",
+    "date": "July 30, 2026",
+    "publishedISO": "2026-07-30T17:43:45+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Film producers warn Paramount-Warner merger could restrict access to news archives",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbDh2TlVZTEN4OWYwSlNaNC1fcS16MWY2VTAxUHZWdGlVc2FCRkMtQ1JLQXNJaDlaekJVRWFyaGZlNTlEVEVuc2pIdzBpR2VzQ0ZiVjA3SzV5MjNwNlZsZkEySFAtQUxIakpfYkhUckdNODRjZ1RMOGhSNDVSWFlYN3MtVnFvNTVnc3lQU1ZXQVJrek9KMEJ5ZE5fUXJGNU42ajAzSEVhUUx4M0Vqd3RXMTAtQzB2OHEzOXJ6eXlBTWhfWG55dzBGajlFQ1NxREh3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fde4f1d230e0",
     "date": "July 30, 2026",
     "publishedISO": "2026-07-30T14:09:00+00:00",
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nscale.com",
-    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform nscale.com",
+    "sourceName": "Nscale",
+    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform Nscale",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -714,81 +864,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-403508205d67",
-    "date": "July 29, 2026",
-    "publishedISO": "2026-07-29T15:35:42+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "BNSF CEO assails new rail merger filing, says transcon will raise rates, prices",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FreightWaves",
-    "summary": "BNSF CEO assails new rail merger filing, says transcon will raise rates, prices FreightWaves",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORjNHNzhzYTNqeFhjaFVsVTE2dm9OVHVvY0FnMmFlYmNhQVhKLW0yR3o1dERpX3U3bXJnd3ZBWFJvdUxqVnFNQ0ZwYzkzYV9DQWU5WEtzNmdyLUREWlMzVEd5UXUteWlDOFF3NnNjWmhLSUIyRUdybWtxb0FtRWctRWFrV1lvc1lMU01CN2hTNXpITnhBa29JRDBZdnZfM1pPd2F3ampCQ2ZSQjVJTGM3MA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 29, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cc82dc7b8291",
+    "id": "news-b3ae530e33cd",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T20:20:00+00:00",
+    "publishedISO": "2026-07-28T20:18:30+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition",
+    "headline": "IonQ Receives Regulatory Approval for SkyWater Acquisition",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition WSJ",
+    "sourceName": "IonQ",
+    "summary": "IonQ Receives Regulatory Approval for SkyWater Acquisition IonQ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEQ2TEVKb2JmTnprckVsMGRFN2czeFhwR2d1S3VPa3dDYjRzVV9fS0ZEQ09KUEJoLWUwQnpDUU9rWWs3WmM1TndVaF9ObXY1a29WQVRiY3FyRTIwemZocHV2eXhPYVI0M01Yei1Ja0xVRDV4WTNIQk9XY1BHQ1FqdmRwSEgxSXJhNjJ3eHhBMkotSXFBOS1LNDJUWGs4cEhuRDdnYmNjcWxVZVlvUUVwbA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREszQnZTSHVSOF96MFRUZUdxWWJqWVVLdURyNldvNEozaTQzT1RxQXd0b1VZSXBBR3RUZWU1WmU0RTl2NGxLTlJJWVBTbGFQYUx1amEzVWp1cjhCUlZZYW1teTBzd2Y0X0RXRlVBRWk5SUNXWF8wVldiakE3RndUREJXY1JyX0tFdjBOU3prODlQM2NTVW02N1ZNVUc0dk1HVnFzVXJLTFFmdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-398f225fce2d",
+    "id": "news-6ca5dc5c15d8",
     "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T15:07:00+00:00",
+    "publishedISO": "2026-07-27T12:00:13+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Ellison Addresses Paramount-Warner Bros. Merger Delay in Staff Memo",
+    "headline": "Circle Acquires IBM Blockchain Patent Portfolio",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1965,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Ellison Addresses Paramount-Warner Bros. Merger Delay in Staff Memo Variety",
+    "sourceName": "Circle Internet Financial",
+    "summary": "Circle Acquires IBM Blockchain Patent Portfolio Circle Internet Financial",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNnptazdiei0wdTJoYW10RWc3QUktUkx3V3AweVZuTkVoSGhRaDdXTlRWTldybkVvTDRGUVZXY0hGMEhVMmkxQkxxVUlEeHYzd24yaFBBd2x2S3ZEa0pacmRmVF9WNGw3QXVDUmdjbUtUV1F5ekgzMkJ5ajFtU1RfSVBYam4wMW5RZFBiM3VXeVJrZ3IxbDd5T3M0aWJDNURCZHFpZ1dsa3Z0d1lMZVhSVjZQbEU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1hGVzdfS3YtVFNOcE1Yc042dlptaVktalhwZ1A5WVc2UnhETktUNFBHVGg4aHVnVVUtSWxlWHlQLV9zLTNhUENTTnBhQS11UUtNQW9WbWd0MGRZaUtadWZJTEc3eGRza1RGMTRJZmtmWXNKa25GbGNUYmNreTlPUEFGcWdsdzQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6ca5dc5c15d8",
+    "id": "news-c94148a07936",
     "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T12:00:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Circle Acquires IBM Blockchain Patent Portfolio",
+    "publishedISO": "2026-07-27T11:15:00+00:00",
+    "acquirer": "TransDigm Announces",
+    "target": "Prince & Izant",
+    "headline": "TransDigm Announces Acquisition of Prince & Izant",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Circle Internet Financial",
-    "summary": "Circle Acquires IBM Blockchain Patent Portfolio Circle Internet Financial",
+    "sourceName": "PR Newswire",
+    "summary": "TransDigm Announces Acquisition of Prince & Izant PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1hGVzdfS3YtVFNOcE1Yc042dlptaVktalhwZ1A5WVc2UnhETktUNFBHVGg4aHVnVVUtSWxlWHlQLV9zLTNhUENTTnBhQS11UUtNQW9WbWd0MGRZaUtadWZJTEc3eGRza1RGMTRJZmtmWXNKa25GbGNUYmNreTlPUEFGcWdsdzQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWRSdWphWFdGQ29Qd191RXkwYU9kcjdqclBjY0hYYV9LcGxycElCLVhzYjNhVWJ6SjExWEVNalBaTWliYkZuSFRoX0N1LWVSWUxFcF9nSk1lcWpsalk0YmhydUlneGFtcG50QXNNbFVTMnBwUC1fYlo3OE9Rd0pESWdOcUp0cEVzRzNJS0RYd3ZKU3RqQU5BeGJPZWdWd2ZpNTRLZXFYUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-afc4f886dd7f",
-    "date": "July 26, 2026",
-    "publishedISO": "2026-07-26T20:34:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "United reportedly approached Delta Air Lines about a potential merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fox Business",
-    "summary": "United reportedly approached Delta Air Lines about a potential merger Fox Business",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRENHZkRvSE1iaWtid1FFcVI3VnNfSkpwTWhVWHkxLVQzV0dRMHlWeE9HNlRWTzZwRGdYVVRCX1hQeUt4Z3hfcGhpenBqc1lEMTBaYjVQb2JZTF9VcTljbi13OVY1WHhSMDF2N29PMTc3X2JsNklrWEFGRzFuQXliUjBEbzZxTmMzXzlHbG5uSFFlTjE5MjcwbTZoNV9KQdIBowFBVV95cUxQbks2N2FnbGIxV0ZWNlFZM2hEckJtRHdpTFQwMWpjajZfcWFIWUEwVGRLQ2FEa0NhbmNWc29UaUgzb2xBX2dGNmk1M3pqYUtmcWpqRTloZVpTU3Q2NEdrcVFiQmo3RVdCcGZGYmNPWW8zSTdPVG4yam0xNC11SkF6VS1NaXBJVDVFaDEzVzhDRjBNRFU5c3ZFLTRTZ0s2NUtnN3V3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 26, 2026"
       },
       {
         "stage": "Terms verified",
