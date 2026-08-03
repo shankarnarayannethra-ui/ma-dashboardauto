@@ -1,13 +1,238 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-5338ea3294f5",
+    "id": "news-83a5b6c91c74",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T14:07:19+00:00",
+    "acquirer": "AstraZeneca",
+    "target": "Bristol Myers Squibb Held",
+    "headline": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Pharmaceutical Executive",
+    "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report Pharmaceutical Executive",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPOGZGTDU5b3ZOdTlKVDlUd3o2VUtsM0xXT1ljNUZYM1hzakRFaVFLYnBIeXcwT2JaajdVcmU4bTQwam9zTDlVOFJNVkoyWlBOSVZ4alVSS2RfSmR2b2FCOW9lbEhjMDI0QWFrdl9ORGthUnlFejBiZ3JqVmd0bFdtZUJZTUJWdkY4MW0wTDNMTmhXUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a0114d2c0962",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T11:26:02+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "BioSpace",
+    "summary": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever BioSpace",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFVnZDJJNjBNb3ZvUFBkWkFBWU1iX2djbWlYc1pBaWhpN2ExUWxTZXZwWENBaTNNN1NmRk1FLVJPSDZTUXE2UXJVMWVIZXFBMjVxYkNCLXVVVkVldDZNYVRqTkVaN3lXZXl4b3VLX0hMVUZ4Y1YyWGZ2WlhUUGo2YmxDaWZyTnNWUnNwQkd2MGlES0h2ZzduMHROeVBYbUk4dmZJblBuQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e9cc436df65d",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T09:55:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AstraZeneca Shares Drop, Bristol Myers Squibb’s Climb After Merger Talks Reports",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "AstraZeneca Shares Drop, Bristol Myers Squibb’s Climb After Merger Talks Reports WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekYwV1hCemJVVnJJa3BYa1k4ZjNjNURUSnhNYjE0TDNBRWhxTnEyVFVzM2hkQTQ1R1RQQzc3NmdJOXNqSHFkbVI1UnRYWThEeXc2eWpldUNOay1mMG1MQktFbW94aGZxajJjVEJsU2pJSUwzWFhTcDl2RjlzdnpmejQzNVVfV2JDRTZZa0o4UnFvZ1pyTng2NjNjdlY2c0cxcTJLN2JnakplU1Zkb0szQnl6VkdHekZJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-eff269152a06",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T07:17:39+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb",
-    "valueBillions": 400.0,
+    "headline": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -16,7 +241,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNBC",
-    "summary": "AstraZeneca shares drop 7% after report on $400 billion merger talks with Bristol Myers Squibb CNBC",
+    "summary": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed' CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -76,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f9cbbfe6116f",
+    "id": "news-e29461d5caef",
     "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T04:16:55+00:00",
+    "publishedISO": "2026-08-03T06:54:34+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca, BMS reportedly in $400B merger talks",
+    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FirstWord Pharma",
-    "summary": "AstraZeneca, BMS reportedly in $400B merger talks FirstWord Pharma",
+    "sourceName": "TotalEnergies.com",
+    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +333,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dVlZUVFfM3lLdldLdDFJaE1pSng1X0dkOWRJQU80WmVPdWJwbjUxcl9qY05OeUtzc3pJRHBjeVcyRDNDaXBpeDVaLUNlWTNraGtv?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e0cfafde521c",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T04:25:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Pharma",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRwUjBMak9qSGt2S0JZMkdZWjJjOUhnYzVsNVVESngySHJ3ZUpFanhEeFZHWUktc2k5amdOVnU5SUZKTUVuZGNQQkVESWdNQkVMVUp4cGdxTkZRRHYySWJ2YmFCVnB6SEQxRUpndHFZZnVmTE9oYzBHVWJYUFJqZ2xTTzVLa0FRTUVZZzlERXR0am05TVFLUw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -189,156 +489,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d4137c2588f2",
-    "date": "August 2, 2026",
-    "publishedISO": "2026-08-02T21:14:32+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdC1XTkhHQ2F2bm9lV3E5OE5teFJ1bkFpZHRmWlAyVlZyQjRHdnVtZjQwY3dMUXpwYVBWS0xKblNsaGg1M1EzSFB0REE1MHB4Q2VTY2Utc0xnLUpSRWJzVHZDZFZON3B3ZGlXM3AwLVE5M2cyQVlXLU1GbDM4N2l6djZrbzJmWDFiempRN1hSa1pSOUhvNDc0LVQ1SDdYTm02?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9b7d5883a27a",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T21:46:29+00:00",
-    "acquirer": "FTC approves IonQ",
-    "target": "SkyWater semiconductor ‍foundry",
-    "headline": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTGZha29mNzNPN2tRYzd5dVNJaDNJMVUzdzhWZnMwZUVpQjhWSHh1dnh1bHlJWE02TXJ4UHA3M25RWW1EZ0tzTHY2a3VpWWtLV0FWUjlieGtnX1ZjTkNBak1VM0ltaVhwRFhORloxTVlYajRyN0ZiRVo1cWprNkM0WTEtNE5ielpYNDl1NHBDYmstX3VqblktSDROTkF2U0pzaFROQm9RRWlVcjRfbHFpamYxaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
       },
       {
         "stage": "Terms verified",
@@ -901,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1b3e4d6bdf82",
+    "date": "July 30, 2026",
+    "publishedISO": "2026-07-30T17:43:45+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Film producers warn Paramount-Warner merger could restrict access to news archives",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbDh2TlVZTEN4OWYwSlNaNC1fcS16MWY2VTAxUHZWdGlVc2FCRkMtQ1JLQXNJaDlaekJVRWFyaGZlNTlEVEVuc2pIdzBpR2VzQ0ZiVjA3SzV5MjNwNlZsZkEySFAtQUxIakpfYkhUckdNODRjZ1RMOGhSNDVSWFlYN3MtVnFvNTVnc3lQU1ZXQVJrek9KMEJ5ZE5fUXJGNU42ajAzSEVhUUx4M0Vqd3RXMTAtQzB2OHEzOXJ6eXlBTWhfWG55dzBGajlFQ1NxREh3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fde4f1d230e0",
     "date": "July 30, 2026",
     "publishedISO": "2026-07-30T14:09:00+00:00",
@@ -1365,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "Once high-flying PayPal becomes a takeover target as it attempts a turnaround latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPUUtaTGlFMWxmNFVuVDAzbmtfcVJnOXd5X2lLOHMwWmNZM09md193cEVLbEVXNDhsUjlaYzR4bGEtVjlmdHd4eW9qWG1Id0g2ak9PeXRLY19aXzJ6a1JRT2g2UTJZVGJQd2tIN1Q4alZfbk5oUTZDbGtIcHdWXzQ0TW5KYWRUSUc4RHNJMkJzVzVDSVBUUFdQRXdHYTQ5V1E5SktsVkN6RHhqTlFvU2tqSEZpbkVVaGxhRjdrRTh6eVBEc3M?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6ca5dc5c15d8",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T12:00:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Circle Acquires IBM Blockchain Patent Portfolio",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Circle Internet Financial",
-    "summary": "Circle Acquires IBM Blockchain Patent Portfolio Circle Internet Financial",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNU1hGVzdfS3YtVFNOcE1Yc042dlptaVktalhwZ1A5WVc2UnhETktUNFBHVGg4aHVnVVUtSWxlWHlQLV9zLTNhUENTTnBhQS11UUtNQW9WbWd0MGRZaUtadWZJTEc3eGRza1RGMTRJZmtmWXNKa25GbGNUYmNreTlPUEFGcWdsdzQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c94148a07936",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T11:15:00+00:00",
-    "acquirer": "TransDigm Announces",
-    "target": "Prince & Izant",
-    "headline": "TransDigm Announces Acquisition of Prince & Izant",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "TransDigm Announces Acquisition of Prince & Izant PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPcWRSdWphWFdGQ29Qd191RXkwYU9kcjdqclBjY0hYYV9LcGxycElCLVhzYjNhVWJ6SjExWEVNalBaTWliYkZuSFRoX0N1LWVSWUxFcF9nSk1lcWpsalk0YmhydUlneGFtcG50QXNNbFVTMnBwUC1fYlo3OE9Rd0pESWdOcUp0cEVzRzNJS0RYd3ZKU3RqQU5BeGJPZWdWd2ZpNTRLZXFYUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-cbfa924807cd",
-    "date": "July 27, 2026",
-    "publishedISO": "2026-07-27T10:08:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "Argenx acquires Forte for $2.2B to get hands on phase 2-stage vitiligo drug Fierce Biotech",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPay1YdGdFTkNIN1RzQ1h6YWQ4bWU4NUVsVWxvYUV1RnpNLTZ2c29aSTVxRjV1SXBXYnVHajF5UHBwREVjakFvbVh2dklYSVJxZTFVc2l1dlZUa3VQMkR6Wk03dmZKZ2xiVVFqQnh5NzlTMkdKX21LS3h5ejNmVEoxYXgzYm5IcXhRekxKbFBqSTVha3QwZnVXcTJ3ZkpfSWo3dXBN?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
