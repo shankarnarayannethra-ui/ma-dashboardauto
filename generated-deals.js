@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-26813da768ab",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T18:43:06+00:00",
+    "id": "news-1efb0ccf244d",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T08:48:45+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal",
+    "headline": "AstraZeneca shares slump after $400bn BMS merger rumours",
     "valueBillions": 400.0,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "AstraZeneca investors balk at prospect of $400 billion Bristol Myers pharma deal Reuters",
+    "sourceName": "Pharmaceutical Technology",
+    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours Pharmaceutical Technology",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPMzhDZ2Y1UkxQTnZCTjg1NHdXUGZBb2Q3d3ppcnZEbWFEY1JJRWZLU0RHd1N3eDRDOVRIUXMycjdyWDNzR2pDY1ZPYXg0cFlUUWNZRWJadkt1Sld3VzZCVjN6YW1zaE1aTUt0U2x6S3p2bTRQd3dMMXc0cDhUcjJERlhyRF80YTF5My1qRmVGSU5kM3Z6bTdUcTJlS2R4TjkwM3RvdXk4eXdkYVhILWdqTS1GZlZtZ0dTZHZUMVZ5Mkk4QnI1U0lyQm1acVBfaHc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVZEcXV5RDVubmFtbDJCd0M0SXJUQW9mcXRBZ2poZEFhTTY5YmFPTHZ5aHdlODJxUjloWG5EcThyT3hpMjhRX0hMcHhCdE1kUFlrMGQ2SklWcG8xYnVRaEFod0V2eTJ6OUg4dU4xU0JlaTRfRm9KM3dfWGNMRm15YTFIVllFR1ZqOEk1V3FRYU1uWHJMVU1wOG9rRTdRaDdmcFc0bjhn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 3, 2026"
+        "date": "Aug 4, 2026"
       },
       {
         "stage": "Terms verified",
@@ -376,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e29461d5caef",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T06:54:34+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TotalEnergies.com",
-    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e0cfafde521c",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T04:25:35+00:00",
@@ -465,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercepharma.com",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea fiercepharma.com",
+    "sourceName": "Fierce Pharma",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -559,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d4137c2588f2",
+    "date": "August 2, 2026",
+    "publishedISO": "2026-08-02T21:14:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdC1XTkhHQ2F2bm9lV3E5OE5teFJ1bkFpZHRmWlAyVlZyQjRHdnVtZjQwY3dMUXpwYVBWS0xKblNsaGg1M1EzSFB0REE1MHB4Q2VTY2Utc0xnLUpSRWJzVHZDZFZON3B3ZGlXM3AwLVE5M2cyQVlXLU1GbDM4N2l6djZrbzJmWDFiempRN1hSa1pSOUhvNDc0LVQ1SDdYTm02?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
+    "sourceName": "espn.com",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "Processa acquires Vidya for potential rival to Rhapsido Fierce Biotech",
+    "sourceName": "fiercebiotech.com",
+    "summary": "Processa acquires Vidya for potential rival to Rhapsido fiercebiotech.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
+    "sourceName": "qualcomm.com",
+    "summary": "Qualcomm Completes Acquisition of Modular qualcomm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fe5134d93bab",
+    "id": "news-bc29326ca89b",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T14:20:00+00:00",
+    "publishedISO": "2026-07-28T15:10:10+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "PayPal Is Open to Buyout, but Focused on Turnaround",
+    "headline": "PayPal leaves the door open to a higher takeover offer following earnings beat",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround WSJ",
+    "sourceName": "TechCrunch",
+    "summary": "PayPal leaves the door open to a higher takeover offer following earnings beat TechCrunch",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXdxVGdhcnhmNFlPSnlPU08taGZNdlp4cjh6bzlFak1yN083QjI4X0J5YzBwWC1yZ1RGSTVWMUhBUDBrTE95dVVVMVRuTXRfaDZaLVRmN0kxT21nVWZ2M1d2SnJGWmNkRFVqSVUyblVMQlNWQzBsLURONkhFdUR5d0hUcHJSMzYwSlFiSzVaaW9tVVdZNGwzUm5DUWNaNTFhR2FXWG11N3VuUjVRa2licEFRWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHhkS0VKTk5wREdMTnhkRVc5b1pEdDlwYUZYdHc5NHdoV0NwOEZ0WXl0XzlvTE1DMERWVDdQRlNYNzVDcVdpbm5JcGI3QWNGRGdMbDdxdm9sR3R1UHVhRk5kbkNwektmc0lvbFpJMFVyVjZMb2xVRkEyZzlRbmd0bnVHQ1hYUXhTcUxEU0dySm9XVXB6U1V5OW1PekFiM1pVYjNEN0E1Sk16ZE5MeUhxalRzVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7f989352ca45",
+    "id": "news-fe5134d93bab",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T08:31:39+00:00",
+    "publishedISO": "2026-07-28T14:20:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells",
+    "headline": "PayPal Is Open to Buyout, but Focused on Turnaround",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Indiana Capital Chronicle",
-    "summary": "Indiana preparing federal takeover application, regulations for controversial carbon storage wells Indiana Capital Chronicle",
+    "sourceName": "WSJ",
+    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxNVHhBa1lpSWNQYnpRbm9WZlZnekdLWjB1cktuOFJhWkNaNHc3LWNwZnFIN0Y0ZXBsaU94Vy1pTVBBcFUzak9XNDZGMFN1d2x5LUhDRi13YzNmOHFCbXR0eEdleUlpUzVZTkJmSTdmRGtvaVh4ZzlqS1VSTktQSEhtNHdGQUZHS1REcEJLVFZfS20xa1I1UEEzUWtscGJaOEZNS2hjQVFWWE9uemxSblBUajRnVW9SOERBNGllQmZDWTJoVUhsV3BHV2FYay1MWm1LZ1d6cUNDR2ZVclpRN3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXdxVGdhcnhmNFlPSnlPU08taGZNdlp4cjh6bzlFak1yN083QjI4X0J5YzBwWC1yZ1RGSTVWMUhBUDBrTE95dVVVMVRuTXRfaDZaLVRmN0kxT21nVWZ2M1d2SnJGWmNkRFVqSVUyblVMQlNWQzBsLURONkhFdUR5d0hUcHJSMzYwSlFiSzVaaW9tVVdZNGwzUm5DUWNaNTFhR2FXWG11N3VuUjVRa2licEFRWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
