@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-5341bca578ef",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T15:45:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxORi1DRjNPSDg1UmFoYnJYQ0VWamF2QmdLVXNrdzk2c0FUS3RkQWU0WkhIUHdCNGlNckMyRlM5SEs4S2hQWlhLUFNGcjU3OXM4bTlxckRGRDRQZUZydldJMnJXVUprczJFU0dGbUVIeWVCdjMya0dVa0RBREJJSDNiUVRSYUg3NGEtbTk3VTljcTVfNTJoRmJEdWxXLXJJTjA5dnNVV3RyTTZOT0hoa3JRS29aV2syOExfcVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7771e83ff53e",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T10:32:16+00:00",
@@ -34,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmNHZ3ZwSG5BOTZwU2NsTGYxYUhxbmtQdUl5MlFOMzNMd1J0Z0dYYkJ6d0dQam9nTWNRMHpfVnFDeWR2QWxaTE9KSzdNeDhXQTJwdm8wX1NNdjd3ZWJoMWNleG96SlJSUmlhbWJ1cTlCZnNDZHpoQ3JmbnJpTlg2VTM3ZUxyMU5LdUdUaUxuUXg4NDZ3RTBKNlJ3TTIzRHdDRXZoQmZXNS1iR19GOEZwX2EyMjNkSi13YjFHRklIUjJMczlESGpFUmZfRWJyQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1efb0ccf244d",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T08:57:27+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AstraZeneca shares slump after $400bn BMS merger rumours",
+    "valueBillions": 400.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Pharmaceutical Technology",
+    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours Pharmaceutical Technology",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVZEcXV5RDVubmFtbDJCd0M0SXJUQW9mcXRBZ2poZEFhTTY5YmFPTHZ5aHdlODJxUjloWG5EcThyT3hpMjhRX0hMcHhCdE1kUFlrMGQ2SklWcG8xYnVRaEFod0V2eTJ6OUg4dU4xU0JlaTRfRm9KM3dfWGNMRm15YTFIVllFR1ZqOEk1V3FRYU1uWHJMVU1wOG9rRTdRaDdmcFc0bjhn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -165,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "pharmexec.com",
-    "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report pharmexec.com",
+    "sourceName": "Pharmaceutical Executive",
+    "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report Pharmaceutical Executive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e0cfafde521c",
+    "id": "news-e29461d5caef",
     "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T04:25:35+00:00",
+    "publishedISO": "2026-08-03T06:54:34+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea",
+    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
+    "sourceName": "TotalEnergies.com",
+    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRwUjBMak9qSGt2S0JZMkdZWjJjOUhnYzVsNVVESngySHJ3ZUpFanhEeFZHWUktc2k5amdOVnU5SUZKTUVuZGNQQkVESWdNQkVMVUp4cGdxTkZRRHYySWJ2YmFCVnB6SEQxRUpndHFZZnVmTE9oYzBHVWJYUFJqZ2xTTzVLa0FRTUVZZzlERXR0am05TVFLUw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f9cbbfe6116f",
+    "id": "news-e0cfafde521c",
     "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T04:16:55+00:00",
+    "publishedISO": "2026-08-03T04:25:35+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca, BMS reportedly in $400B merger talks",
+    "headline": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FirstWord Pharma",
-    "summary": "AstraZeneca, BMS reportedly in $400B merger talks FirstWord Pharma",
+    "sourceName": "Fierce Pharma",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dVlZUVFfM3lLdldLdDFJaE1pSng1X0dkOWRJQU80WmVPdWJwbjUxcl9qY05OeUtzc3pJRHBjeVcyRDNDaXBpeDVaLUNlWTNraGtv?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRwUjBMak9qSGt2S0JZMkdZWjJjOUhnYzVsNVVESngySHJ3ZUpFanhEeFZHWUktc2k5amdOVnU5SUZKTUVuZGNQQkVESWdNQkVMVUp4cGdxTkZRRHYySWJ2YmFCVnB6SEQxRUpndHFZZnVmTE9oYzBHVWJYUFJqZ2xTTzVLa0FRTUVZZzlERXR0am05TVFLUw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -859,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0tLNm05dWh5YnlrT0twVXRQZDZmNWYwZzVVN0VHcHNPSzVfU01yUkVHX1RvXzFJZWMzWmtFQVFXR3lmakg2dFdOV1U3d1BYaWtJZG9fNDBBMjVPNXhBRG9EazFremFsa3BNOGN4QlJmdk9pYmI3dHNuaURMRmdkYWdSTzlfcGZHQjBIYlhQWWh0emxCcGRHdjd5ZVZlN1hBUEpGNVdwM2hZMUlZ0gHAAUFVX3lxTFBIVXdjZDNPY01HQno0UkJOcy1Fd1RCQXF6MUdLVWFRX2xMRDRuN0YyTXc2UXRQaVU3Y0hMSDVJdEtkN3FHNHE4QzZ4bl9sdmJlWHBDWTR1YjdXV251UzFyaDhuZHFYTmFXWUlHdzhobmJYdVRydDlOMG1BT2c5dnc2NFFtMFY3bGM2TlAwcFllVnRoZ1FSTHlkdlhXank1aWs4QTZDa2xCVmp6VktWakdYMkRMU2Q2b0VIYTdod3hoOQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c6eebfcbb475",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T20:06:03+00:00",
-    "acquirer": "SpaceX",
-    "target": "Tesla Are Considering a Mega",
-    "headline": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDdjV2Y0UEdjYkpjNVJKYWZCbVVkSDFJS1lRLThQRjFjRUJESWdYM2RmeHo5UzA3cWljWE1hWXhqZGJfVmtYc2VuanZlLUN6ancycXJ6QmlHZ3ZBRHhjTF94dXR6Qm5ZSXBtbVhxY3NFYzJmcUZyREhIejViZkNvRC1hTVItV1NxdTBMWG5UdzctVjA5Q0FrODc2U3MxaVBlUENr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
+    "sourceName": "qualcomm.com",
+    "summary": "Qualcomm Completes Acquisition of Modular qualcomm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d83f5d33a7d4",
+    "id": "news-41ade0252679",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T22:15:35+00:00",
+    "publishedISO": "2026-07-28T21:09:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM",
+    "headline": "Opinion | The Paramount-Warner Merger Could Save Hollywood",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Source New Mexico",
-    "summary": "New Mexico residents turn out to UNM campus to weigh in on proposed private equity takeover of PNM Source New Mexico",
+    "sourceName": "WSJ",
+    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1908,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNMHhxV1NPY1ZYS3dXeEJmbkl6OUpIanUzSFRyZzNBaTZHNVlrS0xJcHlGQk5jXzY0YWxleEEzbmI4bWZZR1d1WEw0VzJUYlVuRlM4Wmcwa3VqaGtHVENwM0JSU2pUY3luVFRKNHFBV1dvNmhWUFdKUzlPbS0tZTBZZDJlQWNSR1l6MUpWU2d1TXB2c0IwQndNcU1yay0xZTg0ekNoZGthaWh3TlctWVZsbThHZVpKcTlJbEtwaVUteFpnR2F1UFNmSUg0TQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-41ade0252679",
+    "id": "news-cc82dc7b8291",
     "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T21:09:00+00:00",
+    "publishedISO": "2026-07-28T20:20:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Opinion | The Paramount-Warner Merger Could Save Hollywood",
+    "headline": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1966,7 +2041,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "WSJ",
-    "summary": "Opinion | The Paramount-Warner Merger Could Save Hollywood WSJ",
+    "summary": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQR0JEQTBtVndUR0RtdmdSd3BsSlU2WnJacGRaVG1UTnN6R1d6QTk2U3JmUElfcHlHVVR5eFMxb2stTGRTR04wd081dERmNkpGYlFZMS03V01OdDB1VDMybjQwbW9taUM3UjNqRGRQRV9LaW8taHM2bktuOGFrUkpKVThBN3RoSWNIUjdlaUVn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEQ2TEVKb2JmTnprckVsMGRFN2czeFhwR2d1S3VPa3dDYjRzVV9fS0ZEQ09KUEJoLWUwQnpDUU9rWWs3WmM1TndVaF9ObXY1a29WQVRiY3FyRTIwemZocHV2eXhPYVI0M01Yei1Ja0xVRDV4WTNIQk9XY1BHQ1FqdmRwSEgxSXJhNjJ3eHhBMkotSXFBOS1LNDJUWGs4cEhuRDdnYmNjcWxVZVlvUUVwbA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AT&T Newsroom",
-    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T Newsroom",
+    "sourceName": "about.att.com",
+    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar about.att.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE85Y3hUa2M5WE9TV09DTjhHOWJ4alZUdEViWjljY2dPRFNtYTBNejEtV1IxbHR5Qmw5R1NNLWR3MFlSOE5nbDVEZDdFdzMwRlZBX1E0YU9pREdoUzUxWlFaSDZaaTJjZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bc29326ca89b",
-    "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T15:10:10+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "PayPal leaves the door open to a higher takeover offer following earnings beat",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "PayPal leaves the door open to a higher takeover offer following earnings beat TechCrunch",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHhkS0VKTk5wREdMTnhkRVc5b1pEdDlwYUZYdHc5NHdoV0NwOEZ0WXl0XzlvTE1DMERWVDdQRlNYNzVDcVdpbm5JcGI3QWNGRGdMbDdxdm9sR3R1UHVhRk5kbkNwektmc0lvbFpJMFVyVjZMb2xVRkEyZzlRbmd0bnVHQ1hYUXhTcUxEU0dySm9XVXB6U1V5OW1PekFiM1pVYjNEN0E1Sk16ZE5MeUhxalRzVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
