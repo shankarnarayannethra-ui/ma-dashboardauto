@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-1efb0ccf244d",
+    "id": "news-7771e83ff53e",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T08:48:45+00:00",
+    "publishedISO": "2026-08-04T10:32:16+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca shares slump after $400bn BMS merger rumours",
-    "valueBillions": 400.0,
+    "headline": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal",
+    "valueBillions": 1.3,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Pharmaceutical Technology",
-    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours Pharmaceutical Technology",
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVZEcXV5RDVubmFtbDJCd0M0SXJUQW9mcXRBZ2poZEFhTTY5YmFPTHZ5aHdlODJxUjloWG5EcThyT3hpMjhRX0hMcHhCdE1kUFlrMGQ2SklWcG8xYnVRaEFod0V2eTJ6OUg4dU4xU0JlaTRfRm9KM3dfWGNMRm15YTFIVllFR1ZqOEk1V3FRYU1uWHJMVU1wOG9rRTdRaDdmcFc0bjhn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmNHZ3ZwSG5BOTZwU2NsTGYxYUhxbmtQdUl5MlFOMzNMd1J0Z0dYYkJ6d0dQam9nTWNRMHpfVnFDeWR2QWxaTE9KSzdNeDhXQTJwdm8wX1NNdjd3ZWJoMWNleG96SlJSUmlhbWJ1cTlCZnNDZHpoQ3JmbnJpTlg2VTM3ZUxyMU5LdUdUaUxuUXg4NDZ3RTBKNlJ3TTIzRHdDRXZoQmZXNS1iR19GOEZwX2EyMjNkSi13YjFHRklIUjJMczlESGpFUmZfRWJyQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f9756e384b4f",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T06:04:00+00:00",
+    "acquirer": "Prologis Announces Recommended",
+    "target": "SEGRO plc",
+    "headline": "Prologis Announces Recommended Acquisition of SEGRO plc",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Prologis Announces Recommended Acquisition of SEGRO plc PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFVIclYtMUJUM0VVUEdlN3h5LWVqT3hPRmN3U2NIV0VNc19ldlVVLVFtQy0tTkg3dllhSDJuUDYtTkJhMHBueVJLLW1ha1RsNS1iZ1BYMTVyMk1LYXYxbTR4T1FxMUFrNDBUdndkVFFLcWk1WF9NZWE4YTl6bWI3Y0NkNnNuYXktQkJ5QVJWQ1ZEUGp1WjN6aHJWWUFiSlJnSUxIV2t0MF9vLXpRU25MQg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Pharmaceutical Executive",
-    "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report Pharmaceutical Executive",
+    "sourceName": "pharmexec.com",
+    "summary": "AstraZeneca and Bristol Myers Squibb Held Merger Talks: Report pharmexec.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9cde9455b27d",
-    "date": "August 2, 2026",
-    "publishedISO": "2026-08-02T21:27:00+00:00",
+    "id": "news-f9cbbfe6116f",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T04:16:55+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca said to have explored Bristol Myers merger",
+    "headline": "AstraZeneca, BMS reportedly in $400B merger talks",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fortune",
-    "summary": "AstraZeneca said to have explored Bristol Myers merger Fortune",
+    "sourceName": "FirstWord Pharma",
+    "summary": "AstraZeneca, BMS reportedly in $400B merger talks FirstWord Pharma",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,12 +558,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE40dVlZUVFfM3lLdldLdDFJaE1pSng1X0dkOWRJQU80WmVPdWJwbjUxcl9qY05OeUtzc3pJRHBjeVcyRDNDaXBpeDVaLUNlWTNraGtv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 2, 2026"
+        "date": "Aug 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -526,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d4137c2588f2",
+    "id": "news-9cde9455b27d",
     "date": "August 2, 2026",
-    "publishedISO": "2026-08-02T21:14:32+00:00",
+    "publishedISO": "2026-08-02T21:27:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb",
+    "headline": "AstraZeneca said to have explored Bristol Myers merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "AstraZeneca slides 7% after report of merger talks with Bristol Myers Squibb Yahoo Finance",
+    "sourceName": "Fortune",
+    "summary": "AstraZeneca said to have explored Bristol Myers merger Fortune",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdC1XTkhHQ2F2bm9lV3E5OE5teFJ1bkFpZHRmWlAyVlZyQjRHdnVtZjQwY3dMUXpwYVBWS0xKblNsaGg1M1EzSFB0REE1MHB4Q2VTY2Utc0xnLUpSRWJzVHZDZFZON3B3ZGlXM3AwLVE5M2cyQVlXLU1GbDM4N2l6djZrbzJmWDFiempRN1hSa1pSOUhvNDc0LVQ1SDdYTm02?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -784,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0tLNm05dWh5YnlrT0twVXRQZDZmNWYwZzVVN0VHcHNPSzVfU01yUkVHX1RvXzFJZWMzWmtFQVFXR3lmakg2dFdOV1U3d1BYaWtJZG9fNDBBMjVPNXhBRG9EazFremFsa3BNOGN4QlJmdk9pYmI3dHNuaURMRmdkYWdSTzlfcGZHQjBIYlhQWWh0emxCcGRHdjd5ZVZlN1hBUEpGNVdwM2hZMUlZ0gHAAUFVX3lxTFBIVXdjZDNPY01HQno0UkJOcy1Fd1RCQXF6MUdLVWFRX2xMRDRuN0YyTXc2UXRQaVU3Y0hMSDVJdEtkN3FHNHE4QzZ4bl9sdmJlWHBDWTR1YjdXV251UzFyaDhuZHFYTmFXWUlHdzhobmJYdVRydDlOMG1BT2c5dnc2NFFtMFY3bGM2TlAwcFllVnRoZ1FSTHlkdlhXank1aWs4QTZDa2xCVmp6VktWakdYMkRMU2Q2b0VIYTdod3hoOQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c6eebfcbb475",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T20:06:03+00:00",
+    "acquirer": "SpaceX",
+    "target": "Tesla Are Considering a Mega",
+    "headline": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "SpaceX and Tesla Are Considering a Mega Merger -- Here's What Investors Need to Know Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMDdjV2Y0UEdjYkpjNVJKYWZCbVVkSDFJS1lRLThQRjFjRUJESWdYM2RmeHo5UzA3cWljWE1hWXhqZGJfVmtYc2VuanZlLUN6ancycXJ6QmlHZ3ZBRHhjTF94dXR6Qm5ZSXBtbVhxY3NFYzJmcUZyREhIejViZkNvRC1hTVItV1NxdTBMWG5UdzctVjA5Q0FrODc2U3MxaVBlUENr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "espn.com",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
+    "sourceName": "ESPN",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "Processa acquires Vidya for potential rival to Rhapsido fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "Processa acquires Vidya for potential rival to Rhapsido Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "qualcomm.com",
-    "summary": "Qualcomm Completes Acquisition of Modular qualcomm.com",
+    "sourceName": "Qualcomm",
+    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cc82dc7b8291",
-    "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T20:20:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Caesars Entertainment Narrows Loss Ahead of Fertitta Acquisition WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeEQ2TEVKb2JmTnprckVsMGRFN2czeFhwR2d1S3VPa3dDYjRzVV9fS0ZEQ09KUEJoLWUwQnpDUU9rWWs3WmM1TndVaF9ObXY1a29WQVRiY3FyRTIwemZocHV2eXhPYVI0M01Yei1Ja0xVRDV4WTNIQk9XY1BHQ1FqdmRwSEgxSXJhNjJ3eHhBMkotSXFBOS1LNDJUWGs4cEhuRDdnYmNjcWxVZVlvUUVwbA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b3ae530e33cd",
     "date": "July 28, 2026",
     "publishedISO": "2026-07-28T20:18:30+00:00",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AT&T",
-    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T",
+    "sourceName": "AT&T Newsroom",
+    "summary": "AT&T Closes Acquisition of Spectrum Licenses from EchoStar AT&T Newsroom",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPdHhkS0VKTk5wREdMTnhkRVc5b1pEdDlwYUZYdHc5NHdoV0NwOEZ0WXl0XzlvTE1DMERWVDdQRlNYNzVDcVdpbm5JcGI3QWNGRGdMbDdxdm9sR3R1UHVhRk5kbkNwektmc0lvbFpJMFVyVjZMb2xVRkEyZzlRbmd0bnVHQ1hYUXhTcUxEU0dySm9XVXB6U1V5OW1PekFiM1pVYjNEN0E1Sk16ZE5MeUhxalRzVQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fe5134d93bab",
-    "date": "July 28, 2026",
-    "publishedISO": "2026-07-28T14:20:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "PayPal Is Open to Buyout, but Focused on Turnaround",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "PayPal Is Open to Buyout, but Focused on Turnaround WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQLXdxVGdhcnhmNFlPSnlPU08taGZNdlp4cjh6bzlFak1yN083QjI4X0J5YzBwWC1yZ1RGSTVWMUhBUDBrTE95dVVVMVRuTXRfaDZaLVRmN0kxT21nVWZ2M1d2SnJGWmNkRFVqSVUyblVMQlNWQzBsLURONkhFdUR5d0hUcHJSMzYwSlFiSzVaaW9tVVdZNGwzUm5DUWNaNTFhR2FXWG11N3VuUjVRa2licEFRWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
