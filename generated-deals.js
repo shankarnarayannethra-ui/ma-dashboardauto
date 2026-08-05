@@ -1,6 +1,231 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-cae74a86f128",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T14:38:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AkzoNobel shareholders vote in favor of intended merger with Axalta",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AkzoNobel",
+    "summary": "AkzoNobel shareholders vote in favor of intended merger with Axalta AkzoNobel",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQVUNncWFTeEFYVl9VcEZNY0xweGZVajhnYTJwZU5oXzFRSk15UFlOMVMtaERjRk45akdtSEZMeG11OTl6ekRLYlZJVXdmTVVUQUJhSWVtMnpjLU1FWG9mQm1XN3RzQTVsSVFUd1lMTlB4RE11Ry16Ympya0JuMzNSRzRQTHZyNFJFMVhEQjNWOGc2R0tnX1J6TFVra3o4a1VpNXg5cXdIcEtzUTNMMTA4REdJZHZmM1VM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-91fd5035bbb7",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T14:12:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "‘No discussions’ ongoing for AstraZeneca-Bristol Myers merger: Reuters",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "fiercepharma.com",
+    "summary": "‘No discussions’ ongoing for AstraZeneca-Bristol Myers merger: Reuters fiercepharma.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThKQUVQQUtsZ0JXM3gyX2xFLWliM0szMVl3bWt1RG91eFhiLW1EUjRwQVB1OFUwS2sybFp0blB4SzJrQkVpdjc0SlBVRWtCSEhUUklxZnVHUTFtc3JUczV2Z0Z1Y2dVLTNVRHNjSEtXeEtjRU5jWWNsWGRQRTMwTjhEVTZTZFpOZ2M1NDZtamhsZG42bUgtTkxYRTJTMnJV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3fdcc0c3bbb6",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T06:09:49+00:00",
+    "acquirer": "Santander Receives Federal Reserve Approval for the",
+    "target": "Webster Financial Corporation",
+    "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "santander.com",
+    "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation santander.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e6927bfd3797",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T23:09:00+00:00",
@@ -15,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "theguardian.com",
-    "summary": "David Ellison claims opposition to his mega-merger stems from potential CNN control theguardian.com",
+    "sourceName": "The Guardian",
+    "summary": "David Ellison claims opposition to his mega-merger stems from potential CNN control The Guardian",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,84 +376,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3fdcc0c3bbb6",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T21:59:00+00:00",
-    "acquirer": "Santander Receives Federal Reserve Approval for the",
-    "target": "Webster Financial Corporation",
-    "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "santander.com",
-    "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation santander.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a25ced8eff3a",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T20:47:59+00:00",
+    "publishedISO": "2026-08-04T20:48:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Judge Sets Paramount-Warner Bros. Merger Trial for March",
@@ -334,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NHQ5aWh3R0tEeWpoTlR3M1hfX2JaNzZQZFY3ZVJuN0R3LURSN2pkU05WNGJDNm9XRjVENjdlZ0R2U1k5V2E2cm9DM2dtV0gyQ1NwcnZ2akRCYVRXZ2E5NWVSdDNUT1h3VDR1QkZycw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2b5eea988aea",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T20:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges Deadline",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1ozeXBJcHlLNjE3Zi0xYVBlQjBkUW5ocjBDUVMzdjdweG4tQWpuMXZaZVZrUFBJWkVqcm5GZE9ZUm1PUW5hbTV5RXVzSVF5c3haSEJMZTd5andxYnNjZzZsNG5kd0dtQVdWRG5yVUljV205NDcyTkVVWmVsS2tLd1Jhc2FHM2JkX2hfNE1DTXhpdVVRcmJCc3F6WXRVcnFVRmIxMU1yNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "BioSpace",
-    "summary": "As portfolio erodes, BMS stands to gain a lot from rumored AstraZeneca merger BioSpace",
+    "sourceName": "biospace.com",
+    "summary": "As portfolio erodes, BMS stands to gain a lot from rumored AstraZeneca merger biospace.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmNHZ3ZwSG5BOTZwU2NsTGYxYUhxbmtQdUl5MlFOMzNMd1J0Z0dYYkJ6d0dQam9nTWNRMHpfVnFDeWR2QWxaTE9KSzdNeDhXQTJwdm8wX1NNdjd3ZWJoMWNleG96SlJSUmlhbWJ1cTlCZnNDZHpoQ3JmbnJpTlg2VTM3ZUxyMU5LdUdUaUxuUXg4NDZ3RTBKNlJ3TTIzRHdDRXZoQmZXNS1iR19GOEZwX2EyMjNkSi13YjFHRklIUjJMczlESGpFUmZfRWJyQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-eddaa8a19a60",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T06:09:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "UK's Segro agrees $19 billion Prologis takeover after investor pressure",
+    "valueBillions": 19.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "UK's Segro agrees $19 billion Prologis takeover after investor pressure Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjBmT0NULWYyRjl3UDhpem9RRnBPVTdNcFJGN2RmOUtiNTJMU2Fud3dqQ1c0eFZubWdIdFVreFZPVWZmaG12Y3l5blhGWHBSUjc1U3I4WmZ4ckkyUjRfOVBEd2U0N3doekxINjJtT0NOaHg3ZU1wajUtVGxrMmdZa1kxeUFNc0t5QnhEQThlZXpSeXM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "BioSpace",
-    "summary": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever BioSpace",
+    "sourceName": "biospace.com",
+    "summary": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever biospace.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed' cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed' CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
+    "sourceName": "fiercepharma.com",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea fiercepharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1314,81 +1464,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9cde9455b27d",
-    "date": "August 2, 2026",
-    "publishedISO": "2026-08-02T21:27:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AstraZeneca said to have explored Bristol Myers merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fortune",
-    "summary": "AstraZeneca said to have explored Bristol Myers merger Fortune",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 2, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
+    "sourceName": "espn.com",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nscale.com",
-    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform nscale.com",
+    "sourceName": "Nscale",
+    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform Nscale",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f3d354d04c34",
-    "date": "July 29, 2026",
-    "publishedISO": "2026-07-29T15:00:07+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Opinion | The Paramount Deal Is in Trouble. It’s Not About the Movies.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Opinion | The Paramount Deal Is in Trouble. It’s Not About the Movies. The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQczd6cm1tQkJ3LUZyV0R3MUdBSkdMYzFHbl8wMVVtcE44Y2l4SlR4T1JLN0loM2poWl9MZ3NBWjI5endDeUV2Ykt0RGJ6OWtLVXpCNXgxVnRoWjhGd3dJaklrbFYwd1QyRmNpQmxHaFhvX0Rmb0dlY29Vdm1xcFVNVG9mWUlhaWlkOEtpRHhzUTdvQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 29, 2026"
       },
       {
         "stage": "Terms verified",
