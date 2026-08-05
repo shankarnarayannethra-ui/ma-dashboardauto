@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3fdcc0c3bbb6",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T21:59:00+00:00",
+    "acquirer": "Santander Receives Federal Reserve Approval for the",
+    "target": "Webster Financial Corporation",
+    "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "santander.com",
+    "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation santander.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a25ced8eff3a",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T20:47:59+00:00",
@@ -184,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NHQ5aWh3R0tEeWpoTlR3M1hfX2JaNzZQZFY3ZVJuN0R3LURSN2pkU05WNGJDNm9XRjVENjdlZ0R2U1k5V2E2cm9DM2dtV0gyQ1NwcnZ2akRCYVRXZ2E5NWVSdDNUT1h3VDR1QkZycw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2b5eea988aea",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T20:04:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "deadline.com",
+    "summary": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges deadline.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1ozeXBJcHlLNjE3Zi0xYVBlQjBkUW5ocjBDUVMzdjdweG4tQWpuMXZaZVZrUFBJWkVqcm5GZE9ZUm1PUW5hbTV5RXVzSVF5c3haSEJMZTd5andxYnNjZzZsNG5kd0dtQVdWRG5yVUljV205NDcyTkVVWmVsS2tLd1Jhc2FHM2JkX2hfNE1DTXhpdVVRcmJCc3F6WXRVcnFVRmIxMU1yNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,81 +1201,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9cde9455b27d",
-    "date": "August 2, 2026",
-    "publishedISO": "2026-08-02T21:27:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AstraZeneca said to have explored Bristol Myers merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "fortune.com",
-    "summary": "AstraZeneca said to have explored Bristol Myers merger fortune.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPeHJXTHlybUtpS1RRcmxWYXI4SzgwQ2VaZHBacURPVGswc19KamhaeXBDSXM3ejhrZTRySU9Hc3ROdTVtZGhnd2steGVDZ3BSWGFRVm5WZU9uMDhSU083aHIzbVpYMXVBZnBaUmMxR0xJQmlHNEota2p5S1F0bEJWYk9DMEJLS3lKNmtkVmlYbjdMVzg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-117cf0281823",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T22:04:36+00:00",
@@ -1501,12 +1576,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f68de4ea67de",
+    "id": "news-91b253974592",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T05:45:00+00:00",
-    "acquirer": "Regulators approve private equity",
-    "target": "New Mexico Gas Co.",
-    "headline": "Regulators approve private equity buyout of New Mexico Gas Co.",
+    "publishedISO": "2026-07-31T10:56:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Santa Fe New Mexican",
-    "summary": "Regulators approve private equity buyout of New Mexico Gas Co. Santa Fe New Mexican",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1533,7 +1608,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSHJvbld2NC1mMkFOaTR6aTlEN2d2dlJILWZtbF9INnA3Y2w2ZzA1ZEtLNVZpbTRYNUFPMDBNR0dncURFOGJpXzNjSHV6d1JuWURranhIcnBtb0ZVcGNZX0FYc1IxZmF1YUkwbmFqcnZUanQySk5pTmNnUHcwRG9XdC1NMzRwZElxOWY4X1NLaDRkWjRwYnlFTWw5SlJaemJWV2dGbUVtSnpiZTJPSzUxMXJXLXZBcnpiYlhnTkNrdEpWUS1sLWZ3NVltbzRoWlNKYThaY0VUQUdsZ1FLNTFKZDNLTEliT0NHcmVnZUtfdTVQZXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1djcjZKN3NFSzREcmVFdFFLSGtwU2FvNzZNQ3NuX09aVDB5RFluaVpYWUdsN2FHMWxMdl9aNG90SEFSSi11T2ttbW5lS1FObDZSRnlJQ1lMLXVLR1FOcnpNWGVHQ0VvOFNHYW5wYWhhSEw5QUxlWkl2SmJVdnNsN3hucUdvT1RtcHhCR2RvNmtHNUxyZGpxYzVaR29CcUpWTHlKTkpTNFlaUFVxdjZha1VsUzBVNHZXM3h3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,12 +1651,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-91b253974592",
+    "id": "news-f68de4ea67de",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T01:00:56+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
+    "publishedISO": "2026-07-31T05:45:00+00:00",
+    "acquirer": "Regulators approve private equity",
+    "target": "New Mexico Gas Co.",
+    "headline": "Regulators approve private equity buyout of New Mexico Gas Co.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
+    "sourceName": "Santa Fe New Mexican",
+    "summary": "Regulators approve private equity buyout of New Mexico Gas Co. Santa Fe New Mexican",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1djcjZKN3NFSzREcmVFdFFLSGtwU2FvNzZNQ3NuX09aVDB5RFluaVpYWUdsN2FHMWxMdl9aNG90SEFSSi11T2ttbW5lS1FObDZSRnlJQ1lMLXVLR1FOcnpNWGVHQ0VvOFNHYW5wYWhhSEw5QUxlWkl2SmJVdnNsN3hucUdvT1RtcHhCR2RvNmtHNUxyZGpxYzVaR29CcUpWTHlKTkpTNFlaUFVxdjZha1VsUzBVNHZXM3h3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSHJvbld2NC1mMkFOaTR6aTlEN2d2dlJILWZtbF9INnA3Y2w2ZzA1ZEtLNVZpbTRYNUFPMDBNR0dncURFOGJpXzNjSHV6d1JuWURranhIcnBtb0ZVcGNZX0FYc1IxZmF1YUkwbmFqcnZUanQySk5pTmNnUHcwRG9XdC1NMzRwZElxOWY4X1NLaDRkWjRwYnlFTWw5SlJaemJWV2dGbUVtSnpiZTJPSzUxMXJXLXZBcnpiYlhnTkNrdEpWUS1sLWZ3NVltbzRoWlNKYThaY0VUQUdsZ1FLNTFKZDNLTEliT0NHcmVnZUtfdTVQZXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1740,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
+    "sourceName": "espn.com",
+    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger espn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Qualcomm",
-    "summary": "Qualcomm Completes Acquisition of Modular Qualcomm",
+    "sourceName": "qualcomm.com",
+    "summary": "Qualcomm Completes Acquisition of Modular qualcomm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,81 +2134,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOOGNvNW9keFp6d3ZtaXhDNTVIWVZia0xnQ003ZWZCLXBvSjJzclJFOW9jWHdNZFYySXREWVp2ZjRRcWptdUc3ejlENDBpcWxtMFFxX05JWWJja3lqTlpJMHFxWS11OVFQRHg3cG1mcEF6aXlUdi1JT0sxR2tVMURQOVNIalZkcE5IWDFCUEMtcGZHZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 29, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8f0ae9bbbfcd",
-    "date": "July 29, 2026",
-    "publishedISO": "2026-07-29T13:19:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows",
-    "valueBillions": 65.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Unilever agrees two-year worker protection after $65 billion McCormick merger, memo shows Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNWVo3LWRHa295SG5WeUt6dUdNa2JyYTh0RGVER1hGQjZKSXptNE4xOEpJNUVDbDQzSTBycGRra3RGeVNvVjc3TzRPcHRDUkFvdkd2Wnh0T09pN3pXaVNvOHNsRVV3WWdlRm1TNjZDdHUyMFlDUWZVZW9wckctZnh2WmRGU0JQUGtxUEFZVWlmSGpWeGNDQzJHMDE3WEk4ZzZqaVVsemdmdkpYdGpxVE80aEU4MWU3QWM5TnBoU2xOSzEway1sNkZFZ1pyRU1nMU9k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
