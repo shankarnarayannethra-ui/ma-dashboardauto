@@ -526,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2b5eea988aea",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T20:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges Deadline",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1ozeXBJcHlLNjE3Zi0xYVBlQjBkUW5ocjBDUVMzdjdweG4tQWpuMXZaZVZrUFBJWkVqcm5GZE9ZUm1PUW5hbTV5RXVzSVF5c3haSEJMZTd5andxYnNjZzZsNG5kd0dtQVdWRG5yVUljV205NDcyTkVVWmVsS2tLd1Jhc2FHM2JkX2hfNE1DTXhpdVVRcmJCc3F6WXRVcnFVRmIxMU1yNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-fef348760558",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T20:01:17+00:00",
@@ -615,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Arrowhead Pharmaceuticals, Inc.",
-    "summary": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher Arrowhead Pharmaceuticals, Inc.",
+    "sourceName": "ir.arrowheadpharma.com",
+    "summary": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher ir.arrowheadpharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky Reuters",
+    "sourceName": "reuters.com",
+    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-e29461d5caef",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T06:54:34+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TotalEnergies.com",
+    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e0cfafde521c",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T04:25:35+00:00",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
+    "sourceName": "reuters.com",
+    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ionq.com",
-    "summary": "IonQ Completes Acquisition of SkyWater Technology ionq.com",
+    "sourceName": "IonQ",
+    "summary": "IonQ Completes Acquisition of SkyWater Technology IonQ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Arcadis rejects $5.7 billion takeover bid from WSP Global Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Arcadis rejects $5.7 billion takeover bid from WSP Global reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
