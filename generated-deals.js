@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-e6927bfd3797",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T23:09:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "David Ellison claims opposition to his mega-merger stems from potential CNN control",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Guardian",
+    "summary": "David Ellison claims opposition to his mega-merger stems from potential CNN control The Guardian",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOWc5VUViV25uSElnZVlHVWdrRVJUUzMwN0xNaTg5aXZjMERMMXB1VGRCUDNMc0E1aXE3U1Y0YnVJWngta3lLajJNSWNncjd6TERJdHNSbmx5OVpHOW43cFJBMlItYm9GTkh6aXdaa1pPdnV2Y1dKM3RmYmgyZkJrOVR6YUg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-029883d66014",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T22:08:00+00:00",
@@ -453,7 +528,7 @@ window.generatedDeals = [
   {
     "id": "news-e6ad030d2ea3",
     "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T20:36:27+00:00",
+    "publishedISO": "2026-08-04T20:20:41+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.arrowheadpharma.com",
-    "summary": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher ir.arrowheadpharma.com",
+    "sourceName": "Arrowhead Pharmaceuticals, Inc.",
+    "summary": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher Arrowhead Pharmaceuticals, Inc.",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky reuters.com",
+    "sourceName": "Reuters",
+    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -976,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c75afb0aecd8",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T16:02:22+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The Ernie Clement Takeover Starts today in MLB The Show 26",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MLB® The Show",
+    "summary": "The Ernie Clement Takeover Starts today in MLB The Show 26 MLB® The Show",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTFBuQUF3UkhJVjVkSFBvUXFjcGpuNS04T1JxVjF4eTlYUzNiMUxyNHNZTGRSdDRFOFIwenE0ZEI3Uzdjd2F6X1lnd1lwU3JVVk1WN2N4N2ZoclpqLXJuT3FtQldqYUUyTi1DRmZOX182VmNfZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a0114d2c0962",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T11:26:02+00:00",
@@ -990,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "BioSpace",
-    "summary": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever BioSpace",
+    "sourceName": "biospace.com",
+    "summary": "‘Unlikely’ AstraZeneca-BMS mega-merger would be largest pharma deal ever biospace.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1009,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxObFVnZDJJNjBNb3ZvUFBkWkFBWU1iX2djbWlYc1pBaWhpN2ExUWxTZXZwWENBaTNNN1NmRk1FLVJPSDZTUXE2UXJVMWVIZXFBMjVxYkNCLXVVVkVldDZNYVRqTkVaN3lXZXl4b3VLX0hMVUZ4Y1YyWGZ2WlhUUGo2YmxDaWZyTnNWUnNwQkd2MGlES0h2ZzduMHROeVBYbUk4dmZJblBuQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a7ce653bb38f",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T10:45:00+00:00",
+    "acquirer": "Brookfield Completes",
+    "target": "Oaktree",
+    "headline": "Brookfield Completes Acquisition of Oaktree",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Brookfield Completes Acquisition of Oaktree Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONllCeU5Xcm9fS1Q0RmFrclgtaWZmcjY3aWN3WUZaaGY5U3c4RzRQb2FEWHhQSTdfX2tNVXY0R2JqYkRkM3ZMYjRvODJXNGMyaFlLeVVvYlhEUVVuODdVZ2pIYzlTZFdDRXRDek1uUkNvYTRXLWU2djRBZ1VrSGdUbVJ0anczLWlNSVRVMlF6anJCS2l3NjA4WHM2OTZLWURpaWhyMllBUkM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Italy's BPM ends Monte dei Paschi merger effort after Credit Agricole rejects plan Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry reuters.com",
+    "sourceName": "Reuters",
+    "summary": "FTC approves IonQ acquisition of SkyWater semiconductor ‍foundry Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Statesman Journal",
-    "summary": "Santiam Hospital-Salem Health merger granted emergency approval by OHA Statesman Journal",
+    "sourceName": "statesmanjournal.com",
+    "summary": "Santiam Hospital-Salem Health merger granted emergency approval by OHA statesmanjournal.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Santa Fe New Mexican",
-    "summary": "Regulators approve private equity buyout of New Mexico Gas Co. Santa Fe New Mexican",
+    "sourceName": "santafenewmexican.com",
+    "summary": "Regulators approve private equity buyout of New Mexico Gas Co. santafenewmexican.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Film producers warn Paramount-Warner merger could restrict access to news archives Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPbDh2TlVZTEN4OWYwSlNaNC1fcS16MWY2VTAxUHZWdGlVc2FCRkMtQ1JLQXNJaDlaekJVRWFyaGZlNTlEVEVuc2pIdzBpR2VzQ0ZiVjA3SzV5MjNwNlZsZkEySFAtQUxIakpfYkhUckdNODRjZ1RMOGhSNDVSWFlYN3MtVnFvNTVnc3lQU1ZXQVJrek9KMEJ5ZE5fUXJGNU42ajAzSEVhUUx4M0Vqd3RXMTAtQzB2OHEzOXJ6eXlBTWhfWG55dzBGajlFQ1NxREh3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fde4f1d230e0",
-    "date": "July 30, 2026",
-    "publishedISO": "2026-07-30T14:09:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ESPN",
-    "summary": "Jake Paul's MVP, PFL team up in 'landmark' combat sports merger ESPN",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxObWJrQ19FbFEzZVk2cDNiaERieG1STFNKbDRqQVhVOWN5U19ETDlMV21nQVhnU2dwTE55SlUzZmJwajJ6ZkdwR2hSVlV6VmgwclFWa3QxeGItZGlaUkNOcmdCZzVVcVJpRXdqT3hfYjRNX3pXY2hnMFBsVWdzNWp1RjU2NW9jaDdqSEZUb2xkOFhnV08tTTBkaC02NmFHdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2b55a2d3109c",
-    "date": "July 30, 2026",
-    "publishedISO": "2026-07-30T12:02:27+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nscale",
-    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform Nscale",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yQW10WElUajJUN1NlMGo0eGFwY2JIZ0Q4Mkk3WlhMOFFaNGc2eEVBY1pqYWExaWNjNEdlUDRpTGYxeFZhbXlNWlJGNDREbjhRMklTNnFlMm1pUXIwTGFsY1VXeTJnVDRpY2dMck1qQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1326ebd0ec67",
-    "date": "July 30, 2026",
-    "publishedISO": "2026-07-30T11:47:16+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Arcadis rejects $5.7 billion takeover bid from WSP Global",
-    "valueBillions": 5.7,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Arcadis rejects $5.7 billion takeover bid from WSP Global reuters.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNOFhlQlZKQjFveXRzQy1wdTNJMHJVUlluTWpNSDVYSzZQR3BsSlExa053NHA2dmlGdkJHbHZ1WUtFMmVwTmF5VzFFZnpLWG9QN3MwUTV1ck11b3JLTElET29ZUjR6THJWVzBvX0M1VHNtQW0zWW9Qc0JuYUpqZEVkQmI2MFlmWmRLeGlrM29rQ0hocllLaWdqenZhb28tQ0tKT3hzN2RqMl9QZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
