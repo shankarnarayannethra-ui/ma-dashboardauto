@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-125da49478e7",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T20:50:59+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPbkY4MUZyQ1V1TEJkbFVMMUZLeVVNMFpmSVVCNG1TZmZVM2NINzNqbzFIWHljWUFMT3hPa1U2ejlTSk9hQWZnWm1UbUVFbmdNbktzYXQxanJZTS0xYnJEMml0bkE1cHdaT0FsVWY0WWNQVnkzME1qcXp5SE04ZktMQ2VwYTEwemQ0LW15cE5qMUjSAZYBQVVfeXFMTWlHRi1NZS0tM1FhYXpaWFM2bTZTaHcxQ2RjT0ttSEJnbTJIT2YxQ1BPeFdwWHNhdEsyYWlFaDA4bFVEb3VZMkdOM1MtU0N4Qmg4RTUtdVBzYmxKRllubmVlcHZKLVZNR0FmNWozNHp1OWFLWkhRc05lWVBzOGhNd28zTWwtZTJiYWJoNFdKclpoRlZpWUFn?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0946676935bd",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T20:33:29+00:00",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7e23355310ea",
+    "id": "news-8a50477c5587",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T09:40:16+00:00",
-    "acquirer": "AstraZeneca may buck a decade of pharma strategy to",
-    "target": "U.S. scale",
-    "headline": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+    "publishedISO": "2026-08-06T12:47:14+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Spanberger says she'll intervene in Dominion Energy merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale CNBC",
+    "sourceName": "NBC4 Washington",
+    "summary": "Spanberger says she'll intervene in Dominion Energy merger NBC4 Washington",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQy15M2ZmcUR2QzZCTGZONjhKQ2wySG1fZVUtMFlzVjBuUUxXQ3pIQmRScVpScGgyeVUwY29Gby1VNVZsejRsaXQ3VzlvVFlReTN4eUxuNFZxMHZpcWZkZFZvbG5YbXRjcWdER1NRSm5ZVk9UbE5VUGZWOFNENndvLVdsdHByZlViYzdfb2VmWkFsZUxjaFFORGVIcXhyUXpvSzBkbTRrR3JjSGvSAbMBQVVfeXFMTU9CM0QyUk5VRUR2M1E2UTBTMWgtZjdHY25sVDZ6MlpzU0E4Y1FULUJ3QnJuSGx1WTZDcElXSGdBSnlxWEVhNlFzaXJlZlc1TTd0ZHViQ292cWpPUmNJN1BwNWRsTWxwb3RGMklhSnVmVEpkanJ0d2g3UnBvM1I2VnFHZkFZdFRkb0Q1cUJVbzhvRWxJVDlEMVQwdUVUbTNTd19OUkNNNzJ3U0xHdGR6WjZ6aVE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-18e457059cfc",
+    "id": "news-7bac69263c08",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T05:11:00+00:00",
+    "publishedISO": "2026-08-06T11:23:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Commerzbank CEO says takeover by UniCredit can create value",
+    "headline": "Paramount's Takeover Of Warner Bros. Cleared By UK Antitrust Authority",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Commerzbank CEO says takeover by UniCredit can create value Reuters",
+    "sourceName": "Deadline",
+    "summary": "Paramount's Takeover Of Warner Bros. Cleared By UK Antitrust Authority Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPSUp1S1dPNTZsb1dNSk9xSlhqVDlHMGhPekhpcXYtT3VlYkJKTFRzWGxPUFJQQjVqMnNsekJlWHdGS3JpbEdWSEJDbU5GSjZPcGJQSXhEUE14V1NxSXd6OVh2dHVlV1VNWW5taVZrU1g5WnpWZHByOENrZmhkVWZ4NUhCR1hFeVBVclJKQ05qWHhJaUxMY01OdEpCMkdudGlJRVZKUVhXNUhWNFNhZjFFQlkteVBHSVZkMWZJTw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWlEN0NOQUo0RFdZd0VFaGhYMUlaVVlWbFJBSnU2OS1kaXExbkVtWElaWkd1bVo3ZHZEdzFPUktxcngtb2U2MUNvZklweTZQVWJmRXJnbVg4Vk1DM21jT1BVakFxMUFsVmdDbkw3ckllOWVDTnBuWmp0SUZEYkRBRkJzMHJqS0lJLUtRdy13?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7e23355310ea",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T09:40:16+00:00",
+    "acquirer": "AstraZeneca may buck a decade of pharma strategy to",
+    "target": "U.S. scale",
+    "headline": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters Fierce Pharma",
+    "sourceName": "fiercepharma.com",
+    "summary": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters fiercepharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -634,81 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThKQUVQQUtsZ0JXM3gyX2xFLWliM0szMVl3bWt1RG91eFhiLW1EUjRwQVB1OFUwS2sybFp0blB4SzJrQkVpdjc0SlBVRWtCSEhUUklxZnVHUTFtc3JUczV2Z0Z1Y2dVLTNVRHNjSEtXeEtjRU5jWWNsWGRQRTMwTjhEVTZTZFpOZ2M1NDZtamhsZG42bUgtTkxYRTJTMnJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3fdcc0c3bbb6",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T06:09:49+00:00",
-    "acquirer": "Santander Receives Federal Reserve Approval for the",
-    "target": "Webster Financial Corporation",
-    "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "santander.com",
-    "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation santander.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -784,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQTTU3bi1UZjI5WVJkYl9mN2R3bVlSZGF5OGc3YnpBUkVhRFRNQTdQTVA0MEx6azB2V3RpZVM5SUJfVHBMekRsclZ3R0p3dkgwZTZTWW1uWjJZT1JZZndRTEZFUVRnNWpfdzU4bXdnSXhNckNTXzdVV3NlMXFxbFp4aW91Y216c0ZGNEVQTks0NFFSSkhnMWlLTm9vZDF0RzJ1YnFYcA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3fdcc0c3bbb6",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T21:59:00+00:00",
+    "acquirer": "Santander Receives Federal Reserve Approval for the",
+    "target": "Webster Financial Corporation",
+    "headline": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "santander.com",
+    "summary": "Santander Receives Federal Reserve Approval for the Acquisition of Webster Financial Corporation santander.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQM1h0bHB1VTVNcDFZYjROMEFFNFBKTk1WMDBUMjA5b01FMWo5VmMwcG1HejJVU2NFUWZDVnRMNWJ0aXp4Z1J1Q0lrS3RKbHNqUGhWWkczcXh1SnctRFdidzhyM0hZRWhRT0l5T0gtZVEwRVhEN3FnakVfR19Gd2RYU2Vma2ZILXhxTmRnWmtURm1JeXFJVm05SG5GOHUyNzRVUXN4bWdWZy1HLUZlTjhvZmpydTBoWXNOM0FxZ0MtUlBaTENxeDJMU25JYS1VNUtpODFMZFZ1QXEycEpIUWd5ZjVoTUs4MVB5Tm1fOEhoTWY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,156 +1576,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d6e98753e820",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T11:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Deel acquires Israeli deepfake security startup Clarity in $40-50 million deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "calcalistech.com",
-    "summary": "Deel acquires Israeli deepfake security startup Clarity in $40-50 million deal calcalistech.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFB0dUhrZTVJcTkzTFE1U1VBVzYxem9jc0RKSFMtank1RGZEN19EU1c5VElRaFRpU1I3blRkajNHd19IangyOHBJWUJTckdBOHN5U2owZkpOQWEycmlDdWpVNDBpWWR6TzA5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a7ce653bb38f",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T10:45:00+00:00",
-    "acquirer": "Brookfield Completes",
-    "target": "Oaktree",
-    "headline": "Brookfield Completes Acquisition of Oaktree",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Brookfield Completes Acquisition of Oaktree Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxONllCeU5Xcm9fS1Q0RmFrclgtaWZmcjY3aWN3WUZaaGY5U3c4RzRQb2FEWHhQSTdfX2tNVXY0R2JqYkRkM3ZMYjRvODJXNGMyaFlLeVVvYlhEUVVuODdVZ2pIYzlTZFdDRXRDek1uUkNvYTRXLWU2djRBZ1VrSGdUbVJ0anczLWlNSVRVMlF6anJCS2l3NjA4WHM2OTZLWURpaWhyMllBUkM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e9cc436df65d",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T09:55:00+00:00",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
+    "sourceName": "fiercepharma.com",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea fiercepharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cc76e931b4c0",
+    "id": "news-72d76b69f987",
     "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T17:45:59+00:00",
+    "publishedISO": "2026-07-31T19:53:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "T-Mobile executives oppose $300B Deutsche Telekom merger plan - report",
+    "headline": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "T-Mobile executives oppose $300B Deutsche Telekom merger plan - report Yahoo Finance",
+    "sourceName": "ESPN",
+    "summary": "PFL-MVP merger creates new MMA challenger with eye on 2027 launch ESPN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZ0NrRFp4RWIydFZqMnRVVTkwb1IwUlFqMk9zV1QtYmk5SlhCNXEyS0V1Qlh5WTZDcExvazhXZi1RUmFiTFg1SmdGeXpIclJuaTJVamJUZ1FTRVJXa3E4V3dnMzA4dkNieWxMNlNzTHlxdWhxTDhqM1dpcHNBc1ZkVTZwNHg5cGlqVWE4UFNjN2FIa3ZzVzd0TUpwLUk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOSnZVTTBHOUhCUzIxUWd1RmI0VjJhemxGYWVfTVpPLTM4bHRDMGpsbEpETlFtUlk5aUxNUEdyNDRoZzgzdndMcWNEM2FSNWFteGt5T1JscGVCT3VkWWtZeUEwU0RiM3c2UEN4dzdkdG56bjV0czlrd1pSQlphZkhzajJGSzJHLVZDclRiSkxKbURGcFk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
