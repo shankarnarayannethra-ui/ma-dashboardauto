@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "virginiamercury.com",
-    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger virginiamercury.com",
+    "sourceName": "Virginia Mercury",
+    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger Virginia Mercury",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "njspotlightnews.org",
-    "summary": "NJ Transit warns: Commuters at risk in proposed freight rail merger njspotlightnews.org",
+    "sourceName": "NJ Spotlight News",
+    "summary": "NJ Transit warns: Commuters at risk in proposed freight rail merger NJ Spotlight News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters Fierce Pharma",
+    "sourceName": "fiercepharma.com",
+    "summary": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters fiercepharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1009,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NHQ5aWh3R0tEeWpoTlR3M1hfX2JaNzZQZFY3ZVJuN0R3LURSN2pkU05WNGJDNm9XRjVENjdlZ0R2U1k5V2E2cm9DM2dtV0gyQ1NwcnZ2akRCYVRXZ2E5NWVSdDNUT1h3VDR1QkZycw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-fef348760558",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T20:01:17+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Arrowhead Pharmaceuticals, Inc.",
+    "summary": "Arrowhead Pharmaceuticals Acquires FDA Priority Review Voucher Arrowhead Pharmaceuticals, Inc.",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNOE9mV0FCRlFVVXNqOVJ3Z2ROQ3diOHE5OHEwX2U5Y2lQWDV5NnZNQ3MwRkQtN1V3QzJvX1llV2ZEN25vYkFpd3lYZVhJaEg5M0d1NTY2V1dEVkxOTDFNXzh4M0hrQ212TDRveG1sYmxUOF92c3h6RUVvVUxHUmlodG5vV1FYS0RqV21QX2dGeW5mMUdiRXlCbkREUjhNQWNsOW1YamlRdVdCY2JQdEFfSzROMUtheUZzQUFxZTNDRi1RYk1FRHFr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-eff269152a06",
+    "date": "August 3, 2026",
+    "publishedISO": "2026-08-03T07:17:39+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed'",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "AstraZeneca slides after reports of Bristol Myers merger talks leave analysts 'perplexed' CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVS1KQnBkQTRhaDZnVk5GVWQ0ajd6dzBGUmVhVHBfeXUtcEF1bURTV0JaanVLQzRrcU50Qm95X2NGcV95NDVWV0g1ZXlQaEtLdGtzVU5UbmlsY19SWGZPcjAyQVdlSUxJSVZjaVRadnFvRWhYTk5BaXFMYkpVVFo1aXI3T3ZKZXZYQ2fSAY8BQVVfeXFMUHdwQjRuUHZKTnBURnJHWnB5WG15SDBpWmhIWGVJQXFfWGt6SlFxZ09KeXdRd0NVTmJPNkNIcUVHem5BWDdZeWVaWGZCajc3Qm5lYTZZZTA3bHc5VHJlZUhUblhDZTdlYlByMHJuVzNlVTd1T1dqVGRXNTVpQi1QNHVIZzFra2dTam8zRUFydGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e29461d5caef",
     "date": "August 3, 2026",
     "publishedISO": "2026-08-03T06:54:34+00:00",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
+    "sourceName": "fiercepharma.com",
+    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea fiercepharma.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1689,6 +1839,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e8bf4029aa5d",
+    "date": "July 31, 2026",
+    "publishedISO": "2026-07-31T22:20:21+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Administration gives Congress 20 more ideas to reform acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Federal News Network",
+    "summary": "Administration gives Congress 20 more ideas to reform acquisition Federal News Network",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNN19YWE03TDJScWZlMzZjb3JIUTBCaVN3RGxRV1lnSGVadnVPTWpyUzRMbzBqRmFqNzBLTUl2ekJKNWFBVzF3S29YQmxSaWd5OGxSeWpiTVFHQV8xRWhQeDd3bHNqd0d2MFRYRnVNQ0F2TjZnd2F2YzE1OU8tbzFlWUFFVENacHBWMDhOTUo0NEM4R0FzR0pwd0FJR3BvQ01yWXllLW9UTFpZb3cwNU5kZVI1VjYxVWFfYnhaeWVtRW55dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Jul 31, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1876,81 +2101,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7501b1ab1703",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T20:26:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Oregon clears emergency merger of Willamette Valley hospitals",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "OregonLive.com",
-    "summary": "Oregon clears emergency merger of Willamette Valley hospitals OregonLive.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb0tLNm05dWh5YnlrT0twVXRQZDZmNWYwZzVVN0VHcHNPSzVfU01yUkVHX1RvXzFJZWMzWmtFQVFXR3lmakg2dFdOV1U3d1BYaWtJZG9fNDBBMjVPNXhBRG9EazFremFsa3BNOGN4QlJmdk9pYmI3dHNuaURMRmdkYWdSTzlfcGZHQjBIYlhQWWh0emxCcGRHdjd5ZVZlN1hBUEpGNVdwM2hZMUlZ0gHAAUFVX3lxTFBIVXdjZDNPY01HQno0UkJOcy1Fd1RCQXF6MUdLVWFRX2xMRDRuN0YyTXc2UXRQaVU3Y0hMSDVJdEtkN3FHNHE4QzZ4bl9sdmJlWHBDWTR1YjdXV251UzFyaDhuZHFYTmFXWUlHdzhobmJYdVRydDlOMG1BT2c5dnc2NFFtMFY3bGM2TlAwcFllVnRoZ1FSTHlkdlhXank1aWs4QTZDa2xCVmp6VktWakdYMkRMU2Q2b0VIYTdod3hoOQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-cc76e931b4c0",
     "date": "July 31, 2026",
     "publishedISO": "2026-07-31T17:45:59+00:00",
@@ -1965,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "T-Mobile executives oppose $300B Deutsche Telekom merger plan - report Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "T-Mobile executives oppose $300B Deutsche Telekom merger plan - report finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQWXd1NVFPbUJtdG9QYlBubm0yZTQ1eXZBcHJDV2ROZUxhZ2ExVm1zUXFjS01VbXUxSzAwNzJWaTc1UEs5dnh1a2VuUXZ4UndZUlQtdThRelBsNm1LVHhUYmpDSUt6d1BRdlBsR0NoSFp0S2dkS2hOMVlNMWhZMHVydQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f68de4ea67de",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T05:45:00+00:00",
-    "acquirer": "Regulators approve private equity",
-    "target": "New Mexico Gas Co.",
-    "headline": "Regulators approve private equity buyout of New Mexico Gas Co.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Santa Fe New Mexican",
-    "summary": "Regulators approve private equity buyout of New Mexico Gas Co. Santa Fe New Mexican",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOSHJvbld2NC1mMkFOaTR6aTlEN2d2dlJILWZtbF9INnA3Y2w2ZzA1ZEtLNVZpbTRYNUFPMDBNR0dncURFOGJpXzNjSHV6d1JuWURranhIcnBtb0ZVcGNZX0FYc1IxZmF1YUkwbmFqcnZUanQySk5pTmNnUHcwRG9XdC1NMzRwZElxOWY4X1NLaDRkWjRwYnlFTWw5SlJaemJWV2dGbUVtSnpiZTJPSzUxMXJXLXZBcnpiYlhnTkNrdEpWUS1sLWZ3NVltbzRoWlNKYThaY0VUQUdsZ1FLNTFKZDNLTEliT0NHcmVnZUtfdTVQZXc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Jul 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-91b253974592",
-    "date": "July 31, 2026",
-    "publishedISO": "2026-07-31T01:00:56+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Tesla Weighs Sale of China Business to Pave Way for Potential SpaceX Merger WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQY1djcjZKN3NFSzREcmVFdFFLSGtwU2FvNzZNQ3NuX09aVDB5RFluaVpYWUdsN2FHMWxMdl9aNG90SEFSSi11T2ttbW5lS1FObDZSRnlJQ1lMLXVLR1FOcnpNWGVHQ0VvOFNHYW5wYWhhSEw5QUxlWkl2SmJVdnNsN3hucUdvT1RtcHhCR2RvNmtHNUxyZGpxYzVaR29CcUpWTHlKTkpTNFlaUFVxdjZha1VsUzBVNHZXM3h3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
