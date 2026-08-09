@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b02c0b138dec",
+    "id": "news-7bac69263c08",
     "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T11:27:00+00:00",
+    "publishedISO": "2026-08-06T11:23:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "U.K. Approves Paramount-Warner Bros. Merger",
+    "headline": "Paramount's Takeover Of Warner Bros. Cleared By UK Antitrust Authority",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "U.K. Approves Paramount-Warner Bros. Merger Variety",
+    "sourceName": "Deadline",
+    "summary": "Paramount's Takeover Of Warner Bros. Cleared By UK Antitrust Authority Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUERCU1N3OUhOUnFJbndHUTdzbFlzZHlJRnR1UWRkWlAxUXZ4RTgzTkE4RjA5RWNULURBaERSRFF6VHZ0d0dSZHF6dF9xeEkyNnB2QmVpdDBUNDFpTGJxSVREWmJTOWttWjFueGRncWN4WS0xblB6U25WNm1jbjgtTHI4U2tQUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVWlEN0NOQUo0RFdZd0VFaGhYMUlaVVlWbFJBSnU2OS1kaXExbkVtWElaWkd1bVo3ZHZEdzFPUktxcngtb2U2MUNvZklweTZQVWJmRXJnbVg4Vk1DM21jT1BVakFxMUFsVmdDbkw3ckllOWVDTnBuWmp0SUZEYkRBRkJzMHJqS0lJLUtRdy13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1014,6 +1014,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-820bd1f863b5",
+    "date": "August 5, 2026",
+    "publishedISO": "2026-08-05T18:07:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWdwZjNEbzBZdFJVOGhZQTJzZ252bjR2RHY2SnBPRldrSnVYMEZYTUl6VGhMRzVEZ0V3UTVYbGlzNzdVRll2am8yOWpmVTBwYVVlMENiaWx2MU5zVkx6WlNXLWVGdFcxVEtDeDRfM1MzMTZybFZ0ZUgtZGZ2YmNSdzJrX3NxZ1NXNWxHczY1Znc0aEh6NGg4a3A3RXgycDlUcy1Ib05NWXlXUEVBM3NpVEU0bw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 5, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1740,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "pharmaceutical-technology.com",
-    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours pharmaceutical-technology.com",
+    "sourceName": "Pharmaceutical Technology",
+    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours Pharmaceutical Technology",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1839,81 +1914,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-96a5a07fb9a3",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T23:18:04+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYXJDUHhObXJuaFNuU2x1alV1OHJYb0xURWFmSlBlQzdlMndSZWhGcHJ4RTQ2X25Bd3F3dnBrRjZjcENmLU1RZWcxMGlfLXdsbXpPTm82dGxCNTRQbjM5T3J2czFZUVI2NTNmcVcwY2w0ckJLR190b01hLVNYN0hwWWNtRDl3aENPRVVqMTdsdUFVelhBRTdSeWRuQ0IxTkFuZGtNUGN5WjdnQ0NFVnc0NEF4MTNCcUYyZlNHWkJuMA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "totalenergies.com",
-    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R totalenergies.com",
+    "sourceName": "TotalEnergies.com",
+    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
