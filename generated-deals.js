@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-85bc29bac1ac",
-    "date": "August 8, 2026",
-    "publishedISO": "2026-08-08T19:41:13+00:00",
+    "id": "news-a1ff7ecac05c",
+    "date": "August 9, 2026",
+    "publishedISO": "2026-08-09T10:52:30+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "OpenAI acquires presentation startup NextSlide",
+    "headline": "Chase Briscoe Acquires Brent Marks Racing, High Limit Membership",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "OpenAI acquires presentation startup NextSlide TechCrunch",
+    "sourceName": "FloRacing",
+    "summary": "Chase Briscoe Acquires Brent Marks Racing, High Limit Membership FloRacing",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQb0ZQNkkzNmZqS00yNkN4LUtIbGxzSEI2ZzYzek5kWk5RNnVWWHc1djE4cXRGdkU2N0Rha3VySlZTRE0yZTZFY1M0UFFBcVBFS2V6MVBuT2U2Q21LX0pjQS1uYk9TWnNiaHRPeXpDNm9zdHZDa1ZPUHp2SlVKZ0s3Y1FQWXpJVjlJ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNLcmVhbHAtbm94ZmVSMVUxQ1N4MmpXR0FYdkJsYU9sYzJ6OWk1T29qVlRNQ0xfbXg1OFoxdGNMSTZ5UGo2a3h0SllicUZ2TnFJMDk3SEJPT3ZuQm9aMGRmNzNHc3E5VS02aldhcFRNSzlFYjA5U1o4QmtPRG50eEZvdURYVVlsdlVzemhqT0VLdXgwanlScTFhcXo2cTcxdHNQckZXX1A5dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 8, 2026"
+        "date": "Aug 9, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1051,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-820bd1f863b5",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T18:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWdwZjNEbzBZdFJVOGhZQTJzZ252bjR2RHY2SnBPRldrSnVYMEZYTUl6VGhMRzVEZ0V3UTVYbGlzNzdVRll2am8yOWpmVTBwYVVlMENiaWx2MU5zVkx6WlNXLWVGdFcxVEtDeDRfM1MzMTZybFZ0ZUgtZGZ2YmNSdzJrX3NxZ1NXNWxHczY1Znc0aEh6NGg4a3A3RXgycDlUcy1Ib05NWXlXUEVBM3NpVEU0bw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-cae74a86f128",
     "date": "August 5, 2026",
     "publishedISO": "2026-08-05T14:38:57+00:00",
@@ -1609,6 +1534,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNQUpjYUVwcnEwcnpEY2xfd1k3M1RLSm1EMmgxejBFVG4zUXRkNjNtRVlodkdBZ05vZVdJcHlUbWxMdG5FdDFUUG9Pemk3cUhXV0tHZVlXYWFqOTY5Uk90dkVpUEJTSldaVFhFcnpZUGpFaVNIYzF2XzRLbFlUWTVZS3VueS1yN0l4Y3Q1ZC1ld0l1ZFhMOXlCd3JaMC1MbEw1eGtHRkFjM1RPMzJXZWlTQWJLQ2xTclhITTBlcXpGMkJyYVBOTGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-16ddc4c02210",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T16:46:25+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "HCA nabs 40 urgent care clinics in Texas acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "healthcaredive.com",
+    "summary": "HCA nabs 40 urgent care clinics in Texas acquisition healthcaredive.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZlBhaHdzTDY4ZDIzdG1NNVRuOENZSG0wLWJ5a1E4bEJldlV6enEyb1RfZXBXSkpSRDlUb0h0YUxJTFZqQ0x0TkZoUDhkRnY0STY2WkxVQVZITERRYlRILVdmWEhiRFYwanBQLVJzSGlsTndQdzd3cmNMblQ5NnZCTzNIRWQwQ3c4ZmpvSGlEUno?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
