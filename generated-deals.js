@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-61ec482856d5",
+    "date": "August 9, 2026",
+    "publishedISO": "2026-08-09T19:19:54+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "East LA AutoZone store ransacked again amid 2nd street takeover in 24 hours",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 Los Angeles",
+    "summary": "East LA AutoZone store ransacked again amid 2nd street takeover in 24 hours ABC7 Los Angeles",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdmdng3TnlOTjg2cE1NdHlHbDlPUFlmZmdmSklYWU5qLS1NejRaZXZCVXVrRjBsVGh0NjdkdXB4dG1fYmdlSlRNSjE5Rk9sNThscF9kQ1ZmV241ZmY4SHNicUwxZDZ4TThvSTVOZlFFRFB3VlFWMnBmaDVhM2RoZTQxN29xbUwtclp6LUtWTE9XejZXalZIVGZqRHZqcjjSAaQBQVVfeXFMTXUwRlNZY1BCQUZ1Qk9Kdngwbm9mRlVfbzZTcHdtQklTRE5jemFiekNEUmJHNHU1bW8xSVpVQ01BaGs0YVdaUFYwMW1hdy13dURzZ1pvb3JWYXk2TEpwRm9hd3pPTUNXSUFUWVpxcDhVSGdIeUFWbEQ1SVFzdDZ5RE54eHJXcGpZakhKZWMyVWRLamJfdTByczZMYzdmODBuSnRoNWQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f5b5b2c34004",
     "date": "August 8, 2026",
     "publishedISO": "2026-08-08T13:45:12+00:00",
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger Virginia Mercury",
+    "sourceName": "virginiamercury.com",
+    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger virginiamercury.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Commerzbank CEO says takeover by UniCredit can create value reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Commerzbank CEO says takeover by UniCredit can create value Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOQy15M2ZmcUR2QzZCTGZONjhKQ2wySG1fZVUtMFlzVjBuUUxXQ3pIQmRScVpScGgyeVUwY29Gby1VNVZsejRsaXQ3VzlvVFlReTN4eUxuNFZxMHZpcWZkZFZvbG5YbXRjcWdER1NRSm5ZVk9UbE5VUGZWOFNENndvLVdsdHByZlViYzdfb2VmWkFsZUxjaFFORGVIcXhyUXpvSzBkbTRrR3JjSGvSAbMBQVVfeXFMTU9CM0QyUk5VRUR2M1E2UTBTMWgtZjdHY25sVDZ6MlpzU0E4Y1FULUJ3QnJuSGx1WTZDcElXSGdBSnlxWEVhNlFzaXJlZlc1TTd0ZHViQ292cWpPUmNJN1BwNWRsTWxwb3RGMklhSnVmVEpkanJ0d2g3UnBvM1I2VnFHZkFZdFRkb0Q1cUJVbzhvRWxJVDlEMVQwdUVUbTNTd19OUkNNNzJ3U0xHdGR6WjZ6aVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-66e71d74d8fe",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T11:27:49+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business",
+    "valueBillions": 110.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNN",
+    "summary": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business CNN",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem05UWZSR1E3cWxOQ054WFNVOG9ja19nSWNSOGtjbmU3LU9hLWVEUzRaVWFvZUFyX3lvUnVDYUJRZTBjT0cySVJMY2Jrd0JEZXJpdi1Yb3NYR1FFWkVUVEdveUNlX25qTFR3UXNiU0RvYTlHajlLcVEzR3c3M05mdFN3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-eddaa8a19a60",
+    "date": "August 4, 2026",
+    "publishedISO": "2026-08-04T18:44:20+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "UK's Segro agrees $19 billion Prologis takeover after investor pressure",
+    "valueBillions": 19.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "UK's Segro agrees $19 billion Prologis takeover after investor pressure Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSjBmT0NULWYyRjl3UDhpem9RRnBPVTdNcFJGN2RmOUtiNTJMU2Fud3dqQ1c0eFZubWdIdFVreFZPVWZmaG12Y3l5blhGWHBSUjc1U3I4WmZ4ckkyUjRfOVBEd2U0N3doekxINjJtT0NOaHg3ZU1wajUtVGxrMmdZa1kxeUFNc0t5QnhEQThlZXpSeXM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 4, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-16ddc4c02210",
     "date": "August 4, 2026",
     "publishedISO": "2026-08-04T16:46:25+00:00",
@@ -1515,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "healthcaredive.com",
-    "summary": "HCA nabs 40 urgent care clinics in Texas acquisition healthcaredive.com",
+    "sourceName": "Healthcare Dive",
+    "summary": "HCA nabs 40 urgent care clinics in Texas acquisition Healthcare Dive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky reuters.com",
+    "sourceName": "Reuters",
+    "summary": "A separation of Tesla’s China business ahead of a potential SpaceX merger could get tricky Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Bending Spoons makes first post-IPO acquisition with $1.3 billion Airtable deal Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,81 +1909,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxONmNHZ3ZwSG5BOTZwU2NsTGYxYUhxbmtQdUl5MlFOMzNMd1J0Z0dYYkJ6d0dQam9nTWNRMHpfVnFDeWR2QWxaTE9KSzdNeDhXQTJwdm8wX1NNdjd3ZWJoMWNleG96SlJSUmlhbWJ1cTlCZnNDZHpoQ3JmbnJpTlg2VTM3ZUxyMU5LdUdUaUxuUXg4NDZ3RTBKNlJ3TTIzRHdDRXZoQmZXNS1iR19GOEZwX2EyMjNkSi13YjFHRklIUjJMczlESGpFUmZfRWJyQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1efb0ccf244d",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T08:57:27+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AstraZeneca shares slump after $400bn BMS merger rumours",
-    "valueBillions": 400.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Pharmaceutical Technology",
-    "summary": "AstraZeneca shares slump after $400bn BMS merger rumours Pharmaceutical Technology",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVZEcXV5RDVubmFtbDJCd0M0SXJUQW9mcXRBZ2poZEFhTTY5YmFPTHZ5aHdlODJxUjloWG5EcThyT3hpMjhRX0hMcHhCdE1kUFlrMGQ2SklWcG8xYnVRaEFod0V2eTJ6OUg4dU4xU0JlaTRfRm9KM3dfWGNMRm15YTFIVllFR1ZqOEk1V3FRYU1uWHJMVU1wOG9rRTdRaDdmcFc0bjhn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1890,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Electronic Arts misses quarterly bookings estimates ahead of Saudi-backed buyout Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQekYwV1hCemJVVnJJa3BYa1k4ZjNjNURUSnhNYjE0TDNBRWhxTnEyVFVzM2hkQTQ1R1RQQzc3NmdJOXNqSHFkbVI1UnRYWThEeXc2eWpldUNOay1mMG1MQktFbW94aGZxajJjVEJsU2pJSUwzWFhTcDl2RjlzdnpmejQzNVVfV2JDRTZZa0o4UnFvZ1pyTng2NjNjdlY2c0cxcTJLN2JnakplU1Zkb0szQnl6VkdHekZJ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e29461d5caef",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T06:54:34+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Renewables in Europe: TotalEnergies Acquires Shell’s R",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TotalEnergies.com",
-    "summary": "Renewables in Europe: TotalEnergies Acquires Shell’s R TotalEnergies.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOMnFFWFJqZkdKU0c4RjZBYmFtRDB0UGQ4Z3Zfc1NyVTNoVzJRdHJQNmJDRlZaZFRsc2xWRFo1bU1McWkyNnhjc0g1UGZ0aWw2NWxwUFpjZ1hDd2wxMzFLOUFaSndvc2k1QWRvaW10eEM4RjBEWXB3aEhGVXZsWXhQdlhnaXhPN1N2cVNQZ3I4aElqREVFT1k0QUh1VEhvcmliNjZlN0owY29xbm9GWC12TjBYY3dRcC1lNjNzSkxsb0tKdFNGckJrNkRkLUg3Q0VxWFR5em9kbXNBR09YcUFFSl9Id2EtdGZJeEMtbXhjcUE4LTVLNVd1aWQ3M3ZTdU90Ri10Mm4yZmxEUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e0cfafde521c",
-    "date": "August 3, 2026",
-    "publishedISO": "2026-08-03T04:25:35+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Editor’s Corner: Why an AstraZeneca-Bristol Myers Squibb merger is a bad idea Fierce Pharma",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaXRwUjBMak9qSGt2S0JZMkdZWjJjOUhnYzVsNVVESngySHJ3ZUpFanhEeFZHWUktc2k5amdOVnU5SUZKTUVuZGNQQkVESWdNQkVMVUp4cGdxTkZRRHYySWJ2YmFCVnB6SEQxRUpndHFZZnVmTE9oYzBHVWJYUFJqZ2xTTzVLa0FRTUVZZzlERXR0am05TVFLUw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
