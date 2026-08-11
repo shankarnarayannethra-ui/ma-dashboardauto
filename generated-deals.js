@@ -76,6 +76,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f6f17e3426cc",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T22:09:15+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Charter, Cox at Odds with Calif. Advocacy Groups on Merger Conditions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Broadband Breakfast",
+    "summary": "Charter, Cox at Odds with Calif. Advocacy Groups on Merger Conditions Broadband Breakfast",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0dGTHUtM2hpTHBJdFRoeWFkcTdncDFnNGthSmtUNWRrUzlaUnhQNzZzckgzWG44ejhOVG5qYXA3SGwtMUptNDRVaXllVUZtYWFVRzZidFMzVjFHVU1YV3NFYkc3U3hLaDRlaGJpWjJNYW1UWHloZFVFVXZKeEVrd2tpMXVMUEk2cG5fOW5GaWFjWEFMZHJucFF6T3h0Z1d5?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-78e27b57302e",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T17:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | California’s plan to block the Paramount merger is going to flop",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "washingtonpost.com",
+    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop washingtonpost.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-114ea130256f",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T12:03:21+00:00",
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Washington Post",
-    "summary": "Opinion | Abigail Spanberger: Why I’m intervening in the Dominion-NextEra merger The Washington Post",
+    "sourceName": "washingtonpost.com",
+    "summary": "Opinion | Abigail Spanberger: Why I’m intervening in the Dominion-NextEra merger washingtonpost.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ea.com",
-    "summary": "EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners ea.com",
+    "sourceName": "Electronic Arts Home Page",
+    "summary": "EA Announces Completion of Acquisition by PIF, Silver Lake, and Affinity Partners Electronic Arts Home Page",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,81 +1834,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE54NHQ5aWh3R0tEeWpoTlR3M1hfX2JaNzZQZFY3ZVJuN0R3LURSN2pkU05WNGJDNm9XRjVENjdlZ0R2U1k5V2E2cm9DM2dtV0gyQ1NwcnZ2akRCYVRXZ2E5NWVSdDNUT1h3VDR1QkZycw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2b5eea988aea",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T20:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Paramount “Fully Expects” WBD Merger To Close As It Reports Q2 Streaming Gains, Linear Challenges Deadline",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNM1ozeXBJcHlLNjE3Zi0xYVBlQjBkUW5ocjBDUVMzdjdweG4tQWpuMXZaZVZrUFBJWkVqcm5GZE9ZUm1PUW5hbTV5RXVzSVF5c3haSEJMZTd5andxYnNjZzZsNG5kd0dtQVdWRG5yVUljV205NDcyTkVVWmVsS2tLd1Jhc2FHM2JkX2hfNE1DTXhpdVVRcmJCc3F6WXRVcnFVRmIxMU1yNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNLVZEcXV5RDVubmFtbDJCd0M0SXJUQW9mcXRBZ2poZEFhTTY5YmFPTHZ5aHdlODJxUjloWG5EcThyT3hpMjhRX0hMcHhCdE1kUFlrMGQ2SklWcG8xYnVRaEFod0V2eTJ6OUg4dU4xU0JlaTRfRm9KM3dfWGNMRm15YTFIVllFR1ZqOEk1V3FRYU1uWHJMVU1wOG9rRTdRaDdmcFc0bjhn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f9756e384b4f",
-    "date": "August 4, 2026",
-    "publishedISO": "2026-08-04T06:04:00+00:00",
-    "acquirer": "Prologis Announces Recommended",
-    "target": "SEGRO plc",
-    "headline": "Prologis Announces Recommended Acquisition of SEGRO plc",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Prologis Announces Recommended Acquisition of SEGRO plc PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNMFVIclYtMUJUM0VVUEdlN3h5LWVqT3hPRmN3U2NIV0VNc19ldlVVLVFtQy0tTkg3dllhSDJuUDYtTkJhMHBueVJLLW1ha1RsNS1iZ1BYMTVyMk1LYXYxbTR4T1FxMUFrNDBUdndkVFFLcWk1WF9NZWE4YTl6bWI3Y0NkNnNuYXktQkJ5QVJWQ1ZEUGp1WjN6aHJWWUFiSlJnSUxIV2t0MF9vLXpRU25MQg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
