@@ -376,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b57109c8a797",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T01:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-837064f2015d",
     "date": "August 10, 2026",
     "publishedISO": "2026-08-10T22:42:00+00:00",
@@ -601,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-683f041cfa52",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T10:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Merger Review Should Test for Labor Market Mavericks",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "promarket.org",
-    "summary": "Merger Review Should Test for Labor Market Mavericks promarket.org",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPN2lORDNCclBGNlNUSHVfMjZZY1ZFNDJHaWwzZ2RFeUI0azhOYjB0OTNJMVRYU0g2LUZSVDF3TzZydmFwNmdWcGoyRnMyZUVfSWpvekNtSU5va2o0Y2pXUmE5MGdiLTE5YVQzNVppeFg3dklOd2FJaDJMRGFkYmpROEpaWmxuUVFHLVlnWlY2YUhrNVRZRDMtaXFVZ25QaDFSb3Aycm1TU2k4QQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e7420cd896c1",
     "date": "August 9, 2026",
     "publishedISO": "2026-08-09T20:11:33+00:00",
@@ -840,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "SpaceNews",
-    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites SpaceNews",
+    "sourceName": "spacenews.com",
+    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites spacenews.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "prospect.org",
-    "summary": "Regulators Finally Poised to Review America’s Biggest Rail Merger prospect.org",
+    "sourceName": "The American Prospect",
+    "summary": "Regulators Finally Poised to Review America’s Biggest Rail Merger The American Prospect",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Commerzbank CEO says takeover by UniCredit can create value Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Commerzbank CEO says takeover by UniCredit can create value reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNN",
-    "summary": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business CNN",
+    "sourceName": "cnn.com",
+    "summary": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business cnn.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNem05UWZSR1E3cWxOQ054WFNVOG9ja19nSWNSOGtjbmU3LU9hLWVEUzRaVWFvZUFyX3lvUnVDYUJRZTBjT0cySVJMY2Jrd0JEZXJpdi1Yb3NYR1FFWkVUVEdveUNlX25qTFR3UXNiU0RvYTlHajlLcVEzR3c3M05mdFN3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b02c0b138dec",
+    "date": "August 6, 2026",
+    "publishedISO": "2026-08-06T11:27:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "U.K. Approves Paramount-Warner Bros. Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "U.K. Approves Paramount-Warner Bros. Merger Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPUERCU1N3OUhOUnFJbndHUTdzbFlzZHlJRnR1UWRkWlAxUXZ4RTgzTkE4RjA5RWNULURBaERSRFF6VHZ0d0dSZHF6dF9xeEkyNnB2QmVpdDBUNDFpTGJxSVREWmJTOWttWjFueGRncWN4WS0xblB6U25WNm1jbjgtTHI4U2tQUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThKQUVQQUtsZ0JXM3gyX2xFLWliM0szMVl3bWt1RG91eFhiLW1EUjRwQVB1OFUwS2sybFp0blB4SzJrQkVpdjc0SlBVRWtCSEhUUklxZnVHUTFtc3JUczV2Z0Z1Y2dVLTNVRHNjSEtXeEtjRU5jWWNsWGRQRTMwTjhEVTZTZFpOZ2M1NDZtamhsZG42bUgtTkxYRTJTMnJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1da724550d51",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T13:00:42+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AZN spikes 6% after report it denies AstraZeneca-BMS merger talks",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "AZN spikes 6% after report it denies AstraZeneca-BMS merger talks Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQWjdTaVpyVkFrNGdYX1pqVUtYYkkyV3h6SmRZX2N0X0ZNTnFvczhyQTV5aE8xQUNhbElBWDJZODZubzRUOWxERG5uenBNbVl5MVAwemlZODVWLTB5S2UtMGN3U1FqMU5TQkFWMlkzQlVsTjUzUkgyX1J5d2VPUi01MXBiNnk4anp6Sk1WZktUY2NnRkpLa3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
