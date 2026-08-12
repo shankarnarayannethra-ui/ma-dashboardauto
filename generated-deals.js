@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ca96a3a26d3b",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T15:25:09+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbjk3YlRtY3lXaXVSVXQxR3AzWFl3a19CY3dIZWYxS1B2SDdRNHRrQ1pucXd6QXhGSTJNQnF6dVhoQVR0STFNV1h4b1dSOVJhUTI2V1hHWU9SX1Y5UWk4LWhueE13QV9EQlZ6NGlybUtkbVRUWE92SGNZU01ZM1p2ZUEtS2FqTU9oQVJfTzlJUlBGWXg1VFHSAZsBQVVfeXFMTS05VTI0UDhUY2d0bkVLa0lSaV9wVmN2Q0F6NjA3R2JUVFZzSHRreXdlNmpMckgteUtBMmR0U1I5QzJpVS1EdDB1VTd0S2Y1cEk3RUZDWTBQQWRLamZYYjFrS0FlZ01LMDBQYUhUTVJKcVpOaDNzVXBxbV9YNk9TSXZNQ2gtYV9HUnFzY3lYWUQtVUw5ZlB6ZTRkSms?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e63be6093049",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T21:15:00+00:00",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Al Jazeera",
-    "summary": "Paramount CEO may remove operations from California over stalled merger Al Jazeera",
+    "sourceName": "aljazeera.com",
+    "summary": "Paramount CEO may remove operations from California over stalled merger aljazeera.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0liQ1dnSkE3eXRaOFNweTcwMEZlVVlfWjZvTHhpWHMyX1BKR05pWFY1aTY0bmdscUk2VmRSeDRXVUdYU1o0VExnbG9HdVBIdk9PbnU2T3haQVpyUzdETkdPbEx6Zi1BMDBNc0EwT0xwbzZWaTRwZnphMHoxMTE4dzFaS2drTWkzNXllaUlrOURhWVRCNXpfOUsyUEVWc2FTZHloSWFGTURXSmpuWnZMVXNIQ1pCQdIBuwFBVV95cUxOT0tmUjNzbDV6X01MOFN4QURVaE15YURwTzIyb0F5RUdJeVl3cllVYTBaSi1YV1hadFcybU9peXBZanBycXh2T0lhZ3QtLXM1Wk9FSUFiaDRxVDRDUVMxSUFTWWdxNm1ucTE1SDVFeTFOV2R0LTBoX2VpVFRxLUFFOTBpcy1vNlRfQTlVby1tcjRYb2N3THhORUx0bmlvV2IwUDRiRjJuTnhTeDZ3OUtqRUNkWkJ2Ulpwb3VJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-606a92f95dbc",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T13:35:52+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Stonepeak",
+    "summary": "Stonepeak Acquires Rail-Served Logistics Asset in Fort Worth, Texas Stonepeak",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONGNtRk5mOWM1SzZIZFVmUTZOeld4NDVvQjl5NTlWQ2RUa0dkOWloMHQ3Wko4em83SEpmTkFLQmxLWWh3YklOZXd6UjE4Y0FJdkVaS1FvaFo1VXJRcHVXMVRtaVBQQ2NaUzJscGtUQy1Ydmo3N20xbjBjaEFPbWZMN1QwWnJPcElsSkhhSFg1TXlTTU5OTUQ0Mg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Cleveland 19 News",
-    "summary": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown Cleveland 19 News",
+    "sourceName": "cleveland19.com",
+    "summary": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown cleveland19.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -634,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-98bef79e3d2c",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T15:17:45+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated)",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Railway Age",
+    "summary": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated) Railway Age",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBCOHRvMm82ZG00dGEwOVdjVDFvVU9ZNHRoeGRBN0xIY3dXY2ZESERIZ1JKaTdUd1JqdHV5YnNQWVM5eDkwZC1QTnY3TWl3Z0FqOEI4azRIc3J1WXVreEZQdFBZVWRCRE1ySkVJdDFaNTdhUGJqVkpJYXJJaUpLOHRIblI0X19yQlcyRzRLZ0lXaWFOMm8teXVtelEzbUU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -840,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "spacenews.com",
-    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites spacenews.com",
+    "sourceName": "SpaceNews",
+    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites SpaceNews",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -859,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWkxUamFqUmRJa1lWcTZsa0dmTGhqc19WUEZzSk5PYjJ1a0oyX3BSUExOVU1qOXhJNEEyMHJLeWJfdVNWOEJpakhrWDBxZ2xlWGZLWGkweEIzcmpxLWhwVUFKM1k5QVkwU3FOQXJPSjdDRlZLcDdkc09IRUlPRmJhZUxFQUhrQ2Z3QlJfcjBYMUE0enVGRWtGT3N0d0ZBYU0z?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-98bef79e3d2c",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T20:43:40+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated)",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Railway Age",
-    "summary": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated) Railway Age",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBCOHRvMm82ZG00dGEwOVdjVDFvVU9ZNHRoeGRBN0xIY3dXY2ZESERIZ1JKaTdUd1JqdHV5YnNQWVM5eDkwZC1QTnY3TWl3Z0FqOEI4azRIc3J1WXVreEZQdFBZVWRCRE1ySkVJdDFaNTdhUGJqVkpJYXJJaUpLOHRIblI0X19yQlcyRzRLZ0lXaWFOMm8teXVtelEzbUU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Britain clears Paramount's $110 billion takeover ​of Warner Bros. Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Commerzbank CEO says takeover by UniCredit can create value reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Commerzbank CEO says takeover by UniCredit can create value Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnn.com",
-    "summary": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business cnn.com",
+    "sourceName": "CNN",
+    "summary": "Britain clears $110 billion Paramount-Warner Bros. merger | CNN Business CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-820bd1f863b5",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T18:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Airtable Acquisition Is ‘Kick in the Gut’ for Software Unicorns and Their Backers WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOcWdwZjNEbzBZdFJVOGhZQTJzZ252bjR2RHY2SnBPRldrSnVYMEZYTUl6VGhMRzVEZ0V3UTVYbGlzNzdVRll2am8yOWpmVTBwYVVlMENiaWx2MU5zVkx6WlNXLWVGdFcxVEtDeDRfM1MzMTZybFZ0ZUgtZGZ2YmNSdzJrX3NxZ1NXNWxHczY1Znc0aEh6NGg4a3A3RXgycDlUcy1Ib05NWXlXUEVBM3NpVEU0bw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bc6b03c97323",
-    "date": "August 5, 2026",
-    "publishedISO": "2026-08-05T14:12:01+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "‘No discussions’ ongoing for AstraZeneca-BMS merger: Reuters Fierce Pharma",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQMThKQUVQQUtsZ0JXM3gyX2xFLWliM0szMVl3bWt1RG91eFhiLW1EUjRwQVB1OFUwS2sybFp0blB4SzJrQkVpdjc0SlBVRWtCSEhUUklxZnVHUTFtc3JUczV2Z0Z1Y2dVLTNVRHNjSEtXeEtjRU5jWWNsWGRQRTMwTjhEVTZTZFpOZ2M1NDZtamhsZG42bUgtTkxYRTJTMnJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 5, 2026"
       },
       {
         "stage": "Terms verified",
