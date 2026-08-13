@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5288c72a621d",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T19:35:28+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "EdSource",
+    "summary": "Sacramento City Unified remains on path to state takeover after Thurmond rejects appeal EdSource",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gGCAUFVX3lxTE0wSVo5d2xCSWtYZ2tfd2FfS3dpbVR2VmtkVkVQLThXamJwRUEzRGc3djhwUmtCeXpaa01ZLUR2VUVIcVJFR0ZzalNjNFNpX1RmYWNaT0lEaFF1M09pMGJNVmdJRFVOSUw4UG9wNlhJVzdLTHNBT1RlUVlCXy1qZVpmTUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-8adf248a6107",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T18:39:41+00:00",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aljazeera.com",
-    "summary": "Paramount CEO may remove operations from California over stalled merger aljazeera.com",
+    "sourceName": "Al Jazeera",
+    "summary": "Paramount CEO may remove operations from California over stalled merger Al Jazeera",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f6f17e3426cc",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T02:07:44+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Charter, Cox at Odds with Calif. Advocacy Groups on Merger Conditions",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Broadband Breakfast",
-    "summary": "Charter, Cox at Odds with Calif. Advocacy Groups on Merger Conditions Broadband Breakfast",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPT0dGTHUtM2hpTHBJdFRoeWFkcTdncDFnNGthSmtUNWRrUzlaUnhQNzZzckgzWG44ejhOVG5qYXA3SGwtMUptNDRVaXllVUZtYWFVRzZidFMzVjFHVU1YV3NFYkc3U3hLaDRlaGJpWjJNYW1UWHloZFVFVXZKeEVrd2tpMXVMUEk2cG5fOW5GaWFjWEFMZHJucFF6T3h0Z1d5?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b57109c8a797",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T01:00:00+00:00",
@@ -690,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cleveland19.com",
-    "summary": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown cleveland19.com",
+    "sourceName": "Cleveland 19 News",
+    "summary": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown Cleveland 19 News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWxVUUpDSVpCLXFzR0RDdEQ1RHBjVWhnd1duU0tsLVhYTWhqcG93UVJxajRDZ0FKZjhsaDNSN0xMaGVkamtmd0x3dUVwZ0xUM2g2dGt5bDJMQ25GYUpBQ1ZQb01yc0ZhaW9OY3dpUnZDMnVsUTFsM0JPekdsU05jd2JPNUgtZy0zNl9FUWFOT1hZbjJSaC13eV9LT3VuOC01Vi0yVW9iX19IUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8a93ffa8c900",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T17:42:48+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off? The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBTdTBJaFNXSmZSR3NQVXpvZmlvbThGNHA4NlV0U2xNbDBRYlJLcl9ZbnpsQUVVOGYzeklXa2ZrNFR5R01fRmRESmZBSEtaV0VtaUpxTTBwazVxMUNVV3NMbFRiV1BzcGxtN2M0eWZDRi1Na0NkWXNTZ1JrTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours ABC7 Los Angeles",
+    "sourceName": "abc7.com",
+    "summary": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours abc7.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "AutoZone store ransacked during street takeover in East Los Angeles ABC7 Los Angeles",
+    "sourceName": "abc7.com",
+    "summary": "AutoZone store ransacked during street takeover in East Los Angeles abc7.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,81 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c707bc259eb7",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T09:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Regulators Finally Poised to Review America’s Biggest Rail Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The American Prospect",
-    "summary": "Regulators Finally Poised to Review America’s Biggest Rail Merger The American Prospect",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQenVieWtqM3ZqX2hzeFpFS2U0WFlJZ0NZaHJ3cjRrRkJURUx4VjZTZGl2b1ZnT09mM3dyVlVZZXowNFRYS1RTYmVhdWpFRG92RnJQeUpld0RvaXFvd2NnNjMzTk1mbDJOdFlUYUtOS1gyMEZ2S2Q2OXI3N0dUckRDbXM3NmkxWlBSZm1oZnVEN1FBbjdXX2hLY2tKVVYzX0dWUVljUm1xVXJTQXdpaEJr?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-125da49478e7",
     "date": "August 6, 2026",
     "publishedISO": "2026-08-06T20:50:59+00:00",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Paramount’s Takeover Of Warner Bros. Cleared By UK Authorities Deadline",
+    "sourceName": "deadline.com",
+    "summary": "Paramount’s Takeover Of Warner Bros. Cleared By UK Authorities deadline.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NJ Spotlight News",
-    "summary": "NJ Transit warns: Commuters at risk in proposed freight rail merger NJ Spotlight News",
+    "sourceName": "njspotlightnews.org",
+    "summary": "NJ Transit warns: Commuters at risk in proposed freight rail merger njspotlightnews.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
