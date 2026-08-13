@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-5d9f53ea0437",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T20:01:00+00:00",
+    "acquirer": "PTC to Expand Rare Disease Portfolio with",
+    "target": "BLA-Stage ST-920 Fabry Disease Program",
+    "headline": "PTC to Expand Rare Disease Portfolio with Acquisition of BLA-Stage ST-920 Fabry Disease Program",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "PTC to Expand Rare Disease Portfolio with Acquisition of BLA-Stage ST-920 Fabry Disease Program PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVppY1hOQVNsUU94V3hYVmpBQnpHcURSa3hndXhYRXQyYVRwZll3UTFWMTJIRjJsRWhNY1FuNWVEbVJfTGlrdmF6RWpLRDFGSmZxM0J4bG1fVVZpYTZWM2c5MGZBZW1aT1ZkcDBPdGUxT19GY1d4UlFYenZPM2xnaE1qMlVQOFBfSEloRlNTMkZLYW9vR1JieGZ0SHFROUtDeUJiRUZiaFJJWlJ2eDJJLTZjWTA3UG8wUmJsYVRpMFA1QzBBWjRobTlQbjY0b1BBTHZsVU0xRXFNWjBvV0tvTzFqcC1FUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ca96a3a26d3b",
     "date": "August 12, 2026",
     "publishedISO": "2026-08-12T15:25:09+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off? The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "One Year Later, Trump’s ‘Takeover’ Has Changed D.C. Is It Better Off? nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Washington Post",
-    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop The Washington Post",
+    "sourceName": "washingtonpost.com",
+    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop washingtonpost.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -901,12 +976,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-98bef79e3d2c",
+    "id": "news-7fc3be559cfa",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T15:17:45+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated)",
+    "publishedISO": "2026-08-10T12:31:59+00:00",
+    "acquirer": "Ondas Completes Previously Announced",
+    "target": "Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "headline": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Railway Age",
-    "summary": "Shipper Groups, BNSF to STB: ‘Deny’ UP-NS Amended Merger Application (Updated) Railway Age",
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPbFBCOHRvMm82ZG00dGEwOVdjVDFvVU9ZNHRoeGRBN0xIY3dXY2ZESERIZ1JKaTdUd1JqdHV5YnNQWVM5eDkwZC1QTnY3TWl3Z0FqOEI4azRIc3J1WXVreEZQdFBZVWRCRE1ySkVJdDFaNTdhUGJqVkpJYXJJaUpLOHRIblI0X19yQlcyRzRLZ0lXaWFOMm8teXVtelEzbUU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJOOW5lc0lmZFVRZEh0RjhtMDRDbkpqaGlSLWVPLWlta1FQNTFpb3lENUR5SFp6S3FqZVlrRHIyVzFFRXF6QTVvWnpmSUFvc0FyZi1CYU1YRGQ0U2h1MXUtTHVuOTBfbGprTlE0OTlpUjhXNWdHMENhN2liWEtHVFRhVktNWTdxRV82c1VWbkVacjd2bmtYQ3U5NlE4MDQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "abc7.com",
-    "summary": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours abc7.com",
+    "sourceName": "ABC7 Los Angeles",
+    "summary": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours ABC7 Los Angeles",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "abc7.com",
-    "summary": "AutoZone store ransacked during street takeover in East Los Angeles abc7.com",
+    "sourceName": "ABC7 Los Angeles",
+    "summary": "AutoZone store ransacked during street takeover in East Los Angeles ABC7 Los Angeles",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Virginia governor to intervene in NextEra, Dominion merger over electricity price concerns CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger Virginia Mercury",
+    "sourceName": "virginiamercury.com",
+    "summary": "Spanberger takes unprecedented step to intervene in $67B Dominion-NextEra merger virginiamercury.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Washington Post",
-    "summary": "Opinion | Abigail Spanberger: Why I’m intervening in the Dominion-NextEra merger The Washington Post",
+    "sourceName": "washingtonpost.com",
+    "summary": "Opinion | Abigail Spanberger: Why I’m intervening in the Dominion-NextEra merger washingtonpost.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "deadline.com",
-    "summary": "Paramount’s Takeover Of Warner Bros. Cleared By UK Authorities deadline.com",
+    "sourceName": "Deadline",
+    "summary": "Paramount’s Takeover Of Warner Bros. Cleared By UK Authorities Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "AstraZeneca may buck a decade of pharma strategy to buy U.S. scale CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNMGpXenFZQ01zQ0puSXJBLS1oaXREQjhZMXh4TzdEaE96b3J3TWtrVzRPQ2kzUnVraHozX0lkLTB0ZElYVDZaenJmdi13TEZzMXU2VU5iTzZfMDdhdVRfU0xwUl9VYnRTVmVUY1pxS1RZQlBFbjNoQzBUYm5PYWk4WNIBhgFBVV95cUxNejctb3IzaWtHOHFQNkhtQVMydXhPT2w1NURhQi1LZ2k5dENqM1JPeTN1UGZIclAxQ051cjBDbWJJSlNWbmJLS2lheVVjenVzNDlDSTFZc1JuVUFUcFNMY0NGNXM4UmxOWEx0d3RmZzAxdjFDLUV4R2h0V0dZb29JTVdOeGxMQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b3bf51451095",
-    "date": "August 6, 2026",
-    "publishedISO": "2026-08-06T05:04:30+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "NJ Transit warns: Commuters at risk in proposed freight rail merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "njspotlightnews.org",
-    "summary": "NJ Transit warns: Commuters at risk in proposed freight rail merger njspotlightnews.org",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOYUs4X2RWWG1weUhsOTU2bDhyNTlqazJPZzNWRTJyOHlmT1Q0TzJRR3hWMFN1d2wySnF3b2ZaZTN2RHNfcXc0Wk1veVJmTkdUaXdqNVdHNy03LWpDYTZHUXJ4Wm5ybnZIQW5ZSnBxMkdRSmpLQVpNWUt4SE1Bc1AzOGYzdk0xRnpvREFQXzZwLWVYWXNtdmgwQ2ZMSVlpNUIwR01LVUloZFoxREU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
