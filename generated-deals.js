@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-f55d25650c94",
+    "id": "news-2eb20fd4eba7",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T00:07:00+00:00",
+    "publishedISO": "2026-08-14T02:30:06+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "California regulators approve $34.5-billion Charter-Cox merger",
-    "valueBillions": null,
+    "headline": "CPUC Approves $34.5 Billion Charter-Cox Merger",
+    "valueBillions": 34.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
+    "sourceName": "Broadband Breakfast",
+    "summary": "CPUC Approves $34.5 Billion Charter-Cox Merger Broadband Breakfast",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3BjUHI5bWNVT0ZfM2p4MDZMTl9hcjFpTlpSbU96bmZfSllSXy00M05IM2pxcXdqRVdNWkF1WWp3R3VEUmV4cE5VV1NWdXZVMVc4QlJKNWNXNG5jNW5LQU9SV05pUF9zUmk3MFJWRjZBWWlUQ3c3Wks4WHBzVXVLZ241b0RVSzIzWWkxM2hVT0dTanlwb0lSbERxUGdETUstaUJKbHZhWU9tYWFWcFNVSzdISV9fXzFHZllFSXJsUnl1SXVo?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2NzX3R2ZGZxVXlzN2gycWZ6ZjhWdkVydHVnZnZJdGZmQ1hDVldJLURPeVloTHVZMm9pVEVMS1NZa2RkeDVyLUNUUXlLY3NKZDRHT0NudkpCRjhCelE2d2toUktnNzJON3kxVEhxbFUycjJrY19sM0M2QXRfeGdBS18xWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,13 +76,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2eb20fd4eba7",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T23:41:11+00:00",
+    "id": "news-f55d25650c94",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T00:07:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "CPUC Approves $34.5 Billion Charter-Cox Merger",
-    "valueBillions": 34.5,
+    "headline": "California regulators approve $34.5-billion Charter-Cox merger",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Broadband Breakfast",
-    "summary": "CPUC Approves $34.5 Billion Charter-Cox Merger Broadband Breakfast",
+    "sourceName": "Los Angeles Times",
+    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,12 +108,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2NzX3R2ZGZxVXlzN2gycWZ6ZjhWdkVydHVnZnZJdGZmQ1hDVldJLURPeVloTHVZMm9pVEVMS1NZa2RkeDVyLUNUUXlLY3NKZDRHT0NudkpCRjhCelE2d2toUktnNzJON3kxVEhxbFUycjJrY19sM0M2QXRfeGdBS18xWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3BjUHI5bWNVT0ZfM2p4MDZMTl9hcjFpTlpSbU96bmZfSllSXy00M05IM2pxcXdqRVdNWkF1WWp3R3VEUmV4cE5VV1NWdXZVMVc4QlJKNWNXNG5jNW5LQU9SV05pUF9zUmk3MFJWRjZBWWlUQ3c3Wks4WHBzVXVLZ241b0RVSzIzWWkxM2hVT0dTanlwb0lSbERxUGdETUstaUJKbHZhWU9tYWFWcFNVSzdISV9fXzFHZllFSXJsUnl1SXVo?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 13, 2026"
+        "date": "Aug 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -451,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-765d0cf09951",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T13:41:34+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "AvalonBay, Equity Residential merger approved by shareholders",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Multifamily Dive",
+    "summary": "AvalonBay, Equity Residential merger approved by shareholders Multifamily Dive",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNN09LNWJxLVE4TGl0Vkc2V2RVclpEMHV3WlcxTlB0U3VqcFp0OG52X1hwajBhNHlWSzBFSVM4V0pKYlFBNGZCbVM4RmhEd2JScm40eENDRXJwVHlIWDFJWjBzRHZTNEdUamlheldyOC0tV0FsWXotOVR4VXllYWxKSEJpa054YjVIVW0xSXJpUXRzX05zbUdEMg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b4c1bd836aa4",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T02:20:20+00:00",
@@ -709,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbjk3YlRtY3lXaXVSVXQxR3AzWFl3a19CY3dIZWYxS1B2SDdRNHRrQ1pucXd6QXhGSTJNQnF6dVhoQVR0STFNV1h4b1dSOVJhUTI2V1hHWU9SX1Y5UWk4LWhueE13QV9EQlZ6NGlybUtkbVRUWE92SGNZU01ZM1p2ZUEtS2FqTU9oQVJfTzlJUlBGWXg1VFHSAZsBQVVfeXFMTS05VTI0UDhUY2d0bkVLa0lSaV9wVmN2Q0F6NjA3R2JUVFZzSHRreXdlNmpMckgteUtBMmR0U1I5QzJpVS1EdDB1VTd0S2Y1cEk3RUZDWTBQQWRLamZYYjFrS0FlZ01LMDBQYUhUTVJKcVpOaDNzVXBxbV9YNk9TSXZNQ2gtYV9HUnFzY3lYWUQtVUw5ZlB6ZTRkSms?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e61f6b99e244",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "UN Women",
+    "summary": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan UN Women",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVFRZWUgtR1ZRS1BwcS1mWkhoSHhRSmc2SDIxNlRqMEVRdWpIWmFlZGd5cm9EMGU2Mkh6TGNlcHhOU3NMRF9oUTYydVJja2NYcGpuczU5cXFWUzJoYnZSVTZrb1M1T3NsUjRlb0t2eEdRUVl4eV9iVXBlLVE1WnViMDRBYlhNNEdBUGYzXzh6Qk9PaFFQWTZfSWQyQXVSRG9ucEdGSlNDc0lSZGw5aGRPTDFZMjgzR0trX2NzZldyVThnY3J5RjRpMnl0NU5JMXMtLUxSQVpQVnBNbzlzNC0yZUV2QTdHd2V5VDNsRUpLYkNiOFRBWU93V3FlQjQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,12 +1726,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7fc3be559cfa",
+    "id": "news-c9bb1e4450c6",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T12:31:59+00:00",
-    "acquirer": "Ondas Completes Previously Announced",
-    "target": "Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
-    "headline": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "publishedISO": "2026-08-10T13:05:31+00:00",
+    "acquirer": "Fenway Sports Group Expands Sports Portfolio with",
+    "target": "WTGL Team",
+    "headline": "Fenway Sports Group Expands Sports Portfolio with Acquisition of WTGL Team",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1590,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
+    "sourceName": "LPGA",
+    "summary": "Fenway Sports Group Expands Sports Portfolio with Acquisition of WTGL Team LPGA",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJOOW5lc0lmZFVRZEh0RjhtMDRDbkpqaGlSLWVPLWlta1FQNTFpb3lENUR5SFp6S3FqZVlrRHIyVzFFRXF6QTVvWnpmSUFvc0FyZi1CYU1YRGQ0U2h1MXUtTHVuOTBfbGprTlE0OTlpUjhXNWdHMENhN2liWEtHVFRhVktNWTdxRV82c1VWbkVacjd2bmtYQ3U5NlE4MDQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNYVh6UUdzX3hYMVB2eXJXRWNFTkZocldyLWtoeHZkSEN2eVgwQ3l0U1E2UktxcGFFbHBOcXJaOXdJSEJONlFPT3Z1a3djb0VLTTE4c2diSGJ6akhfQ3YtTXFKUUMycGUzaGYybm9XZkd0cHRGcEJkNU5OaERpSGpsNDRQSXNCWllIOTVlYWQ0WlRwYmw5RHNvV2JPS05LbkpyaWFQam1lSnA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,12 +1801,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e61f6b99e244",
+    "id": "news-7fc3be559cfa",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T12:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan",
+    "publishedISO": "2026-08-10T12:31:59+00:00",
+    "acquirer": "Ondas Completes Previously Announced",
+    "target": "Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "headline": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "UN Women",
-    "summary": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan UN Women",
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVFRZWUgtR1ZRS1BwcS1mWkhoSHhRSmc2SDIxNlRqMEVRdWpIWmFlZGd5cm9EMGU2Mkh6TGNlcHhOU3NMRF9oUTYydVJja2NYcGpuczU5cXFWUzJoYnZSVTZrb1M1T3NsUjRlb0t2eEdRUVl4eV9iVXBlLVE1WnViMDRBYlhNNEdBUGYzXzh6Qk9PaFFQWTZfSWQyQXVSRG9ucEdGSlNDc0lSZGw5aGRPTDFZMjgzR0trX2NzZldyVThnY3J5RjRpMnl0NU5JMXMtLUxSQVpQVnBNbzlzNC0yZUV2QTdHd2V5VDNsRUpLYkNiOFRBWU93V3FlQjQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJOOW5lc0lmZFVRZEh0RjhtMDRDbkpqaGlSLWVPLWlta1FQNTFpb3lENUR5SFp6S3FqZVlrRHIyVzFFRXF6QTVvWnpmSUFvc0FyZi1CYU1YRGQ0U2h1MXUtTHVuOTBfbGprTlE0OTlpUjhXNWdHMENhN2liWEtHVFRhVktNWTdxRV82c1VWbkVacjd2bmtYQ3U5NlE4MDQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1834,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdmdng3TnlOTjg2cE1NdHlHbDlPUFlmZmdmSklYWU5qLS1NejRaZXZCVXVrRjBsVGh0NjdkdXB4dG1fYmdlSlRNSjE5Rk9sNThscF9kQ1ZmV241ZmY4SHNicUwxZDZ4TThvSTVOZlFFRFB3VlFWMnBmaDVhM2RoZTQxN29xbUwtclp6LUtWTE9XejZXalZIVGZqRHZqcjjSAaQBQVVfeXFMTXUwRlNZY1BCQUZ1Qk9Kdngwbm9mRlVfbzZTcHdtQklTRE5jemFiekNEUmJHNHU1bW8xSVpVQ01BaGs0YVdaUFYwMW1hdy13dURzZ1pvb3JWYXk2TEpwRm9hd3pPTUNXSUFUWVpxcDhVSGdIeUFWbEQ1SVFzdDZ5RE54eHJXcGpZakhKZWMyVWRLamJfdTByczZMYzdmODBuSnRoNWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a1ff7ecac05c",
-    "date": "August 9, 2026",
-    "publishedISO": "2026-08-09T10:59:44+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Chase Briscoe Acquires Brent Marks Racing, High Limit Membership",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FloRacing",
-    "summary": "Chase Briscoe Acquires Brent Marks Racing, High Limit Membership FloRacing",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYkNLcmVhbHAtbm94ZmVSMVUxQ1N4MmpXR0FYdkJsYU9sYzJ6OWk1T29qVlRNQ0xfbXg1OFoxdGNMSTZ5UGo2a3h0SllicUZ2TnFJMDk3SEJPT3ZuQm9aMGRmNzNHc3E5VS02aldhcFRNSzlFYjA5U1o4QmtPRG50eEZvdURYVVlsdlVzemhqT0VLdXgwanlScTFhcXo2cTcxdHNQckZXX1A5dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUnNEM2NMblZUVmFyQmhpQ21ETTd2MU13VjNDVUtEdXVpanlFU2ZlejVUdTJZTWxSXzI3bUZQUDFCSFIyQ2U2WjctblZqQWN4cUlqRHBsR1A1OTMtSFBnZTRMM2JReUs2eDh1VUk2NE9PcVEybnU5UkZYOXpzRldNVVI4SFlJajRjY0JTZUtyYkx1eVJQdnRGSklBSFFjSWUzSjVxZDR3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d48a3c43bdf9",
-    "date": "August 7, 2026",
-    "publishedISO": "2026-08-07T12:42:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Lionsgate CEO Jon Feltheimer Supports Paramount-Warner Bros. Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Lionsgate CEO Jon Feltheimer Supports Paramount-Warner Bros. Merger Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQeHV4SDFSMDh0WUQ0allfMHhjWnUyUTlLRjl2eG1SMFVyNW53TFZ1LXlCTjNiZnpNQUFKTHBBN1FaT0VvWHpwOE5YMWlBSF9hZUVUaDlkSk1xWTNmRHJiTm92LWlEVTZMTkRUbllrLVB5RlpYczk2dzZnZGozRjV6UmFOUnJnT2diWnlXQkVqbUxVdzczN3Atd3ZMeDJmb2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
