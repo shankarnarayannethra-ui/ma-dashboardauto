@@ -151,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-934616f6df38",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T19:37:28+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Workday stock surges on report of acquisition talks with Silver Lake",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Workday stock surges on report of acquisition talks with Silver Lake Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQd2hvLUpYMVZwVWdKRk1laEkxOWJ6dTlpbGplaVk2TmRJdnQ4X0ZOX08xR1QwUk9STkpQN19sRFB3eFJwSlB2ek9yUXluSjhzb0pxeXFiZUNWVDdzZFl0dlRFQUtjTkY5LWplbXdCNUNZOWN6VFBBbjZIckp3TVpLS2l1VHloVFdlQjJqSFFBaDNERHYtRXpqYUc1Um1NR3VfLUdPUkt3d3ZFbkU0MWxkR1JtMTF4dWk2c0JpaHVwQUJ6d0U?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-388b5f60a467",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T18:47:17+00:00",
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "semafor.com",
-    "summary": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger semafor.com",
+    "sourceName": "Semafor",
+    "summary": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger Semafor",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -409,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOWDhod0pwNU0xQ0kyUURMWktTeUpLNGowODl1N3RHNFQ2dHpEMWVQT2V1NjhrekRwODJZaGhOVFV6aWtqZUdVbko0dE9XU04zcTVYNnlUcGtWQXo5R1ZMQlB3Ul9YeE1kTzB0eE9ObG96aEFCeHU5bHBiUXZKc2ROWE93T3RHRHIzTlUwUEhZZjZ2MkliMHdnWGtfRFpwYm94M3ppSjNndm9YdGxLclVabkJGNlQybmdSbXE5bE5oVTkwS2lWYlpzbFF4Yw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f227eb56194e",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T00:14:00+00:00",
-    "acquirer": "DGA",
-    "target": "IATSE Push Rob Bonta to Allow Paramount-Warner Bros.",
-    "headline": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "DGA and IATSE Push Rob Bonta to Allow Paramount-Warner Bros. Merger With Conditions Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPemdYUFVFcGNsbjhGU25pczFLZTgwS1lLdy15aTQ3NVVxTWREQnV5cFNqWFdQWWpVT0JoaEgyeEpmSFlQVlEzQVRWdjJCYXJjM01MWUttakJXS1dzTUtVNjFlYnRIb1gtZkdmOVRucnhXUGtxT2VEVm5TdzdVWk4zc2dneTBZY3FFTEJHaXZEZmpnbUQ2bFVpZEtULThwaDU4c0FJWQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1a9997761f81",
-    "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T12:39:04+00:00",
-    "acquirer": "Energy Fuels'",
-    "target": "Australian Strategic Materials Wins Shareholder Approval",
-    "headline": "Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Energy Fuels",
-    "summary": "Energy Fuels' Acquisition of Australian Strategic Materials Wins Shareholder Approval Energy Fuels",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQUWh0Q3NQVUN5MFlqc1dOckowWmRXZXl2UlFnZjRnUEZsZWRqSUthYTNDUVNBMFgwTWtjUHZSeWNvUFB6clVoVjNwVG04U2diMXY1MzdnR3VfRFFWM2o4Z05lSEVWNy1hdk8ybE1GWmlkemdUSjlZR2lleFNONjUtalpHR01oREhNTGxuYnIyUnM0aUhMT2htVGFUSXh3VmxCU0pGT1R2UFprckpUVVZhYnB3UUp4Mm9pbHNpcm9zTVVvZlk1SlVUWA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6fbc50826064",
     "date": "August 12, 2026",
     "publishedISO": "2026-08-12T01:41:00+00:00",
@@ -840,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Paramount-Warner Merger Lawsuit Should Settle, Becerra Says Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Paramount-Warner Merger Lawsuit Should Settle, Becerra Says Bloomberg.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1126,12 +1051,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5bcd354cf29c",
+    "id": "news-28bf4ab44995",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T12:06:59+00:00",
     "acquirer": "Joby Aviation to Scale Defense Business Through",
-    "target": "Resonant Sciences",
-    "headline": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences",
+    "target": "Resonant Sciences :: Joby Aero, Inc. (JOBY)",
+    "headline": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY)",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1141,7 +1066,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Joby Aviation",
-    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences Joby Aviation",
+    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) Joby Aviation",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1726,6 +1651,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-e61f6b99e244",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "UN Women",
+    "summary": "Five years after the Taliban takeover: the normalization of the exclusion of women and girls in Afghanistan UN Women",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxOVFRZWUgtR1ZRS1BwcS1mWkhoSHhRSmc2SDIxNlRqMEVRdWpIWmFlZGd5cm9EMGU2Mkh6TGNlcHhOU3NMRF9oUTYydVJja2NYcGpuczU5cXFWUzJoYnZSVTZrb1M1T3NsUjRlb0t2eEdRUVl4eV9iVXBlLVE1WnViMDRBYlhNNEdBUGYzXzh6Qk9PaFFQWTZfSWQyQXVSRG9ucEdGSlNDc0lSZGw5aGRPTDFZMjgzR0trX2NzZldyVThnY3J5RjRpMnl0NU5JMXMtLUxSQVpQVnBNbzlzNC0yZUV2QTdHd2V5VDNsRUpLYkNiOFRBWU93V3FlQjQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9c52e96d8d2f",
     "date": "August 9, 2026",
     "publishedISO": "2026-08-09T22:02:39+00:00",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FOX 9 Minneapolis-St. Paul",
-    "summary": "Minneapolis scooter takeover: Scooters and bikes ride onto I-35W, around downtown FOX 9 Minneapolis-St. Paul",
+    "sourceName": "fox9.com",
+    "summary": "Minneapolis scooter takeover: Scooters and bikes ride onto I-35W, around downtown fox9.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "spacenews.com",
-    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites spacenews.com",
+    "sourceName": "SpaceNews",
+    "summary": "Senate installs new chiefs for U.S. military space acquisition, spy satellites SpaceNews",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
