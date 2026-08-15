@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4f8f2f88b13d",
+    "id": "news-9549bd84af00",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T21:15:00+00:00",
+    "publishedISO": "2026-08-14T21:30:54+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount-WBD Merger: David Ellison Complains About Cost Of States' Antitrust Suit",
+    "headline": "Paramount Seeks Settlement With 12 States Blocking Its Merger With Warner Bros.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Paramount-WBD Merger: David Ellison Complains About Cost Of States' Antitrust Suit Deadline",
+    "sourceName": "Forbes",
+    "summary": "Paramount Seeks Settlement With 12 States Blocking Its Merger With Warner Bros. Forbes",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxON3Vua0xBT0RuclpJSjR1b2pvd2xqX003REkzdFB2TXU2WnlPRDNEQlQxN1RhWjJMelhiZ0J0SkVaM2ZYMWZWd1dqTDdudndkeTJ2YkUyT3pGcEZjOERwUDB4QklHUXpEbk5HSEZQUXJjMEhtLUY5amxQWk5vWjhWaW5MWHh0UFR1QktiY0dGSzZxWGllWDc0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPRE1PRndoUTF1RjVTcFhjd2dyRDBUTmtjcTBVdFAtbDZKNkNzS3RyTXlRajAtSW0zNkJicl9JRVplQTJJTEpVZGFCUTBjVVdvamZVTEZ4dURIczRGOF9rQzZZdVg5QXBIZTloV1hOMVE0aS14RERlLTIxR1dlRnFweU80WnUyX2xNNjFGUmxrTkp0ZXU2S1JUZ2dzdXhNR2tob3o1U1VsZDV6X0RuMFN6c3hzaGFNOXRGZkh6WHQ2SjVva2lrX3kzNTl5bGY2OThCUlE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -259,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwJBVV95cUxQRDMyelNIODlDalppbUU5WW1FdTlvVTlNa2UwZmlsbUNEVkNRZUs5bHJkcVlHTG9BYVpyd2NpU0dvNXp1NzdkX3BBejIwYV9FM0FPd1FpQ21QSVZVSnRMQ0RMa2FNU2QtbWNmejdPMHZ3X2lkNDd2YThjUEdGaDFqeDNnQngwU09tRDZrTzBGaTlpc2IzWks0R2Foel94MFY1dEJLWE0tUTF1ajNGVmpJYjRvZTN0V0ozY1B1czh0YTBOVTFnMlZ3QnBHRTNyR0N0dl8yVG5uaEFZWXUxelhPRHB0OTZJX2FyS0NISFdVcG04aE1Bcy03X2N1N0t6bnhEZEhBaGpuc1BGd2lSX0k1WnM0N1M1eDg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e8501ca4d5f9",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T20:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-98a42a7fa651",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T11:52:57+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Workday takeover chatter could mark a turning point for software stocks",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "finance.yahoo.com",
+    "summary": "Workday takeover chatter could mark a turning point for software stocks finance.yahoo.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVlaNlpMSWNMQ2o2dFpKZExmTnM2MjFGaXNMTzBXSF9ZZmVSSE1vTzRSXzNlRmNnUlVTX0xGc0pObXNhR2lBOW5TMUd6M2swSFEzY3VEYWYxazNrVk1TbkdheUtwTjhxMUxSZVdFTlZBWTA3cWZfY0hsZl9HcFl5LVlEUjlYazVPS1VpbkR5cmRtMHZMNkJWcnhCaVMzYTZheVlmdmE1MjJQbXBjQzB0TW5yWjZCeDdMc2llU1dCUHg0eUhCaTUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f3c57faab112",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T11:23:01+00:00",
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "California approves Charter's $21.9 billion Cox Communications merger Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "California approves Charter's $21.9 billion Cox Communications merger finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "California regulators approve $34.5-billion Charter-Cox merger latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,81 +901,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7d334ec3d54f",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T19:37:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Workday stock surges on report of acquisition talks with Silver Lake",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Workday stock surges on report of acquisition talks with Silver Lake Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxObEhoejAtLTRXRVBoal9raTg3aWlJSUs1V1dKaTlNSzVvTXRVdFFPZ3U5OEFXRkNHRnpIYm1EWVVxU3BYRF80bE9iaUhiNi1NVlNqa2c1eTlRZXNvaTZab0daN2lOZzhnNmZrWGpuMTE5QXlfd1JaRERsRFl6eHpITF9sdmg5VEZlNjBJVEpaVFdjYVd4akJ5NDhVRjJSTmQwOXRZdUF5SVBPcnBqOTZWeGtrVzZkNGd4RXVDdmtJRExUUDU2cU1JMFIyT3o?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-388b5f60a467",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T18:47:17+00:00",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Workday shares post best day in 10 years on Silver Lake takeover report CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Workday shares post best day in 10 years on Silver Lake takeover report cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1276,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-7b9c2be3e183",
+    "date": "August 12, 2026",
+    "publishedISO": "2026-08-12T22:18:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Austin ISD faces a potential state takeover. Here's how that's played out in Houston",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KUT",
+    "summary": "Austin ISD faces a potential state takeover. Here's how that's played out in Houston KUT",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQndDRWo5NkFUN3lvam9jRktqT3d1OUVvQzIxY3ZZb215T3RZV2Z3R3loT21jZnhUUnZjOUloNTNoeE9ES0I1SmwyZFV6N3JpOHRfTlk2Wk9zMHJ4bTlVSmJvUFRwQ3IyV3QyZGp4WXdFc28tN0tOQVBPbmlnc1htRDZfaDVKck8tdEFXdzVrUWdtMHRfUEpfdjBoY2R1NTBaRzdHdldFWFVGVzFHZVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5d9f53ea0437",
     "date": "August 12, 2026",
     "publishedISO": "2026-08-12T20:01:00+00:00",
@@ -1365,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Wendy's stock jumps on report of potential takeover bid from Nelson Peltz's Trian Fund Management cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday wsj.com",
+    "sourceName": "WSJ",
+    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,81 +1909,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlFPckVnUTEwVzRBc3dlcnRGbVhKa1hRWlQ1Rng0aW9lMV94M21zQU5hdjNfOWRibm1GYXAzUzJOY0gxRno2blFrYVp4R1Z3TVRDMi1ubFhwdm9wTnlMRW5JZ1NJaVRuWGpPcWg0aWI1WUE4cXpNaDZySUtZb3VnUnJKTURYeDBJMXloSGxOdVVhRGZMdHNSaUd3bW1yckhNMUhnc2FR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-03d9326453a6",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T18:47:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cleveland 19 News",
-    "summary": "Cleveland police arrest 7, tow 8 vehicles in street takeover crackdown Cleveland 19 News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVWxVUUpDSVpCLXFzR0RDdEQ1RHBjVWhnd1duU0tsLVhYTWhqcG93UVJxajRDZ0FKZjhsaDNSN0xMaGVkamtmd0x3dUVwZ0xUM2g2dGt5bDJMQ25GYUpBQ1ZQb01yc0ZhaW9OY3dpUnZDMnVsUTFsM0JPekdsU05jd2JPNUgtZy0zNl9FUWFOT1hZbjJSaC13eV9LT3VuOC01Vi0yVW9iX19IUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f5b5b2c34004",
-    "date": "August 8, 2026",
-    "publishedISO": "2026-08-08T13:45:12+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "AutoZone store ransacked during street takeover in East Los Angeles",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "AutoZone store ransacked during street takeover in East Los Angeles ABC7 Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOSHVYcWljM21XUGNmdXozam0ya0wwN0JaZWNLck14LU9uUWZWc2lfUVViRG53QUpjckZZeUpUeVItSDBMY0x3NzV5YTl3RF9LdDRpUmgtS1ZfZ0hKZWVRRzNHMW1rM21ZdkJWYXRqQlVZZ3c0bTBERTROeTU3NWdBdnBkMU9XQ1I0VFREMVlfN1NHd0ZIUlg5ajd5Zk7SAaIBQVVfeXFMT2M1cmFWcW5DZ2VjSWRXRGYzNWNFelRXM01LQnFVQXVkTlZfVlpMeExqSzBOU3pmUlBPWEhUVGtMTDVGSTU0T2F5d3lDTEJteDI2MHpPSl95YUZLV09hdFZpXzY1Mm5YSGgxWlFxaVRlLUxHeE5BNEY4TzdkSEhCX18tZldpdms5MUdsM2VaZzJFcm5uMllUR0EwMFZBQVVpTGtn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 8, 2026"
       },
       {
         "stage": "Terms verified",
