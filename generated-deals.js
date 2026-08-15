@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-4bc07bb617ad",
+    "id": "news-9bee20ef2df6",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T23:13:20+00:00",
+    "publishedISO": "2026-08-14T23:14:03+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "700 NYPD officers deployed over the weekend to stop Dyckman Street from possible 'teen takeover'",
+    "headline": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover'",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -16,7 +16,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "ABC7 New York",
-    "summary": "700 NYPD officers deployed over the weekend to stop Dyckman Street from possible 'teen takeover' ABC7 New York",
+    "summary": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover' ABC7 New York",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -34,6 +34,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalA1UmRSa1NJWk96NkV0ZHRBUmN0bkt6UVdqZmNhYnpJZkhBN0JNbmltOHJIeE9nU1NydHBwOU8wRDBWT2FSR0xBM2RsZGN6VkViQlZXT3E2MTc2akZhSnZzd0xmaE94NDZNX2pFUm1RcFlrblZpNm9sNktYdGJKQ2dLdVpHMW5YVVZ0eW5FTkpMLVBjU0ZMVU1NUnRoQTNVdXo0bldDb09MSm9JU3ktatIBtgFBVV95cUxNMHNpSlVuSmxQbXd0dERyQlpYaDdjTkxGM09leWNvNHNvM0RyczEtZFBnT29YSHB0TnM2LXE0Ty1vRFpFWDlCZHFjT1I0VV93NGZHN1lXbXVEZk5ZZXVyYnJaMFhKeVE0eG1NYWdFaFloTE04NXFtTjZkdVhlSGRZV2hVOEFvMmg1OUVkemdMWG5ybWJRdzVZZnd0bjdyeG1fQlRiVE1XRi1VR25CWXZZNzE4NGNqdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ab211b56506f",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T23:11:54+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion",
+    "valueBillions": 53.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSk1ZLTRBMmVzWE4xLVNST1d0UDZQNVY3b21oWFRNWmNBWi1jU1lscV9BMlpQQ0MxdlJIdHgzaWlEYURvTUZ4cGdfcy0wUHhWUzUwRlZvWlFKVEo1OUI4UXFHZGs1MENHZ19mcGVOMl8xM3lfOHFkbjhvS2otbDR4YUFPeEpibHNFcHdYY2RTd3NZWmo5X045Wm15SkgzZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -153,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-c82ffff8745e",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T20:48:45+00:00",
+    "publishedISO": "2026-08-14T20:49:38+00:00",
     "acquirer": "Core Scientific Completes",
     "target": "Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power",
     "headline": "Core Scientific Completes Acquisition of Polaris DS, Advancing Planned Muskogee Expansion to 1.5 GW of Gross Power",
@@ -226,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e8501ca4d5f9",
+    "id": "news-ed40f7f088dd",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T20:30:00+00:00",
+    "publishedISO": "2026-08-14T17:38:48+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
+    "headline": "Workday buyout may restore confidence in battered software valuations, analysts say",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left Variety",
+    "sourceName": "Reuters",
+    "summary": "Workday buyout may restore confidence in battered software valuations, analysts say Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNckhpNTJ6R0lFYnYxVDJfVG5xZGtHdWpyUVZOSFVYbWh4SjNsZ2ptcnlTWDZCZHdVSkhZVWZWZzdrLVctQmhlTExoNTNETzdaYVUzSTNnZ3hxZnpKblZ4QTV4QUpoX3NLMGJtVWd2alZwQUFSbWRjNXYzQkFqeGRrbXBQYkNvT1R4THhiaGJ4ay1CMjhtOXRGbDF0SUlRSE9SNmZ5Snd3RkZMM01IUGtVTlRnbENTdW1meUdUUVM4cXd4dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,13 +451,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-98a42a7fa651",
+    "id": "news-f3c57faab112",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T11:52:57+00:00",
+    "publishedISO": "2026-08-14T11:23:01+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Workday takeover chatter could mark a turning point for software stocks",
-    "valueBillions": null,
+    "headline": "California approves Charter's $21.9 billion Cox Communications merger",
+    "valueBillions": 21.9,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -391,7 +466,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Yahoo Finance",
-    "summary": "Workday takeover chatter could mark a turning point for software stocks Yahoo Finance",
+    "summary": "California approves Charter's $21.9 billion Cox Communications merger Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVlaNlpMSWNMQ2o2dFpKZExmTnM2MjFGaXNMTzBXSF9ZZmVSSE1vTzRSXzNlRmNnUlVTX0xGc0pObXNhR2lBOW5TMUd6M2swSFEzY3VEYWYxazNrVk1TbkdheUtwTjhxMUxSZVdFTlZBWTA3cWZfY0hsZl9HcFl5LVlEUjlYazVPS1VpbkR5cmRtMHZMNkJWcnhCaVMzYTZheVlmdmE1MjJQbXBjQzB0TW5yWjZCeDdMc2llU1dCUHg0eUhCaTUw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObVhvQjl5dW53Nk5WRm1JTUFvY2JDMFY3cEVDQ3JIbFd2ZjBMRW15b1Boa2xfSU92YnZ0ZGU0aG5BVC1MQjVTem9fdERDbjhZRE5WNlRSNjVMMWVtd0hXdW5ZQzZYSkMxY3hRekVYZjFMTTF0T2FuRGFsaFJ3X2pZc1RianMwUWN6bDRzXzlhbnVPVWdKdGpMcXNVZEY1N3l4Z0Yw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "clickondetroit.com",
-    "summary": "Detroit police shut down Lime scooters amid reports of possible Teen Takeover clickondetroit.com",
+    "sourceName": "ClickOnDetroit | WDIV Local 4",
+    "summary": "Detroit police shut down Lime scooters amid reports of possible Teen Takeover ClickOnDetroit | WDIV Local 4",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1314,81 +1389,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e63be6093049",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T21:15:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Aurora Cannabis to Review Takeover Bid From Rival Curaleaf",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Aurora Cannabis to Review Takeover Bid From Rival Curaleaf WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeHFJWjdob1duMTdLZW92bFZUTGJseXNYYXNULTFIZHk2NHZVSURLUHpBOVBPVFhERzVKSnlBdXBEOE9VR0w0ZEdXLVduc1VzU1lLaFg4WmwyRE5Iams3NWE1Smgyem84LWhPOGZoOGNGLWN3ODJrd2Jwb3lpVXl3VUlYM0oyZVJHYzl4c0tPNkJkbkk1?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday WSJ",
+    "sourceName": "wsj.com",
+    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
