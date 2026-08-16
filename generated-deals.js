@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-62757b0f7567",
+    "date": "August 16, 2026",
+    "publishedISO": "2026-08-16T12:23:55+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "NYPD deploys 700 officers in Inwood, Washington Heights amid fears of another Dyckman takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 New York",
+    "summary": "NYPD deploys 700 officers in Inwood, Washington Heights amid fears of another Dyckman takeover ABC7 New York",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUZXRkYzSXAyb1Q1RG9vWThlS2FoNTFubjhOQ09OOTdoSzFMSjN2bjNjSURQT1BpQ3JaUWFldF9vdS1aVGFxQ1RhZjNhOE5ScmJ4T2t2S056LUh5YnRoay10SE9CMEdHS3U2aURIVmxEMDU3RW9TQnVKRVo2aGV4Z1lRYWh4eDkxVUloZmtXcW1ISmsySE9wUVhLSGRDeThIeXRWVnI2czNlQjFMTFJFMDlnN2w5WFRpZkdpd2ln0gHDAUFVX3lxTE1hMGhFZHpuRlFoekVUY2c3WHJIZHFhNHRFMXFac0NnTk9hUlhFSk9MWHJFcnBFdU9OZ0tCUzZ1YTBXdTNMdXcwSzVrOUpGZkhvOE1TTjIzeWZEbUNlbHBiTU9WQmJnSlpzcHkyalFQQ3JLMTFnMGZwY2JQSW0tWGlfQ254MnlmSXlYRS1pWmZseU9YWWxFc1RCT2ZXUl9OMFNSUEppS3kyVXpIS1preGQwTFhyckx1cDB1TkNldHVqRGFvaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a987ee04c7e8",
     "date": "August 16, 2026",
     "publishedISO": "2026-08-16T00:33:42+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8a102d1bfc58",
+    "id": "news-2450c2001476",
     "date": "August 15, 2026",
     "publishedISO": "2026-08-15T17:33:32+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Brandon 'street takeover' leads to 16 arrests: FHP",
+    "headline": "Street takeover arrests",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -91,7 +166,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "FOX 13 Tampa Bay",
-    "summary": "Brandon 'street takeover' leads to 16 arrests: FHP FOX 13 Tampa Bay",
+    "summary": "Street takeover arrests FOX 13 Tampa Bay",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,82 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITFItZzRZZ1pLTzJpbFM4QTdKVzVGTUdhQWI1aUVZX2ZtblpOTVBHWTRFaGVUbmxtbTNENjZ0NzRobjJFTTJUZ2JRT0ZLcUZuSkk0aTBlbW05czRfV1VyRWpxaHlEOV9iR1ZiU21LZ1FmQ0xt?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-30854c77f4b7",
-    "date": "August 15, 2026",
-    "publishedISO": "2026-08-15T16:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SpaceX officially closes its Cursor acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "SpaceX officially closes its Cursor acquisition TechCrunch",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZVFYV1ZRV290UncwUWl4NEtCcDZDdGd1QTByQ1pXQWwyVm5QNDBTNFRTOHdHSjI5RnNweWRhTUdwdEZZczNWTEVhUUZ4UHBxSGsxYUFSQURiaHB6TnVWVHowaGpfWW9vMExXUUZSTV9tNVM3OEoxVUpGeHUxTURVbmppLTNYNWNwRWc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITFItZzRZZ1pLTzJpbFM4QTdKVzVGTUdhQWI1aUVZX2ZtblpOTVBHWTRFaGVUbmxtbTNENjZ0NzRobjJFTTJUZ2JRT0ZLcUZuSkk0aTBlbW05czRfV1VyRWpxaHlEOV9iR1ZiU21LZ1FmQ0xt0gF6QVVfeXFMTmplSE1yUmdSNENURnpxRFFXZ3pXWGRCVzhUTzRydUtJWkdXWWs1UjdPT3lGbjk1QzB3Wm8xTnBFYnNJLWs4Sm1NN3dmRWdseXc3TmtoMjlMVk16Y3FITjBuS2h4R0NFdjZFUGJBRHBDYkxrYkVJQ0sxN3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9624736a53f4",
+    "id": "news-994d1c8e45b9",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T15:29:00+00:00",
+    "publishedISO": "2026-08-14T15:29:10+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks",
+    "headline": "Phillips 66, Marathon held now-scuttled merger talks",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Semafor",
-    "summary": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks Semafor",
+    "sourceName": "Yahoo Finance",
+    "summary": "Phillips 66, Marathon held now-scuttled merger talks Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDM3NXRoVzRjRHE3RXBHM2preXg3TDdPcWtydmVhbjdFc1c1ajEyemNSYnhZeUNKYXdSTWNBZ2hEbjNIZHNDTHRyeW03azlZMmJkR1A3aHBrN2YzWE1TUDBYUjJpUFJtYmpTMnBhTGJHMklCakJLMVIzX2g4dmlsOVk0aE5PVWdlOTRjWGZmMzZTMzdlcEJOMWx3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGFsZHpKVHhTcFU1WDQ0dGRGT1NFeXdJakFIdFhDLXNuWjNzajRWd05uMHh6aU5iUGdDOVpLYW82X0gwZUdxdEluUFVjc24yOWc2TTF5S3RKRy1xeHF2Zm5Scm5Ja3pnczVNekNHcnNrRjRfZ1YyM0NSWkpzQlJjdmhDN2pyN2tOYXhJazFzOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,81 +976,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6d8128a80da5",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T06:46:08+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Offense and defense battle at the Red Turf Takeover",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Eastern Washington University Athletics",
-    "summary": "Offense and defense battle at the Red Turf Takeover Eastern Washington University Athletics",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNlZ1MGZOSGlrdnZHWFBUejEyUzNEVnhkOVc3ZHlIVGtteWlwYlZTa0xuLWdZYm9Kb1poYmRTY3NfVnQweXBqOXU3MzY4WEpweTVEd2w0andDbVlLQ3pzVkVVcUdvalRjbWNXbzh6bVJick45OTVrQWQwMEZBckQtWFBWNm83WDNsLUJGUVNTSFlyY3RLd0l5dktDTFc0bmNlbHRma0M0RGFLZ2pJY0ZtbnRvS2E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f55d25650c94",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T00:07:00+00:00",
@@ -1159,6 +1084,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOQ2NzX3R2ZGZxVXlzN2gycWZ6ZjhWdkVydHVnZnZJdGZmQ1hDVldJLURPeVloTHVZMm9pVEVMS1NZa2RkeDVyLUNUUXlLY3NKZDRHT0NudkpCRjhCelE2d2toUktnNzJON3kxVEhxbFUycjJrY19sM0M2QXRfeGdBS18xWQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0ec2c7f2e000",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T21:20:07+00:00",
+    "acquirer": "EXCLUSIVE: Silver Lake in talks to",
+    "target": "Workday, sources say",
+    "headline": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPbDFoSlRtR1RvcWRPUmFxenVMN09MZU0wMEpuTlI3a19xamlXeXlQcHZReEt3WXFXU3llTDdvQVZTZExrZFRVWGdrNDFxRnRTLVRJeXBxejlXd3hmSmhFdFNqY1FlRXkwTVpfeUJhODdfSGFuWFplcXRTeElXX0hFZkhhUFVlYmN6ekNZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1384,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmxJZkpXUUlBY0FZWkNMdGRhTzU3RWZGWnBVT2lvZjFZbm5IT1RMRWtqalhnaGl0aHhMaTNSNHNsWHRFdlViMTl6MWVnZjdocldXclgzX3Zwa1ZWS1ZJUXl4N3gtcGdZbHNWSmRxeEh3dWdSWW5DYnJrNU9wRWxkZDhzTk1hQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4ac2fd95637f",
-    "date": "August 13, 2026",
-    "publishedISO": "2026-08-13T17:08:25+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Texas Observer",
-    "summary": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks The Texas Observer",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4aFFQTlJpZUhRdXZrcG1qTnMxMVQ5UTJPS0pnQ1EybUhjcHV3WmFkcDhVeDZLb3gyTHNyVGVzNmoyUy1VOUo3YkpnQWZ1V2ZEUHNTcFhTLTU2T1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,6 +2059,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7fc3be559cfa",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T12:31:59+00:00",
+    "acquirer": "Ondas Completes Previously Announced",
+    "target": "Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "headline": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJOOW5lc0lmZFVRZEh0RjhtMDRDbkpqaGlSLWVPLWlta1FQNTFpb3lENUR5SFp6S3FqZVlrRHIyVzFFRXF6QTVvWnpmSUFvc0FyZi1CYU1YRGQ0U2h1MXUtTHVuOTBfbGprTlE0OTlpUjhXNWdHMENhN2liWEtHVFRhVktNWTdxRV82c1VWbkVacjd2bmtYQ3U5NlE4MDQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
