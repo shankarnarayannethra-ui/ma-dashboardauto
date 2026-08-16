@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5d690f3cc290",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T21:57:05+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "NYC officials say they're aware of teen takeover plans for Inwood Sunday",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "NYC officials say they're aware of teen takeover plans for Inwood Sunday CBS News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBnT0V4Nml4NUROdE1udEc0Z2phc3NfNTRES3hSZ2lsZlIxOWdvLWJDaXdCSHZrY3ZWT1E5cEc2MjA2WU9SNnJKTXE2My1jdWt1MEFVVUY2LWtSSmNRdnNNRkV4ZEYtRXNvT0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9549bd84af00",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T21:30:54+00:00",
@@ -526,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e8501ca4d5f9",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T20:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ed40f7f088dd",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T17:38:48+00:00",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Workday buyout may restore confidence in battered software valuations, analysts say reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Workday buyout may restore confidence in battered software valuations, analysts say Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1651,7 +1651,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-82d2fab55c76",
+    "id": "news-5288c72a621d",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T19:35:28+00:00",
     "acquirer": "Potential acquirer",
@@ -1683,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gG7AkFVX3lxTE1qbFpsQVJmZEFyUGNnWkdWc0QzRkg2a21hdnNzenVmeEZ0bm9rM0prd1RsVC1xWlR4UDdvWGh6ZjVjSy1jc2YtVUd5SFFISnpvX3FDWEY1ZHlFVjAteEpCVHFkM01YaGxrT1FZZGFpNUxnS2dvZzZncGRXVlRPTVg2UlBrQnk2NU9PdldLVWNoTk51aUk1MVJfSjhBbldUVktWdURjdlI3bXdwNjNxaHZwc2ZmblFwTXhCUHB0NmhtTy1LT1FYMlNCc2pqRnlHM2RzanZPQ1BsVkpOc084ZG8tbktTNll6NjNVTWg5Sm85dm5rLW5DN0lHS3N6M2hTYVhrcnZZWmRUYnBYSnJNYUN4b0I3a1phcUpqYjJic2F4OFpod0FjNDV6MzRrUXU0N0N3RmEtcm9Ld0hyQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gGCAUFVX3lxTE0wSVo5d2xCSWtYZ2tfd2FfS3dpbVR2VmtkVkVQLThXamJwRUEzRGc3djhwUmtCeXpaa01ZLUR2VUVIcVJFR0ZzalNjNFNpX1RmYWNaT0lEaFF1M09pMGJNVmdJRFVOSUw4UG9wNlhJVzdLTHNBT1RlUVlCXy1qZVpmTUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Joby Aviation",
-    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) Joby Aviation",
+    "sourceName": "ir.jobyaviation.com",
+    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) ir.jobyaviation.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-837064f2015d",
+    "id": "news-78e27b57302e",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T22:42:00+00:00",
+    "publishedISO": "2026-08-10T17:30:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Lime scooter takeover sends hundreds through downtown Minneapolis",
+    "headline": "Opinion | California’s plan to block the Paramount merger is going to flop",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MPR News",
-    "summary": "Lime scooter takeover sends hundreds through downtown Minneapolis MPR News",
+    "sourceName": "The Washington Post",
+    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop The Washington Post",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlFPckVnUTEwVzRBc3dlcnRGbVhKa1hRWlQ1Rng0aW9lMV94M21zQU5hdjNfOWRibm1GYXAzUzJOY0gxRno2blFrYVp4R1Z3TVRDMi1ubFhwdm9wTnlMRW5JZ1NJaVRuWGpPcWg0aWI1WUE4cXpNaDZySUtZb3VnUnJKTURYeDBJMXloSGxOdVVhRGZMdHNSaUd3bW1yckhNMUhnc2FR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.ondas.com",
-    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence ir.ondas.com",
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
