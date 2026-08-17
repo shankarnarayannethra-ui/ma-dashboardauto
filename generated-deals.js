@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-c93a9372e46b",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T00:07:40+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "L.A. street takeover acts as cover while thieves ransack liquor store",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KTLA",
-    "summary": "L.A. street takeover acts as cover while thieves ransack liquor store KTLA",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlpSm5KblBNUXg3Sk1IRnNzM1cwc21wY2o4bkdPX1BTbWRfTF96TldlTmxQOXJPZ3R2bGRuZ0lkOTFuYWxjSFhLU29PZ2piOG5pcW9UTUNVbDlZVVh6aGhKOXk1TXlPYlh5VFMwcUluZFpjM1FjV0VlRGQ5c2xpNVh3ZDV1Z9IBiwFBVV95cUxObEY3LTFnLWw3RTctdElMTGgwSDlYTHpwMFJNMnJmQ0hCVmJoaWNobVR0Y1RmUW1KZzlFVzcxYUR4WmhKZ004Q3Z3UkRQSi0wRTRfMzdGSnE5U2cxYXRUbDBONGROX3czbk9nNVRnVG0xWTVpTFgzZHIxNDV6SVhkUElHS0VPUUY0d3Vv?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-2105de2a14e8",
     "date": "August 16, 2026",
     "publishedISO": "2026-08-16T23:15:00+00:00",
@@ -151,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-62757b0f7567",
+    "id": "news-019be96c38d7",
     "date": "August 16, 2026",
-    "publishedISO": "2026-08-16T12:23:55+00:00",
+    "publishedISO": "2026-08-16T13:29:10+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "NYPD deploys 700 officers in Inwood, Washington Heights amid fears of another Dyckman takeover",
+    "headline": "15 arrested, 7 vehicles impounded during street takeover bust in Suffolk County",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 New York",
-    "summary": "NYPD deploys 700 officers in Inwood, Washington Heights amid fears of another Dyckman takeover ABC7 New York",
+    "sourceName": "FOX 5 New York",
+    "summary": "15 arrested, 7 vehicles impounded during street takeover bust in Suffolk County FOX 5 New York",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNYUZXRkYzSXAyb1Q1RG9vWThlS2FoNTFubjhOQ09OOTdoSzFMSjN2bjNjSURQT1BpQ3JaUWFldF9vdS1aVGFxQ1RhZjNhOE5ScmJ4T2t2S056LUh5YnRoay10SE9CMEdHS3U2aURIVmxEMDU3RW9TQnVKRVo2aGV4Z1lRYWh4eDkxVUloZmtXcW1ISmsySE9wUVhLSGRDeThIeXRWVnI2czNlQjFMTFJFMDlnN2w5WFRpZkdpd2ln0gHDAUFVX3lxTE1hMGhFZHpuRlFoekVUY2c3WHJIZHFhNHRFMXFac0NnTk9hUlhFSk9MWHJFcnBFdU9OZ0tCUzZ1YTBXdTNMdXcwSzVrOUpGZkhvOE1TTjIzeWZEbUNlbHBiTU9WQmJnSlpzcHkyalFQQ3JLMTFnMGZwY2JQSW0tWGlfQ254MnlmSXlYRS1pWmZseU9YWWxFc1RCT2ZXUl9OMFNSUEppS3kyVXpIS1preGQwTFhyckx1cDB1TkNldHVqRGFvaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMnlwdkNvMUkxSjh6OTIyRzFXQ2Vkc1d6TjMzT2VhRjVEbk8wRW1EMjg3ems1OUUxalBqU1drRTVnenhVV3FQcmctTE5aVndtWi1Eb0lMQldSZ1huTVJMV09ydEVGWmh2eEo5TDk2MnU2VWpGQ3Q5TGp1TVBMbnlCMUY0VkJHdkZTTlVOZEZFeGJpTk5EYWFRbnlnR3V3aGM4TXZxMzl3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC Los Angeles",
-    "summary": "Looters target Bellflower liquor store after street takeover, owners say NBC Los Angeles",
+    "sourceName": "nbclosangeles.com",
+    "summary": "Looters target Bellflower liquor store after street takeover, owners say nbclosangeles.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Workday buyout may restore confidence in battered software valuations, analysts say Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Workday buyout may restore confidence in battered software valuations, analysts say reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Semafor",
-    "summary": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks Semafor",
+    "sourceName": "semafor.com",
+    "summary": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks semafor.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say Reuters",
+    "sourceName": "reuters.com",
+    "summary": "EXCLUSIVE: Silver Lake in talks to buy Workday, sources say reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1426,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-4ac2fd95637f",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T17:08:25+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Texas Observer",
+    "summary": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks The Texas Observer",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4aFFQTlJpZUhRdXZrcG1qTnMxMVQ5UTJPS0pnQ1EybUhjcHV3WmFkcDhVeDZLb3gyTHNyVGVzNmoyUy1VOUo3YkpnQWZ1V2ZEUHNTcFhTLTU2T1E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0c1f25d54392",
     "date": "August 13, 2026",
     "publishedISO": "2026-08-13T15:15:00+00:00",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Semafor",
-    "summary": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger Semafor",
+    "sourceName": "semafor.com",
+    "summary": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger semafor.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MPR News",
-    "summary": "Lime scooter takeover sends hundreds through downtown Minneapolis MPR News",
+    "sourceName": "mprnews.org",
+    "summary": "Lime scooter takeover sends hundreds through downtown Minneapolis mprnews.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7fc3be559cfa",
+    "id": "news-78e27b57302e",
     "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T12:31:59+00:00",
-    "acquirer": "Ondas Completes Previously Announced",
-    "target": "Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
-    "headline": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence",
+    "publishedISO": "2026-08-10T17:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | California’s plan to block the Paramount merger is going to flop",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Completes Previously Announced Acquisition of Cyberhawk, a Leader in AI-Powered Critical Infrastructure Intelligence Ondas Holdings",
+    "sourceName": "The Washington Post",
+    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop The Washington Post",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPanJOOW5lc0lmZFVRZEh0RjhtMDRDbkpqaGlSLWVPLWlta1FQNTFpb3lENUR5SFp6S3FqZVlrRHIyVzFFRXF6QTVvWnpmSUFvc0FyZi1CYU1YRGQ0U2h1MXUtTHVuOTBfbGprTlE0OTlpUjhXNWdHMENhN2liWEtHVFRhVktNWTdxRV82c1VWbkVacjd2bmtYQ3U5NlE4MDQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
