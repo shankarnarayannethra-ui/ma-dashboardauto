@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Forbes",
-    "summary": "Paramount Seeks Settlement With 12 States Blocking Its Merger With Warner Bros. Forbes",
+    "sourceName": "forbes.com",
+    "summary": "Paramount Seeks Settlement With 12 States Blocking Its Merger With Warner Bros. forbes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e8501ca4d5f9",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T20:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Gets Mexico’s Approval, Leaving States’ Lawsuit as the Only Barrier Left Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWU5sN2VFRzhDdDViVlpmV3M2ZlN4Qmx1aUtldVVrVW1YdVJGLU1MQzFjczZLZFU0N0h3VHhZNmlvOUIydUl4ZmRpazRmWkdMLTRPWWVKOVB5V0xjSzFablpyVHlROWNodnphUDNuZWNjcEJuakhHTjR0bGo4a1FzclZUQkl5R2h3T19GRVFDNmpXVHNWbVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ed40f7f088dd",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T17:38:48+00:00",
@@ -751,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-994d1c8e45b9",
+    "id": "news-f8e0ebb1bea1",
     "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T15:29:10+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Phillips 66, Marathon held now-scuttled merger talks",
+    "publishedISO": "2026-08-14T17:19:24+00:00",
+    "acquirer": "County Announces",
+    "target": "Potomac Riverfront Property",
+    "headline": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Phillips 66, Marathon held now-scuttled merger talks Yahoo Finance",
+    "sourceName": "Loudoun County Website (.gov)",
+    "summary": "County Announces Acquisition of Potomac Riverfront Property for Future Passive Parkland Loudoun County Website (.gov)",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +708,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZGFsZHpKVHhTcFU1WDQ0dGRGT1NFeXdJakFIdFhDLXNuWjNzajRWd05uMHh6aU5iUGdDOVpLYW82X0gwZUdxdEluUFVjc24yOWc2TTF5S3RKRy1xeHF2Zm5Scm5Ja3pnczVNekNHcnNrRjRfZ1YyM0NSWkpzQlJjdmhDN2pyN2tOYXhJazFzOA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE9URV8zRUFGclZ2QTQya196YmhBWk9KTGN6QkxEVjQ5RXpQdmlXaHlva3FiVlEyWjBWUW0tcXhUUy1DZDFoRndqRHpUcHFFeVdrLW1yc2FHU1pNQnhzZkk4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9624736a53f4",
+    "date": "August 14, 2026",
+    "publishedISO": "2026-08-14T15:29:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Semafor",
+    "summary": "Exclusive / Phillips 66, Marathon held now-scuttled merger talks Semafor",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDM3NXRoVzRjRHE3RXBHM2preXg3TDdPcWtydmVhbjdFc1c1ajEyemNSYnhZeUNKYXdSTWNBZ2hEbjNIZHNDTHRyeW03azlZMmJkR1A3aHBrN2YzWE1TUDBYUjJpUFJtYmpTMnBhTGJHMklCakJLMVIzX2g4dmlsOVk0aE5PVWdlOTRjWGZmMzZTMzdlcEJOMWx3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "California regulators approve $34.5-billion Charter-Cox merger latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1801,7 +1801,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-933650570f96",
+    "id": "news-5288c72a621d",
     "date": "August 11, 2026",
     "publishedISO": "2026-08-11T19:35:28+00:00",
     "acquirer": "Potential acquirer",
@@ -1833,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gHvA0FVX3lxTFAwaEZlNVlaQ1loQjV3SkZQVEx6QzZfMFJLV2lyX05WRlRpUGZmdlZpeklOYjhMYVNQeGxYSXRsU2k1MWhtXzQ1N19NYXY2OVZpX201dU91ZWpXU3FHR3IxQ0VtYmVlaUc0Z3U0Q1kteTgtOGU3NXBucnFCR19kOWNYZnQ4ZWdWd2pBTm56X0RvTzNib1ZJWjFMYWVnY00zaThTZXBJM1ZFdVJsakFaRmpfUGJIZS1relNSV3ZaX29FU0NBWTBtalROMW12S1V1aVE4ZFlaQVRtQTJCeE1sQmdHUWs1TnNUdV9FeXNTT29fNkNQYTloX184MlQ4N0xxMmd3MjFHQXBFSVNhNUZtN21MM2ZHWDJodUxWVmJIOEJlM0hqWmlkY3VKVF9qTTRLTndlYWJOMDVPRzVzbVU1WUg2SThzOHFpZ1NyRlR3N212TzNYM3lNbjl0UDNwekJ4SmI5YnB2bEpqeHROVVlzajVwVmptOVRBX0EyRHJILS01XzVnS05oeVBucFJETTc4bXN2T2hHLTVqaGFtNERBOHFiYUwyVHNYQjY0YXJWMnVNVGdVVUlPM0wtRHFyaW9HYU1KQjI1SGRXbDY5WkdBQnpxMGtpTUcxVGlhaU01S090WVlNSW1OTE9UWFRtWjVrUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5qLTJzQzNPUHVEVFhkT0l4Qk9hWkthYVhCTzNReDU2bEFKMU5rdzZwcmdYLUVwOW1BeVczdnRUc2x4UUxDSU9nOU54ZTI1UjM4ZVZVbGhPdjVPSkZmY2wtQ1ItSFZubnpDeDBha1dWZnpBODZJckYzaWJ30gGCAUFVX3lxTE0wSVo5d2xCSWtYZ2tfd2FfS3dpbVR2VmtkVkVQLThXamJwRUEzRGc3djhwUmtCeXpaa01ZLUR2VUVIcVJFR0ZzalNjNFNpX1RmYWNaT0lEaFF1M09pMGJNVmdJRFVOSUw4UG9wNlhJVzdLTHNBT1RlUVlCXy1qZVpmTUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-78e27b57302e",
-    "date": "August 10, 2026",
-    "publishedISO": "2026-08-10T17:30:00+00:00",
+    "id": "news-b57109c8a797",
+    "date": "August 11, 2026",
+    "publishedISO": "2026-08-11T01:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Opinion | California’s plan to block the Paramount merger is going to flop",
+    "headline": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Washington Post",
-    "summary": "Opinion | California’s plan to block the Paramount merger is going to flop The Washington Post",
+    "sourceName": "wsj.com",
+    "summary": "See How a Tesla-SpaceX Merger Gives Musk a Shortcut to His $1 Trillion Payday wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,7 +2058,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPa2VDa1ktUDBId1pHMGJRcnFMMDROMGNWcWJvb2JneHprdG52SVA0ekYzdFBzQW5CVlF2RnMyekE2aWZJd0p1MmREN1Q4OW4yV0o4bDkyU2hWejVxSFFOaktPQWZIenFiUjRIX1pTcW8xSmxpTDhKVjRuWkxxQ0VJNXRXc0JSa0FGcHh1N3Z1bVh0emNFNnNleTdnUnFtSzh4UHRHeFZQYTFOc1Fm?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQc1ExQS1ISERIZUtIcGtkWkNTMFBiclA3Um53eW13akVUMkFkS1lJdVV2X1N2c1QxMlc2QzZRTjdPWHJKck1BQ25GQnhmNDFzMjk3WEozS2xVbmdnLTU4dUphZFR5SzN3cTdVdjVhdEQ1WkhlZjcwMVFOc0NRdXR6TTkyMi1ZODlMbnFYNE9WR3d2T0UwUzYwM0JsWU44STkySzF1MlE3Yk42NXdNN2lneXdSWjQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-837064f2015d",
+    "date": "August 10, 2026",
+    "publishedISO": "2026-08-10T22:42:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Lime scooter takeover sends hundreds through downtown Minneapolis",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MPR News",
+    "summary": "Lime scooter takeover sends hundreds through downtown Minneapolis MPR News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdlFPckVnUTEwVzRBc3dlcnRGbVhKa1hRWlQ1Rng0aW9lMV94M21zQU5hdjNfOWRibm1GYXAzUzJOY0gxRno2blFrYVp4R1Z3TVRDMi1ubFhwdm9wTnlMRW5JZ1NJaVRuWGpPcWg0aWI1WUE4cXpNaDZySUtZb3VnUnJKTURYeDBJMXloSGxOdVVhRGZMdHNSaUd3bW1yckhNMUhnc2FR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e7420cd896c1",
-    "date": "August 9, 2026",
-    "publishedISO": "2026-08-09T20:11:33+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "East Los Angeles AutoZone store ransacked again during 2nd street takeover in 24 hours ABC7 Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNRkdmdng3TnlOTjg2cE1NdHlHbDlPUFlmZmdmSklYWU5qLS1NejRaZXZCVXVrRjBsVGh0NjdkdXB4dG1fYmdlSlRNSjE5Rk9sNThscF9kQ1ZmV241ZmY4SHNicUwxZDZ4TThvSTVOZlFFRFB3VlFWMnBmaDVhM2RoZTQxN29xbUwtclp6LUtWTE9XejZXalZIVGZqRHZqcjjSAaQBQVVfeXFMTXUwRlNZY1BCQUZ1Qk9Kdngwbm9mRlVfbzZTcHdtQklTRE5jemFiekNEUmJHNHU1bW8xSVpVQ01BaGs0YVdaUFYwMW1hdy13dURzZ1pvb3JWYXk2TEpwRm9hd3pPTUNXSUFUWVpxcDhVSGdIeUFWbEQ1SVFzdDZ5RE54eHJXcGpZakhKZWMyVWRLamJfdTByczZMYzdmODBuSnRoNWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 9, 2026"
       },
       {
         "stage": "Terms verified",
