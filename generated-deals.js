@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9bee20ef2df6",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T00:46:59+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover'",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 New York",
+    "summary": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover' ABC7 New York",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalA1UmRSa1NJWk96NkV0ZHRBUmN0bkt6UVdqZmNhYnpJZkhBN0JNbmltOHJIeE9nU1NydHBwOU8wRDBWT2FSR0xBM2RsZGN6VkViQlZXT3E2MTc2akZhSnZzd0xmaE94NDZNX2pFUm1RcFlrblZpNm9sNktYdGJKQ2dLdVpHMW5YVVZ0eW5FTkpMLVBjU0ZMVU1NUnRoQTNVdXo0bldDb09MSm9JU3ktatIBtgFBVV95cUxNMHNpSlVuSmxQbXd0dERyQlpYaDdjTkxGM09leWNvNHNvM0RyczEtZFBnT29YSHB0TnM2LXE0Ty1vRFpFWDlCZHFjT1I0VV93NGZHN1lXbXVEZk5ZZXVyYnJaMFhKeVE0eG1NYWdFaFloTE04NXFtTjZkdVhlSGRZV2hVOEFvMmg1OUVkemdMWG5ybWJRdzVZZnd0bjdyeG1fQlRiVE1XRi1VR25CWXZZNzE4NGNqdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-d6123d641257",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T23:58:31+00:00",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Spectrum News NY1",
-    "summary": "NYPD deploys barricades, officers to prevent chaotic 'teen takeover' Spectrum News NY1",
+    "sourceName": "ny1.com",
+    "summary": "NYPD deploys barricades, officers to prevent chaotic 'teen takeover' ny1.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "suffolkpd.org",
-    "summary": "Fifteen People Arrested, Seven Vehicles Impounded After Street Takeover suffolkpd.org",
+    "sourceName": "Suffolk County Police Department",
+    "summary": "Fifteen People Arrested, Seven Vehicles Impounded After Street Takeover Suffolk County Police Department",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -789,156 +864,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2450c2001476",
-    "date": "August 15, 2026",
-    "publishedISO": "2026-08-15T17:33:32+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Street takeover arrests",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX 13 Tampa Bay",
-    "summary": "Street takeover arrests FOX 13 Tampa Bay",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITFItZzRZZ1pLTzJpbFM4QTdKVzVGTUdhQWI1aUVZX2ZtblpOTVBHWTRFaGVUbmxtbTNENjZ0NzRobjJFTTJUZ2JRT0ZLcUZuSkk0aTBlbW05czRfV1VyRWpxaHlEOV9iR1ZiU21LZ1FmQ0xt0gF6QVVfeXFMTmplSE1yUmdSNENURnpxRFFXZ3pXWGRCVzhUTzRydUtJWkdXWWs1UjdPT3lGbjk1QzB3Wm8xTnBFYnNJLWs4Sm1NN3dmRWdseXc3TmtoMjlMVk16Y3FITjBuS2h4R0NFdjZFUGJBRHBDYkxrYkVJQ0sxN3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9bee20ef2df6",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T23:14:03+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover'",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 New York",
-    "summary": "700 NYPD officers deployed this weekend to stop a possible Dyckman Street 'teen takeover' ABC7 New York",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalA1UmRSa1NJWk96NkV0ZHRBUmN0bkt6UVdqZmNhYnpJZkhBN0JNbmltOHJIeE9nU1NydHBwOU8wRDBWT2FSR0xBM2RsZGN6VkViQlZXT3E2MTc2akZhSnZzd0xmaE94NDZNX2pFUm1RcFlrblZpNm9sNktYdGJKQ2dLdVpHMW5YVVZ0eW5FTkpMLVBjU0ZMVU1NUnRoQTNVdXo0bldDb09MSm9JU3ktatIBtgFBVV95cUxNMHNpSlVuSmxQbXd0dERyQlpYaDdjTkxGM09leWNvNHNvM0RyczEtZFBnT29YSHB0TnM2LXE0Ty1vRFpFWDlCZHFjT1I0VV93NGZHN1lXbXVEZk5ZZXVyYnJaMFhKeVE0eG1NYWdFaFloTE04NXFtTjZkdVhlSGRZV2hVOEFvMmg1OUVkemdMWG5ybWJRdzVZZnd0bjdyeG1fQlRiVE1XRi1VR25CWXZZNzE4NGNqdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1440,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
+    "sourceName": "latimes.com",
+    "summary": "California regulators approve $34.5-billion Charter-Cox merger latimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "thomsonreuters.com",
-    "summary": "What Grant Thornton's acquisition of CBIZ actually signals thomsonreuters.com",
+    "sourceName": "Thomson Reuters",
+    "summary": "What Grant Thornton's acquisition of CBIZ actually signals Thomson Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmxJZkpXUUlBY0FZWkNMdGRhTzU3RWZGWnBVT2lvZjFZbm5IT1RMRWtqalhnaGl0aHhMaTNSNHNsWHRFdlViMTl6MWVnZjdocldXclgzX3Zwa1ZWS1ZJUXl4N3gtcGdZbHNWSmRxeEh3dWdSWW5DYnJrNU9wRWxkZDhzTk1hQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0c1f25d54392",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T15:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Semafor",
+    "summary": "Exclusive / How Britain’s No. 10 intervened in the AstraZeneca-Bristol merger Semafor",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTzY2d19sQXE2SHVJT0cyeHRyaFA0Nm5OZEVuelR0NUR1NUVGYVVETHBVZHMxaFdvbm9aVTJlbXpoVzlVYTJhYURhODEwV05ndjBhMkFyLTJFUDYwZ3VYd2NaOVJZaTByY0tCbHhqNU1kZTZCWWV0NnZRRTdYQlNsdklUZEFWbDhyQURrSER4Q2JnbjBoaEpTNWx2RWs3ZUpqNHdrUlV6Yy1IUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.jobyaviation.com",
-    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) ir.jobyaviation.com",
+    "sourceName": "Joby Aviation",
+    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) Joby Aviation",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
