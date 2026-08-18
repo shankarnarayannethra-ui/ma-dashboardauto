@@ -76,156 +76,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d6123d641257",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T23:58:31+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit",
-    "valueBillions": 1.88,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-722b500b8b73",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T22:52:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Australia's Reliance Worldwide receives $2.9 billion takeover bid from Brookfield",
-    "valueBillions": 2.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Australia's Reliance Worldwide receives $2.9 billion takeover bid from Brookfield Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPRnc0OTY1Nk92MTBkUm5NN2EwZEVKd01IR1RnS1IyWmRoenZDcnkybkhCNFZiU0hUV0VzRDBjYjFzZ2Y1b0JlOTByWnhmU29QV0NuTmNZZS1mZ3NyU3p3cVNPazV3N193eW9HOUEtMVRJdzNIV25ETVpRMXE5aklzUmxUeFY2OTVDck95RmZHNXk2N2ZlRWVMOVJScXQyOXpQZGQxVDRYWV9JS3NpQlA0elBFUFNJQTl3MVdHMVlPQVczMWprQWRMOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-694a0e542192",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T18:30:23+00:00",
@@ -315,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "State of Delaware News (.gov)",
-    "summary": "Delaware Insurance Department Details Review Of Brighthouse Acquisition State of Delaware News (.gov)",
+    "sourceName": "news.delaware.gov",
+    "summary": "Delaware Insurance Department Details Review Of Brighthouse Acquisition news.delaware.gov",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ny1.com",
-    "summary": "NYPD deploys barricades, officers to prevent chaotic 'teen takeover' ny1.com",
+    "sourceName": "Spectrum News NY1",
+    "summary": "NYPD deploys barricades, officers to prevent chaotic 'teen takeover' Spectrum News NY1",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -634,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblF5S3ljRVlyR0w2ZlRXN1FvOHd2Mi0zWlBsZ3hSUzBZU3hZS05wdkZZOGRoenV5QmlhRlFGaWZCTUlBVWRtc3VtUUdvTVYxWHl6RGlhTXJoYUY1bWhtTFdUOWxMMlpnOGJZVVo2ZXczSkluQ3c1dGc3dndmXzI2a0t5NFlYVHJ4d3lMXy1ldVV3OS1VZG5Cc1liVE1QWDhaTThlLTkxWG12VE5RSHlYTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6912836f3f17",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T07:17:00+00:00",
+    "acquirer": "OceanaGold Announces",
+    "target": "Ausgold",
+    "headline": "OceanaGold Announces Acquisition of Ausgold",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "OceanaGold Announces Acquisition of Ausgold PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPckV2YTNVWXRjUWd1WWZyZ0h3bkp1OFFhTkVyOUlqT3B5UUljVll2RFZEUVhtd09VY2VTYVRpdTUyRmIwUEFlZm84Yy1kbW9GdUpJOUwxNDdmVHRqc29xb21mVXMxLVEzdnptZ0J6NmFsYnROYkg5SGpxY1NFZWRUbkI3WDBHb1pzZVJTSndOZ1hsbWYzc0dtU2pqal9mQ3pu?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e6d818ffe4cb",
+    "id": "news-2105de2a14e8",
     "date": "August 16, 2026",
-    "publishedISO": "2026-08-16T08:29:24+00:00",
+    "publishedISO": "2026-08-16T23:15:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Fifteen People Arrested, Seven Vehicles Impounded After Street Takeover",
+    "headline": "NYPD gets proactive, attempts to head off potential teen takeover in northern Manhattan",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Suffolk County Police Department",
-    "summary": "Fifteen People Arrested, Seven Vehicles Impounded After Street Takeover Suffolk County Police Department",
+    "sourceName": "CBS News",
+    "summary": "NYPD gets proactive, attempts to head off potential teen takeover in northern Manhattan CBS News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNZURPaHJsQXVEMzk2bEprVU5jS2w5amFZMGowNlFWbURJMXRRRUZWWGFmOGhGVTVSZjFlUEFDeFY4bHFGc0ZXX0xiUXh3TkwxVnhUNXhEOGdCWXBVYmdQbEVHbGRlWGh1M29VdG9HOXZHbGZZZzBHY1ozZ1RSUnNsbGk2eVd6ZHZrVUhJc3lFRm4waUxtbkxYN0xnSTVmNTZuaFNidXhuV3lHalFsb294NC1LVGQwSXBqZElBTHJaTFY2bUswSmdRMVdUXzBILTdHTmJraVptUWQ4OXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNMS0ya1FNZWtMTkptNGszc3RkSzBhb0NkMFhtUW9BU204QjN2ZVZFX3FrWHAwWVdYZ1p1dDVqeTN4anZ5RUVnTVpnMmNDN0xrV1lZejdrVFdsUHVIdUxsUUNPeWtEeGVxaVh0aEdsMjhEd0FXeTZ1SlE2WW1uV1ZUcW9NNjZ3T3RDcEtNNUF6QzZQaWwzUy1Z?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -864,6 +789,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2450c2001476",
+    "date": "August 15, 2026",
+    "publishedISO": "2026-08-15T17:33:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Street takeover arrests",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX 13 Tampa Bay",
+    "summary": "Street takeover arrests FOX 13 Tampa Bay",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1ITFItZzRZZ1pLTzJpbFM4QTdKVzVGTUdhQWI1aUVZX2ZtblpOTVBHWTRFaGVUbmxtbTNENjZ0NzRobjJFTTJUZ2JRT0ZLcUZuSkk0aTBlbW05czRfV1VyRWpxaHlEOV9iR1ZiU21LZ1FmQ0xt0gF6QVVfeXFMTmplSE1yUmdSNENURnpxRFFXZ3pXWGRCVzhUTzRydUtJWkdXWWs1UjdPT3lGbjk1QzB3Wm8xTnBFYnNJLWs4Sm1NN3dmRWdseXc3TmtoMjlMVk16Y3FITjBuS2h4R0NFdjZFUGJBRHBDYkxrYkVJQ0sxN3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1609,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNWmxJZkpXUUlBY0FZWkNMdGRhTzU3RWZGWnBVT2lvZjFZbm5IT1RMRWtqalhnaGl0aHhMaTNSNHNsWHRFdlViMTl6MWVnZjdocldXclgzX3Zwa1ZWS1ZJUXl4N3gtcGdZbHNWSmRxeEh3dWdSWW5DYnJrNU9wRWxkZDhzTk1hQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4ac2fd95637f",
+    "date": "August 13, 2026",
+    "publishedISO": "2026-08-13T17:08:25+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Texas Observer",
+    "summary": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks The Texas Observer",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTFA4aFFQTlJpZUhRdXZrcG1qTnMxMVQ5UTJPS0pnQ1EybUhjcHV3WmFkcDhVeDZLb3gyTHNyVGVzNmoyUy1VOUo3YkpnQWZ1V2ZEUHNTcFhTLTU2T1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNb0liQ1dnSkE3eXRaOFNweTcwMEZlVVlfWjZvTHhpWHMyX1BKR05pWFY1aTY0bmdscUk2VmRSeDRXVUdYU1o0VExnbG9HdVBIdk9PbnU2T3haQVpyUzdETkdPbEx6Zi1BMDBNc0EwT0xwbzZWaTRwZnphMHoxMTE4dzFaS2drTWkzNXllaUlrOURhWVRCNXpfOUsyUEVWc2FTZHloSWFGTURXSmpuWnZMVXNIQ1pCQdIBuwFBVV95cUxOT0tmUjNzbDV6X01MOFN4QURVaE15YURwTzIyb0F5RUdJeVl3cllVYTBaSi1YV1hadFcybU9peXBZanBycXh2T0lhZ3QtLXM1Wk9FSUFiaDRxVDRDUVMxSUFTWWdxNm1ucTE1SDVFeTFOV2R0LTBoX2VpVFRxLUFFOTBpcy1vNlRfQTlVby1tcjRYb2N3THhORUx0bmlvV2IwUDRiRjJuTnhTeDZ3OUtqRUNkWkJ2Ulpwb3VJ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-28bf4ab44995",
-    "date": "August 11, 2026",
-    "publishedISO": "2026-08-11T12:06:59+00:00",
-    "acquirer": "Joby Aviation to Scale Defense Business Through",
-    "target": "Resonant Sciences :: Joby Aero, Inc. (JOBY)",
-    "headline": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY)",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Joby Aviation",
-    "summary": "Joby Aviation to Scale Defense Business Through Acquisition of Resonant Sciences :: Joby Aero, Inc. (JOBY) Joby Aviation",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPY0lUeFJsM2NsOG9BdVNqN2hWOFlkY3ZnWld1QlB4VktVM3Z3M3h5MUZpT25DNUF4N0hFRXBCMnFoYWxFT0YxSzVFOHJXVHhEYjZWcktMVEljUXlYUWpGazdOemR4MlNLUGl6bFJTc1NtNTY0WWdLTUJJLXZHTjk2cUVPUEhiYU02SExjaE9WanZIUFJhV053YzFVSXdvX0RJdXN4OGhRbUlEcENsSUItcll1MXktczhnb2Q3NDl0UHVWWFk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
