@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-407e55250708",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T14:20:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Cox-Charter merger clears final hurdle with equity commitments",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "HR Brew",
+    "summary": "Cox-Charter merger clears final hurdle with equity commitments HR Brew",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjNOSXJNRUZ6SzJmdE9KYUEzdXplZlREQlRFQ1BJOXp1am5VbEJ0TDcxTG1uMjFNSFF1cXJDbnpHTVA5U1h0STBIdjl3c2xBWTF0bWJCUUhZNlpTdHpGOWN5a2U0TTg4UXBIMi1HNmFtNzZlWHhhR0dTdVYwUmtSTzFiZE9aVzBfYjFPRWJYazdiTTh1anA1SjJB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1044992d73ca",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T09:41:27+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SCC commissioner, former NextEra attorney declines to recuse herself from merger case",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Virginia Mercury",
+    "summary": "SCC commissioner, former NextEra attorney declines to recuse herself from merger case Virginia Mercury",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWFEcWJWUzBwZWd2QzNuYV90amtzR09VNnB2c3FUYXFaTXhvVzV4RTlHNUhuQkgxWXBWZjZuMFlrVkJyZ3hkZTd1ek5vZFZfYVp0eGtOUkZtTUowaHRTUEN2UG5NTU9ENnNvcC1NaFVIN3RrMFJtbWQ5Sk5UVkZxVGhUZ25uOGpsV0ZPS2NMSDF4Nk0wbllKaFRGUm5TQ19jTUduVk1MdlRVR0JtRDVpby12UlRNTm9QZHc4R2FnVVpuZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6c87a04abac9",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T22:51:15+00:00",
@@ -76,81 +226,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6e622219ab35",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T17:51:50+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "KKR makes $9 billion takeover bid for energy distributor UGI, WSJ reports",
-    "valueBillions": 9.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "KKR makes $9 billion takeover bid for energy distributor UGI, WSJ reports Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdkxqQXotbzRiRE10TXREbXM0SVVCLVdEdmhEZzZDMWtTcVU0LVJoalYyNE01RFBpY21MSU9GdXg1WWtvaXR1a3RhUmp4cU1QaUh6Sk5uUjdsSTNXS04wYWVQb01QRFp3RUppeWh5ZmlvVVg3em9GZDlWYnl5cjdJRjZaWVNSYjVqVTBOeVdWUk1HalNNNF9SY2VBaHVDYmstX1o3Q0hsYw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ed10a3a54a34",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T16:03:46+00:00",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "geekwire.com",
-    "summary": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites geekwire.com",
+    "sourceName": "GeekWire",
+    "summary": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites GeekWire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "science.nasa.gov",
-    "summary": "Hubble Solves Merger Mystery From Milky Way’s Early Years science.nasa.gov",
+    "sourceName": "NASA Science (.gov)",
+    "summary": "Hubble Solves Merger Mystery From Milky Way’s Early Years NASA Science (.gov)",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -934,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPblF5S3ljRVlyR0w2ZlRXN1FvOHd2Mi0zWlBsZ3hSUzBZU3hZS05wdkZZOGRoenV5QmlhRlFGaWZCTUlBVWRtc3VtUUdvTVYxWHl6RGlhTXJoYUY1bWhtTFdUOWxMMlpnOGJZVVo2ZXczSkluQ3c1dGc3dndmXzI2a0t5NFlYVHJ4d3lMXy1ldVV3OS1VZG5Cc1liVE1QWDhaTThlLTkxWG12VE5RSHlYTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-988fa6651584",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T09:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "NextEra utility merger likely to become next big fight in SC Statehouse",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Post and Courier",
+    "summary": "NextEra utility merger likely to become next big fight in SC Statehouse Post and Courier",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPUDRfQ1lwOVY1YklxLUhGMVJzWnpIT083LXFUNUx1M3IyN3NQTXkyMzI0azE4NTZmU2R0RkdGcG4wS0VNcnduU0loR3dpcUVLOGRya2Y5WS1JZFd6Z3hsZThWNU1VX0dvNlB6UmliREhJTngwT0tidVJ0MXZqZUx0SzhydkhkcUNqWjhMRFJ3emJESmNfVE5FM1AweFN6RFdTUXZBb21rTDJNY05QQnExQk1obDRYMGxKVDV0UXBkLUVYcFV0SVVZRw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1965,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "texasobserver.org",
-    "summary": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks texasobserver.org",
+    "sourceName": "The Texas Observer",
+    "summary": "The Takeover Tab: State-Imposed Superintendent Buyouts Cost School Districts Big Bucks The Texas Observer",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7b9c2be3e183",
-    "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T22:18:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Austin ISD faces a potential state takeover. Here's how that's played out in Houston",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KUT",
-    "summary": "Austin ISD faces a potential state takeover. Here's how that's played out in Houston KUT",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOQndDRWo5NkFUN3lvam9jRktqT3d1OUVvQzIxY3ZZb215T3RZV2Z3R3loT21jZnhUUnZjOUloNTNoeE9ES0I1SmwyZFV6N3JpOHRfTlk2Wk9zMHJ4bTlVSmJvUFRwQ3IyV3QyZGp4WXdFc28tN0tOQVBPbmlnc1htRDZfaDVKck8tdEFXdzVrUWdtMHRfUEpfdjBoY2R1NTBaRzdHdldFWFVGVzFHZVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5d9f53ea0437",
-    "date": "August 12, 2026",
-    "publishedISO": "2026-08-12T20:01:00+00:00",
-    "acquirer": "PTC to Expand Rare Disease Portfolio with",
-    "target": "BLA-Stage ST-920 Fabry Disease Program",
-    "headline": "PTC to Expand Rare Disease Portfolio with Acquisition of BLA-Stage ST-920 Fabry Disease Program",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "PTC to Expand Rare Disease Portfolio with Acquisition of BLA-Stage ST-920 Fabry Disease Program PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQeVppY1hOQVNsUU94V3hYVmpBQnpHcURSa3hndXhYRXQyYVRwZll3UTFWMTJIRjJsRWhNY1FuNWVEbVJfTGlrdmF6RWpLRDFGSmZxM0J4bG1fVVZpYTZWM2c5MGZBZW1aT1ZkcDBPdGUxT19GY1d4UlFYenZPM2xnaE1qMlVQOFBfSEloRlNTMkZLYW9vR1JieGZ0SHFROUtDeUJiRUZiaFJJWlJ2eDJJLTZjWTA3UG8wUmJsYVRpMFA1QzBBWjRobTlQbjY0b1BBTHZsVU0xRXFNWjBvV0tvTzFqcC1FUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 12, 2026"
       },
       {
         "stage": "Terms verified",
