@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-407e55250708",
+    "id": "news-6576fa6027e5",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T14:20:35+00:00",
+    "publishedISO": "2026-08-19T21:02:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Cox-Charter merger clears final hurdle with equity commitments",
+    "headline": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "HR Brew",
-    "summary": "Cox-Charter merger clears final hurdle with equity commitments HR Brew",
+    "sourceName": "Variety",
+    "summary": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds Variety",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjNOSXJNRUZ6SzJmdE9KYUEzdXplZlREQlRFQ1BJOXp1am5VbEJ0TDcxTG1uMjFNSFF1cXJDbnpHTVA5U1h0STBIdjl3c2xBWTF0bWJCUUhZNlpTdHpGOWN5a2U0TTg4UXBIMi1HNmFtNzZlWHhhR0dTdVYwUmtSTzFiZE9aVzBfYjFPRWJYazdiTTh1anA1SjJB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2303ad2ac85c",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T20:21:46+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
+    "valueBillions": 2.78,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Hollywood Reporter",
+    "summary": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County The Hollywood Reporter",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMG9GNm1ldGhBeW9ja3Izd1ZOenZDTzZjeWxLZGFBNWw5TnVkYlc0NmtuOWpCeU8wZVo1MXlFSC1jQkFieHRzS3VPbU5ONnVGQWxYMHVIOWw0WjRhUnIxUnVneWpxTXFlSHBVblA0T3l6YU9GSTM4Qk5iRUZjLTFzSU1uVE0yNW1Kc0lTT0VCT0hlS0l0Q2k3Wl85VUkyaE4wYnBNaWJTZHM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1164,81 +1239,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a987ee04c7e8",
-    "date": "August 16, 2026",
-    "publishedISO": "2026-08-16T00:33:42+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Looters target Bellflower liquor store after street takeover, owners say",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NBC Los Angeles",
-    "summary": "Looters target Bellflower liquor store after street takeover, owners say NBC Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa0FhNklWWXlFS3NGcUVGOHNacVdQa0ktMlJUVnlSTFF4VjlURXdob0ZtTS15NmVRYUxpOU1ZMjA1N1NvQnp0eWNyeUlFWExfX0dfclpqRTZuUHZzRWU5VzhfSUEybWxFcE1BR0NaUVg3b0UweC16bUNoSm0tbUgyXzJPdDEySTFrRlNVNDdMY3FyanU4NGFrcEhITFl6QdIBpgFBVV95cUxQS05yUmtXYzF1Zi1McFlJMFRSWWNCcWl6SXlEeTFXcGFXSFdTQmVfbWpKSnJUVThhZDBmVjdwSEVvbV9TMnRSalFVTVY1a1poc2s2Q2dBeG9rdDhZZ21Wb2pmWlBOcFk4emZGVThZTmttQmptaV9JTjBRNUN6cExXaUpiWGR4dlRMYVFnSFlFOWlGdFJTTGpKZ0tRdlVMNWJPbmZmVm13?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 16, 2026"
       },
       {
         "stage": "Terms verified",
