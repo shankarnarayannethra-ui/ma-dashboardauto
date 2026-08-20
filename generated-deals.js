@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-6576fa6027e5",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T21:02:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+    "id": "news-4287e5198a16",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T07:41:34+00:00",
+    "acquirer": "Santander completes",
+    "target": "Webster in the U.S.",
+    "headline": "Santander completes acquisition of Webster in the U.S.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds Variety",
+    "sourceName": "santander.com",
+    "summary": "Santander completes acquisition of Webster in the U.S. santander.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,87 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3dTUjd3cEdoc2o0b1FEWWgwRUd0bVpscTVIbmdYNm0zcXFWd1lTTXlGUVE1UWdSTlVhNmREc0JvTXhUUmowUmo5cDdOU3ZzcVVvXzl6aGVianhnZS05N1E4UWctcl8ybWg4NWFKX3JseHppczJaR1lnb1J6T3hWeThEa0M0WjZnTy1UM2o4RUpEYXpNdjRBMVY5MHhoYmgyQUQ1VndQVkcxQVVVRmp2aEF2a283QXhFNldDUnNlelk4Vldyc2dQYXhXcw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2303ad2ac85c",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T20:21:46+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
-    "valueBillions": 2.78,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County The Hollywood Reporter",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMG9GNm1ldGhBeW9ja3Izd1ZOenZDTzZjeWxLZGFBNWw5TnVkYlc0NmtuOWpCeU8wZVo1MXlFSC1jQkFieHRzS3VPbU5ONnVGQWxYMHVIOWw0WjRhUnIxUnVneWpxTXFlSHBVblA0T3l6YU9GSTM4Qk5iRUZjLTFzSU1uVE0yNW1Kc0lTT0VCT0hlS0l0Q2k3Wl85VUkyaE4wYnBNaWJTZHM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
+        "date": "Aug 20, 2026"
       },
       {
         "stage": "Terms verified",
@@ -453,7 +378,7 @@ window.generatedDeals = [
   {
     "id": "news-949834fa6726",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T15:18:00+00:00",
+    "publishedISO": "2026-08-18T15:18:42+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
@@ -465,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -784,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNMmNtcVVwUXllU3J3VkFTQi1rNU45TjdvS0VJTDFianJ0WkI4OE1FWmJlV0FKUFFNdWVta0dZVlNPLVc4eFE5ZUZiel84d3o2clcydzQxVDl5MVJnRmVPeDN4a3B6NkpLSkhnN0tZOU5yS2NrZFEwX0xvSF9hbUxPT1JzMnNFQXh6d2ZaVkVvbldoLWlOTUlkblJ6WXU5blJ6dnlxZ0RydTF6eTM5LUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a34635178f3c",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T15:15:47+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Evidence of a massive accretion event 1.8 billion years before the Gaia-Sausage-Enceladus merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Nature",
+    "summary": "Evidence of a massive accretion event 1.8 billion years before the Gaia-Sausage-Enceladus merger Nature",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1WMF9JVldSWTZ2X0xIdzdPUnprX2Z3clV1Z1NnY2JYX2xtUW83RHV2ZUU1VDh3NWFYRWRSd1diZVoyYUpEOXRjX1RNTFdQa1lLRklEMUkyZEtIV1VTdGhv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
