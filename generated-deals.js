@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ba8d422bbee6",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T17:17:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Los Angeles Times",
+    "summary": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers Los Angeles Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVYyYkFhQWZoSUg3VE1uUEJqM0ZPM2FiWVJhSGNEUlF1MVNFUjd2LXlaZTQtamNUbURhdWNpRndYcFU4NmVMMzRlTFpQQTZXY0FvOWNZR01IQ1VJNGhTSDhPNjQyQTZjMlh5N1VsdzVOcE84RmFSTmxvbWhnMDBmMTRaSHdnQUF2UEcySFVhYU1wS1loMy1rTzRqdnpXY2tnazV3d3AxTXh2RWw1UjBtZU0zcjRzM2s4U3BsMk5UM3h5OEVtbXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-829204f43a21",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T15:37:52+00:00",
@@ -859,81 +934,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVB0SVpZb2hFUnlzRnNEYUhCZlR0MnFzQ3RUdkJfZU1hR1hpWUVac3B3aFRodXI0TGRRUjAtU3pLY3dmMGxPY0FfbUY1dlpmMG04VUZrYmh4TGFJMVNTOUZDcnJPbkJzN2tvbUNxa2RnZ2tYTFZKNXBLZXJ0cWJwUUt3M2lrd1FlLVJkUENfMjg2eDF1bHE5VVdtaDU2c21NQ3BJMmdFVE90TUZDWS1YQnFfbFlTcWRQSkF5cw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-26007d2a251c",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T13:15:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
-    "valueBillions": 0.275,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca Fierce Biotech",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
