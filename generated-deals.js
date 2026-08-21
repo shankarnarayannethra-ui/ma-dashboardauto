@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-161d9ed4a9dd",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T17:44:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Cox customers in Arizona to transition to Spectrum after $34.5B merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AZ Family",
+    "summary": "Cox customers in Arizona to transition to Spectrum after $34.5B merger AZ Family",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk44b2Jtb2JQRXhldFVOaHNVaU0tcXRsWE9nUEJYVjEyYk9obzRsdnNONTJ0d3FkT3NMaGZ5T09EMDdMa3FlbHE2TVlYRmNfQjZiWVRwS0RjbS1jNHlwYWhzQjREdGhjM0M3UklkczlRRmpVNnVRSHgtcjc2WnJPRk5JeEZKelZjOWg3XzZPczRtZ2NyblNmYTNLNzXSAbABQVVfeXFMT2ZhbDBoZkljd0FnY1RYRURveFZieWpGZElEc2w4S29qdEdYbmxnRlVWVHBoNWJVRU01RDVIYWtiZGhRbUM1X09WMkw4Z1gwRjVCLWZTOHkyaG5idy1Vc3E5cDNZajYyZFZLYXdwektydUVnWk1SWlR2RF8zNzdtMWR1MHk3dklrUExoX3lyUzV2Z1VNbnhkX0ZHaXE1aVZYM2xaQjhfY1NUMkJFbVFtRGY?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ba8d422bbee6",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T17:17:00+00:00",
@@ -526,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6576fa6027e5",
+    "id": "news-0d6bf125bac2",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T21:02:00+00:00",
+    "publishedISO": "2026-08-19T19:11:44+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+    "headline": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds Variety",
+    "sourceName": "Reuters",
+    "summary": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlljSFNTUEpRZXh6NnJIZ2pjc0Y0R1RucU5HNE1hWlBwX3EtaUFxQWFpbHYteTUwUUFnTUZHVFdwUFZWajkwMHoxMW9sbEdHZl9WQ3BlaUthT1U1dzFpRGRvM2o4cmdmbGtVQ0xLUVlySHlCZ2RHSHZ0YzgzUXdGSE9tY2FubmJjSXpPX1JxaF9zR01WNTBfeVBNVi1ZcUlUODNIdVo3VWlFX1hWTTktcVFJQ0J4R2h4aXRENnQ5WjRJQkRWak42TWRaTXQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0d6bf125bac2",
+    "id": "news-980535c22f6c",
     "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T19:11:44+00:00",
+    "publishedISO": "2026-08-19T13:42:27+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns",
+    "headline": "STB Advances UP-NS Merger Proceeding to ‘Merits Evaluation’ Phase",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Maine governor says NextEra-Dominion merger will limit competition, raise energy cost concerns Reuters",
+    "sourceName": "Railway Age",
+    "summary": "STB Advances UP-NS Merger Proceeding to ‘Merits Evaluation’ Phase Railway Age",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlljSFNTUEpRZXh6NnJIZ2pjc0Y0R1RucU5HNE1hWlBwX3EtaUFxQWFpbHYteTUwUUFnTUZHVFdwUFZWajkwMHoxMW9sbEdHZl9WQ3BlaUthT1U1dzFpRGRvM2o4cmdmbGtVQ0xLUVlySHlCZ2RHSHZ0YzgzUXdGSE9tY2FubmJjSXpPX1JxaF9zR01WNTBfeVBNVi1ZcUlUODNIdVo3VWlFX1hWTTktcVFJQ0J4R2h4aXRENnQ5WjRJQkRWak42TWRaTXQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHVyVnFhWE1wWWxReXZ1WUpPVFNZc1JON3R5N1BtMXdyaFdYNkwxaTZuZ2NodnJwbXd6RzZnQ3FaMV9RaHB1YUI4RXhPdUdsZXFWWXk1RzlnRkVHMUFBbDlQLUxpSW9BVGJSM2t4WWdhakpJWDdkaDBwVDNfMnBlLTBoWmpGSHBpdktZWDZDcG9HVUwxLWM1ZjdLOFFQYWFOelFPQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -934,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVB0SVpZb2hFUnlzRnNEYUhCZlR0MnFzQ3RUdkJfZU1hR1hpWUVac3B3aFRodXI0TGRRUjAtU3pLY3dmMGxPY0FfbUY1dlpmMG04VUZrYmh4TGFJMVNTOUZDcnJPbkJzN2tvbUNxa2RnZ2tYTFZKNXBLZXJ0cWJwUUt3M2lrd1FlLVJkUENfMjg2eDF1bHE5VVdtaDU2c21NQ3BJMmdFVE90TUZDWS1YQnFfbFlTcWRQSkF5cw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-26007d2a251c",
+    "date": "August 18, 2026",
+    "publishedISO": "2026-08-18T13:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
+    "valueBillions": 0.275,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Biotech",
+    "summary": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca Fierce Biotech",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,81 +1876,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ab211b56506f",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T23:11:54+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion",
-    "valueBillions": 53.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "PayPal (PYPL) Is In Acquisition Talks At $53 Billion Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNSk1ZLTRBMmVzWE4xLVNST1d0UDZQNVY3b21oWFRNWmNBWi1jU1lscV9BMlpQQ0MxdlJIdHgzaWlEYURvTUZ4cGdfcy0wUHhWUzUwRlZvWlFKVEo1OUI4UXFHZGs1MENHZ19mcGVOMl8xM3lfOHFkbjhvS2otbDR4YUFPeEpibHNFcHdYY2RTd3NZWmo5X045Wm15SkgzZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9549bd84af00",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T21:30:54+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcDM3NXRoVzRjRHE3RXBHM2preXg3TDdPcWtydmVhbjdFc1c1ajEyemNSYnhZeUNKYXdSTWNBZ2hEbjNIZHNDTHRyeW03azlZMmJkR1A3aHBrN2YzWE1TUDBYUjJpUFJtYmpTMnBhTGJHMklCakJLMVIzX2g4dmlsOVk0aE5PVWdlOTRjWGZmMzZTMzdlcEJOMWx3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-98a42a7fa651",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T11:52:57+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Workday takeover chatter could mark a turning point for software stocks",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Workday takeover chatter could mark a turning point for software stocks Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVlaNlpMSWNMQ2o2dFpKZExmTnM2MjFGaXNMTzBXSF9ZZmVSSE1vTzRSXzNlRmNnUlVTX0xGc0pObXNhR2lBOW5TMUd6M2swSFEzY3VEYWYxazNrVk1TbkdheUtwTjhxMUxSZVdFTlZBWTA3cWZfY0hsZl9HcFl5LVlEUjlYazVPS1VpbkR5cmRtMHZMNkJWcnhCaVMzYTZheVlmdmE1MjJQbXBjQzB0TW5yWjZCeDdMc2llU1dCUHg0eUhCaTUw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
