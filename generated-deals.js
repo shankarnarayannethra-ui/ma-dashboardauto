@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-4728843d48b6",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T21:46:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner merger could erase 4,500 jobs in L.A., report says",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount-Warner merger could erase 4,500 jobs in L.A., report says Los Angeles Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnB3NGI4QjN6Um1TSk1XbjdSY0ZTb0lIaHhnOTZLREdnRXJEd1ZOdXhtUUdfeDZZQU5iazFpQmhNaC1sYlBjZ2dLVHByc1htX3pNdS1ydWFIS25yc0Jqb25TX3JQbTRoZnF5SmhHXzJEMVAtcFRRaVc4bWpIQkp5RW5lckJZYjFYSEFmVlE0VVdKV3ZaV0R6RnpNazViSi1ncDZZUzZZcWhDbC1CYTdZ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-829204f43a21",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T15:37:52+00:00",
@@ -76,9 +151,159 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b9370166cc71",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Behavioral Health Business",
+    "summary": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’ Behavioral Health Business",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5cb895e991fe",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T10:47:08+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Santander completes $12.3B Webster acquisition, plans eventual rebranding",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Hartford Business Journal",
+    "summary": "Santander completes $12.3B Webster acquisition, plans eventual rebranding Hartford Business Journal",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOSUFPaDdDMlRwOVpLRUFBSDJOeWpZYUQyaWRTazk3aG56SHI2eU16ZGExdXExZXdrNlRrb2w1SmtYVGlDQko5OXVOQXlSM3Jsc2tIX1d3ZzJyQUxRT0FiVTRHV2RVYWhVVXBScVJUS3dubnlmNVVQVkI2MWZYeXpNdE5zM1JGSmRESHVGbXh6eGRSOFpLVkpGcV9EU0JpdUlXcHhlOFYweWJMWDd6TXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4287e5198a16",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T07:05:00+00:00",
+    "publishedISO": "2026-08-20T07:41:34+00:00",
     "acquirer": "Santander completes",
     "target": "Webster in the U.S.",
     "headline": "Santander completes acquisition of Webster in the U.S.",
@@ -109,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3dTUjd3cEdoc2o0b1FEWWgwRUd0bVpscTVIbmdYNm0zcXFWd1lTTXlGUVE1UWdSTlVhNmREc0JvTXhUUmowUmo5cDdOU3ZzcVVvXzl6aGVianhnZS05N1E4UWctcl8ybWg4NWFKX3JseHppczJaR1lnb1J6T3hWeThEa0M0WjZnTy1UM2o4RUpEYXpNdjRBMVY5MHhoYmgyQUQ1VndQVkcxQVVVRmp2aEF2a283QXhFNldDUnNlelk4Vldyc2dQYXhXcw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b948e2b233ce",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T06:56:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Canada's WSP presses ahead with Arcadis takeover bid",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Canada's WSP presses ahead with Arcadis takeover bid Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVU5d0ctTUVEc1ZqUXljQV80VVFDYmVEdlNEV0RtWnZCdnpjSDdiY09pVUhRVDlDRDJiWmpRY05KY19XdVJUbHBUTjJ3WG03ajhmbXYtWm5yRVVTTkNpRUhUNWtZYXJqdC1UNWp5MXpDYmdOS2JjWHdEcWFvamxMa1dqRmtaeFE4T1hzR0ZrTzVEMUtiRkRyUjBZWEZEc3UyR1UxSTlzcGpRZnlVM2V2Yw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2303ad2ac85c",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T20:21:46+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
-    "valueBillions": 2.78,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County The Hollywood Reporter",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMG9GNm1ldGhBeW9ja3Izd1ZOenZDTzZjeWxLZGFBNWw5TnVkYlc0NmtuOWpCeU8wZVo1MXlFSC1jQkFieHRzS3VPbU5ONnVGQWxYMHVIOWw0WjRhUnIxUnVneWpxTXFlSHBVblA0T3l6YU9GSTM4Qk5iRUZjLTFzSU1uVE0yNW1Kc0lTT0VCT0hlS0l0Q2k3Wl85VUkyaE4wYnBNaWJTZHM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-0d6bf125bac2",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T19:11:44+00:00",
@@ -334,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMlljSFNTUEpRZXh6NnJIZ2pjc0Y0R1RucU5HNE1hWlBwX3EtaUFxQWFpbHYteTUwUUFnTUZHVFdwUFZWajkwMHoxMW9sbEdHZl9WQ3BlaUthT1U1dzFpRGRvM2o4cmdmbGtVQ0xLUVlySHlCZ2RHSHZ0YzgzUXdGSE9tY2FubmJjSXpPX1JxaF9zR01WNTBfeVBNVi1ZcUlUODNIdVo3VWlFX1hWTTktcVFJQ0J4R2h4aXRENnQ5WjRJQkRWak42TWRaTXQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-407e55250708",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T14:20:35+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Cox-Charter merger clears final hurdle with equity commitments",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "HR Brew",
-    "summary": "Cox-Charter merger clears final hurdle with equity commitments HR Brew",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNdjNOSXJNRUZ6SzJmdE9KYUEzdXplZlREQlRFQ1BJOXp1am5VbEJ0TDcxTG1uMjFNSFF1cXJDbnpHTVA5U1h0STBIdjl3c2xBWTF0bWJCUUhZNlpTdHpGOWN5a2U0TTg4UXBIMi1HNmFtNzZlWHhhR0dTdVYwUmtSTzFiZE9aVzBfYjFPRWJYazdiTTh1anA1SjJB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,81 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c93a9372e46b",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T00:07:40+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "L.A. street takeover acts as cover while thieves ransack liquor store",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KTLA",
-    "summary": "L.A. street takeover acts as cover while thieves ransack liquor store KTLA",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlpSm5KblBNUXg3Sk1IRnNzM1cwc21wY2o4bkdPX1BTbWRfTF96TldlTmxQOXJPZ3R2bGRuZ0lkOTFuYWxjSFhLU29PZ2piOG5pcW9UTUNVbDlZVVh6aGhKOXk1TXlPYlh5VFMwcUluZFpjM1FjV0VlRGQ5c2xpNVh3ZDV1Z9IBiwFBVV95cUxObEY3LTFnLWw3RTctdElMTGgwSDlYTHpwMFJNMnJmQ0hCVmJoaWNobVR0Y1RmUW1KZzlFVzcxYUR4WmhKZ004Q3Z3UkRQSi0wRTRfMzdGSnE5U2cxYXRUbDBONGROX3czbk9nNVRnVG0xWTVpTFgzZHIxNDV6SVhkUElHS0VPUUY0d3Vv?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ab211b56506f",
     "date": "August 14, 2026",
     "publishedISO": "2026-08-14T23:11:54+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbVlaNlpMSWNMQ2o2dFpKZExmTnM2MjFGaXNMTzBXSF9ZZmVSSE1vTzRSXzNlRmNnUlVTX0xGc0pObXNhR2lBOW5TMUd6M2swSFEzY3VEYWYxazNrVk1TbkdheUtwTjhxMUxSZVdFTlZBWTA3cWZfY0hsZl9HcFl5LVlEUjlYazVPS1VpbkR5cmRtMHZMNkJWcnhCaVMzYTZheVlmdmE1MjJQbXBjQzB0TW5yWjZCeDdMc2llU1dCUHg0eUhCaTUw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f55d25650c94",
-    "date": "August 14, 2026",
-    "publishedISO": "2026-08-14T00:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "California regulators approve $34.5-billion Charter-Cox merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "California regulators approve $34.5-billion Charter-Cox merger Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPZ3BjUHI5bWNVT0ZfM2p4MDZMTl9hcjFpTlpSbU96bmZfSllSXy00M05IM2pxcXdqRVdNWkF1WWp3R3VEUmV4cE5VV1NWdXZVMVc4QlJKNWNXNG5jNW5LQU9SV05pUF9zUmk3MFJWRjZBWWlUQ3c3Wks4WHBzVXVLZ241b0RVSzIzWWkxM2hVT0dTanlwb0lSbERxUGdETUstaUJKbHZhWU9tYWFWcFNVSzdISV9fXzFHZllFSXJsUnl1SXVo?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
