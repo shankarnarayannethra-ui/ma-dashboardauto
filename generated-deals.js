@@ -526,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f141f7e671e3",
+    "id": "news-b9370166cc71",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T13:33:00+00:00",
-    "acquirer": "Charter Closes",
-    "target": "Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
-    "headline": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
+    "publishedISO": "2026-08-20T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Deadline",
-    "summary": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States Deadline",
+    "sourceName": "Behavioral Health Business",
+    "summary": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’ Behavioral Health Business",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDBqMHVUNFlJbHZjMVZaMFdna09iNEx2Qi1aaG9JcHdsODlYZm5wdjdhWGlhbkpVRDJGdFpOaDB2dDBuZVZ2bGdtbE9wMi1XSl8wazI0cERiVVd6TDFsNlctdWUzcWpwa0htOTI3Vnl0S3hEWUI0TTBfbXdvTlQ2ZWItXzctYUhsenJyRFh3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -709,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPd3dTUjd3cEdoc2o0b1FEWWgwRUd0bVpscTVIbmdYNm0zcXFWd1lTTXlGUVE1UWdSTlVhNmREc0JvTXhUUmowUmo5cDdOU3ZzcVVvXzl6aGVianhnZS05N1E4UWctcl8ybWg4NWFKX3JseHppczJaR1lnb1J6T3hWeThEa0M0WjZnTy1UM2o4RUpEYXpNdjRBMVY5MHhoYmgyQUQ1VndQVkcxQVVVRmp2aEF2a283QXhFNldDUnNlelk4Vldyc2dQYXhXcw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b948e2b233ce",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T07:03:44+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Canada's WSP presses ahead with Arcadis takeover bid",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Canada's WSP presses ahead with Arcadis takeover bid Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVU5d0ctTUVEc1ZqUXljQV80VVFDYmVEdlNEV0RtWnZCdnpjSDdiY09pVUhRVDlDRDJiWmpRY05KY19XdVJUbHBUTjJ3WG03ajhmbXYtWm5yRVVTTkNpRUhUNWtZYXJqdC1UNWp5MXpDYmdOS2JjWHdEcWFvamxMa1dqRmtaeFE4T1hzR0ZrTzVEMUtiRkRyUjBZWEZEc3UyR1UxSTlzcGpRZnlVM2V2Yw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2209,6 +2134,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPalA1UmRSa1NJWk96NkV0ZHRBUmN0bkt6UVdqZmNhYnpJZkhBN0JNbmltOHJIeE9nU1NydHBwOU8wRDBWT2FSR0xBM2RsZGN6VkViQlZXT3E2MTc2akZhSnZzd0xmaE94NDZNX2pFUm1RcFlrblZpNm9sNktYdGJKQ2dLdVpHMW5YVVZ0eW5FTkpMLVBjU0ZMVU1NUnRoQTNVdXo0bldDb09MSm9JU3ktatIBtgFBVV95cUxNMHNpSlVuSmxQbXd0dERyQlpYaDdjTkxGM09leWNvNHNvM0RyczEtZFBnT29YSHB0TnM2LXE0Ty1vRFpFWDlCZHFjT1I0VV93NGZHN1lXbXVEZk5ZZXVyYnJaMFhKeVE0eG1NYWdFaFloTE04NXFtTjZkdVhlSGRZV2hVOEFvMmg1OUVkemdMWG5ybWJRdzVZZnd0bjdyeG1fQlRiVE1XRi1VR25CWXZZNzE4NGNqdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c93a9372e46b",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T00:07:40+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "L.A. street takeover acts as cover while thieves ransack liquor store",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KTLA",
+    "summary": "L.A. street takeover acts as cover while thieves ransack liquor store KTLA",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNdzlpSm5KblBNUXg3Sk1IRnNzM1cwc21wY2o4bkdPX1BTbWRfTF96TldlTmxQOXJPZ3R2bGRuZ0lkOTFuYWxjSFhLU29PZ2piOG5pcW9UTUNVbDlZVVh6aGhKOXk1TXlPYlh5VFMwcUluZFpjM1FjV0VlRGQ5c2xpNVh3ZDV1Z9IBiwFBVV95cUxObEY3LTFnLWw3RTctdElMTGgwSDlYTHpwMFJNMnJmQ0hCVmJoaWNobVR0Y1RmUW1KZzlFVzcxYUR4WmhKZ004Q3Z3UkRQSi0wRTRfMzdGSnE5U2cxYXRUbDBONGROX3czbk9nNVRnVG0xWTVpTFgzZHIxNDV6SVhkUElHS0VPUUY0d3Vv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
