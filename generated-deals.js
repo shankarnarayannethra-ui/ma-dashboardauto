@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-e52a4e96f220",
-    "date": "August 22, 2026",
-    "publishedISO": "2026-08-22T21:01:31+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjNsMm5VRzg0WVNOTGRjSDlKODY2U2pJUW54c1RTa0ZIWUxOaTdKemgyelBuM3lUU21pc0pkYUFlYkZCdEhEbm9pVFBJRDdIY09JYi1EaUtMczZrOUVLYXZsNjlpMlNVNngtSS11aV9nT1QybnY0OE5yOGM0TTQzdlpIZEozNnM3SWJ4M3NvQ2RzVEN1?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-1a36291c2339",
     "date": "August 22, 2026",
     "publishedISO": "2026-08-22T17:50:09+00:00",
@@ -228,7 +153,7 @@ window.generatedDeals = [
   {
     "id": "news-1b396f6fb1d8",
     "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T19:10:00+00:00",
+    "publishedISO": "2026-08-21T19:17:32+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Dallas Mavericks and Klay Thompson Reach Buyout Agreement",
@@ -451,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4728843d48b6",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T21:46:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner merger could erase 4,500 jobs in L.A., report says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount-Warner merger could erase 4,500 jobs in L.A., report says Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnB3NGI4QjN6Um1TSk1XbjdSY0ZTb0lIaHhnOTZLREdnRXJEd1ZOdXhtUUdfeDZZQU5iazFpQmhNaC1sYlBjZ2dLVHByc1htX3pNdS1ydWFIS25yc0Jqb25TX3JQbTRoZnF5SmhHXzJEMVAtcFRRaVc4bWpIQkp5RW5lckJZYjFYSEFmVlE0VVdKV3ZaV0R6RnpNazViSi1ncDZZUzZZcWhDbC1CYTdZ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-ba8d422bbee6",
     "date": "August 20, 2026",
     "publishedISO": "2026-08-20T17:17:00+00:00",
@@ -676,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b9370166cc71",
+    "id": "news-f141f7e671e3",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T12:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’",
+    "publishedISO": "2026-08-20T13:33:00+00:00",
+    "acquirer": "Charter Closes",
+    "target": "Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
+    "headline": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Behavioral Health Business",
-    "summary": "Radial Acquires Mindful Health Solutions, Eyes Pending Boom in ‘Brain Medicine’ Behavioral Health Business",
+    "sourceName": "Deadline",
+    "summary": "Charter Closes Acquisition Of Rival Cox, Expanding Spectrum Pay-TV And Broadband To 45 States Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTGhOc1hXNm5aazZGZ0Vwc3NDVmdKNDlSby1Edk5CV3d1Z0tXYlRReXpvS29TN3R2cmJLUE02c1I1dUVxeEd4SFJIOWw3ckt4eHRXVmdOcWZwRFM5VHpBQXJLZzRKTDFrQXhPZ25ENnA3dlhpc2xpd095UjZEbEhhTEdyaGIxTnlpUWd0N1JpUVNtTXNCRjk5a2tTWFY2QnV3REgxRVZ4VHRreFkyVC13NQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNbDBqMHVUNFlJbHZjMVZaMFdna09iNEx2Qi1aaG9JcHdsODlYZm5wdjdhWGlhbkpVRDJGdFpOaDB2dDBuZVZ2bGdtbE9wMi1XSl8wazI0cERiVVd6TDFsNlctdWUzcWpwa0htOTI3Vnl0S3hEWUI0TTBfbXdvTlQ2ZWItXzctYUhsenJyRFh3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -864,6 +714,156 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b948e2b233ce",
+    "date": "August 20, 2026",
+    "publishedISO": "2026-08-20T07:03:44+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Canada's WSP presses ahead with Arcadis takeover bid",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Canada's WSP presses ahead with Arcadis takeover bid Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVU5d0ctTUVEc1ZqUXljQV80VVFDYmVEdlNEV0RtWnZCdnpjSDdiY09pVUhRVDlDRDJiWmpRY05KY19XdVJUbHBUTjJ3WG03ajhmbXYtWm5yRVVTTkNpRUhUNWtZYXJqdC1UNWp5MXpDYmdOS2JjWHdEcWFvamxMa1dqRmtaeFE4T1hzR0ZrTzVEMUtiRkRyUjBZWEZEc3UyR1UxSTlzcGpRZnlVM2V2Yw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6576fa6027e5",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T21:02:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1276,13 +1276,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ed10a3a54a34",
+    "id": "news-949834fa6726",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T16:03:46+00:00",
+    "publishedISO": "2026-08-18T15:18:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites",
-    "valueBillions": null,
+    "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
+    "valueBillions": 9.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites GeekWire",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1308,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDBwMzVTNEpKNEFqMjlrdDJEWHd3MXRjWjBrU3Z2djFhV29XUFZxSzJCdHRvN0FSQ1c1cVpLeERPRVVrQ0NSYnpfRFRsSlBfRW1wVUZNaS1nWjFWZXcyQnBZQkZsbm0zUUd4dGl2RFJ5YW1iS0pCMUJVRVBVTm5FMzhZdnFrTFJoNk5zWWl3ak16aGJZLXFUQ1l3c09OWEloQjRfOWtVSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVB0SVpZb2hFUnlzRnNEYUhCZlR0MnFzQ3RUdkJfZU1hR1hpWUVac3B3aFRodXI0TGRRUjAtU3pLY3dmMGxPY0FfbUY1dlpmMG04VUZrYmh4TGFJMVNTOUZDcnJPbkJzN2tvbUNxa2RnZ2tYTFZKNXBLZXJ0cWJwUUt3M2lrd1FlLVJkUENfMjg2eDF1bHE5VVdtaDU2c21NQ3BJMmdFVE90TUZDWS1YQnFfbFlTcWRQSkF5cw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,13 +1351,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-949834fa6726",
+    "id": "news-26007d2a251c",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T15:18:00+00:00",
+    "publishedISO": "2026-08-18T13:15:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor",
-    "valueBillions": 9.0,
+    "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
+    "valueBillions": 0.275,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | KKR Makes $9 Billion Takeover Bid for Natural-Gas and Electricity Distributor WSJ",
+    "sourceName": "Fierce Biotech",
+    "summary": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSVB0SVpZb2hFUnlzRnNEYUhCZlR0MnFzQ3RUdkJfZU1hR1hpWUVac3B3aFRodXI0TGRRUjAtU3pLY3dmMGxPY0FfbUY1dlpmMG04VUZrYmh4TGFJMVNTOUZDcnJPbkJzN2tvbUNxa2RnZ2tYTFZKNXBLZXJ0cWJwUUt3M2lrd1FlLVJkUENfMjg2eDF1bHE5VVdtaDU2c21NQ3BJMmdFVE90TUZDWS1YQnFfbFlTcWRQSkF5cw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
