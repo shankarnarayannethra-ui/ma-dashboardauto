@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-e9fa5017b762",
+    "id": "news-e52a4e96f220",
     "date": "August 22, 2026",
-    "publishedISO": "2026-08-22T00:01:00+00:00",
+    "publishedISO": "2026-08-22T21:01:31+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’",
+    "headline": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’ Variety",
+    "sourceName": "WSJ",
+    "summary": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEk4Zkc2Q0kycXh1TUE3cWh6ZU1lSE1EOHpqcXZ3d3J5d3lnVWE5eXpJSFlKdVJ4US01VTY0alRWUDgtSWNjLXhWS05hTDJKNnVZc29MeU1JdmQ5TGU4cnFWbEpuTmM0cWNrekZ0TWtBVzVKam02eEQxWDMtM1d2LUlwQ1ZBOUxISHA0T1lzNm9pbFpHN0RHQTROOGt2MFhi?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjNsMm5VRzg0WVNOTGRjSDlKODY2U2pJUW54c1RTa0ZIWUxOaTdKemgyelBuM3lUU21pc0pkYUFlYkZCdEhEbm9pVFBJRDdIY09JYi1EaUtMczZrOUVLYXZsNjlpMlNVNngtSS11aV9nT1QybnY0OE5yOGM0TTQzdlpIZEozNnM3SWJ4M3NvQ2RzVEN1?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1a36291c2339",
+    "date": "August 22, 2026",
+    "publishedISO": "2026-08-22T17:50:09+00:00",
+    "acquirer": "Paramount",
+    "target": "state AGs will head to negotiating table in WBD",
+    "headline": "Paramount and state AGs will head to negotiating table in WBD merger fight",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNN",
+    "summary": "Paramount and state AGs will head to negotiating table in WBD merger fight CNN",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPNW9OSUE1OFNMbjJsMkdYUU9LTHhYZDYwVDk1dUVkZkNLaVlZbzY4bnhPZTZaRThWcW5WVS1VTWJKcUcyWjZnYXk4bWxCRS1pY3VXTGdvWEVscEtPSFdaalVZeW04c3BoVFNLQ0Njc1RjVEpKcHB4Vl9JQ2d3WjkzcVFETVdBSjhV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8f36a4932481",
+    "id": "news-09085751a90e",
     "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T02:19:00+00:00",
-    "acquirer": "Charter Communications completes",
-    "target": "Cox Communications in major cable market shift",
-    "headline": "Charter Communications completes acquisition of Cox Communications in major cable market shift",
+    "publishedISO": "2026-08-21T01:02:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cbs8.com",
-    "summary": "Charter Communications completes acquisition of Cox Communications in major cable market shift cbs8.com",
+    "sourceName": "KUOW",
+    "summary": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday KUOW",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +408,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxNUWdPNmI4amR2TXJWZVdQWUVpTTJWb2JBQnZRcEdQV1U0Wk1KYlpTTUpZMXlGal9TUEhhSWdyRTh3a3U0RGhYQXRzaE5WZGxWaC1oeWNXVUtxc1dPbkh3X3lSeU84N1VDMEg0VGRWRi1LVm5HZXBlbEtPd25HclRmOXd3YjhINFp1WE5uOTBPM2ZqMjRaRTU0dkxFekhVOG1PM21RREg2WEhTTlpQMWowS2t2dFpzRXctek5FUFhRTEVVTmhYaHNuR1ZmczVaYk55aWV3T1kyOXRFSjh6WmtsVnJ2QU5EMmhXWFdNZVQxeGc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVFLdTRtUHRjRHNaMk9aU2dyVEkzSXdEeENPVEZqZjFFZkJvaUM1NlptaExpUWtlN18yTTJwNm9PR3lYTTZESWlYZ2FNZWkteVEtTWJTY1dYbHNpaE1razRlUVhtbTQyV3FRVVNDcTQwZE9SR21WV0hQQU1KX01EWlRNMG55dG5NcUZWOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,81 +901,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6576fa6027e5",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T21:02:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Will Cost 4,500 L.A. Production Jobs, Report Finds Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-0d6bf125bac2",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T19:11:44+00:00",
@@ -1201,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ed10a3a54a34",
+    "id": "news-6c87a04abac9",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T16:03:46+00:00",
+    "publishedISO": "2026-08-18T22:51:15+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites",
+    "headline": "US transport regulator resumes review of Union Pacific's proposed Norfolk merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites GeekWire",
+    "sourceName": "Reuters",
+    "summary": "US transport regulator resumes review of Union Pacific's proposed Norfolk merger Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDBwMzVTNEpKNEFqMjlrdDJEWHd3MXRjWjBrU3Z2djFhV29XUFZxSzJCdHRvN0FSQ1c1cVpLeERPRVVrQ0NSYnpfRFRsSlBfRW1wVUZNaS1nWjFWZXcyQnBZQkZsbm0zUUd4dGl2RFJ5YW1iS0pCMUJVRVBVTm5FMzhZdnFrTFJoNk5zWWl3ak16aGJZLXFUQ1l3c09OWEloQjRfOWtVSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxONGtyM1MyVmNvMGNkNFFJRmZ3eUVoVmlERUFEN2JEdHM1amZzTUdCSk9YMF9TUEZZdlJHcUpVVnNuNGRyZ2I1RXFoOWt1bTM5YWVWRWFtRWx6eEtsS2cxNWE3dFNaaTNTZGlqdUVham9MYWdBcHhudjFKLTVBMy1LTE1NMDVUbk1KT2VpbHhST1VSYkhSMTlCd2lCc2dMc2ozdHJsS2tTNXpxX1ZlUWNJbUNBQnpXVnc5X1Y4NW5R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,12 +1276,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6f14fbbeda07",
+    "id": "news-ed10a3a54a34",
     "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T16:00:00+00:00",
+    "publishedISO": "2026-08-18T16:03:46+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "AvalonBay, Equity Residential Complete Historic Merger",
+    "headline": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Real Deal",
-    "summary": "AvalonBay, Equity Residential Complete Historic Merger The Real Deal",
+    "sourceName": "GeekWire",
+    "summary": "Seismic completes Highspot merger, says it will keep Seattle and B.C. sites GeekWire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1308,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORC1lVmM4bjBOVS1RNE5ZRU9jMjZ6eVRYcFJmU1JQdzZKRkxfOU0yelR2cWUzYXZKS3FIY1U0cENhNWxLSG42ZXJMVFhuaWV1d3dnZXJodDhlcGdaTVdLSTRoUGMzOVpsWTA3aUdpaUo1UEZyaGZURWhsNmNqUFhyeXVsUVVDTW5DclQ0VkVJYWltMExTTy1ScHNHZXB0dkk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQTDBwMzVTNEpKNEFqMjlrdDJEWHd3MXRjWjBrU3Z2djFhV29XUFZxSzJCdHRvN0FSQ1c1cVpLeERPRVVrQ0NSYnpfRFRsSlBfRW1wVUZNaS1nWjFWZXcyQnBZQkZsbm0zUUd4dGl2RFJ5YW1iS0pCMUJVRVBVTm5FMzhZdnFrTFJoNk5zWWl3ak16aGJZLXFUQ1l3c09OWEloQjRfOWtVSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
