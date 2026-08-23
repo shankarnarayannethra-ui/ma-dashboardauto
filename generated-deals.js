@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e9fa5017b762",
+    "date": "August 22, 2026",
+    "publishedISO": "2026-08-22T00:01:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount Slams Mark Ruffalo Merger Attack as ‘Antisemitic,’ Says Company Does Not ‘Tolerate Prejudice of Any Kind’ Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcEk4Zkc2Q0kycXh1TUE3cWh6ZU1lSE1EOHpqcXZ3d3J5d3lnVWE5eXpJSFlKdVJ4US01VTY0alRWUDgtSWNjLXhWS05hTDJKNnVZc29MeU1JdmQ5TGU4cnFWbEpuTmM0cWNrekZ0TWtBVzVKam02eEQxWDMtM1d2LUlwQ1ZBOUxISHA0T1lzNm9pbFpHN0RHQTROOGt2MFhi?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-af485de23a27",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T19:24:00+00:00",
@@ -334,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOMnB3NGI4QjN6Um1TSk1XbjdSY0ZTb0lIaHhnOTZLREdnRXJEd1ZOdXhtUUdfeDZZQU5iazFpQmhNaC1sYlBjZ2dLVHByc1htX3pNdS1ydWFIS25yc0Jqb25TX3JQbTRoZnF5SmhHXzJEMVAtcFRRaVc4bWpIQkp5RW5lckJZYjFYSEFmVlE0VVdKV3ZaV0R6RnpNazViSi1ncDZZUzZZcWhDbC1CYTdZ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-161d9ed4a9dd",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T17:44:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Cox customers in Arizona to transition to Spectrum after $34.5B merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AZ Family",
-    "summary": "Cox customers in Arizona to transition to Spectrum after $34.5B merger AZ Family",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOVk44b2Jtb2JQRXhldFVOaHNVaU0tcXRsWE9nUEJYVjEyYk9obzRsdnNONTJ0d3FkT3NMaGZ5T09EMDdMa3FlbHE2TVlYRmNfQjZiWVRwS0RjbS1jNHlwYWhzQjREdGhjM0M3UklkczlRRmpVNnVRSHgtcjc2WnJPRk5JeEZKelZjOWg3XzZPczRtZ2NyblNmYTNLNzXSAbABQVVfeXFMT2ZhbDBoZkljd0FnY1RYRURveFZieWpGZElEc2w4S29qdEdYbmxnRlVWVHBoNWJVRU01RDVIYWtiZGhRbUM1X09WMkw4Z1gwRjVCLWZTOHkyaG5idy1Vc3E5cDNZajYyZFZLYXdwektydUVnWk1SWlR2RF8zNzdtMWR1MHk3dklrUExoX3lyUzV2Z1VNbnhkX0ZHaXE1aVZYM2xaQjhfY1NUMkJFbVFtRGY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,81 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-26007d2a251c",
-    "date": "August 18, 2026",
-    "publishedISO": "2026-08-18T13:15:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca",
-    "valueBillions": 0.275,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "BioMarin bulks up bone unit with $275M Alesta buyout to challenge AstraZeneca Fierce Biotech",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaG1fcFNwME5RSDE1a2JsX3BXUHl3VjVic281Q2Z2YkpkaGdtVVF2ay1oREJCc0FhcVVLT0dOVlZxdWZIajF2UkpYd3dKbUNoQWZHQTN1T0V3aEI3bnljc1ZNbFY4alFqdXJKZFZ3Z2xPdVVCVzdyeDI0b2dla2NoZDZJY3dTazV5ZnAyM1k3LWlBVlpWWS1KV0g2UTdaYUpBWXpmVU5R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d6123d641257",
     "date": "August 17, 2026",
     "publishedISO": "2026-08-17T23:58:31+00:00",
@@ -1834,6 +1759,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOS1NzSEJvTGFXWXNTSGZRa19FeV9nRFlENzNxTWlxQWNmOFVVc0JCQTRfeUtHX21wOFBndkhSTklNM1Rmc0t4aXdRZGxhaHFOTGtrMGtXcmVFc29fbXZYc001TVhhVUFhYmkxOXFrYUVadjd2a3l3VGphaE1icWphd09KTG16RDRuMExRZTh2LW1PWVhTTFU0M0dydmNiU1k?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-3f170aab49f7",
+    "date": "August 17, 2026",
+    "publishedISO": "2026-08-17T12:52:00+00:00",
+    "acquirer": "Universal Health Services, Inc. Completes",
+    "target": "Talkspace, Inc.",
+    "headline": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Universal Health Services, Inc. Completes Acquisition of Talkspace, Inc. PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPaWNCcVNnUVRfM3l3UVJRWmF2M2dub1ltSW8zN3FXWjZTSWYwUW5DdWxyMmNjaDVTRUhtZV9qdnFoMzZ0bk1ZN2otbzM2amFrUUVMVTJ4R083d3FkTXdEX3Rxd1JaWC1TX01pQ1NncWN2em1pYVhSek5wM0p5b1RIZVByR0NEa05PT2JYdW1jRVI0TDhwSUtrZlE3b3hXTFFfb1lPcDN3S1EzVmVjNi1HR01Kalo4YTFyM0RsZlBOUVNhQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
