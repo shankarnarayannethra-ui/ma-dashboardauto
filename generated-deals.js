@@ -301,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-56fe09fc6148",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T14:37:29+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Mayor Karen Bass, labor unions push for resolution on proposed Paramount-Warner Bros. merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 Los Angeles",
+    "summary": "Mayor Karen Bass, labor unions push for resolution on proposed Paramount-Warner Bros. merger ABC7 Los Angeles",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNaklzOXlwdkgzRVRYd0h5dVJrY1IyNUUtYVpZbEc1QUtic09EaW9LUEV5QXBIcm1qX2dVTWt2NWlCYUQ3Sk5QQlFSMzNYdXlTVjRyLVZXcGdfZ3Y1R1V4al91TEN1NGFmNmhxYXdNRUFuYXF1SVBibFhkQWlfWi0wa1o3Xzg2d2tRSGZ3MTlray03dEtnc1huRGtKMkFWVWo2M2Y4MlZiZFBEU3hndENmaWlRUEFLcDR3NndDN1lR0gHDAUFVX3lxTE9vejY2LVB3bDVLY3FMNGZoLWhYbkdONy1fa3c0SkxzREJ6cXBSdG03d2pkbklQbGJCQUJXM1ZwaDY5ZWRBWl9iTk1NaDk1ZlZfSXNVcHliN2FLTEtMR1hQNHdJbnAtTlllWVc0bktXbUw2RHBvM2xleENRR0N4Zk9USmFKaWw4TWxCNHFYSWtYaTNqMFF3MS1kZ052a0lkV2tTN1FaNVlfb1BTQ3NTMWg5TzdNdk91NWE5MjU5Q3EzQXN2UQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7bdff6847c94",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T13:50:00+00:00",
@@ -1084,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHVyVnFhWE1wWWxReXZ1WUpPVFNZc1JON3R5N1BtMXdyaFdYNkwxaTZuZ2NodnJwbXd6RzZnQ3FaMV9RaHB1YUI4RXhPdUdsZXFWWXk1RzlnRkVHMUFBbDlQLUxpSW9BVGJSM2t4WWdhakpJWDdkaDBwVDNfMnBlLTBoWmpGSHBpdktZWDZDcG9HVUwxLWM1ZjdLOFFQYWFOelFPQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bad0b27bb6c8",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T13:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Lattice Acquires Pando to Advance Continuous, AI-Native Performance",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Lattice Acquires Pando to Advance Continuous, AI-Native Performance PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQNUNGWGZ1Vl9LRkFpTnpIU1pkVGhIRUtsYXQwWndxeUV2R1FITVdSMjdQQTVUdWFqRzBwaGVRNWpfaVU4aXlWN3pKVklWejYwZ056WXMwM2pjUk95MzRtVzQtM0lxUjMyc3pUaFYzQXpDbTU5Yl85X0J3VmFoTE9ITXZ1cWg0THRTUFFLeXJqcWJnQVVkVEE5OWcxTXp4VDQ4SVJSX3VFRWx4N3JOeXZXZUotN1BZeW5tZjZxMzE2Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
