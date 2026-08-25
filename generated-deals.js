@@ -76,6 +76,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-590763f245f3",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T13:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "ePlus Acquires Assets of Daymark Solutions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "ePlus Acquires Assets of Daymark Solutions PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNOEVEcVVYVC1LbWxLcVFrUVpldUFwQnVUUEJ0WDI1RXJ1cjlHNlFVTWhuNU5NMndrSmF6QzZKV1cxb0hZTDVBQWp4Z0RJTVZtcmFiejlGR0g3NE5aNmwzX2dhZF9NYTFKaTI5dmpqV0ZDV1VOOUotZ2w1OFctQkQwQm14R2J6VkNIUGpXbUhnZ3lTR1BDb2tTYlZkNUxzdlE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b9d7f9782e82",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T06:25:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Are Big Banks Targeting Citizens for Acquisition?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Go Local Prov",
+    "summary": "Are Big Banks Targeting Citizens for Acquisition? Go Local Prov",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxObVZHcmpGRGtZNjdKUTh3RllZSXpNTkp3QXdTRVZXV3dfenlnZndTUnVUdlA3U2xobUw3V1FiNzByVG5fUHZ3UXY5Vy1LNUc4d0pxbHJhaGRRNXRWSGtmNnRtSjZLdW1jS0p0RjJPSkY0OU50X0Z6WHBtWkliWkZLREplbXMtS084amJNQzhR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b61024741ecc",
     "date": "August 23, 2026",
     "publishedISO": "2026-08-23T19:53:31+00:00",
@@ -226,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1a36291c2339",
+    "id": "news-4f6c213b763e",
     "date": "August 22, 2026",
-    "publishedISO": "2026-08-22T17:50:09+00:00",
+    "publishedISO": "2026-08-22T17:50:32+00:00",
     "acquirer": "Paramount",
     "target": "state AGs will head to negotiating table in WBD",
-    "headline": "Paramount and state AGs will head to negotiating table in WBD merger fight",
+    "headline": "Paramount and state AGs will head to negotiating table in WBD merger fight | CNN Business",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -241,7 +391,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNN",
-    "summary": "Paramount and state AGs will head to negotiating table in WBD merger fight CNN",
+    "summary": "Paramount and state AGs will head to negotiating table in WBD merger fight | CNN Business CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -264,6 +414,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a1f3e971073e",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T22:52:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "WakeMed-Atrium deal ‘deserves close scrutiny,’ governor’s office says ahead of possible merger vote",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WRAL",
+    "summary": "WakeMed-Atrium deal ‘deserves close scrutiny,’ governor’s office says ahead of possible merger vote WRAL",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORXBWTEw5ajc2UEQxOFUzc2o1SGM4eF9JX2hmRXFlZndrem1iQXpDNThvTjBMTmZ3NHZ5TWgzVGdmUFJrRG1RSm1RWktIc0Voa1FlN2w4akNxdDFkZ29Rc0ZPRXZnUUNHTkVVaFlBbDFjUjRNakllTzBrQ2xjTnBqdXA2M3RXdFVvbmJTNXdCN3hMSUt1ZGVzcXd1YlFMWTNoR1NJNENzUGRoc1dMNGJ6UDN5ZW4xNS1hMnBVdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1201,81 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b948e2b233ce",
-    "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T07:03:44+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Canada's WSP presses ahead with Arcadis takeover bid",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Canada's WSP presses ahead with Arcadis takeover bid Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOYVU5d0ctTUVEc1ZqUXljQV80VVFDYmVEdlNEV0RtWnZCdnpjSDdiY09pVUhRVDlDRDJiWmpRY05KY19XdVJUbHBUTjJ3WG03ajhmbXYtWm5yRVVTTkNpRUhUNWtZYXJqdC1UNWp5MXpDYmdOS2JjWHdEcWFvamxMa1dqRmtaeFE4T1hzR0ZrTzVEMUtiRkRyUjBZWEZEc3UyR1UxSTlzcGpRZnlVM2V2Yw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6576fa6027e5",
     "date": "August 19, 2026",
     "publishedISO": "2026-08-19T21:02:00+00:00",
@@ -1309,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNcnZZclJULWdVVVhKQl91WDJ0VFVDYXBxU2xyVzJrRlBNUkFGOUM5ZXFyZENxS2xXVWxmMEtONXFQbEpXZmw5OFVqNmo4b0ZpaVRYeXRvS1g2a01xd0ZwQmZPV2hpVTREaXVEaUt3eDJ0aWlTR3VVSlhrS2dQY0tqMVYtLWEtdlY2QXhoczIwZHk5WGxMZUVhX09GNHFZaEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2303ad2ac85c",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T20:21:46+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County",
-    "valueBillions": 2.78,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Hollywood Reporter",
-    "summary": "Paramount-Warner Bros. Merger Will Threaten $2.78 Billion in Economic Value, Says L.A. County The Hollywood Reporter",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOMG9GNm1ldGhBeW9ja3Izd1ZOenZDTzZjeWxLZGFBNWw5TnVkYlc0NmtuOWpCeU8wZVo1MXlFSC1jQkFieHRzS3VPbU5ONnVGQWxYMHVIOWw0WjRhUnIxUnVneWpxTXFlSHBVblA0T3l6YU9GSTM4Qk5iRUZjLTFzSU1uVE0yNW1Kc0lTT0VCT0hlS0l0Q2k3Wl85VUkyaE4wYnBNaWJTZHM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-68be97cc16a9",
+    "date": "August 19, 2026",
+    "publishedISO": "2026-08-19T08:14:50+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "World’s largest olive oil company surges over 20% as rivals circle in takeover battle CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPVHdoVm00V0Z2bDlLTktiZWRYWktaVnVxNTdhWkxzZnR4a3NWeWtrTWF5aW1BUDR5b2hVMUx1QWZ1LUdwNUppU0hCZVFqYWhnQndOenY3cG9qX1p1WVEwOENOYm5wSWltaXo3My1ZcXFtS0VMTndTeEhFLXpGMFYxUtIBhgFBVV95cUxOejZzMFpSaExPZFdNMG5ITDFNb09aVzBPTXAwckZTN215Ry0wSUNLRGthd0dPVVZ0a0toQS1taFNZRndxVnBCb2VHcFB6Y3FIRXhIS2NMRWZnVFlRa0xOYmNSdFVDaHhEWm9qRVpxLXNpZFlra2dwRmFfR2JRcnl1U2RudTN6Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6c87a04abac9",
     "date": "August 18, 2026",
     "publishedISO": "2026-08-18T22:51:15+00:00",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d6123d641257",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T23:58:31+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit",
-    "valueBillions": 1.88,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Paramount seeks $1.88 billion bond from state AGs over merger lawsuit Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNdmw1dFdaTm0wd0gybUJrYnBVdDkwX0xXYXdlNTdRNnFhWS1YMGtnOGVsNDQwc0diMlJ4Q21McFNTWnRUVEl3WER5LXlOMFBNZHR5Umx0Z2poMG5zMDlDOHlNOU8zV0JDaWtVQUlhNDR3Z3VfdjU0NnlqVTlwOWZoNVlzX3BQYkpSNld4OFF6bldmNUlnSVpCY3B4ZHhlS2JOUVBybEpYOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-bc060be178af",
-    "date": "August 17, 2026",
-    "publishedISO": "2026-08-17T21:45:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Gov. Spanberger formally intervenes in Dominion, NextEra merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "13newsnow.com",
-    "summary": "Gov. Spanberger formally intervenes in Dominion, NextEra merger 13newsnow.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNTDBIZFlsbTF3a2xkajN4T0FUM1FCZEdLMnhEcUpCM05Mb3NyN0E0eFRXR0RfUEI0T0ZmLUpmZzF5RU80VkR5eThMbTZTRllIblVuSWdUSHRxNzFxRFRmcW9jVE9wZ09WTlVsOEE0UGpSLXF0bk5JZGNNUVAtb1F5VFNfWjhwbXZnLUo3cEM4M0NvaGZGREgyN203bGd1RnpYZ0MwdGR6Z1hBVTdxY0VzZF9BekNoY3pyWjRMQjZnd040NlNRX2ZqSmVxVEtQQnBPSGtrRjQ0Z2kxcU5hQ2ZMMzVYTEZ5MGtVZUcw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 17, 2026"
       },
       {
         "stage": "Terms verified",
