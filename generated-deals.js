@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-8013d666bc9a",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T17:41:59+00:00",
+    "id": "news-0349586b9e2c",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T02:33:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Roku (ROKU) Announces Acquisition by Fox Corp for $96 Cash and Shares",
+    "headline": "India's Tilaknagar open to another large deal after Imperial Blue buyout, chairman says",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Roku (ROKU) Announces Acquisition by Fox Corp for $96 Cash and Shares Yahoo Finance",
+    "sourceName": "Reuters",
+    "summary": "India's Tilaknagar open to another large deal after Imperial Blue buyout, chairman says Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHZvWVBROW9xQnFJR0JyTDlsanZIbGRsVG5QZENPSExITzZfbVE0bWVqaWVnQy1zWWV3RlRVdXM1dURzdVM4RGJIWUxwTThpdUppTUd0UTdleTNHaVJkZ3F2SEV3RjBTVDBZSF9JVTFKMENxdnd4WFhOQlVvRk1JOWRoUG51dk43NWhDRlV4NjM3MEJyeXRZaktUTUR5TDVNV3c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOU0xsMDBieklCOWp1R0Jvckp0MUtUWW0zaXhkUW5wYmJQaDFYR2x2RjhrNFloamRfZFNGWkdEVDBsRC1MTHFIemR4Q2tkTl9fY0Y4M01TWTBvZEd6d2tJZTdzUTFBSGZ0WkkzVWVlNjRLb3BoMXdwRUhMNW5ON25nQUpiZDVvUU9ZQ0NackJudGd4VUtlTWVkcUhmVnR3Z2Vjc1hMS1M1VHE4WFJ5ajVPV3NIX3RqVjVLODNtdUdQUm53a0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Aug 25, 2026"
+        "date": "Aug 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-eb6adf957aee",
+    "id": "news-8013d666bc9a",
     "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T15:30:00+00:00",
-    "acquirer": "OLIN",
-    "target": "HUNTSMAN Shareholders Approve Transformative",
-    "headline": "OLIN and HUNTSMAN Shareholders Approve Transformative Merger of Equals",
+    "publishedISO": "2026-08-25T17:41:59+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Roku (ROKU) Announces Acquisition by Fox Corp for $96 Cash and Shares",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "OLIN and HUNTSMAN Shareholders Approve Transformative Merger of Equals PR Newswire",
+    "sourceName": "Yahoo Finance",
+    "summary": "Roku (ROKU) Announces Acquisition by Fox Corp for $96 Cash and Shares Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOYnpWNzYzLW13YWNwNlM4MUFkWnhPeHU5eGI5MmI2d2JTcDR3RFVpUGMtZlNFNm1YT1pQdFpwamVUXzNjYU1sS1JreTdQTkYyUGllblhkZEdVY1JMdVFtZlpFYjItN25KYmhEdVBlMzVkb1ZtZ1dXc3M0MHBZUTJUQmNWWEN4SXpTOUVycmhwM1NSbjR3cXZDUXlGd01mb3hSVF9DdnhQcHRXN2o4RElnSjYtZ0t3TlltWG1nUDhXRTlWYjZj?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNNHZvWVBROW9xQnFJR0JyTDlsanZIbGRsVG5QZENPSExITzZfbVE0bWVqaWVnQy1zWWV3RlRVdXM1dURzdVM4RGJIWUxwTThpdUppTUd0UTdleTNHaVJkZ3F2SEV3RjBTVDBZSF9JVTFKMENxdnd4WFhOQlVvRk1JOWRoUG51dk43NWhDRlV4NjM3MEJyeXRZaktUTUR5TDVNV3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a82125c96c40",
+    "id": "news-2a90414e3f9c",
     "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T21:46:06+00:00",
-    "acquirer": "Real completes its",
-    "target": "REMAX",
-    "headline": "Real completes its acquisition of REMAX",
+    "publishedISO": "2026-08-24T20:53:28+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Prominent Latino group blasts proposed Paramount-Warner merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "RealEstateNews.com",
-    "summary": "Real completes its acquisition of REMAX RealEstateNews.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Prominent Latino group blasts proposed Paramount-Warner merger Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3RLYi1SVWV3czRnWHV4NlF5OTVwb2Q1VXV2YUxZaU1lZ0xyTDhDcy1VQXlxYVhwNEttQjBmYjgtcnR4VUpJWHBZOGVYSENwckVpM0hJY2lyRHV0cWFhTlAxYm16V3FaRjVaOVBpUlJ0dDZGOFIxSGwtZmJ6WXd0endqQVVfSTFW?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEUtSklHMkZWSXR2cnFaZ21ieVFublRoTF9vSWpfczZEMUhQOGItR1V3YmFZdmFFWFhBcm9DTWF6N0g0OS1zTFhCLUtaT3pUUWpPMjI3bjVmRlp0T3ZBRXdHTkFUYzhVWkRibFJ0Q3dIRkpSTzFHOGRWclE5RlBzQ1NQWW5lX29hQllxNzlRc0lvaUQ3NVY3ZGJJZEo3Qm5ucXFOMThxcUZSWUZHUHhiVlhoVEIyOFhUdHR4V2xZNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -976,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1b396f6fb1d8",
+    "date": "August 21, 2026",
+    "publishedISO": "2026-08-21T19:17:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Dallas Mavericks and Klay Thompson Reach Buyout Agreement",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NBA.com",
+    "summary": "Dallas Mavericks and Klay Thompson Reach Buyout Agreement NBA.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQM2hINU04eWFnMFlhVmtTUTIyQWwwT3A2STgwRUNQZjl0YS1mejlGQWRCNTdVdFdCNkwza2x4dlFwenMtZ3RSVzJ5ZDhhbk8xSjEteUl1dm9yOFNra2xTNDZvdHU0bE1meEcwYndVQ0YwNWxOUUw4YTg4N3E0cTg0c2x0QnYyS0pYOGlkU1hEdzA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a085ef03f5af",
     "date": "August 21, 2026",
     "publishedISO": "2026-08-21T14:31:02+00:00",
@@ -1276,12 +1351,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0a0e2274e6aa",
+    "id": "news-ba8d422bbee6",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T20:38:46+00:00",
+    "publishedISO": "2026-08-20T17:17:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later",
+    "headline": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WTVR.com",
-    "summary": "Catch up: Where the proposed $67B Dominion-NextEra merger stands 3 months later WTVR.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdFJfbUtqZ2lwcXFnMjY4czFKaDEzZ3RrSWxXQXlNM00yamxzWlNkZk96aGgwTldlY3dHbUlzazlwVDc5ZlQ1R3lRbnpHRVMxaVFDM2NqRkxvem5TUlZTR3ozcjZRVzZYdmt6QlBtcmV2Zno3TXFhQU9fUm9iQzRVUGJLRW93Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVYyYkFhQWZoSUg3VE1uUEJqM0ZPM2FiWVJhSGNEUlF1MVNFUjd2LXlaZTQtamNUbURhdWNpRndYcFU4NmVMMzRlTFpQQTZXY0FvOWNZR01IQ1VJNGhTSDhPNjQyQTZjMlh5N1VsdzVOcE84RmFSTmxvbWhnMDBmMTRaSHdnQUF2UEcySFVhYU1wS1loMy1rTzRqdnpXY2tnazV3d3AxTXh2RWw1UjBtZU0zcjRzM2s4U3BsMk5UM3h5OEVtbXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ba8d422bbee6",
+    "id": "news-9a7d68fd7059",
     "date": "August 20, 2026",
-    "publishedISO": "2026-08-20T17:17:00+00:00",
+    "publishedISO": "2026-08-20T17:14:53+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers",
+    "headline": "Charter closes its Cox acquisition, elaborates on immediate plans",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Charter finalizes $34.5-billion Cox takeover, bringing Spectrum to millions more customers Los Angeles Times",
+    "sourceName": "Fierce Network",
+    "summary": "Charter closes its Cox acquisition, elaborates on immediate plans Fierce Network",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNSVYyYkFhQWZoSUg3VE1uUEJqM0ZPM2FiWVJhSGNEUlF1MVNFUjd2LXlaZTQtamNUbURhdWNpRndYcFU4NmVMMzRlTFpQQTZXY0FvOWNZR01IQ1VJNGhTSDhPNjQyQTZjMlh5N1VsdzVOcE84RmFSTmxvbWhnMDBmMTRaSHdnQUF2UEcySFVhYU1wS1loMy1rTzRqdnpXY2tnazV3d3AxTXh2RWw1UjBtZU0zcjRzM2s4U3BsMk5UM3h5OEVtbXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPQ2dFZ09fbVJDNV8yRU5zMFBHckZ1Zkl3WUJqTW9lSXNpaU9veVNyQWhzX04xWEN2ZWk0b1owN3RBQklNeFhSYlRPWTBUZXFwSVFNdm5pY1NYVWMtU3BseDgtM0JWNUFOTE9LWHNNdEpqa1lNS3Z4b2Y2ajR4OVowZW56bWhvUFUzb05PUlppR3dYSzhyZXJNUEVuWUhBSkl3NFJuQw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQVHVyVnFhWE1wWWxReXZ1WUpPVFNZc1JON3R5N1BtMXdyaFdYNkwxaTZuZ2NodnJwbXd6RzZnQ3FaMV9RaHB1YUI4RXhPdUdsZXFWWXk1RzlnRkVHMUFBbDlQLUxpSW9BVGJSM2t4WWdhakpJWDdkaDBwVDNfMnBlLTBoWmpGSHBpdktZWDZDcG9HVUwxLWM1ZjdLOFFQYWFOelFPQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1044992d73ca",
-    "date": "August 19, 2026",
-    "publishedISO": "2026-08-19T09:41:27+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SCC commissioner, former NextEra attorney declines to recuse herself from merger case",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "SCC commissioner, former NextEra attorney declines to recuse herself from merger case Virginia Mercury",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQZWFEcWJWUzBwZWd2QzNuYV90amtzR09VNnB2c3FUYXFaTXhvVzV4RTlHNUhuQkgxWXBWZjZuMFlrVkJyZ3hkZTd1ek5vZFZfYVp0eGtOUkZtTUowaHRTUEN2UG5NTU9ENnNvcC1NaFVIN3RrMFJtbWQ5Sk5UVkZxVGhUZ25uOGpsV0ZPS2NMSDF4Nk0wbllKaFRGUm5TQ19jTUduVk1MdlRVR0JtRDVpby12UlRNTm9QZHc4R2FnVVpuZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
