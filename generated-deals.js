@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-31b7b4516877",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T22:37:56+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Solstice, Element terminate $14.5 billion merger deal after shareholder feedback",
+    "valueBillions": 14.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Solstice, Element terminate $14.5 billion merger deal after shareholder feedback Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdEJhZDdqb0wtOUVCbE9YRzNTd3VTWnlpWWs3eGV0ajl2dzhVMzhuaFRpbnJLNVRhS2hLQjNDNTVjQjlhZzNHc2FodnVOakp3WHZwVW1YU0s1TjZhNDJrVUN1aXRvTWlYSm1VR3Z2eG9VN2RkeFdWMFZ1LXBtUFA1dTJielROZkt2NzZkcVc4NDZ6NDFHRUtRQ2NZOA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c31a92576ab9",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T21:00:00+00:00",
@@ -34,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxPM0JHUm9hODFYa1ZueTY5YXhUWFhHQXh6c3RQMjJrZm5QSEFRVUxzNzFlcW55TmRFVTZyVVlLR3MzV25IWXVfMV9VTjZ2ajZ3RW5VLW1mMVJjTC1EbmZwYW5GQ2hRVGRIN253N3l0M2cwZldGd0hYVmp6U2k4dmtpMFJ4dnlHOHZpYzh5aV96dUx1Vkk3VnZzaXUtUkhDWTJwNXlFb2NxT1lTRU15aVVjZlJPX3E2amZNRHE5em9BZGxfTlFWNWliQ1l0aXU0UGE5MjZlc3JJOERmQmVKTXRfRUxGZlBvS1ExU18w?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ab2223e79e5e",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T20:51:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Could Regions Bank be ripe for acquisition? Financial network identifies 2 potential suitors",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AL.com",
+    "summary": "Could Regions Bank be ripe for acquisition? Financial network identifies 2 potential suitors AL.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa204dy1mMFVtWU1oS3RkMEJuYVhXX0I3SFA1Z1JSVi1CNUV6cUVoR0xZLXJyWWpQQ2NKajRobHJoZkF0bmhTSlduZzF6ZWhwQmU4MlZaeXhKamlVVlNGcTMzMnNZanBYV3N6UXFLSzhQVzZrX2F0STZKUDlFVE4xaE9YM3hqWEt4Zy1idjE3cEFPb1lsVkxiV0xNLVpUbEc4aHNCSVRjNVVpYllfQUo5WUFUUGdjaUdCQ2NHWVZoY1hsNEs4czBya1FIZTM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fc3960fb0098",
+    "id": "news-d5be3ac5d3c8",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T17:46:17+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "What the Patriots saw in trade acquisition Jaylen Reed",
+    "publishedISO": "2026-08-26T16:00:00+00:00",
+    "acquirer": "Amundi welcomes Victory Capital’s",
+    "target": "First Eagle Investments",
+    "headline": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Pats Pulpit",
-    "summary": "What the Patriots saw in trade acquisition Jaylen Reed Pats Pulpit",
+    "sourceName": "About Amundi",
+    "summary": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments About Amundi",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOV2VwY2taaVdJelFtLUVNb1pSM1R4VWFURHlwT3laanM1eTdCZTUydWJvNVo2YkNlZENVbFkxLU5tVVUtdTRKYW1QekxQamI5a0U1M25XV3pLcGxldlBldUFGUHZMWFlnYWNVMVJSbm4wdnJ4YVQxYThCa0UtLV9JcmlreFlFZTBpZGF4WEI1QTR0YkJLT1NaY1B2bkpWUGVRQ2lOUUphb1YwVGs?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d5be3ac5d3c8",
+    "id": "news-3a84ca3bd5b1",
     "date": "August 26, 2026",
-    "publishedISO": "2026-08-26T16:00:00+00:00",
-    "acquirer": "Amundi welcomes Victory Capital’s",
-    "target": "First Eagle Investments",
-    "headline": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments",
+    "publishedISO": "2026-08-26T15:19:04+00:00",
+    "acquirer": "Amazon to",
+    "target": "DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data",
+    "headline": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "About Amundi",
-    "summary": "Amundi welcomes Victory Capital’s acquisition of First Eagle Investments About Amundi",
+    "sourceName": "GeekWire",
+    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data GeekWire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +708,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQRTl2VTQ3VFBBX1I4OUtaYzFNRWhwOThsMHhyYW9XaHYtMTcwdGZkNDY2dk4tYWdJOGJ3b1JpYmVNNG9xMDF0YW1aLXk2Qkp5a3I1N1pNd0hYRFpYOWtpbk5VaVB3TFRWVnZkRV9RWlhSTlpIUFJVSEJyM0toVU9ySUJfSGRqQl9nRmk2VFAyZjkwVnZTaXBrSkRDX3VYVEtxeU9iMQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1JBUldHZzZvNXdCajVBN0FzaTE2bnc5dDg1TmpHbUxZdDRhTGl0RmNMbE1KaVlCYWtmQVZOTGJjb1hSLVlRRnZBQlRRaDhwZ3k0enRGOU5jcDJydkdNOU4weVBTUGNKMWQ0X0ZZZXo5NVNZNXAyaTR6ai0xZmlwTjg1LW1wVE9mVHhVakIyeDZoVlU3V1hwLW5tSmVGWFpxdUp4UWluVFdKeU5vQUs0QUswMnpPdjVqS08yVw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-fdbce2b74c74",
+    "date": "August 24, 2026",
+    "publishedISO": "2026-08-24T14:34:03+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Descartes acquires Tai for $100M",
+    "valueBillions": 0.1,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FreightWaves",
+    "summary": "Descartes acquires Tai for $100M FreightWaves",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE56TDI0bllaM2Z6aTZab1FKSmNyRVdEUUY0aTU0ak1nY094ZkVhbkF4QkdfRzVyUnU0S1U4NEpSdW9fUEQtUGlyRzl4aEJuZndJYkV6cEt2M08tSE9mazBMTFQyVmpqWjVvek5JOUdpVS1BQ3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a1b26113597a",
     "date": "August 24, 2026",
     "publishedISO": "2026-08-24T07:16:56+00:00",
@@ -1501,81 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b61024741ecc",
-    "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T19:52:53+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "HousingWire",
-    "summary": "NEXA Lending acquires UMortgage, adds Anthony Casa to exec team HousingWire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMidEFVX3lxTFA5YjBBTDZtc2NHLUdoaXVaQVV3VjVMUTNIQmh1dkktdW1IdWRlNkFyUGdGbzdUclJjbE1xZlh1YlcxaE1LS1hGdW9BVlpkcHl2TDNfYlBFYy1kRlZMX1lMT2RGOWVtY0tzYmt4TXhnbU92WU55?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-fe945ef249a3",
     "date": "August 23, 2026",
     "publishedISO": "2026-08-23T15:54:46+00:00",
@@ -1609,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWFRZdFVsY2drTW1oQzZCdHpvaVBtQ2Z5VzAycTVwU29USC1aU2kxUkZrMjVjVDdlejNsQWVEOXBsbDFiRk5YV20yVHVPSmRkR016UU9rZ2tJTlNOOUtFOUFRS1AzQmt4UmN2N3dWbHN6cFh4SjRNRmMzUXJNRk9nOWItUTJkeE5MdE5FeVlrcU1ZeHRtdk9ONmh1ZlJod005bENWVnBGRDk3OU9vbGhzano1blRVdkNnenVNUnhxVkp5ckZKdVdB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e52a4e96f220",
-    "date": "August 23, 2026",
-    "publishedISO": "2026-08-23T01:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Heirs to the Jack Daniel’s Fortune Are Fending Off a Takeover—and a Rogue Cousin WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZjNsMm5VRzg0WVNOTGRjSDlKODY2U2pJUW54c1RTa0ZIWUxOaTdKemgyelBuM3lUU21pc0pkYUFlYkZCdEhEbm9pVFBJRDdIY09JYi1EaUtMczZrOUVLYXZsNjlpMlNVNngtSS11aV9nT1QybnY0OE5yOGM0TTQzdlpIZEozNnM3SWJ4M3NvQ2RzVEN1?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVW1oajZqQ2ZRV1ZhUnZtOWpaN1h2UlFzX05adkJZcmtSd3pGZ0lOazgzOVM2bGpMeTBIbF9HMmctT1RnNDBRbTRUckFKcVJQRHNDWkNHUThBaFBVcXg0bnhZcFRZMGVJZk9hN3JRZmUwVTFadVo2dlAybFRuSlNZQVlqSHFSMlBhZ0doQzc1eTVEeTA5MDRpMUFxaVNuX3paaWY5akpXQVZrYU1Ua0k2UFFHcl9hTHBDQjJKZzdWMkFiR182U2hCWE5n?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-09085751a90e",
-    "date": "August 21, 2026",
-    "publishedISO": "2026-08-21T01:02:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KUOW",
-    "summary": "Prepare, Seattle: A third Lime scooter takeover is planned for Saturday KUOW",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdVFLdTRtUHRjRHNaMk9aU2dyVEkzSXdEeENPVEZqZjFFZkJvaUM1NlptaExpUWtlN18yTTJwNm9PR3lYTTZESWlYZ2FNZWkteVEtTWJTY1dYbHNpaE1razRlUVhtbTQyV3FRVVNDcTQwZE9SR21WV0hQQU1KX01EWlRNMG55dG5NcUZWOVdLVV9DbXh3WUhmQ0NjS2RJclluWmdkemtB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
