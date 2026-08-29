@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fc2242a426e5",
+    "id": "news-fc99a8c8b096",
     "date": "August 28, 2026",
     "publishedISO": "2026-08-28T20:59:52+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future",
+    "headline": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -91,7 +91,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "The New York Times",
-    "summary": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future The New York Times",
+    "summary": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmdlRnB5a3dCTlVfMW5XUEV0YUlWUGQzMGxqZFpNVFdITm5CaFpZWWktc2hTT2tmdlkxUzExQlg4YjVuUS1Jc3BZcjN0QzQ2RzI5elpKX3k4Y2FHeDc2VTVjN0dTeGFkZHZQV1JRYjE3a1JlaUJabXJnR09fNGFneXRDdw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1de6cd13ea9e",
+    "date": "August 28, 2026",
+    "publishedISO": "2026-08-28T20:29:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Minnesota AG announces oversight deal allowing North Memorial-Sanford Health merger to advance",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MPR News",
+    "summary": "Minnesota AG announces oversight deal allowing North Memorial-Sanford Health merger to advance MPR News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlR3eGZfaEkxa1hYc2ZJTXZMekVGdlJta2hYTThnRmRtbDd2eUw3R3VSQ2ZySVJxY3prbWM1SGxiVnZwQWtPZlZqRkpkd3RXbjNqdHlNY19ReUFzZE5KVkJSQ1ZkZHNReW5HVjZsYkt3Si1TTWpPZk9PTEE4WVl3RnlDUHVrbEw2WU54V2VDYkRxVG5yTjBSODR0aDQxdWdZM1V3cmRtWS1EREFMYzd6YWFkenBnNURaRV9XZWl5Q0ZNZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -184,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPdFVlRS1SRnJoUVFqY180RjA3bmZWcVB3UGZzY2FrTFp1UzN4NUFXLTN0bG5rbDFza3pXTWxxTVVkT0JuM0JjQVA1N05ieUY5X0NfOGRyVDc1a0w5VGp1Vl8wLTc1TDlkNzM0T0JQZzY1eURCTThkX1B5a1QtTlpDVFlGRWtESGt3ZWM3eHRURWozc2R6UUg4eFF0Wlh2MlpRcVhTUFR3WFJxcC1BcllZb051Vm1CdlRa?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1de6cd13ea9e",
-    "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T16:15:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Minnesota AG announces oversight deal allowing North Memorial-Sanford Health merger to advance",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MPR News",
-    "summary": "Minnesota AG announces oversight deal allowing North Memorial-Sanford Health merger to advance MPR News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNMlR3eGZfaEkxa1hYc2ZJTXZMekVGdlJta2hYTThnRmRtbDd2eUw3R3VSQ2ZySVJxY3prbWM1SGxiVnZwQWtPZlZqRkpkd3RXbjNqdHlNY19ReUFzZE5KVkJSQ1ZkZHNReW5HVjZsYkt3Si1TTWpPZk9PTEE4WVl3RnlDUHVrbEw2WU54V2VDYkRxVG5yTjBSODR0aDQxdWdZM1V3cmRtWS1EREFMYzd6YWFkenBnNURaRV9XZWl5Q0ZNZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-3a84ca3bd5b1",
+    "date": "August 26, 2026",
+    "publishedISO": "2026-08-26T15:19:04+00:00",
+    "acquirer": "Amazon to",
+    "target": "DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data",
+    "headline": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GeekWire",
+    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data GeekWire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxON1JBUldHZzZvNXdCajVBN0FzaTE2bnc5dDg1TmpHbUxZdDRhTGl0RmNMbE1KaVlCYWtmQVZOTGJjb1hSLVlRRnZBQlRRaDhwZ3k0enRGOU5jcDJydkdNOU4weVBTUGNKMWQ0X0ZZZXo5NVNZNXAyaTR6ai0xZmlwTjg1LW1wVE9mVHhVakIyeDZoVlU3V1hwLW5tSmVGWFpxdUp4UWluVFdKeU5vQUs0QUswMnpPdjVqS08yVw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-5c792326b336",
     "date": "August 26, 2026",
     "publishedISO": "2026-08-26T14:31:47+00:00",
@@ -1459,81 +1534,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNNTVRZVlEUlRXbXBHX205VHVCYklHQ3NQTW9MMVZiTlNRVmc1S0RvSDJ0bWxBUXQwSTktT2ZjZGVfN0VxTUVVNEFwMDJnMUN0ZXEwUUV1UmRlc3FpRk5NSW84SFN4c2dyZVYzUVlPTHNrZkxwYkR0R0hBazdKTWY2Ym9Tb1JpZzhYU1J0TlNVNS1aQS1wdnpOczVB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-94e21b66b76a",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T12:35:00+00:00",
-    "acquirer": "CrossCountry Mortgage Completes",
-    "target": "Two Harbors Investment Corp.",
-    "headline": "CrossCountry Mortgage Completes Acquisition of Two Harbors Investment Corp.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "CrossCountry Mortgage Completes Acquisition of Two Harbors Investment Corp. Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDF4d3FUbW02R0dQX1p6UkxBOVRfbGRyRHZnYUViQzdkVWFreVlXS2hWOTFWUzFkeF9JOTRmb0tVam03M0o4NDI4b2ZtV1BwaWNhR0xqM2xucUxBUkNubzc0SXBQR3dyZFJhUkgwWEh1d2IxOG1zZTdWUV81blgza2plT1Q0c00tN0FaZFRrS2ZPNmFmTEdzdDJ0TE5abU1Sc002Y29LbW1lazA1VXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4f6c213b763e",
+    "id": "news-1a36291c2339",
     "date": "August 22, 2026",
-    "publishedISO": "2026-08-22T17:50:32+00:00",
+    "publishedISO": "2026-08-22T17:50:09+00:00",
     "acquirer": "Paramount",
     "target": "state AGs will head to negotiating table in WBD",
-    "headline": "Paramount and state AGs will head to negotiating table in WBD merger fight | CNN Business",
+    "headline": "Paramount and state AGs will head to negotiating table in WBD merger fight",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2191,7 +2191,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNN",
-    "summary": "Paramount and state AGs will head to negotiating table in WBD merger fight | CNN Business CNN",
+    "summary": "Paramount and state AGs will head to negotiating table in WBD merger fight CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
