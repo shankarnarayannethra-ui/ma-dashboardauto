@@ -676,6 +676,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-e736c70a8e10",
+    "date": "August 28, 2026",
+    "publishedISO": "2026-08-28T00:23:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "How to Watch the SLS Tempe Takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Street League Skateboarding",
+    "summary": "How to Watch the SLS Tempe Takeover Street League Skateboarding",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1nRVFKdi0zMFdtRk9LZEVtcGRRUldBMTRSTWRhSXFRSUl0UHZJU0FQZWNrYjg3bThzQlRZVV9LT2pOSjdRaW5fRHR1TVZ3bWdsajBRd2RCR3hZcFdSUjFIcmpvR3VZaFpMTGItM1BRRUlqV0Vhd1BaSw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-31b7b4516877",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T22:37:56+00:00",
@@ -1984,81 +2059,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEUtSklHMkZWSXR2cnFaZ21ieVFublRoTF9vSWpfczZEMUhQOGItR1V3YmFZdmFFWFhBcm9DTWF6N0g0OS1zTFhCLUtaT3pUUWpPMjI3bjVmRlp0T3ZBRXdHTkFUYzhVWkRibFJ0Q3dIRkpSTzFHOGRWclE5RlBzQ1NQWW5lX29hQllxNzlRc0lvaUQ3NVY3ZGJJZEo3Qm5ucXFOMThxcUZSWUZHUHhiVlhoVEIyOFhUdHR4V2xZNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7295e0015ec5",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T19:53:22+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "E-bike takeover on 91 Freeway in Long Beach caught on video",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "E-bike takeover on 91 Freeway in Long Beach caught on video ABC7 Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVmxDYXpIVEtOR0doQXVnNVA3SUs4V2FYU0tzendoTDFLd1Rlbm56WDBRUDRISDVDQjZKakRRYnFuS01vWTkyVFJrb0lrWGpveGlJLV9tRWhyRFo1VWtfLU5ONnFSbl9OXzRrelhhWHRQS1lmU2VXYjRKSEV1SGU4RG5jejgyWmPSAYwBQVVfeXFMT3FIQl92OUFVa3hyVkxqYkh0anFWWEZNSUh2S2I2UVNtYXhheFlmSk9GZGpGYi1OTldQejdqMU5rVE9Ra3hqcmpEa0F3MjBDdUczcEhXLTZPUC1LUFVyTUF2eE1SVy1SNnV3WFEySW9mZjlJRVN3TkhRNXZrUDJUMEpZODNCdUQtUFNscXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
