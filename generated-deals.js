@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-0a896088001a",
-    "date": "August 30, 2026",
-    "publishedISO": "2026-08-30T20:41:53+00:00",
-    "acquirer": "ONEOK to",
-    "target": "Brazos Midstream's Permian Midland Basin Assets",
-    "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
-    "valueBillions": 4.425,
+    "id": "news-b47638123a81",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T13:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ONEOK, Inc.",
-    "summary": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion ONEOK, Inc.",
+    "sourceName": "PR Newswire",
+    "summary": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,232 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN01lYlBzcmZORUh4NWtUNWR0RGRLRDJ4YjlkRWVMZXJiWURoNFZtOGpxU0FlaHd2WGdPZEZ2TGZObkEzeVZkSk03UU1DbUxxZG50enYzOEdYS3pPXzB4a3Yxc1p1R0RIUzl2ZjVXSHN0bVZuVVNDd2p2Ym5Ld3dOZVJSOA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWGZ4a1AzZFN3UlkyQWh5N2h0cTd4eXplSDBSUVlBc29FZDhiajVwSjdSM2tWaWF3a1A2YjZCcnFoem1NY2h1MDZmYUlQalR6ZHVtdDBXbjR0Z2dPeEFCOHNuUXdma0cwSGRXNFBGX1FINkxmVkJ5MGdnZDdiMXc0UHpxbEVDblhQNEpjS0VKaEV1SXpQTl9HMEI4RkNKTmhZeXNTOGhGUEMydnNadUNvR2hzdFBDMXF0bS0yaUREVDVWLVpoeVNfaU9TbmFJNUhDdVk0bTRTZE9pLWl1LVhXZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9d1137d9f676",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T10:17:20+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Alaska, Hawaiian airlines report merger gains",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "staradvertiser.com",
+    "summary": "Alaska, Hawaiian airlines report merger gains staradvertiser.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVhhUjlGcnZNemdtNENIV2NTUjJIMzBDQTFfa1V6RHprNXNJd25wa1RTM0tNaFUyaDFBTU1vR2M4M3lZVU5fTy01dDNXOVRRWFk5R0R2VTl2cEhYaFRKWEJ3a0RIaWVvX0NGNWYwWV9rU1BRTkF2OGlvZFlNVnBGWHJtSnhPaGRmQTRWdXF3VURTOFVudG5EWXZZN21VTVJ1?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-330917ce1395",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T01:06:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "L.A. supermarket ransacked during street takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KTLA",
+    "summary": "L.A. supermarket ransacked during street takeover KTLA",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWFfRVZlQXJiNUpwbjFMZ1ZmZURQMTh6SmVwTl9Rdkx1QlBlZXppUnp0cXkwWmpjYmw0R3lFYUc3b2d1TFEtd0pxeVZsMnBpb1otV2JpSzlEQlAzLVBsMWl6X3hpam5lek50dnBxMzBJRGo3MUtrdVZXVE54Mkw1OG5vWWVVVTdBM1HSAY8BQVVfeXFMTW5pQVdDZW0yNnlxNkVRU0RJWmJCNnVDOEZXdFFPaWtadFV0dmxtd3ZDUURQWUNINnZ6VlhjY2tEWnhzUGFISWNGLVI2OVllZlBmUWxGTVYxSGVCaURaUHlLdUVMcUFkUFJrVS1NSDRhN3NqcmhrZ3BmcTJZQWdwS2gwUlRNcF9oU3JsUjRzbG8?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7c9f95ab7fc4",
+    "date": "August 30, 2026",
+    "publishedISO": "2026-08-30T17:43:05+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Superior supermarket looted after street takeover in South LA",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "NBC Los Angeles",
+    "summary": "Superior supermarket looted after street takeover in South LA NBC Los Angeles",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNbVV2Ykl1ODhBQ1YyaW9yMy1oOUlfOUhTVzZSazJYRFlnVmJLRXY4WW5BSU5DUk5ON0ZqM1QwM1Vxa0RLY3JrOWk0cnlaLVlfRHlRUUtONk1XQ3ZoeExBZWtfeGN6QVJqRUN6UEpSQmdhcHc2VTNVdTU4dXhBbERXcUFXVVV6WUNPQ2dYZkJLZzAyMDhzOFRLQzhIbFIxOGpnYlpnSUkwdnkyd3JxM3hscdIBuAFBVV95cUxOdkdRLUs1SDhISVRwWGtLamRPVTkyc0NvNW5uYnNWWEVGUl9JRURjVmxzTDNQWV80Zm16WlNvOWVfVjhQbk5CWlR0MnZ3WW1lX1Z6bXQ3RGFqYUtXR3o3TXMwVW51MTk2YnBuakhBRkZuNGw1c0RVOGh5T1JkdkZ3NHlranFMNlVuWHZELVZKNjFhQmJRbExGcjJ0eGFUN0lTMUxBVkl1UVoxVktBT3JkLVRrdXZkeUdM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-58fa4d8b535f",
+    "date": "August 28, 2026",
+    "publishedISO": "2026-08-28T20:19:42+00:00",
+    "acquirer": "Energy Fuels Completes",
+    "target": "Australian Strategic Materials",
+    "headline": "Energy Fuels Completes Acquisition of Australian Strategic Materials",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Energy Fuels",
+    "summary": "Energy Fuels Completes Acquisition of Australian Strategic Materials Energy Fuels",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQbzZaZW1xcjFoNFhqWEhfd1RpOGFIZU9KeURNZUtuWHpaQ2kxLVp4X3pDeVhqbUNhSUFDOTV3cHc5YlVxNGthdVo4NE10VExyOWdENjdLVUU2VTJxUzc3Z0lUM2paS0lwWDUydmNQbjdobFBpUXhsb1VMOGkxREdscnJGTHlndmhKWGVNLVdNU1lTeUUzLTFuUVMzZ0p6eFozTTB5MzM0VWtjcnpTQWxkWTRQYw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-cf8c5f00847c",
     "date": "August 28, 2026",
     "publishedISO": "2026-08-28T18:23:57+00:00",
@@ -601,87 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e1297197a6e3",
+    "id": "news-b01610f20c7e",
     "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T12:26:13+00:00",
+    "publishedISO": "2026-08-28T06:00:49+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Pasqal Completes SPAC Merger With $360 Million in Cash",
-    "valueBillions": 0.36,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Quantum Insider",
-    "summary": "Pasqal Completes SPAC Merger With $360 Million in Cash The Quantum Insider",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPX3RZVU1aUjZSUjFXM1JMWEZVQWVmTGYwT2NQNWhiV2VPa0luMWcyYW5VazFtdlkwajBKTjFsR05aaTJ2bXJnU2p6QXI3ckZFbDNITHoteFB5VXNOZTBiRzYzeDZWU29KSUhBVG55VVBfR2VFd1dDcXZQRXVJRFd4Q1h4Qi12dkJzbWk5cVRUTVZiblhjM25UcGJLOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-495f14d227f9",
-    "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T12:26:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "PayPal Shares Dive Premarket on Report of Advent, Stripe Abandoning Takeover Plan",
+    "headline": "Ellwood Thompson’s parent company stockholders OK merger with data center firm",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "PayPal Shares Dive Premarket on Report of Advent, Stripe Abandoning Takeover Plan WSJ",
+    "sourceName": "Richmond BizSense",
+    "summary": "Ellwood Thompson’s parent company stockholders OK merger with data center firm Richmond BizSense",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPSUhQbVJlRXotV2twRWJWeVpOcjhNemgwNlU5b1AzWEd1WkpUakZMc2w0SUFuVGF2d1dycWU5b01zdEJKTUhMUmZySUZyZWVzWU1IU1habm10YUNTeDdnOWx4TEJrTVRwd0lnTmVRd2hiaHZaeHVNMG9heXdENDFnaDl1TUF0QnNBZFIwTm5vbzNJWkJIcVZvQkF2UFE2VHVsWkJ6U3pybFhZRlQ3QUFWSXRSUlYyNXRWWUNHbW5YdnRnQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOaEFWM2kyaF9feldVLWFEY2Z4eno1dTFObEFUREJhYjhaX0pDQ2dvbXVSSzlQT1g5cV9Kb1ZFNlgyLUdCOUlPcW5lN1hJNXhfU1hBenphU3U5RlU2eEJIcnVhcGJkRWt5WXM5VmJLTE1UT2VrUUNwREtyeGVMLVhPdXROTEhYcmVVQ1BSb3ZTbXhrY0ppaVFUQVA2VXk5MDlBN0JFN2hHZEQwUkIxbl9LZ1FZTXVuRU9ic1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Federal News Network",
-    "summary": "Army overhauls software acquisition to speed delivery Federal News Network",
+    "sourceName": "federalnewsnetwork.com",
+    "summary": "Army overhauls software acquisition to speed delivery federalnewsnetwork.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1126,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ab2223e79e5e",
+    "date": "August 27, 2026",
+    "publishedISO": "2026-08-27T20:51:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Could Regions Bank be ripe for acquisition? Financial network identifies 2 potential suitors",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "AL.com",
+    "summary": "Could Regions Bank be ripe for acquisition? Financial network identifies 2 potential suitors AL.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOa204dy1mMFVtWU1oS3RkMEJuYVhXX0I3SFA1Z1JSVi1CNUV6cUVoR0xZLXJyWWpQQ2NKajRobHJoZkF0bmhTSlduZzF6ZWhwQmU4MlZaeXhKamlVVlNGcTMzMnNZanBYV3N6UXFLSzhQVzZrX2F0STZKUDlFVE4xaE9YM3hqWEt4Zy1idjE3cEFPb1lsVkxiV0xNLVpUbEc4aHNCSVRjNVVpYllfQUo5WUFUUGdjaUdCQ2NHWVZoY1hsNEs4czBya1FIZTM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-442a3f3ce108",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T16:09:45+00:00",
@@ -1440,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Federal News Network",
-    "summary": "Three initiatives causing industry new concerns about DoD acquisition reforms Federal News Network",
+    "sourceName": "federalnewsnetwork.com",
+    "summary": "Three initiatives causing industry new concerns about DoD acquisition reforms federalnewsnetwork.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data GeekWire",
+    "sourceName": "geekwire.com",
+    "summary": "Amazon to acquire DuckLabs, adding the team behind DuckDB amid broader shakeup in cloud data geekwire.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1914,306 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2af709bff991",
-    "date": "August 25, 2026",
-    "publishedISO": "2026-08-25T02:08:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Baltimore police break up fights, disperse \"teen takeover\" at The Rotunda",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Baltimore police break up fights, disperse \"teen takeover\" at The Rotunda CBS News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3ZfdUc0Y3QwOERieG5ndloxVzh1NFk5X0RjRnJzWXlXZ0gzcVlKbG5FclBaekg5U3ByVUFuS0lFdTZwd2ZjTmYxNUZPUk02OGJISHFscnJTdGFVdUtrUGtEOEtydjNqTG1PVnc4MXpiTWI3QVFid0JtSDlEWlVscmV5Y1pwbDFkaF9tUHdvN2d3Sk5YcHdHY0NQSG9YWVlnWkpmTkRfaUFqWVZScmI4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a82125c96c40",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T21:46:06+00:00",
-    "acquirer": "Real completes its",
-    "target": "REMAX",
-    "headline": "Real completes its acquisition of REMAX",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "RealEstateNews.com",
-    "summary": "Real completes its acquisition of REMAX RealEstateNews.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQ3RLYi1SVWV3czRnWHV4NlF5OTVwb2Q1VXV2YUxZaU1lZ0xyTDhDcy1VQXlxYVhwNEttQjBmYjgtcnR4VUpJWHBZOGVYSENwckVpM0hJY2lyRHV0cWFhTlAxYm16V3FaRjVaOVBpUlJ0dDZGOFIxSGwtZmJ6WXd0endqQVVfSTFW?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2a90414e3f9c",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T20:53:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Prominent Latino group blasts proposed Paramount-Warner merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Prominent Latino group blasts proposed Paramount-Warner merger Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQdEUtSklHMkZWSXR2cnFaZ21ieVFublRoTF9vSWpfczZEMUhQOGItR1V3YmFZdmFFWFhBcm9DTWF6N0g0OS1zTFhCLUtaT3pUUWpPMjI3bjVmRlp0T3ZBRXdHTkFUYzhVWkRibFJ0Q3dIRkpSTzFHOGRWclE5RlBzQ1NQWW5lX29hQllxNzlRc0lvaUQ3NVY3ZGJJZEo3Qm5ucXFOMThxcUZSWUZHUHhiVlhoVEIyOFhUdHR4V2xZNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8b0a758eabf0",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T14:45:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "JPMorgan, Morgan Stanley Fight Suits Over Role in Buyout Deals",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "JPMorgan, Morgan Stanley Fight Suits Over Role in Buyout Deals Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnRoMURDc2pENU84VTFEZjZoWnliS0poWXk2RmRaNkN0UnJCR3VfMV83QzlEU29sR1BDYS1qX0htNFphOEZqcEJ5c1lqbXNMaVRCc3ZvbUNkMUE3b0ZSTDVEOTVyaU9xVi1EZlNfSm9rclp0VDdDckFFVmxocll0SlNhOFc2bjB6MlFyaUFQS0R6dU5RNFI2M3Jud3lvYllXX0E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
       },
       {
         "stage": "Terms verified",
