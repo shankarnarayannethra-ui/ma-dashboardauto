@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0a896088001a",
+    "date": "August 30, 2026",
+    "publishedISO": "2026-08-30T20:41:53+00:00",
+    "acquirer": "ONEOK to",
+    "target": "Brazos Midstream's Permian Midland Basin Assets",
+    "headline": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion",
+    "valueBillions": 4.425,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ONEOK, Inc.",
+    "summary": "ONEOK to Acquire Brazos Midstream's Permian Midland Basin Assets for $4.425 Billion ONEOK, Inc.",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNN01lYlBzcmZORUh4NWtUNWR0RGRLRDJ4YjlkRWVMZXJiWURoNFZtOGpxU0FlaHd2WGdPZEZ2TGZObkEzeVZkSk03UU1DbUxxZG50enYzOEdYS3pPXzB4a3Yxc1p1R0RIUzl2ZjVXSHN0bVZuVVNDd2p2Ym5Ld3dOZVJSOA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-75d701c8d8a3",
     "date": "August 30, 2026",
     "publishedISO": "2026-08-30T14:37:11+00:00",
@@ -1051,81 +1126,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d79e74a0a17a",
-    "date": "August 27, 2026",
-    "publishedISO": "2026-08-27T18:19:26+00:00",
-    "acquirer": "Sonic Automotive Expands Luxury Portfolio with",
-    "target": "Porsche Walnut Creek",
-    "headline": "Sonic Automotive Expands Luxury Portfolio with Acquisition of Porsche Walnut Creek",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Sonic Automotive",
-    "summary": "Sonic Automotive Expands Luxury Portfolio with Acquisition of Porsche Walnut Creek Sonic Automotive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOc0hYc2tDWEo2RmNWX2pjNkhJRTNXR1VTRjNJUEVKWGttOG1yYWQwMFdCVldSbWhmd2lqMmRPdmQtWDRTZWMyczVZTnhmcmVoWmNFblpjVjdzb3dNWjhvRWVQV1pKSGNGUjR2S0JOSmJrNE4xSkYzdlNHT1BPZWw0RzdOb2tTYWM4c3JBb3dyQ2RhTDdJV1M0VE5LWEhHd3RaOWozWmQ0MTBXUU5NS2RoTlBkY1FDTmVzOGpZRVJXNkRxOHU0akE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-442a3f3ce108",
     "date": "August 27, 2026",
     "publishedISO": "2026-08-27T16:09:45+00:00",
@@ -1951,6 +1951,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-2af709bff991",
+    "date": "August 25, 2026",
+    "publishedISO": "2026-08-25T02:08:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Baltimore police break up fights, disperse \"teen takeover\" at The Rotunda",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "Baltimore police break up fights, disperse \"teen takeover\" at The Rotunda CBS News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNQ3ZfdUc0Y3QwOERieG5ndloxVzh1NFk5X0RjRnJzWXlXZ0gzcVlKbG5FclBaekg5U3ByVUFuS0lFdTZwd2ZjTmYxNUZPUk02OGJISHFscnJTdGFVdUtrUGtEOEtydjNqTG1PVnc4MXpiTWI3QVFid0JtSDlEWlVscmV5Y1pwbDFkaF9tUHdvN2d3Sk5YcHdHY0NQSG9YWVlnWkpmTkRfaUFqWVZScmI4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a82125c96c40",
     "date": "August 24, 2026",
     "publishedISO": "2026-08-24T21:46:06+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNnRoMURDc2pENU84VTFEZjZoWnliS0poWXk2RmRaNkN0UnJCR3VfMV83QzlEU29sR1BDYS1qX0htNFphOEZqcEJ5c1lqbXNMaVRCc3ZvbUNkMUE3b0ZSTDVEOTVyaU9xVi1EZlNfSm9rclp0VDdDckFFVmxocll0SlNhOFc2bjB6MlFyaUFQS0R6dU5RNFI2M3Jud3lvYllXX0E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a1b26113597a",
-    "date": "August 24, 2026",
-    "publishedISO": "2026-08-24T07:16:56+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "California Cancels Talks With Paramount Over Warner Bros. Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "California Cancels Talks With Paramount Over Warner Bros. Merger The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOSXZCTm9aanNzY1V4MkxVOHlPWXBxY1VZSU0wMUZpUlJEMGFTUnlJaU9uYkJGX1lVeG9MbGVRczc0WkdycUd1U19POElheWhaZjdBSUFDS2M4NkU1Y0FjakdBVzJaWGJ5VUMtU3Z0WlFnMkRsSkFENk1ZWEtrRW9TX3NzLXRGaS1hSUlPWXg3eEVIb1ZwMVE5cA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
