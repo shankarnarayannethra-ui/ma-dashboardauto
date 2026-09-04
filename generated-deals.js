@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-9f4f4ac61de2",
+    "id": "news-0aff6af3f312",
     "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T14:02:21+00:00",
+    "publishedISO": "2026-09-04T18:37:45+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
-    "valueBillions": 15.0,
+    "headline": "The Threat of AI Takeover Is Real",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "sourceName": "The Free Press",
+    "summary": "The Threat of AI Takeover Is Real The Free Press",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -78,7 +78,7 @@ window.generatedDeals = [
   {
     "id": "news-2529f04011c1",
     "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T22:19:25+00:00",
+    "publishedISO": "2026-09-03T21:19:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Dominion Energy, NextEra secure shareholder approvals for merger deal",
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nycfc.com",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick nycfc.com",
+    "sourceName": "New York City FC",
+    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5a55fe2020e3",
+    "date": "September 3, 2026",
+    "publishedISO": "2026-09-03T15:54:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "calcalistech.com",
+    "summary": "ServiceNow acquires Israeli AI startup Sweep in deal estimated at hundreds of millions calcalistech.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0e79302d9ebd",
     "date": "September 3, 2026",
     "publishedISO": "2026-09-03T15:46:15+00:00",
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "up.com",
-    "summary": "If This Railroad Merger Isn’t Approved, It Hurts America up.com",
+    "sourceName": "Union Pacific",
+    "summary": "If This Railroad Merger Isn’t Approved, It Hurts America Union Pacific",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,81 +526,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0aff6af3f312",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T01:37:39+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "The Threat of AI Takeover Is Real",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Free Press",
-    "summary": "The Threat of AI Takeover Is Real The Free Press",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-00f25f5325a3",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T19:06:00+00:00",
@@ -634,6 +634,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1oxZHJDZHpGUDNUTDExSWZhNXZBVG84dkxjUlhuNU9CekNLQXhDQkRaS3VaVmE1WG5IeDlDTXZnaFhiQWUzR3dyYXliSHcwQklCTDVwLWl3MWVMc1loNDJjMndiRWRhTmpLOFFyNGJPSTMwQnVIMGRJLUZaZXZpTW9MM3hycjJIZm5QVElvQ3lOZUc3cTRiaU0zX2ZqdkxzNVFSOUM5YXROVkwyWWFDZE9oUEhnNlk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9f4f4ac61de2",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T17:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
+    "valueBillions": 15.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "sentinelcolorado.com",
-    "summary": "Aurora police investigate ‘teen takeover’ at Hoffman Heights shopping center sentinelcolorado.com",
+    "sourceName": "Sentinel Colorado",
+    "summary": "Aurora police investigate ‘teen takeover’ at Hoffman Heights shopping center Sentinel Colorado",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Why the PayPal takeover fell apart Axios",
+    "sourceName": "axios.com",
+    "summary": "Why the PayPal takeover fell apart axios.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1459,81 +1534,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGR2MzdqMDJCZURHeHdQOFJocmgyLUlMZnVlRkZ0TTkxTTVNYWI4UFJVZTB5eWFseXhON0dXM2RmeHFQVlZJaV9fTEU1Zmg4Zm9fcWY4RjBxbm5HNTdleDhuRXhDaXViM2NQeGQwSjlXSHdlMFJvLUN5enZOU0V0TEM0OFNwTVNvSmRkdjBfbzE4c0VkaktMSDVGSXh5blNzbFh2RUtRUGcxeTJCajVOQ1d6M1B5bmtGNWlfVnE2OTlKSi01ci1r?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2c1a3619038d",
-    "date": "September 1, 2026",
-    "publishedISO": "2026-09-01T12:30:00+00:00",
-    "acquirer": "Shell to more than double US company-owned convenience retail sites with",
-    "target": "Tri Star Energy",
-    "headline": "Shell to more than double US company-owned convenience retail sites with acquisition of Tri Star Energy",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Shell Global",
-    "summary": "Shell to more than double US company-owned convenience retail sites with acquisition of Tri Star Energy Shell Global",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQeTFpbWl0QXBzam9QUzM0Y0lEa0E0akdWbGdXVW05YkNxZUhhOVFwWnZfdjNEV29NYWJFZTEyYzdfenpkMm5XUWFCTVlsbWtHZGVCMXNhS3VVZTdSWlJKSXdDNWJ2bU9yU1g1RHNtNWZXdnd0blZWd19hc003NjlwNU1NbWdVTjY5ZVZTQlB6R01rQnR1ZWYyd1oyNngzNWlUUVhqN2hDX2NVbzlfUjhvVmxyQkt6NUI2VWNRQklFU3hxODdYdnFUUVlqUXp5OWZJc0ZmaS05SG4yVzAwbHYzQmxOVFhuSmdUTDB1YzZHZll3TmtBZUJJLWRBSzJpQlpvd3RzcVZ0Ty0tZzRJTWtFaTVPZ1E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,6 +1951,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-330917ce1395",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T01:06:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "L.A. supermarket ransacked during street takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KTLA",
+    "summary": "L.A. supermarket ransacked during street takeover KTLA",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQaWFfRVZlQXJiNUpwbjFMZ1ZmZURQMTh6SmVwTl9Rdkx1QlBlZXppUnp0cXkwWmpjYmw0R3lFYUc3b2d1TFEtd0pxeVZsMnBpb1otV2JpSzlEQlAzLVBsMWl6X3hpam5lek50dnBxMzBJRGo3MUtrdVZXVE54Mkw1OG5vWWVVVTdBM1HSAY8BQVVfeXFMTW5pQVdDZW0yNnlxNkVRU0RJWmJCNnVDOEZXdFFPaWtadFV0dmxtd3ZDUURQWUNINnZ6VlhjY2tEWnhzUGFISWNGLVI2OVllZlBmUWxGTVYxSGVCaURaUHlLdUVMcUFkUFJrVS1NSDRhN3NqcmhrZ3BmcTJZQWdwS2gwUlRNcF9oU3JsUjRzbG8?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-75d701c8d8a3",
     "date": "August 30, 2026",
     "publishedISO": "2026-08-30T14:37:11+00:00",
@@ -1989,81 +2064,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-049f0f86eac7",
-    "date": "August 29, 2026",
-    "publishedISO": "2026-08-29T21:11:11+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFpIRXhmS3RaVXRtQk9lXzh4OGlDM3hFX3RtSTRyUzlWSWV2NVpVYlFtUTRxVlVLSlB4dmZtWDhQWGQ4bHNGdmJQcEtlblAwZjN5T3ZXbHA2QlB6Y01jSUFDZUhLX0pTNjBzeVdNb0lsc2ozRDFTSFgzcVo1djdLOFlIbFpIUFE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 29, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
