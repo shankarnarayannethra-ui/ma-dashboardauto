@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9f4f4ac61de2",
+    "date": "September 5, 2026",
+    "publishedISO": "2026-09-05T03:32:22+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
+    "valueBillions": 15.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0aff6af3f312",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T18:37:45+00:00",
+    "date": "September 5, 2026",
+    "publishedISO": "2026-09-05T02:03:27+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "The Threat of AI Takeover Is Real",
@@ -38,7 +113,7 @@ window.generatedDeals = [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 4, 2026"
+        "date": "Sep 5, 2026"
       },
       {
         "stage": "Terms verified",
@@ -676,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9f4f4ac61de2",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T17:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
-    "valueBillions": 15.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e0b9ed7d16eb",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T12:32:13+00:00",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "axios.com",
-    "summary": "Why the PayPal takeover fell apart axios.com",
+    "sourceName": "Axios",
+    "summary": "Why the PayPal takeover fell apart Axios",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1876,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-b47638123a81",
+    "date": "August 31, 2026",
+    "publishedISO": "2026-08-31T13:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Deloitte Acquires the Business of Wavicle, Accelerating Data and AI Engineering Capabilities PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPWGZ4a1AzZFN3UlkyQWh5N2h0cTd4eXplSDBSUVlBc29FZDhiajVwSjdSM2tWaWF3a1A2YjZCcnFoem1NY2h1MDZmYUlQalR6ZHVtdDBXbjR0Z2dPeEFCOHNuUXdma0cwSGRXNFBGX1FINkxmVkJ5MGdnZDdiMXc0UHpxbEVDblhQNEpjS0VKaEV1SXpQTl9HMEI4RkNKTmhZeXNTOGhGUEMydnNadUNvR2hzdFBDMXF0bS0yaUREVDVWLVpoeVNfaU9TbmFJNUhDdVk0bTRTZE9pLWl1LVhXZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Aug 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9d1137d9f676",
     "date": "August 31, 2026",
     "publishedISO": "2026-08-31T10:17:20+00:00",
@@ -2101,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-11c833e0757a",
+    "id": "news-049f0f86eac7",
     "date": "August 29, 2026",
-    "publishedISO": "2026-08-29T01:46:12+00:00",
+    "publishedISO": "2026-08-29T21:11:11+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Our decision on Cursor following its acquisition by SpaceX",
+    "headline": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "OpenAI",
-    "summary": "Our decision on Cursor following its acquisition by SpaceX OpenAI",
+    "sourceName": "The New York Times",
+    "summary": "‘A New Form of U.S. Colonialism’: Venezuelans Bristle at U.S. Oil Takeover The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,87 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOU2EyMlNDTjROMndmaFl0eE1DQ2xsVUh1cXFlX3FVeERuS2wyQWw3UFZUTzlhNU1KUDV4ZExBMGRBZTdfVWtLa2VIZGJhN1p3VVdiYlpkLURzT2R1dUktbEVHZ2QtSEtueThvN214XzBoV2JadXU1OFJCY1pELWRpOUNHbi13ZVpIMjB3Tg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPMFpIRXhmS3RaVXRtQk9lXzh4OGlDM3hFX3RtSTRyUzlWSWV2NVpVYlFtUTRxVlVLSlB4dmZtWDhQWGQ4bHNGdmJQcEtlblAwZjN5T3ZXbHA2QlB6Y01jSUFDZUhLX0pTNjBzeVdNb0lsc2ozRDFTSFgzcVo1djdLOFlIbFpIUFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Aug 29, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fc99a8c8b096",
-    "date": "August 28, 2026",
-    "publishedISO": "2026-08-28T20:59:52+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "nytimes.com",
-    "summary": "U.S. Soccer nears takeover of U.S. Youth Soccer. This is what it means for the sport’s future - The Athletic nytimes.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNUmdlRnB5a3dCTlVfMW5XUEV0YUlWUGQzMGxqZFpNVFdITm5CaFpZWWktc2hTT2tmdlkxUzExQlg4YjVuUS1Jc3BZcjN0QzQ2RzI5elpKX3k4Y2FHeDc2VTVjN0dTeGFkZHZQV1JRYjE3a1JlaUJabXJnR09fNGFneXRDdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 28, 2026"
       },
       {
         "stage": "Terms verified",
