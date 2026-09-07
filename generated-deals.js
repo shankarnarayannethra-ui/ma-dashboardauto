@@ -2,8 +2,8 @@
 window.generatedDeals = [
   {
     "id": "news-0aff6af3f312",
-    "date": "September 6, 2026",
-    "publishedISO": "2026-09-06T15:15:22+00:00",
+    "date": "September 7, 2026",
+    "publishedISO": "2026-09-07T04:25:14+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "The Threat of AI Takeover Is Real",
@@ -38,7 +38,82 @@ window.generatedDeals = [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 6, 2026"
+        "date": "Sep 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c878327a3ed1",
+    "date": "September 7, 2026",
+    "publishedISO": "2026-09-07T01:27:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deputies arrest over 80 people in Greenville Co. after street takeover, officials say",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX Carolina News",
+    "summary": "Deputies arrest over 80 people in Greenville Co. after street takeover, officials say FOX Carolina News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOdUFrMFJVVy1ESW9uSmpPMmFkY1JaZ0swTVl4U3c0NUN5aHV2X2kyeUoyMTVWVEMyUW5XLXQ1NHRheXNPeVZWYVFNMWNCNk5XVGI3LTNwb0Z3ZHVvT1NzQTRvdVBXWmcyaV9XcDU4VjF4R3ZoeXpRbVhzLU5uZ0NPS3diOEY3OGtyMXhzNFJfZndRbDlSZGZFVWo1RUo3c1I3dHg3Y1lfdmo1S28wSmhWQU9iZmRFRWd0ZEZydtIB0AFBVV95cUxOUUJRZDV6UWFNSE9DTTQ3aDB4QTdPcmVrQ3pwZ1pSR0tYRFpkZzFfRUNlcUpRY2stOTlzdnJfdWlHeTlUZFlXVGtwekhlb0hqQ2txd0h3MFVWeHFaSndPQzZ2eGZRUTYtUVRpTDZ5SUFVdDl3SzdVaTlTS2dpRGdRWVNINmtIT2ZkOFZwaTRORzdEVWlWejR6VUxRSWZvdXJ4ZGt4VUplb3dDdnkxQXUtR0FnaGpwOXB1a2NVV1hlUHlsaHpNOHJQYjJUUm5lT3ZB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 7, 2026"
       },
       {
         "stage": "Terms verified",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "dailybreeze.com",
-    "summary": "Massive street takeover leads to hundreds cited, dozens arrested in Harbor Gateway dailybreeze.com",
+    "sourceName": "Daily Breeze",
+    "summary": "Massive street takeover leads to hundreds cited, dozens arrested in Harbor Gateway Daily Breeze",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nycfc.com",
-    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick nycfc.com",
+    "sourceName": "New York City FC",
+    "summary": "New York City FC Acquires $175,000 in General Allocation Money and 2027 MLS SuperDraft Pick New York City FC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Nvidia confirms $13 billion acquisition of open-weight AI platform Hugging Face finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -709,81 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1SeVUwXzBscDhKMmFoMDExR0x0M19LRTRXMkhRSGNpaEFMYnBXeFprV0xBYS16Um9ERy16bkxoRTNRUFRQckFKbktNdjIzRVJoTHV6VVB3TDFJRDE5UHU0TXhFLTdnNmkz?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0e79302d9ebd",
-    "date": "September 3, 2026",
-    "publishedISO": "2026-09-03T15:46:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "If This Railroad Merger Isn’t Approved, It Hurts America",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Union Pacific",
-    "summary": "If This Railroad Merger Isn’t Approved, It Hurts America Union Pacific",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5ZaVY5T1gyTUl1Y0NPblcxdWVQSVlxa3FJS19sY0QwUHZvVGJVZ1V1TkhGQU9pQXhlb29GUHB1VkFITGhQNE9IUEVqWU5VV2lOUF9wcnZseWg1NXVwaG1wVGdON2ZQdmxIY2tjUWdhYmljVFhkeVU2eGg2QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-892b0305d9ac",
+    "id": "news-9f4f4ac61de2",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T17:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "LivePerson Stockholders Approve Acquisition by SoundHound AI",
-    "valueBillions": null,
+    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
+    "valueBillions": 15.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "LivePerson Stockholders Approve Acquisition by SoundHound AI PR Newswire",
+    "sourceName": "WSJ",
+    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1083,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1oxZHJDZHpGUDNUTDExSWZhNXZBVG84dkxjUlhuNU9CekNLQXhDQkRaS3VaVmE1WG5IeDlDTXZnaFhiQWUzR3dyYXliSHcwQklCTDVwLWl3MWVMc1loNDJjMndiRWRhTmpLOFFyNGJPSTMwQnVIMGRJLUZaZXZpTW9MM3hycjJIZm5QVElvQ3lOZUc3cTRiaU0zX2ZqdkxzNVFSOUM5YXROVkwyWWFDZE9oUEhnNlk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,13 +1126,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9f4f4ac61de2",
+    "id": "news-892b0305d9ac",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T17:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
-    "valueBillions": 15.0,
+    "headline": "LivePerson Stockholders Approve Acquisition by SoundHound AI",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "sourceName": "PR Newswire",
+    "summary": "LivePerson Stockholders Approve Acquisition by SoundHound AI PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1158,7 +1158,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQM1oxZHJDZHpGUDNUTDExSWZhNXZBVG84dkxjUlhuNU9CekNLQXhDQkRaS3VaVmE1WG5IeDlDTXZnaFhiQWUzR3dyYXliSHcwQklCTDVwLWl3MWVMc1loNDJjMndiRWRhTmpLOFFyNGJPSTMwQnVIMGRJLUZaZXZpTW9MM3hycjJIZm5QVElvQ3lOZUc3cTRiaU0zX2ZqdkxzNVFSOUM5YXROVkwyWWFDZE9oUEhnNlk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,81 +1501,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-90a386c1d7d3",
-    "date": "September 1, 2026",
-    "publishedISO": "2026-09-01T20:05:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Palo Alto Networks Acquires Console to Agentify Security",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Palo Alto Networks Acquires Console to Agentify Security PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1RGOU5mWHN4MkVZdG1tQ2Vnc0VFOFVid1lhZW45cTU0UWdQcFFibnIwaU56d2JoSkwxZjFGTnRIODF5RlFLWXJmVXVWQ0NnLTVFTFV0UFBmXy10U0dGeW5xSVMzQU1tNDZTS2UycmxySDA1UHh4QmlITkNxYUVZaExCSlhnR2RjRVo2MzRsZjhab0hsMThLdVRfdlRVRHRLbHB0aVZJWlBXcFJBRlhwMG1n?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-81ff537dba97",
     "date": "September 1, 2026",
     "publishedISO": "2026-09-01T19:00:20+00:00",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Sentinel Colorado",
-    "summary": "Aurora police investigate ‘teen takeover’ at Hoffman Heights shopping center Sentinel Colorado",
+    "sourceName": "sentinelcolorado.com",
+    "summary": "Aurora police investigate ‘teen takeover’ at Hoffman Heights shopping center sentinelcolorado.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "NextEra Energy (NEE) Pushes Back On 60 Day Merger Review Delay Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "NextEra Energy (NEE) Pushes Back On 60 Day Merger Review Delay finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1984,6 +1909,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNa0lkRlBMTkNCQ1g5VHI1OGc3ci00ZDhBRjdLV01QRDFTcnlpTHdOTVNUZFRxNS1vRXFnTFQxZ2FqX0dhMmw3OWd4U0ZhVWFsSWZxNmJXNXl0Nnk0VmpyNFRJY0o4Y2tSRHFqbzFvcUlHVXNUb0FCNmhfSVhSemYtZkJKeUhDcnlqU2Nkby1CMWdBc2RoTHlrbjVzcWlyMWtCaV9UeDJMSUFFZUh2cFdjQzVQT2swWlBMaUpTazF4UdIBxAFBVV95cUxQQ2tBY0RSY1dkSE0wdVZEQVZjbDFLVkdTZzNBS2Y0N2pDNllmWlJnRHgtTUpSTFVsUE1jUW44WDlETFlNdGExSl82WFNmcVMtODF4SmFJT0NoUFVEZlBacjFnU0VYaTd5elZUWWVDa0xCd3JxYkk4ZlFFcVBDam9NYmIyNmdfSC1Jazg5ZXZoVVFuV3VZdlJORU9QRHcwOWJ2V2czM1JaWW5IdWRZNzU5T0hUVEFSUHdQUkNldVF4RHBhWENQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-22f1574e3bfc",
+    "date": "September 1, 2026",
+    "publishedISO": "2026-09-01T03:25:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Street takeover shuts down Morgan Park over weekend, leads to more than 170 calls to police",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "Street takeover shuts down Morgan Park over weekend, leads to more than 170 calls to police CBS News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5sWV9mY19rb0Jfbm5sNnE3TVI5eUdROVdPSkVnaVpidlBON3g2MUN2MVVlMEZRREt3Qk52aTFhSUFGZzdsOC1wX2NkUGZhTVkyVzBSUzdOc2JTckV0ZGZGWFQ0RWFUTVdPYWRqdGVSS01jTVU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-fda49db54dc0",
+    "date": "September 1, 2026",
+    "publishedISO": "2026-09-01T02:44:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The PayPal (PYPL) Buyout Is No More. Now Investors Have to Decide if the Business Is Worth It.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "finance.yahoo.com",
+    "summary": "The PayPal (PYPL) Buyout Is No More. Now Investors Have to Decide if the Business Is Worth It. finance.yahoo.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOSmNpcHhZUU1hWXlpMDhZeDY0UzExa01FRGltTGVOWENmbXVObFJUNXpEUWFqR3o4RzFxcFZRWmpab0ZLYTNON1FBbmMxVEdDUXRLU2R2RVVGUjdoSjlWbWVORXRTcEtVSlpHbWJUWHBHakhoVE51M0RSOEVGRG1KWnlEZWdZSk9KaWtjRURiWWlwRHNUTXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNS0xSU1pCaFB0TFgyeVRBSUs1VEpxM3dWcm1PN1FGMm5RckpEd2lEdXdQUkJpVjc2dDdyTUMzb0J4YTU1X19LUGluNmUzM1h3MU44ZVd1bXk3YU9OeWlSQUVNZ1FHcHpZUk1SbTl4a2hRYjh0bGl2UFZGeGR2eDFmNnhwaFNFNjhySTNucTMzcDF1WnUzdnFjbkRjM3VJQ0ctT2xhRkMtN1RZRUEtam5LaDRB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Aug 31, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9d1137d9f676",
-    "date": "August 31, 2026",
-    "publishedISO": "2026-08-31T10:17:20+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Alaska, Hawaiian airlines report merger gains",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Honolulu Star-Advertiser",
-    "summary": "Alaska, Hawaiian airlines report merger gains Honolulu Star-Advertiser",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTVhhUjlGcnZNemdtNENIV2NTUjJIMzBDQTFfa1V6RHprNXNJd25wa1RTM0tNaFUyaDFBTU1vR2M4M3lZVU5fTy01dDNXOVRRWFk5R0R2VTl2cEhYaFRKWEJ3a0RIaWVvX0NGNWYwWV9rU1BRTkF2OGlvZFlNVnBGWHJtSnhPaGRmQTRWdXF3VURTOFVudG5EWXZZN21VTVJ1?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
