@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0aff6af3f312",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T06:56:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The Threat of AI Takeover Is Real",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Free Press",
+    "summary": "The Threat of AI Takeover Is Real The Free Press",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c3c231298fc3",
     "date": "September 7, 2026",
     "publishedISO": "2026-09-07T21:50:00+00:00",
@@ -153,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-706795533ea8",
     "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T12:59:04+00:00",
+    "publishedISO": "2026-09-07T12:58:28+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Fifth Third Bank begins transition of Comerica customer accounts after merger",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "clickondetroit.com",
-    "summary": "Fifth Third Bank begins transition of Comerica customer accounts after merger clickondetroit.com",
+    "sourceName": "ClickOnDetroit | WDIV Local 4",
+    "summary": "Fifth Third Bank begins transition of Comerica customer accounts after merger ClickOnDetroit | WDIV Local 4",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -226,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0aff6af3f312",
+    "id": "news-76b4807abe11",
     "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T04:25:14+00:00",
+    "publishedISO": "2026-09-07T03:58:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "The Threat of AI Takeover Is Real",
+    "headline": "80 arrested after street takeover in Greenville County, officials say",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Free Press",
-    "summary": "The Threat of AI Takeover Is Real The Free Press",
+    "sourceName": "FOX Carolina News",
+    "summary": "80 arrested after street takeover in Greenville County, officials say FOX Carolina News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVV4cUU0UEN2Z3dXZjQ4WHVkcjktM28yd21SdWFMREtkRUxXLWFUX0had0hrT3VQa1Y4Z25LbEJqYzAxWGN1a1NaMnZEUEgzcVBoNWF3T29xNmMzbDdPWjQ1WXcyczZ2YVhabHpWYk1GMGVZbHpUVlJzdWFaTlBlM1VTdXZENTkxV0JxNW5LUnVKWFZnbmYwWWJKbXc3dWhpNFFRall4dFBvOXVSNVQ3Qg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "LAPD makes nearly 70 arrests in massive Harbor Gateway street takeover bust; 570 citations issued for spectators ABC7 Los Angeles",
+    "sourceName": "abc7.com",
+    "summary": "LAPD makes nearly 70 arrests in massive Harbor Gateway street takeover bust; 570 citations issued for spectators abc7.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "Va. House speaker details ‘concerns’ about NextEra-Dominion merger in letter to state regulators Virginia Mercury",
+    "sourceName": "virginiamercury.com",
+    "summary": "Va. House speaker details ‘concerns’ about NextEra-Dominion merger in letter to state regulators virginiamercury.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Inside Higher Ed",
-    "summary": "‘Novel’ Partnership Sours Into ‘Hostile Takeover’ Inside Higher Ed",
+    "sourceName": "insidehighered.com",
+    "summary": "‘Novel’ Partnership Sours Into ‘Hostile Takeover’ insidehighered.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wral.com",
-    "summary": "WakeMed loses two top executives as proposed merger with Atrium looms wral.com",
+    "sourceName": "WRAL",
+    "summary": "WakeMed loses two top executives as proposed merger with Atrium looms WRAL",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOGR2MzdqMDJCZURHeHdQOFJocmgyLUlMZnVlRkZ0TTkxTTVNYWI4UFJVZTB5eWFseXhON0dXM2RmeHFQVlZJaV9fTEU1Zmg4Zm9fcWY4RjBxbm5HNTdleDhuRXhDaXViM2NQeGQwSjlXSHdlMFJvLUN5enZOU0V0TEM0OFNwTVNvSmRkdjBfbzE4c0VkaktMSDVGSXh5blNzbFh2RUtRUGcxeTJCajVOQ1d6M1B5bmtGNWlfVnE2OTlKSi01ci1r?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7ac142b65781",
-    "date": "September 1, 2026",
-    "publishedISO": "2026-09-01T09:08:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "NextEra Energy (NEE) Pushes Back On 60 Day Merger Review Delay",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "NextEra Energy (NEE) Pushes Back On 60 Day Merger Review Delay Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOZTc4TG9UN0E1M3pONnpSVHVqRlBwZFM0YUs0c3B2YnJyWVd3MENvZFJhVFd2YVZBOUJWRnVmWS00dlRjS1YtcEVTcFIxRTkxM0ZFZ3ZzV0ZNUVBmNUhkaEJXQXV3NDhhWWRWc1RlOTRsNXBaMG14WWxxcjY1dzFmUEg2NjBfYlhsTzJFX2Ffclc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
