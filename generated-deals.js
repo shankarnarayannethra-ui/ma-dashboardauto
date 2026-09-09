@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-9f4f4ac61de2",
+    "id": "news-0aff6af3f312",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T02:02:34+00:00",
+    "publishedISO": "2026-09-09T06:57:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
-    "valueBillions": 15.0,
+    "headline": "The Threat of AI Takeover Is Real",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "sourceName": "The Free Press",
+    "summary": "The Threat of AI Takeover Is Real The Free Press",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0aff6af3f312",
+    "id": "news-231fb2426471",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T21:31:41+00:00",
+    "publishedISO": "2026-09-08T19:45:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "The Threat of AI Takeover Is Real",
+    "headline": "Proposed railroad merger update and implications",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "thefp.com",
-    "summary": "The Threat of AI Takeover Is Real thefp.com",
+    "sourceName": "Ohio's Country Journal",
+    "summary": "Proposed railroad merger update and implications Ohio's Country Journal",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB2dkpMQmh1X1JtN1NZT3cyX0FsZEJsV1ViSy1ZT0NNM0ZWOFZMd0dSRjBwOTZuUmNVUTNVYmxGVFhiYncxeTJnU3J0Vkw2YXpXSll5X0ppUThXUHp6TURrMWFtTGNXZnkzd2hZMWpzNDNNX0l2SlQxX014Y3A3QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3db334d02957",
+    "id": "news-89d8bc6cd2a1",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T01:44:54+00:00",
+    "publishedISO": "2026-09-08T06:56:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "How Much Is Florida State Coach Mike Norvell's Buyout? Contract Details In 2026",
+    "headline": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "foxsports.com",
-    "summary": "How Much Is Florida State Coach Mike Norvell's Buyout? Contract Details In 2026 foxsports.com",
+    "sourceName": "ABC7 Chicago",
+    "summary": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more ABC7 Chicago",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbng0SV9fUGFwbVhsUzJVSElBVzZfR0tFVnhROTJKR19kNFUwd1lzcDVqVHVHOFZSTzB0NHZnd2tCNE5WNXFUYkdkMHJDXzR0dHBGaHdvbFJLN3JkOHgtbkJkY2xjTzM5YlZnd21MaW9oWVJfZzRvV3pVelJLNFppVHJBem1ORC1taTQ4UzBpMFRRMUwwRGNNanJpYkNaRmNZ0gGgAUFVX3lxTE9NdnQ1cm5kMXF5NHJMQUM5cEpUMUJGTkxyamUtMi03aUVSZzZSWVBwd1VScU5tdXk0SjAtenVFd09FUkF1YlpNTWJQWjFOWkw1bDgxMEo4a19uUTRna3R5YmhRdENzNlpZUUc2TWdUTHhDMGlmOTdZTS13V0l1NHBoNl9Oc2NreWZWRGtrdlZMZmtzaTBucDRLbGtnakNxVUM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWg3TGdLckg5d191NmZoVU5GczdnUkJXU2tZUGJIUDM2LWhrVGsyb2NyVDJGcktvTk16VGtRVmE5Z1dvQ09jS2xkTG5DNjJ3R1hQRmFZdmFkV25SS2tROTYwWm11QmdzVGhFTEJfNVhadzdPa1NwNFJldVFzZWJEV2tGOHNSM21mVUdDd1QyV19pR3NCVmdIQUk0NzBCUDV0SHIzWmt2RkFRMFlYUVdHN3RLTHJPLXhTNnBQRXFJRdIBxAFBVV95cUxOMVZWcFl3bTgtalVKWDVQeGlBSW5HUmZxb0oxRUhuNnliMlFucVBGSW8wM3B4enlPdUc2S09ycnYyV0ZpcWxsYWtMamtsRFhVZEpfRW5vMnVLZExBbF9VM1V2SFRISTQ1dHVhQXVCbFBMSExPTy12bmo1UHVSVkJPQTBuVDY5dllTTUJsbmYySmRCUF9PWWpxaFVRNXB0bnBrcE1MSDJKeTJONTc2V2hWQTBjSWRSNkx5cm10T3NhdlJ4NVNf?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-81720bede3b2",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T06:00:00+00:00",
+    "acquirer": "Main Capital Partners enters the UK market with",
+    "target": "Orgvue",
+    "headline": "Main Capital Partners enters the UK market with acquisition of Orgvue",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Main Capital Partners enters the UK market with acquisition of Orgvue PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOVGh6eDFTRldDQ0RnUE9tWDNxR2ZUVHcydjJLZkhHZml6UlRUc2ozUkdZN25mZVBNRnpLdXAxTTgyREVsNVZ3RUpoMUc0V0dmM1cwSkMyUmJDLUEyS0VfUDVuM0NiM01pREYwSXRQTkZYQ0hoSUtvY3IyRTVkZFVMWE1XSWhKeFpTMV9KdTJ1WUJUY2NteHpoSzJTZHNNWm1TZWJTMUoxN2tGUER5dFV3ZDNyUXBnOFNNek95M2pGNXJHTVU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,84 +826,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-76b4807abe11",
-    "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T03:58:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "80 arrested after street takeover in Greenville County, officials say",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX Carolina News",
-    "summary": "80 arrested after street takeover in Greenville County, officials say FOX Carolina News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQUVV4cUU0UEN2Z3dXZjQ4WHVkcjktM28yd21SdWFMREtkRUxXLWFUX0had0hrT3VQa1Y4Z25LbEJqYzAxWGN1a1NaMnZEUEgzcVBoNWF3T29xNmMzbDdPWjQ1WXcyczZ2YVhabHpWYk1GMGVZbHpUVlJzdWFaTlBlM1VTdXZENTkxV0JxNW5LUnVKWFZnbmYwWWJKbXc3dWhpNFFRall4dFBvOXVSNVQ3Qg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4de61cc882cd",
     "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T03:07:26+00:00",
+    "publishedISO": "2026-09-07T04:01:22+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Chicago street takeover: Residents and activists call for stronger action after weekend street takeovers",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "williams.com",
-    "summary": "Williams Completes Acquisition of Momentum Midstream williams.com",
+    "sourceName": "Williams Companies",
+    "summary": "Williams Completes Acquisition of Momentum Midstream Williams Companies",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,6 +1951,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9f4f4ac61de2",
+    "date": "September 2, 2026",
+    "publishedISO": "2026-09-02T17:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing",
+    "valueBillions": 15.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Uber’s $15 Billion Takeover Bid Gets Delivery Hero Board Backing WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSE50YVNGbEk4UGlDSWhkTFp4MjVCSEpFNzUzakNaRUtvUTEzRG9vVUFvWW5PQTNwa3FaNlduX0VZQUlSdVg0VkkzRktSaGV0Z2Jhd25UcmRHREJPS2xPcndNeERmelZLYVZLRFBiQVRPTWxxc2pvU2FPZE05TjZGV0lNWGJEZElTOHpBNVBQMVRNaGo0ZGJfN1VJUjZOWjhma0E?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-892b0305d9ac",
     "date": "September 2, 2026",
     "publishedISO": "2026-09-02T17:00:00+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxONWZVeEdwQzkwLW1MUkhYZnF3clNQaWt0bFlMb205RWJNTnhkd2IyUmxSbVI1bER2czEzVkx0WlduRlRZTWpxZVZ1bEFTREZ3M3Q1ZC04VlM5bk9ObWQ0d3kxcHNyb3FWbVpGNEdDRUl6N05NUC1hYkxKWm95ak9PQnpxanlyNG5kbHFnMHVmWWh3eGdqcWlURnRMeGNNYkNkSUN4blhIaXJCWndRYVptVklESWh0OVRFcEFoY1AzZlh1RGdLRmc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6486773592df",
-    "date": "September 2, 2026",
-    "publishedISO": "2026-09-02T08:07:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "EXCLUSIVE Lynas Rare Earths says it was in takeover talks earlier this year",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE Lynas Rare Earths says it was in takeover talks earlier this year Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOZy1RVzl5TzJscVBPQ2thNHlLMXpBZnZwUzY1MWxuTTlUdnZ2ckRPS2xxajZuNGd4d1VKNG5BUnpCU0JzcGJwRWZZekhRWkJRb1ZKakkwUEVzRGdBQm8tdTJXbk1nRzFKSGNlSkxfNDVOa3o0WHRqX3lLT012WVVMYmZrVklNb0tpcDE3X3RldjdSeFVsRUVCdFA2T1Y1MFloajRJaTA3cWI4V00?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
