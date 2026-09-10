@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-e47a3ff493fd",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T21:54:12+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Fifth Third-Comerica merger leaves some customers angry over glitches",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Detroit Free Press",
+    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches Detroit Free Press",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWF2c1R5VGdLejRKekZfc3JkLVQ0QzdUbEVOU2FZcTE2Ty13ZkFlSnEyYzdrdkprM1luYWNNN1JybUxvN2tiS1I1MDJuREJPN1lFeVVYVGRwLW5ZajNCTC1fdnNqWEMzYlppamwwSUtMQ3NKeXVndnI0VDVSWWVqc21fX0NqZVdkekZQNmJWcGlHWjBxNzZ4aldSeTNLdW55RWVCbHFKOFN0MzI2eU5Fb1pZdEllZnZ1c2tTNnVETjdJTGIyR1Vvd3l3eC0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7028ba3e80da",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T17:34:18+00:00",
+    "publishedISO": "2026-09-09T17:59:58+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "axios.com",
-    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai axios.com",
+    "sourceName": "Axios",
+    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e47a3ff493fd",
+    "id": "news-8ad276354675",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T14:39:00+00:00",
+    "publishedISO": "2026-09-09T12:55:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Fifth Third-Comerica merger leaves some customers angry over glitches",
+    "headline": "H1 acquires Defacto Health to expand provider network intelligence",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Detroit Free Press",
-    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches Detroit Free Press",
+    "sourceName": "fiercehealthcare.com",
+    "summary": "H1 acquires Defacto Health to expand provider network intelligence fiercehealthcare.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWF2c1R5VGdLejRKekZfc3JkLVQ0QzdUbEVOU2FZcTE2Ty13ZkFlSnEyYzdrdkprM1luYWNNN1JybUxvN2tiS1I1MDJuREJPN1lFeVVYVGRwLW5ZajNCTC1fdnNqWEMzYlppamwwSUtMQ3NKeXVndnI0VDVSWWVqc21fX0NqZVdkekZQNmJWcGlHWjBxNzZ4aldSeTNLdW55RWVCbHFKOFN0MzI2eU5Fb1pZdEllZnZ1c2tTNnVETjdJTGIyR1Vvd3l3eC0?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGJ1bVFkbFJYd01NTjZFZjF6Q01XeHFlSWpHU2EzN3VPb3pvVHQ2WnNHTDdPd1F0dE5tNTF3TkZzcUNWYjZOZTIzbWd4MTE3UHJTdVEyTHZSazJRNGwyRFFlcHNsTFJBd1Fjc2thQmc5MHRNWjhPa1d1U255X1htN1pHdDM3RThobjdiSFdxeURfUWsta1d0Z2pJWG13ZDAzLVV2U2ctTEJCYzBX?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg Law News",
-    "summary": "To Save the Paramount–Warner Merger, Make Hollywood Short Itself Bloomberg Law News",
+    "sourceName": "news.bloomberglaw.com",
+    "summary": "To Save the Paramount–Warner Merger, Make Hollywood Short Itself news.bloomberglaw.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZGVBSmxTb2ItZm5sQnBSY3hSMmUtYkRrQUo1bHh3VVNVY1ZSYnQtZUVwZ1J1VzdrQ2t2b3J4RzVsM3dnN2JxaDE2VGM1NmJBQVVkM29QeFpSX2J3c0lnX01XMkZvTHR2SHA5SzMtSVlQWmx3ZXRQUXRQYV84Z3g4UWZlVUN2Q0txVXFBdnhmV3dGZTZ3VmxhXzFUbHVhMDRPdU1uS2duZ1BlTy1uY1JqRWpuSjhCOFVyYmNOQVJvYVp6NWNnSjk2R3JNMkY?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-dd9535fcf697",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T02:29:56+00:00",
-    "acquirer": "Banking services limited during Comerica",
-    "target": "Fifth Third Bank",
-    "headline": "Banking services limited during Comerica and Fifth Third Bank merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX 2 Detroit",
-    "summary": "Banking services limited during Comerica and Fifth Third Bank merger FOX 2 Detroit",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOZXBzckNhUzN5SG00REVUVnlGNWtuUXpvSU1EXzkyQklzSW5mNEFMWGJyUk93ZXVvM3ZVRlpLUGZVS2ttbjhYLUFWdjIxWVNsX3BhMEhlRVY1VldZYnRFNTZrQUMxb1lsY3cyVDY3ZVZicjB1Skszbk0wUGxlTUVhTEZ6SnJreThPMXFqYTl0TEFMLXVUX2dIM0RwNnVydzAzaG5fbVRBNmjSAa4BQVVfeXFMT3FCUm5mempjOG85d01FaF9UWkQ5cmZtal9MQkx4RU9kSC10SndHdjNTNThYbnFBSU02Q2FMNVBnOGRNbjhxVzhsRVNYa2JBdEFZNmFqRU5wYU51U29WWDlLckJ1cndaV05xUDltU19vS3pyeXlCYkh0UV9IclZDZG1oaTQ2UTNqTVVyYjJWNTdjZHBqaGNSOTEtOXAtUlREa1lWaXY0dmwwQ19RVk9n?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wbtv.com",
-    "summary": "80+ people arrested after weekend street takeover in South Carolina wbtv.com",
+    "sourceName": "WBTV",
+    "summary": "80+ people arrested after weekend street takeover in South Carolina WBTV",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -859,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2lUQkNNMWJpOVZNNnNwanVCWkdrWk9lRWpweHY2SmxmSmFEOUFxNjhoR19aY3VEbmJkMU9mektJRkRFVlFZaklyWGR2Q1kydXM1QV96aXliQk1NRzAzVmtRYU0wQUFxeTc3RVF1c2l1UGVoM2luclk2MWZDdVZWM2xqMXVUcGkzX3ZsRVM1bWplM1MxWVh4Qkw4aGJrN0hxenZn0gGoAUFVX3lxTE9ZR2NiM0dEUlJIb3c4dTF6TG1aeWI2aFRvQ182bFRLaVlyLWJkWGswMTl4N2x0SzV6dEFfTk9KaUMyZnBtWnVFVll1dzZhUXNYblViT25vOGZ5dTVJQWZfQXdGTWpqVGxLQXZzamNiallQUTM1NUl0bEJnbjVWM0VnMXlUX3lsSkRxZ1Q4eXcwYkYzbElhZWI2d28xdnZ6SDhKZ3IzblMxSA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-89d8bc6cd2a1",
+    "date": "September 8, 2026",
+    "publishedISO": "2026-09-08T06:56:26+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 Chicago",
+    "summary": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more ABC7 Chicago",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWg3TGdLckg5d191NmZoVU5GczdnUkJXU2tZUGJIUDM2LWhrVGsyb2NyVDJGcktvTk16VGtRVmE5Z1dvQ09jS2xkTG5DNjJ3R1hQRmFZdmFkV25SS2tROTYwWm11QmdzVGhFTEJfNVhadzdPa1NwNFJldVFzZWJEV2tGOHNSM21mVUdDd1QyV19pR3NCVmdIQUk0NzBCUDV0SHIzWmt2RkFRMFlYUVdHN3RLTHJPLXhTNnBQRXFJRdIBxAFBVV95cUxOMVZWcFl3bTgtalVKWDVQeGlBSW5HUmZxb0oxRUhuNnliMlFucVBGSW8wM3B4enlPdUc2S09ycnYyV0ZpcWxsYWtMamtsRFhVZEpfRW5vMnVLZExBbF9VM1V2SFRISTQ1dHVhQXVCbFBMSExPTy12bmo1UHVSVkJPQTBuVDY5dllTTUJsbmYySmRCUF9PWWpxaFVRNXB0bnBrcE1MSDJKeTJONTc2V2hWQTBjSWRSNkx5cm10T3NhdlJ4NVNf?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC 5 Chicago",
-    "summary": "Video captures dangerous stunts during Pilsen street takeover NBC 5 Chicago",
+    "sourceName": "nbcchicago.com",
+    "summary": "Video captures dangerous stunts during Pilsen street takeover nbcchicago.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1609,81 +1684,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXVPdFZmd0hnMmQ5SGdxMXExSXltNGFrOHJqU0x1R1BSLXg1WE9RZDBHMWV2UlUwT2Zyd1NKVmQ0ZUFNS2swbmhmYVpMS2lLRXRmQWh6RnhGb1JEekdqbEt5T1hMUEhGQWlFNThGODhRX2NLa2lxZGYwUlNreEZhY2QzczJ6MHdUSkZCNElR0gGWAUFVX3lxTE9qa2dWdEx6cWUtczd1VkEzTTFiYzlKc3pxT0FNdVJuVTIxNzgyM0N1MEZybndWbzl6ODVFVlJsaFYxUE8xR0NhazMxOVZpLUZTZFpaNUQ2ZGNpZEZkenI3RnZGTkJPdDdZWGJDZjlaQmRtamJfS0VfLVc3X3RnQjVDc3QyXzNIYTg4aUlVQ1dsblZVdDJZdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0c35f7b9aa69",
-    "date": "September 5, 2026",
-    "publishedISO": "2026-09-05T14:43:59+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "LAPD issues tactical alert due to street takeover; hundreds reportedly detained",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "KTLA",
-    "summary": "LAPD issues tactical alert due to street takeover; hundreds reportedly detained KTLA",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQjlQYV84dDVBUXF1YlRGajJyUjNmQ1lpSmpCRko0NzNJa0NhZU95TWtSQ05kR1IyX05OZXd2b2EwWjVTbUVVeEJKVzFMMWlPc05meHo0QUJadnRYWnZSNFNhNVZpVEE0WG5wTmItanljTG5QcFIydlFZVk9CZTB4Unp3ZDMxV09aVUlpdl9KakU2R0RmUjlLczFKNjRxNnprVGNlOFZfYTZMYnBaeWFVbnZR0gG3AUFVX3lxTFA0bWlpX3dQclFJRUpFWk1DblZzQ3FoVllZUng4bHBFRmpfaTM5eFp2dnR4VWtFRktNRkk2RXBvbDMtang4ZGJydUhlMWFYN3ZGSDRKekYxbmZhb0NhR1ZIeEh2MU9oOG02QjF1ZnBuanJyanJwS0I0TjFWTWJmTlhHWTFpY1RDd3RqSEJNbkV6MlhzSVhWMk1ERmpqTzhEZ3hCTUZVRlNRVWc1QUdMcmQ4Q3pZQzAxcw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
