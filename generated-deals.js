@@ -2,8 +2,8 @@
 window.generatedDeals = [
   {
     "id": "news-0aff6af3f312",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T17:58:20+00:00",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T00:01:18+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "The Threat of AI Takeover Is Real",
@@ -34,6 +34,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBPcC1jOE1SeUlqc1dSVFRMaVlrTllfVWZmYzJxcDEwNXRhekVBQU50d3oxS0diQTJLeGVOaGpHam14T3MwUUd6ZDNrVnB6VUU1ZU1jUktXeEhvLTIyQ0ZCN2dNb0lKRGFxS2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-df789ea8a18d",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T19:07:41+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VIZHRHblVCWGZUV0RaXzNjSEVDSjllRTlBcnVnQm91bUNKakVPYkhyM3BBc05vU3JRR1lGRUVmSENxcHhETVFWMDlPVUxUcTZoQ0RVWURuZVZtelFBUlNIcUlYek1nLVJ1MFNMam1JTkt0UmNJRlh5UUV0SHVNT2NseTJQcnlJZ2VFbU9QRTZMMzJMYUl1bzAzREFsanFZV0pvcGF3Q1BkOXd5X2hB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Salesforce",
-    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
+    "sourceName": "salesforce.com",
+    "summary": "Salesforce Completes Acquisition of Fin salesforce.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,156 +184,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPWDJJWmZLTzJPX3ZwcWV0dGhCVlpIQl9sQzBlOTl2M1o0TmxJSldLX1pHQnhpTElwVVhpQkRoRlNwOWhCRWh6VkNGb29OdkZuc1dfeTQ0S2RGSmRUbGU1aV9qdDNzeGtPYXRlUkh1cDhKNl9VckMwUVM4RWR1WnhXSjJXRlQ4TnB5Q2hUNktVb3RsdkhqNlNGQU01U1JHRjA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-93014808fe46",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T11:37:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Investor's Business Daily",
-    "summary": "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors. Investor's Business Daily",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWlDMmg1T1RVMWxhQklIRWZZTFFWcmNTcy1sZ1dFdGJGVmlJU0xqalN1RFkzdURZZmZfVEctcldzd0hXRHhCTVp3N1MtQTFQeEJIM0EyWnFYR09YdVF2NE0tOHhneE9ETVNzN0cxVHpDcW9rbEZzU1B2MklzQ3I1X09DcDNURE96M1E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7028ba3e80da",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T11:10:59+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-75134d7e8e76",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T22:36:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Parents say they won't support closing failing Austin ISD schools to avoid state takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KUT",
+    "summary": "Parents say they won't support closing failing Austin ISD schools to avoid state takeover KUT",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNZWstVVA1aV9yVVZuWlJyX0pOLTI3clNfQVRabDZaNHc3Q3VJOHZSWjZFcjRuTTVsUURkVXJqdW1kY2h5Umd0TTc2VEI2TklxRHhFMjBqRjE4SURramRjWWx1RzAxSUxpVHdlT25wV21pbjZkLWdnU1E2dUNiQ1FqRW05blpaRHY2LS03UlgzazlZdXlUWE1sSUZiOA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e47a3ff493fd",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T21:54:12+00:00",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "freep.com",
-    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches freep.com",
+    "sourceName": "Detroit Free Press",
+    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches Detroit Free Press",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -409,6 +409,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWWF2c1R5VGdLejRKekZfc3JkLVQ0QzdUbEVOU2FZcTE2Ty13ZkFlSnEyYzdrdkprM1luYWNNN1JybUxvN2tiS1I1MDJuREJPN1lFeVVYVGRwLW5ZajNCTC1fdnNqWEMzYlppamwwSUtMQ3NKeXVndnI0VDVSWWVqc21fX0NqZVdkekZQNmJWcGlHWjBxNzZ4aldSeTNLdW55RWVCbHFKOFN0MzI2eU5Fb1pZdEllZnZ1c2tTNnVETjdJTGIyR1Vvd3l3eC0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-7028ba3e80da",
+    "date": "September 9, 2026",
+    "publishedISO": "2026-09-09T16:34:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Scoop: Meta acquires Swedish AI startup Stilla.ai",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Axios",
+    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FOX 2 Detroit",
-    "summary": "Banking services limited during Comerica and Fifth Third Bank merger FOX 2 Detroit",
+    "sourceName": "fox2detroit.com",
+    "summary": "Banking services limited during Comerica and Fifth Third Bank merger fox2detroit.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1201,13 +1276,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-800185fb82ac",
+    "id": "news-89d8bc6cd2a1",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T11:03:05+00:00",
+    "publishedISO": "2026-09-08T06:56:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "EverBank to combine with WaFd in $3.9 billion reverse merger",
-    "valueBillions": 3.9,
+    "headline": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "EverBank to combine with WaFd in $3.9 billion reverse merger CNBC",
+    "sourceName": "ABC7 Chicago",
+    "summary": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more ABC7 Chicago",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1308,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOd2lUQkNNMWJpOVZNNnNwanVCWkdrWk9lRWpweHY2SmxmSmFEOUFxNjhoR19aY3VEbmJkMU9mektJRkRFVlFZaklyWGR2Q1kydXM1QV96aXliQk1NRzAzVmtRYU0wQUFxeTc3RVF1c2l1UGVoM2luclk2MWZDdVZWM2xqMXVUcGkzX3ZsRVM1bWplM1MxWVh4Qkw4aGJrN0hxenZn0gGoAUFVX3lxTE9ZR2NiM0dEUlJIb3c4dTF6TG1aeWI2aFRvQ182bFRLaVlyLWJkWGswMTl4N2x0SzV6dEFfTk9KaUMyZnBtWnVFVll1dzZhUXNYblViT25vOGZ5dTVJQWZfQXdGTWpqVGxLQXZzamNiallQUTM1NUl0bEJnbjVWM0VnMXlUX3lsSkRxZ1Q4eXcwYkYzbElhZWI2d28xdnZ6SDhKZ3IzblMxSA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWg3TGdLckg5d191NmZoVU5GczdnUkJXU2tZUGJIUDM2LWhrVGsyb2NyVDJGcktvTk16VGtRVmE5Z1dvQ09jS2xkTG5DNjJ3R1hQRmFZdmFkV25SS2tROTYwWm11QmdzVGhFTEJfNVhadzdPa1NwNFJldVFzZWJEV2tGOHNSM21mVUdDd1QyV19pR3NCVmdIQUk0NzBCUDV0SHIzWmt2RkFRMFlYUVdHN3RLTHJPLXhTNnBQRXFJRdIBxAFBVV95cUxOMVZWcFl3bTgtalVKWDVQeGlBSW5HUmZxb0oxRUhuNnliMlFucVBGSW8wM3B4enlPdUc2S09ycnYyV0ZpcWxsYWtMamtsRFhVZEpfRW5vMnVLZExBbF9VM1V2SFRISTQ1dHVhQXVCbFBMSExPTy12bmo1UHVSVkJPQTBuVDY5dllTTUJsbmYySmRCUF9PWWpxaFVRNXB0bnBrcE1MSDJKeTJONTc2V2hWQTBjSWRSNkx5cm10T3NhdlJ4NVNf?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,13 +1351,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-89d8bc6cd2a1",
+    "id": "news-c3c231298fc3",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T06:56:26+00:00",
+    "publishedISO": "2026-09-08T01:06:35+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more",
-    "valueBillions": null,
+    "headline": "EverBank to combine with WaFd in $3.9 billion reverse merger",
+    "valueBillions": 3.9,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 Chicago",
-    "summary": "Chicago 'street takeover' news: No arrests after Labor Day weekend 'takeovers' involving fire, fireworks; alderman calls for more ABC7 Chicago",
+    "sourceName": "Reuters",
+    "summary": "EverBank to combine with WaFd in $3.9 billion reverse merger Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1308,12 +1383,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeWg3TGdLckg5d191NmZoVU5GczdnUkJXU2tZUGJIUDM2LWhrVGsyb2NyVDJGcktvTk16VGtRVmE5Z1dvQ09jS2xkTG5DNjJ3R1hQRmFZdmFkV25SS2tROTYwWm11QmdzVGhFTEJfNVhadzdPa1NwNFJldVFzZWJEV2tGOHNSM21mVUdDd1QyV19pR3NCVmdIQUk0NzBCUDV0SHIzWmt2RkFRMFlYUVdHN3RLTHJPLXhTNnBQRXFJRdIBxAFBVV95cUxOMVZWcFl3bTgtalVKWDVQeGlBSW5HUmZxb0oxRUhuNnliMlFucVBGSW8wM3B4enlPdUc2S09ycnYyV0ZpcWxsYWtMamtsRFhVZEpfRW5vMnVLZExBbF9VM1V2SFRISTQ1dHVhQXVCbFBMSExPTy12bmo1UHVSVkJPQTBuVDY5dllTTUJsbmYySmRCUF9PWWpxaFVRNXB0bnBrcE1MSDJKeTJONTc2V2hWQTBjSWRSNkx5cm10T3NhdlJ4NVNf?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNelU0R1E2eUVzYUFFM3ZfeXZLNlJ1NHlmODEycFBPZzA0S0c4OHl5YTNyRy16dDZTdmhqU2RwdVIzUUFVcnYyY2hSSV9DR0dwV3ZoOFQtcWhYTG1adEwwWHpvMjVXTjlSQ0RHbGttV25EemEtWXU1THNrMlh3NHRwVDhNV1lEZ1J0VmwwaDA2RlMyZzFJbzRkanllcVN0ZEpSQi10aHluUXhkSzRF?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d0abdd2b15ca",
+    "date": "September 7, 2026",
+    "publishedISO": "2026-09-07T18:29:25+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Three arrested following illegal street takeover as crackdown continues",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WCIV",
+    "summary": "Three arrested following illegal street takeover as crackdown continues WCIV",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQVml6SUhmWDh1YkZfa2h2NVcyenV5dlhRODk4eWtzdTdtM09qcFBPazZKLUV1Ukw0WTZWYkVWSHpTYzFHQ3pjR0FERTZwUXQ2S0ZvOHRMZmZkRXFuUHhVazd4emE3R000VTloN1gwc2wyZnZFZlRZZVhMVnI1V3FvajZSenZieFNKeS1jeDUzLVliUEVveDRXV3lTNlpPSXQtdko1Rm5wc3I3UFplYVRuRVYyOWR3VnF4dGZJUGRWdDQ0WWJpeWp5SmtTY3MzTHY2cm9YRG9zbXlrY2F5WkR2S0M0cXlyNDg5Vk02X2dMem5pb3daR0VrbU1wUmptSk1qS2hVQnlxU0hSQ3BnNTZPbC1UYUh6TjlKWUpfRDJYc1M1ZlFQZ1F2Y0cybzNLVHRVZnc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 7, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQaFN5T1RpRjRtMkVmVmNmOEZFNnBvU3BEVjNhaXNIcmdURXhCQTgzVWVyNVd5eE9SWnBuVDFEVDlnMjY2cUZlcU5KazZUc25TQ3ItVFM1RXJnUFJyNEhVd09oTEV5Q3JTc2kxdXc2QUlKU1FCUVZFSjRwR0lTS0NON2Zud0xPaUVpYl80aU10MEYwMV9oblowRlRacTNjNWdlWnBJSzJsZlhDZmFYUnNN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f4190d4d3493",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T04:24:58+00:00",
-    "acquirer": "Williams Completes",
-    "target": "Momentum Midstream",
-    "headline": "Williams Completes Acquisition of Momentum Midstream",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Williams Companies",
-    "summary": "Williams Completes Acquisition of Momentum Midstream Williams Companies",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPejFFLXU4bTZOc2lHTTI0QkVIc3VueTJtVXI0bjdRQkFhNzRkdW13RzRwbDMwZmNCOG9qazZ3SzBSSGRWR0pGXzhic0d0UU5tNjdDMlE0Zms4c3pkbEF2eHJkZkoxM24wZGFKeURMM0lreW9seS14MjVrNmNQb0VpRV9RNDZVQkZiQWFJRm05dXdBUDg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2529f04011c1",
-    "date": "September 4, 2026",
-    "publishedISO": "2026-09-04T04:22:07+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Dominion Energy, NextEra secure shareholder approvals for merger deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Dominion Energy, NextEra secure shareholder approvals for merger deal Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPa2NHV1ItX0l3TmMyX3ZQMGEwcHVrME1xMzRGN2prVVhIYmU0elRWSWZpUkstOXlhVWpVV2RCRVkxeHpsQU1OMWZQdjlIVHp1dmdvcXRIRXRVeGtLRzFIMmFBYUZNLXIwZTRybVFRSGlXbUdZN25CeVZueUVheFJmTjZYaDdmT3VmNDFod0U1eG50LVpxN2RSTUY1bU5fT2JSN2JzVTVjb0M0YXBUc3E4eWtweWJWSTh2?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
