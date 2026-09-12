@@ -1,9 +1,84 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b121274cdd5b",
+    "date": "September 12, 2026",
+    "publishedISO": "2026-09-12T18:42:57+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Fifth Third Bank's merger with Comerica frustrates local customers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WXYZ Channel 7",
+    "summary": "Fifth Third Bank's merger with Comerica frustrates local customers WXYZ Channel 7",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDVIRi1WWmxZamtoV3ljVDZHQVFnNzdSUDNHX2N0YVVnQ2dBa0dQV3JXUHJRaDloU2d3ZzZVWDhDZl9CZ1ZJajByRTNSXzdMN3B6Z1pNSGdZQnczazVEeFVDUVdGVzY1cU1yeWs4V1BieVRVb3hpbDRHYVF2YXpOSGdmUHU2eDI3aVE4STh2U3Y2elNIMlE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0dc3de90a5f5",
     "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T15:59:00+00:00",
+    "publishedISO": "2026-09-11T21:26:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "NOPD speaks on enforcement for planned street takeover event this weekend",
@@ -109,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGEwbkdNSWVFNXZlY0xHa0lac1l5TC1IS2dGSGVlQ2RpWk1PckcwbXBJS0tpNjFSbzVjVmlrcFZ3M1FYdnFZS3J3V0xScm1NZklqdHFycXpPSFNtOGoxY2p6X29NQkZCaVMxT212ZFZfcFJEQnpHRldVQnpxVjkwTkl3bzNDNFVxdnB2ajJ1RTFqZVktd0RSdVk4cXduRnpxbTlUbHRMZkJ4V0JCbzJnTHg0WklGQWhDZDlwSVRfMmNWUDNxQTNDSUM0QmRBZjd6cjQxcjgyOW9XQjJqcjQ1WVMyTUpRYUcxdGFaYnFpY2lnUm0tNGRkNzBrMWdBbzlFbEtpNzA1NEl0dWxzZ2NCaEZBNlVIUUhq?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5fe6da5611bc",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T12:41:23+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "City of Charlottesville Joins Review of Proposed Dominion Energy/NextEra Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Charlottesville.gov",
+    "summary": "City of Charlottesville Joins Review of Proposed Dominion Energy/NextEra Merger Charlottesville.gov",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE43QWtNSDJFVEp3T0daRXFiazV5WlJqNUxSY3I0WkV4b3RjWUlLZkM5cy1IRTZjbmk3dUlYNW5pdW1adHJvaE1mS09BYnExTEgxcXRUQ05qdktZT2FZZFg1TWd6RWoxVWYy?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FOX 2",
-    "summary": "Police search for more teen suspects connected to street takeover incident FOX 2",
+    "sourceName": "fox2now.com",
+    "summary": "Police search for more teen suspects connected to street takeover incident fox2now.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "axios.com",
-    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai axios.com",
+    "sourceName": "Axios",
+    "summary": "Scoop: Meta acquires Swedish AI startup Stilla.ai Axios",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WBTV",
-    "summary": "80+ people arrested after weekend street takeover in South Carolina WBTV",
+    "sourceName": "wbtv.com",
+    "summary": "80+ people arrested after weekend street takeover in South Carolina wbtv.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1653,7 +1803,7 @@ window.generatedDeals = [
   {
     "id": "news-d0abdd2b15ca",
     "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T18:33:20+00:00",
+    "publishedISO": "2026-09-07T18:29:25+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Three arrested following illegal street takeover as crackdown continues",
@@ -1740,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FOX 2",
-    "summary": "Police seek public help after south St. Louis street takeover FOX 2",
+    "sourceName": "fox2now.com",
+    "summary": "Police seek public help after south St. Louis street takeover fox2now.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1951,6 +2101,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-785d826c477d",
+    "date": "September 6, 2026",
+    "publishedISO": "2026-09-06T03:19:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Dabo Swinney buyout: What it would cost Clemson to move on from coach as Tigers' issues persist in 2026",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS Sports",
+    "summary": "Dabo Swinney buyout: What it would cost Clemson to move on from coach as Tigers' issues persist in 2026 CBS Sports",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSEpnLWFHQ0ZQNVc5SkJJdl9Yc3VXd216MVNydm95blo4VUFYdEUtV1l0Z0N2QXZwNXFURlFCSXo2SlYtV1JyUHFUaWxWLUNzUXZjTl9Tc1V1SGxGRUhoWU5xQVJWNG13OUx2TjVtV1FhV3ZqSGQ1dC1LUEVKN3hWNWVZVGJBWlBRaEYxVllraWk1ZWRtWWc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c19cf3a8bc18",
     "date": "September 5, 2026",
     "publishedISO": "2026-09-05T22:00:09+00:00",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNNkZFcXYtWWE3RUdjN1oweU1kV2ZaVzZQcHdWdmpfckF4OUNsdjRDMGkxS0pJaVNjY1l4THo1cUJZeDN2bzR5S3NMSEJTWF8tYlViNmZLaVVmZmRLcThhTmVENWViOHVKeU1vblB1eTh4SGNxdkxxZHUxVWM5MHBRU19zQjZyYzhkWEVmejFPenR4TU9ldUU2MzkyQVdqN3YtU3dKM05TZTY3dWZwbzlFenRURDhqbzRCRF9RN1BoYmlfbGU2ZzJJYWpQMWJIQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4248f0632bbb",
-    "date": "September 5, 2026",
-    "publishedISO": "2026-09-05T20:17:01+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Massive street takeover leads to hundreds cited, dozens arrested in Harbor Gateway",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Daily Breeze",
-    "summary": "Massive street takeover leads to hundreds cited, dozens arrested in Harbor Gateway Daily Breeze",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQRzBqR2xrbGtvaXo2WFVmTjVhN3RLUFVCQ05LbzZZaUxLMUYxdm9uS19yUEZVM0xTcU56eTdDZWZ5RXp3QlpxczhMVGN5cjRIWEg3dy1NTThDUXNFTTdkRHhSTDEzcC15dmpIU2czaVBiNnpkekRBRXYtaFVOVko5cDl2WTFBUFE0UHg1RUwydjJZeXQzenFCVXJ0a2xONEFudDN6dUdUN0JOSndLTXNDQkQ0SHcxMkxSSEdxNg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c7f50872b0bb",
-    "date": "September 5, 2026",
-    "publishedISO": "2026-09-05T19:59:09+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "LAPD makes nearly 70 arrests in massive Harbor Gateway street takeover bust; 570 citations issued for spectators",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 Los Angeles",
-    "summary": "LAPD makes nearly 70 arrests in massive Harbor Gateway street takeover bust; 570 citations issued for spectators ABC7 Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVGtTcG1HcEFodUh4cGdCOGdiY0ZXYlA3bW1VYzdhUTlFZ1dZUldRSmVWSmx6cmw5THFRa25kYjFubnBWNS0ydGtybVM1eGxwdmxZSkxZNGpNQi1TVFZWSHUwTEc5RkdTeGNNSDR5UFhSbEZMWmV3MEZXaG1JMTdhMXVLZGk3ZTUyLV93OHExWWJmZVFuaWs1VThCbzQ4Znd1MmQ5bG1CeXV6eHdXbkR2Q2VkZ2duelhR0gG-AUFVX3lxTFBPZWFHTUFsMWJSWUtaVmY3ME1aY0Y3QkR3cUdHRzdVQzZjdHRJZXJ6eG5UeHQ4dzYxNF9Bc1lFR091aVhQSGxJUHFGUllzVE0xc2dZbzFxbVBqeVRUUGJlNEhVNTZodmdtMXJ1cmk1NVVvSWtTQzl5em1qTFl2TktXb3VSa0ttUDA0TGtfbEFWREgyS0lEM2dFWG9nbkRkNHhhekt2OTJTTkg0Qk8yRVdSa2hkbTE4cENhRkNHWkE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d68825f60053",
-    "date": "September 5, 2026",
-    "publishedISO": "2026-09-05T16:14:57+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Harbor Gateway street takeover bust leads to nearly 70 arrests, 200 cars towed",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NBC Los Angeles",
-    "summary": "Harbor Gateway street takeover bust leads to nearly 70 arrests, 200 cars towed NBC Los Angeles",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSXVPdFZmd0hnMmQ5SGdxMXExSXltNGFrOHJqU0x1R1BSLXg1WE9RZDBHMWV2UlUwT2Zyd1NKVmQ0ZUFNS2swbmhmYVpMS2lLRXRmQWh6RnhGb1JEekdqbEt5T1hMUEhGQWlFNThGODhRX2NLa2lxZGYwUlNreEZhY2QzczJ6MHdUSkZCNElR0gGWAUFVX3lxTE9qa2dWdEx6cWUtczd1VkEzTTFiYzlKc3pxT0FNdVJuVTIxNzgyM0N1MEZybndWbzl6ODVFVlJsaFYxUE8xR0NhazMxOVZpLUZTZFpaNUQ2ZGNpZEZkenI3RnZGTkJPdDdZWGJDZjlaQmRtamJfS0VfLVc3X3RnQjVDc3QyXzNIYTg4aUlVQ1dsblZVdDJZdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
