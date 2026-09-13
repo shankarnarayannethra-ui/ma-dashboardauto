@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-dc3cec42fb09",
+    "date": "September 12, 2026",
+    "publishedISO": "2026-09-12T03:48:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Minnesota United Acquires $150,000 in 2026 General Allocation Money and 2027 MLS SuperDraft Second Round Pick",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Minnesota United FC",
+    "summary": "Minnesota United Acquires $150,000 in 2026 General Allocation Money and 2027 MLS SuperDraft Second Round Pick Minnesota United FC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNdVRxLUVFZWhueEN2Qk5iSjFHcmp4bkNXLUt2WC12ajQzRENHQVhfc3ZKck9RS21GTEttWFVqQ25MdDdjZVVfQW8zT1BsMW1SSnZ0eVQyMGRjSDRnTFprQjBjUlp0UWM1R0hZaTU1U3dXTHhuR21IMjVqWk9iRmo2WXdfLUZhc3NBWlB6SkJBMzBWU201bm5LNTRrSm1GRUtsY19mTnBBVmZtUkFMU1RuSHBCMjJBdnBGRVJBSk9WcUZIWHdqV3hhdXo1TmNEZlh0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0dc3de90a5f5",
     "date": "September 11, 2026",
     "publishedISO": "2026-09-11T21:26:00+00:00",
@@ -451,6 +526,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-af514bbef75a",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T22:22:15+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "San Diego Wave FC Acquires Italian Forward Barbara Bonansea on Loan from Juventus F.C. Women",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "San Diego Wave Fútbol Club",
+    "summary": "San Diego Wave FC Acquires Italian Forward Barbara Bonansea on Loan from Juventus F.C. Women San Diego Wave Fútbol Club",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGlFRnptcjZzZnpiNkhqMjBnblR2OEdCT3BBT0lTYUI2eEl5YTVlSDdwVDUwNWhtcmpBSm00MTFQSEI1NHdsZVZ6SzE0UktBNWdJWFUxYjRId3VfLXhadjdBc1FBWDZDeHc3UG00NkFpU3IxaEwwcEJzbndMdmN4Q1k5XzhQeTVBejRJYXpTQzBLN3ppUVUzN1o1MmVVMzd0a3EzYUwzbkU1ODBWYUoycGMycFh6dXp0U1Vr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b121274cdd5b",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T21:51:49+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Fifth Third Bank's merger with Comerica frustrates local customers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "wxyz.com",
+    "summary": "Fifth Third Bank's merger with Comerica frustrates local customers wxyz.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDVIRi1WWmxZamtoV3ljVDZHQVFnNzdSUDNHX2N0YVVnQ2dBa0dQV3JXUHJRaDloU2d3ZzZVWDhDZl9CZ1ZJajByRTNSXzdMN3B6Z1pNSGdZQnczazVEeFVDUVdGVzY1cU1yeWs4V1BieVRVb3hpbDRHYVF2YXpOSGdmUHU2eDI3aVE4STh2U3Y2elNIMlE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-baa646198d67",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T20:37:25+00:00",
@@ -559,81 +784,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOQ1VIZHRHblVCWGZUV0RaXzNjSEVDSjllRTlBcnVnQm91bUNKakVPYkhyM3BBc05vU3JRR1lGRUVmSENxcHhETVFWMDlPVUxUcTZoQ0RVWURuZVZtelFBUlNIcUlYek1nLVJ1MFNMam1JTkt0UmNJRlh5UUV0SHVNT2NseTJQcnlJZ2VFbU9QRTZMMzJMYUl1bzAzREFsanFZV0pvcGF3Q1BkOXd5X2hB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-b121274cdd5b",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T18:58:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Fifth Third Bank's merger with Comerica frustrates local customers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WXYZ Channel 7",
-    "summary": "Fifth Third Bank's merger with Comerica frustrates local customers WXYZ Channel 7",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWDVIRi1WWmxZamtoV3ljVDZHQVFnNzdSUDNHX2N0YVVnQ2dBa0dQV3JXUHJRaDloU2d3ZzZVWDhDZl9CZ1ZJajByRTNSXzdMN3B6Z1pNSGdZQnczazVEeFVDUVdGVzY1cU1yeWs4V1BieVRVb3hpbDRHYVF2YXpOSGdmUHU2eDI3aVE4STh2U3Y2elNIMlE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-432275d7ec03",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T02:49:33+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion",
-    "valueBillions": 2.55,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Enbridge Inc.",
-    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion Enbridge Inc.",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQQnc2c2pUTFlWY0JyR0NqZktETHJmMGhXSkU1NXRuUk5WTFptMjAwUFZpZFNYR3FDSlZ6NlVZYmRleExmVWE0RG5lbXpucHFBMldZODRPWmZZQ0h2ODZiVmVkem9oU1Fwb1M2dERaX1Z0eVlsUVZNNElCSFRZNjB5QmNqaGVaM2g1cVBhMmh1Z0VyYkRYbi1oVm1xcXg1WWJPWGtETTgxWkdZWmpnb2Y1WjFMbkRoeVZEYnFKS3J2ZTJuMi1kdzhobDFnVTEyNHVOVkdSQndkd0c1Rk0w?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-75134d7e8e76",
     "date": "September 9, 2026",
     "publishedISO": "2026-09-09T22:36:00+00:00",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "kut.org",
-    "summary": "Parents say they won't support closing failing Austin ISD schools to avoid state takeover kut.org",
+    "sourceName": "KUT",
+    "summary": "Parents say they won't support closing failing Austin ISD schools to avoid state takeover KUT",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wsj.com",
-    "summary": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger wsj.com",
+    "sourceName": "WSJ",
+    "summary": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1726,13 +1801,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-00d112376afa",
+    "id": "news-864036681d62",
     "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T11:59:00+00:00",
+    "publishedISO": "2026-09-08T09:11:17+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "80+ people arrested after weekend street takeover in South Carolina",
-    "valueBillions": null,
+    "headline": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition",
+    "valueBillions": 6.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1740,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WBTV",
-    "summary": "80+ people arrested after weekend street takeover in South Carolina WBTV",
+    "sourceName": "Yahoo Finance",
+    "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,82 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQb1htSk1Ea0F2aUtOSnYxeGltMDFaWEE3NElEZThmenB2Y25iMmhTU2kxZFNfME1jdzdkTzhjNVZFVUxEWXllS0dvTDFXTENINkhLTm0ta1lrYnRvX2ZkY3JWZWt3QzRJX1prMjhaRFhlU3RodHJILVNZVWxJSnUxSzJDT19UTWFsbjRHNVRuSDhqODdqSjhvX3hBTHM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3db334d02957",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T01:44:54+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "How Much Is Florida State Coach Mike Norvell's Buyout? Contract Details In 2026",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX Sports",
-    "summary": "How Much Is Florida State Coach Mike Norvell's Buyout? Contract Details In 2026 FOX Sports",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQbng0SV9fUGFwbVhsUzJVSElBVzZfR0tFVnhROTJKR19kNFUwd1lzcDVqVHVHOFZSTzB0NHZnd2tCNE5WNXFUYkdkMHJDXzR0dHBGaHdvbFJLN3JkOHgtbkJkY2xjTzM5YlZnd21MaW9oWVJfZzRvV3pVelJLNFppVHJBem1ORC1taTQ4UzBpMFRRMUwwRGNNanJpYkNaRmNZ0gGgAUFVX3lxTE9NdnQ1cm5kMXF5NHJMQUM5cEpUMUJGTkxyamUtMi03aUVSZzZSWVBwd1VScU5tdXk0SjAtenVFd09FUkF1YlpNTWJQWjFOWkw1bDgxMEo4a19uUTRna3R5YmhRdENzNlpZUUc2TWdUTHhDMGlmOTdZTS13V0l1NHBoNl9Oc2NreWZWRGtrdlZMZmtzaTBucDRLbGtnakNxVUM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOT2lNQzJnT2E2aDFPT2ZwbnN3dFFKTS1aV0g2clJSYzFuUGdKM1lyaFZxWndDR3E1ZDRXODVmeUdQUXlvRmNRckJRb3Rkd3k5UkJWU3AxcTh1Wlk0WWdMNG5qOUp4WWVIUlFzQzBDOC1QVzByNjRpbnlyWDdLald4c1NEZkgxX0g1Vzg3UzhQa1I4Z1BT?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4de61cc882cd",
+    "id": "news-08e2ed496903",
     "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T04:01:22+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Chicago street takeover: Residents and activists call for stronger action after weekend street takeovers",
+    "publishedISO": "2026-09-07T09:24:17+00:00",
+    "acquirer": "L Catterton Is Said to Near",
+    "target": "Fitness Brand Hyrox",
+    "headline": "L Catterton Is Said to Near Acquisition of Fitness Brand Hyrox",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC7 Chicago",
-    "summary": "Chicago street takeover: Residents and activists call for stronger action after weekend street takeovers ABC7 Chicago",
+    "sourceName": "Bloomberg.com",
+    "summary": "L Catterton Is Said to Near Acquisition of Fitness Brand Hyrox Bloomberg.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQa0NkWEt3M2cxZVFmYm1XZER4S1d4cWs0SWdDNnJESFpDaml3LWVOZ1RlRXB6UmcyTkRRRDlPS2NtMjIyQUduNE9Jb2h2aDNyYUNSYnhaRDR0ZjMwX01IUkxMZHlOd0ZlbFI5eGxvS1JZQ0xxYTVucklENkpyOVpfRUFaSDRuaHVQVDdQZFA5N09WQ005cDFOU0xJODdoOFFucm1IeDlZTUl2Wk9HUHhJYTMwcU9iMTBvVXdmN3Vn0gHDAUFVX3lxTFBwN3dnREZrRGRObjNWU01nbkVFTm5TWmxZcXNJcDBPeERoa3BIYU9ERGpNTTdHcThkV2d3LXRoUXRrcHRGWjlTbGxrNEdNaV9FX3RYRlFaeERnODFJc0JqbE5Bc2w2bWluVUlUS2NyUVF5TXUzYkx1MVFsWHNNaW1lQVNyd2NrN0lMMEdod1BNaVdWQUtwY21WaEg4MDNCZVRhbHotSTJUMER1eFdueGdxRU0tRm5aNmNVQmUwd2VQS3BXaw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOERWRld5OFVlYmV0RDFPTlk3OTJ2eUx4ZXdSYWo0UGViTVh2cmxVSmJENU93RUVsbEFJa2RiSllyUzlSQnhXd1RGSUQwdW9NSUJncUFrWlVxa0kwT1dOZ1NrVHhFQnJPbWYtREZiNGZZWXJDdjVmZUE1TTJVNVhERm1GS2VSbDhjcVRHWkY2cmNoQVZuUzRrelVDdldHOWlkdlhjeGV6TDdpVjRKOWNxbGtjUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
