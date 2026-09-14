@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-e19aa66a3435",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T02:08:14+00:00",
+    "publishedISO": "2026-09-14T05:02:42+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "LAPD issues citations, impounds dozens of minibikes in massive 6th Street Bridge takeover bust",
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "charlottesville.gov",
-    "summary": "City of Charlottesville Joins Review of Proposed Dominion Energy/NextEra Merger charlottesville.gov",
+    "sourceName": "Charlottesville.gov",
+    "summary": "City of Charlottesville Joins Review of Proposed Dominion Energy/NextEra Merger Charlottesville.gov",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-7f17cd28e8db",
+    "date": "September 11, 2026",
+    "publishedISO": "2026-09-11T10:33:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MJBizDaily",
+    "summary": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about MJBizDaily",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbV9ZOWJMeTIzOVdqcjFLLVhqZnhhZl9oSnU0al81Yi13M1AyQkNXVkV2SUdWX3VDdmdaczFyTGlXOWhjbDIwNm9HSUswRkhLM3E3ZXZFOEVqNGtKTzFtcWwxY0lfSFdDZzBkd1A2ZW1WVUFKdFNfMFFpQi1reUVWdVExaER0ekNJVEhVUTFHU1Z3UElpZHRjT2gzaVppTlRCeno5QThSV3RJQ1k?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 11, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-59f45f530d16",
     "date": "September 11, 2026",
     "publishedISO": "2026-09-11T03:19:55+00:00",
@@ -601,6 +676,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-af514bbef75a",
+    "date": "September 10, 2026",
+    "publishedISO": "2026-09-10T22:22:15+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "San Diego Wave FC Acquires Italian Forward Barbara Bonansea on Loan from Juventus F.C. Women",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "San Diego Wave Fútbol Club",
+    "summary": "San Diego Wave FC Acquires Italian Forward Barbara Bonansea on Loan from Juventus F.C. Women San Diego Wave Fútbol Club",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQeGlFRnptcjZzZnpiNkhqMjBnblR2OEdCT3BBT0lTYUI2eEl5YTVlSDdwVDUwNWhtcmpBSm00MTFQSEI1NHdsZVZ6SzE0UktBNWdJWFUxYjRId3VfLXhadjdBc1FBWDZDeHc3UG00NkFpU3IxaEwwcEJzbndMdmN4Q1k5XzhQeTVBejRJYXpTQzBLN3ppUVUzN1o1MmVVMzd0a3EzYUwzbkU1ODBWYUoycGMycFh6dXp0U1Vr?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-baa646198d67",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T20:37:25+00:00",
@@ -615,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "PayPal keeping options open amid buyout rumors, CEO says Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "PayPal keeping options open amid buyout rumors, CEO says finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -901,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d0fd5c54642d",
-    "date": "September 10, 2026",
-    "publishedISO": "2026-09-10T16:56:22+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SThree receives preliminary takeover approach from Circle8",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "staffingindustry.com",
-    "summary": "SThree receives preliminary takeover approach from Circle8 staffingindustry.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNXlpS3lMWE9JUjg1YU0xT1BKN2dpWVVQdVBXaU1MaV9nTS05UmcxWDU5X0k0cmwtZ1JDN2J0VU9vaWVnRkV0R2kybEtaanFLX1lxUk9NY21neXdpRlJ3VHI0SlBkMUFnOG9SZEEtbW5YbzZxNHJobWJvWmpGSDdPN3ZPRkJDdUVjY3VFTDlTLU45amd0dmxTQWZHcXpDVXN3ZlBZcWRGb0k1VzZFVThFWlE1dVI?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-dc61df2f3c3d",
     "date": "September 10, 2026",
     "publishedISO": "2026-09-10T14:27:21+00:00",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "salesforce.com",
-    "summary": "Salesforce Completes Acquisition of Fin salesforce.com",
+    "sourceName": "Salesforce",
+    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Anthropic Said to Walk Away From $6 Billion Decart Acquisition finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNOENaVElvd3hyanRBUDhaMVJoLUVFaUJQS3dDRzE3ZUZmclBiYVh2WGFvbkU5blF0Y2QtWDJyeU1zYUtQR2tjYkhMeHZ0WU5EdXdnWHk4VUJ0d1RaOGZLZDdvd3dXQXdYNlhTdVhxTkVaMmV0UklYajVVY3dvbTRpNHJxRVp0dVJfd3dXcEw5dUR3R0YwbURFWDczZ9IBoAFBVV95cUxOMmczY0s0VkV3Y0lTanByYTJfTU1CLWlfUWV3TkFyb3k3VVluUFRvR0NWemhqLTQ4Si1PTnpZOV9pM3RPbWdYVDdMUXhqcndBQVdKRWxkZDRUX0loRGswM2VGY184OTUta1IyajFNVzVTakVpS0c0SU56Mi1jcWhndE11TWlTT0lCM3ZVTVJFR3IycUhxS1BrajlBc3Q0ZTNp?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-08e2ed496903",
-    "date": "September 7, 2026",
-    "publishedISO": "2026-09-07T09:24:17+00:00",
-    "acquirer": "L Catterton Is Said to Near",
-    "target": "Fitness Brand Hyrox",
-    "headline": "L Catterton Is Said to Near Acquisition of Fitness Brand Hyrox",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "bloomberg.com",
-    "summary": "L Catterton Is Said to Near Acquisition of Fitness Brand Hyrox bloomberg.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOERWRld5OFVlYmV0RDFPTlk3OTJ2eUx4ZXdSYWo0UGViTVh2cmxVSmJENU93RUVsbEFJa2RiSllyUzlSQnhXd1RGSUQwdW9NSUJncUFrWlVxa0kwT1dOZ1NrVHhFQnJPbWYtREZiNGZZWXJDdjVmZUE1TTJVNVhERm1GS2VSbDhjcVRHWkY2cmNoQVZuUzRrelVDdldHOWlkdlhjeGV6TDdpVjRKOWNxbGtjUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
