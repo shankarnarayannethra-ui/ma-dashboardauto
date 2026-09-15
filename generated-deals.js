@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-57ed8941a200",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T20:50:08+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "afrc.af.mil",
+    "summary": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture afrc.af.mil",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHVGNzhwT2hfOFFtRjFsS0pFUzQ2RGlqd0g5Sm1pN21oaE50OUNORVE1a0tNUHFaMG11UVdldTlMa3JVWWoyRmp0MVQ3SE1Kcnd6Q3ZpMUZSN3BHNURNS0RsT3dIbWxQeGtxOGFyT2x2Qklud2NtaGFhTWNrOW8xbHlHRWtRXzRGUlpGU1VmNnVodHJJMDYtQ1lUMzROWU9KUHY3S053TEJBdGZNY0VLc045UGZFYWxaTklnbk50QXB3amhR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-73f3a7514ebf",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T18:29:20+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WRAL",
+    "summary": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more? WRAL",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXZHX3dHVlpuT2JPbHkwcXFadFRsOGlubk1DdXdxRU1DbUhia2xPOVUzeldkMXdUVnpBSWk4d0NYNnpsWnNpdG1DM3U2VVVfUFJ6cHVsZmJDdVZEeTh4cFA2ZzhlLWlxQkFidDIzQ0hvNklYTWNRSUZGdWIwY3BGcENNcDZ0MnNscDE2RHNEeXlraDlmZGJEZUM1eUZtMU1CaGt5bGYwS3pKdHdEVUNOTno4c2xkelJIbkZrNjBXSFg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6a35ff5af4d3",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T13:50:29+00:00",
@@ -184,156 +334,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPQl9lM0owSGJvNGx4SC1QN2xOS3FYVkZscWhPdjVWZF9VRTZ6Sm4wZDQ4RDRxbkxMUEVEUmdHT1RFdzQtaDlCc1A4UUgzd1B0OXN3Wm5ORkNtSUVHanhXQTRYNk1DTTNoX0puYUtfR2tCMHBkLTlyVFJjZVdQUTh2NEZ4Nkt3QjJZ0gGOAUFVX3lxTFBIQjM1SS1ySE5ZWlJVV1dRbmRzMEdpTDI2cC1sMXUtekNTMFJSeEh4c0JrRWh5RkNDUzQxUk1NNS1GckhtRXg4a2taNkJ6STBGR2diVmlqa0o3SmhXY19ESXRBb0Fjd0dyckJwNEJwZkVldm1BWDVQaU5hQ0ZZWHRMOHI1UHZ1ellPdHotNEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-69f7fe612ad5",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T17:30:00+00:00",
-    "acquirer": "VIP Announces Strategic",
-    "target": "Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
-    "headline": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "VIP Announces Strategic Acquisition of Encompass Technologies to Accelerate the Future of Food & Beverage Technology PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMigAJBVV95cUxPZHRsZHVnQU44ZklidEhOdWtHQUNSZWhpdDZLaHBrVmtmbi1VYWRxNDViZFRiSDJFRGhYd2tXbjdFSk1vOURiSXVjSGIyWkxSRHNXZExTRFlFYUxLQ05vQzVyTkVIZVZRTHI2ejBVM2ZLYkViM01FTVBESk4wNHZjTUlTZGNoZFQ3U3U1LXJmaEFvNGEwWVJ0ZGJkYWtBY2xlamRTWlI5Tk9yVzRGcjJTNTIySm5QNk0tNjNvWnBqeGVPY2pVdTAxQW1nU2M0S0dPZzB4S1d3cGcwbjd5UFZLRTBISFNKVHpJdWpDYU1qelNqMWlETDFoeEZyaEc4TVow?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-12569ae4ccc3",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T14:45:44+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Superhuman acquires YC-backed notetaker Fathom as productivity platforms push for agentic work TechCrunch",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOU2gtMEVYWWNEcVk5eWpEeU1UZUdjd3ZVOWlZSmNReXZBWkR4Y3V6c0FhVTRwVDJNTWVHMzkwRXVyb1d1RFkwVVZRdUtqQmZGUGlILTViQ0I2SVRNZ3F6emVJWlM0YUQzMnRWTE1xSVJydlR6SUZWUE9abV9aYVlnUHI0MjJvelpzTFpBUUhSRU5yUF93Q3NKRkFGTUVTbE12ZFhsdnd2R1BkY192LWtBYXNXOXJ5U0ZCTE1maHpCSFdzUXl2QnpFOQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WBTV",
-    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says WBTV",
+    "sourceName": "wbtv.com",
+    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says wbtv.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -939,6 +939,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1d33f54f2f19",
+    "date": "September 13, 2026",
+    "publishedISO": "2026-09-13T21:33:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "St. Louis Police make multiple street takeover arrests",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX 2",
+    "summary": "St. Louis Police make multiple street takeover arrests FOX 2",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQOEo0MW5uZGc4YWNFa1RnOXdKX2V2MUFyV2lBZ25zQXFYVFVySXVYOG0zbDF4MXJaQ2ZyVnp1akp3dmE1ZlFOWHE2cWlqTEZfZnlPdUhZek5TRFRLSHJwb2pET3dTbTJQNERKYW5xQzdVTVR6enNmOUdKTXFreFlLME91c2xuMWx1RmpkaFhMeG4xUdIBlwFBVV95cUxPZldpRXM4YUs1NTVwbEtsMEt1dExkZ1R0T05MalpOckFndFFKR2dVM3c4czNuRGwzNnIydmpkSFlOeGcwb0ZuS21HVWF5SF9jdWlFUVQ4SG1MbF9VM0kyZm5UblRiRGtXOUJWTU5pVDNXa0VwYlNwSEhYWjBDeS1rczlDd3N6MllqWDRSSHdlclZyMkt0dDNz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 13, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1590,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "salesforce.com",
-    "summary": "Salesforce Completes Acquisition of Fin salesforce.com",
+    "sourceName": "Salesforce",
+    "summary": "Salesforce Completes Acquisition of Fin Salesforce",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "freep.com",
-    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches freep.com",
+    "sourceName": "Detroit Free Press",
+    "summary": "Fifth Third-Comerica merger leaves some customers angry over glitches Detroit Free Press",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1909,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8ad276354675",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T12:55:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "H1 acquires Defacto Health to expand provider network intelligence",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "H1 acquires Defacto Health to expand provider network intelligence Fierce Healthcare",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNZGJ1bVFkbFJYd01NTjZFZjF6Q01XeHFlSWpHU2EzN3VPb3pvVHQ2WnNHTDdPd1F0dE5tNTF3TkZzcUNWYjZOZTIzbWd4MTE3UHJTdVEyTHZSazJRNGwyRFFlcHNsTFJBd1Fjc2thQmc5MHRNWjhPa1d1U255X1htN1pHdDM3RThobjdiSFdxeURfUWsta1d0Z2pJWG13ZDAzLVV2U2ctTEJCYzBX?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
