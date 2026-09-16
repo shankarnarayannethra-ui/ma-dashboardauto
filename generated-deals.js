@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-57ed8941a200",
+    "id": "news-9ce2392dceea",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T20:50:08+00:00",
+    "publishedISO": "2026-09-15T21:57:09+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture",
+    "headline": "New Mexico’s largest electric provider, private equity firm propose revised merger terms",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "afrc.af.mil",
-    "summary": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture afrc.af.mil",
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico’s largest electric provider, private equity firm propose revised merger terms Source New Mexico",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHVGNzhwT2hfOFFtRjFsS0pFUzQ2RGlqd0g5Sm1pN21oaE50OUNORVE1a0tNUHFaMG11UVdldTlMa3JVWWoyRmp0MVQ3SE1Kcnd6Q3ZpMUZSN3BHNURNS0RsT3dIbWxQeGtxOGFyT2x2Qklud2NtaGFhTWNrOW8xbHlHRWtRXzRGUlpGU1VmNnVodHJJMDYtQ1lUMzROWU9KUHY3S053TEJBdGZNY0VLc045UGZFYWxaTklnbk50QXB3amhR?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMUROTFNkbURHdjEtakotUlBBXzlpNUFWXzhzckxFekhlQkNwSHg5UGw5VlFaUm1sb0x5OWpVOFZEQU5DcmRNd0JVdkphVVNzWnZhbU5OYXROWHZaWUJNbWtvcWZNR0w1bTlscmZKRmVxR09PQVIwUEhXT285SFdSOTNzYTBHVnFtSENOLXBjeTI5MFdKZEd5aDdkbk1qUW1WdFBYYnY5NFJsV2NibkVBWFczZndrR3FUcFpB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-73f3a7514ebf",
+    "id": "news-57ed8941a200",
     "date": "September 15, 2026",
-    "publishedISO": "2026-09-15T18:29:20+00:00",
+    "publishedISO": "2026-09-15T20:50:08+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more?",
+    "headline": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WRAL",
-    "summary": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more? WRAL",
+    "sourceName": "afrc.af.mil",
+    "summary": "Acquisition leaders emphasize mission, speed, risk in changing acquisition culture afrc.af.mil",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXZHX3dHVlpuT2JPbHkwcXFadFRsOGlubk1DdXdxRU1DbUhia2xPOVUzeldkMXdUVnpBSWk4d0NYNnpsWnNpdG1DM3U2VVVfUFJ6cHVsZmJDdVZEeTh4cFA2ZzhlLWlxQkFidDIzQ0hvNklYTWNRSUZGdWIwY3BGcENNcDZ0MnNscDE2RHNEeXlraDlmZGJEZUM1eUZtMU1CaGt5bGYwS3pKdHdEVUNOTno4c2xkelJIbkZrNjBXSFg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPSHVGNzhwT2hfOFFtRjFsS0pFUzQ2RGlqd0g5Sm1pN21oaE50OUNORVE1a0tNUHFaMG11UVdldTlMa3JVWWoyRmp0MVQ3SE1Kcnd6Q3ZpMUZSN3BHNURNS0RsT3dIbWxQeGtxOGFyT2x2Qklud2NtaGFhTWNrOW8xbHlHRWtRXzRGUlpGU1VmNnVodHJJMDYtQ1lUMzROWU9KUHY3S053TEJBdGZNY0VLc045UGZFYWxaTklnbk50QXB3amhR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -189,6 +189,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-73f3a7514ebf",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T23:55:34+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WRAL",
+    "summary": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more? WRAL",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXZHX3dHVlpuT2JPbHkwcXFadFRsOGlubk1DdXdxRU1DbUhia2xPOVUzeldkMXdUVnpBSWk4d0NYNnpsWnNpdG1DM3U2VVVfUFJ6cHVsZmJDdVZEeTh4cFA2ZzhlLWlxQkFidDIzQ0hvNklYTWNRSUZGdWIwY3BGcENNcDZ0MnNscDE2RHNEeXlraDlmZGJEZUM1eUZtMU1CaGt5bGYwS3pKdHdEVUNOTno4c2xkelJIbkZrNjBXSFg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wbtv.com",
-    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says wbtv.com",
+    "sourceName": "WBTV",
+    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says WBTV",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1089,6 +1164,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f101d394a407",
+    "date": "September 12, 2026",
+    "publishedISO": "2026-09-12T22:38:33+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test",
+    "valueBillions": 12.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOeEtacFFfWnBiekoweGx0NkNmQVRWUkY4RFN5NV9xUGJPT3Z4QXIwdmNIWHJhRGh6OE5vb0JOQ0hDWmgyNUZmdThSTm1kV0VlamhzRUZvNlZWbnllV0VwanprODZOc3lISGJvaWNCU3NOdGVaTHlwN2F0anJHMzIwZV9vR1FjVzdrUy00TGhQOEJwN2lTbVE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 12, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2028,7 +2178,7 @@ window.generatedDeals = [
   {
     "id": "news-f79a9419a54c",
     "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T11:04:58+00:00",
+    "publishedISO": "2026-09-09T11:03:00+00:00",
     "acquirer": "Independence Realty Trust",
     "target": "Centerspace Agree to $8.1 Billion",
     "headline": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
@@ -2064,156 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-100ca5c80f02",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T21:50:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "crn.com",
-    "summary": "ServiceNow Sharpens Its Salesforce Attack With Sweep Acquisition crn.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOd21MdWVoLVduS2JwcDJtVk9lQjZkWnVrNlRVb3o5MF80OVZILUZONkVsUjRoZjE4alpBNTRKZWlhUmpXZnRWZ2UwQ2ZuVDl5XzdiSEVibktoWC1DOF8yNzNWTS1aUDJnSENLSnlfRkRxbk1lZkExbjJGNjVkY0l1RGlHb1Y2azVmdk5UdUVXUE5ySjRSc0ljVmVrTmxJZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-82ed7611b37b",
-    "date": "September 8, 2026",
-    "publishedISO": "2026-09-08T21:47:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount Repeats Demand That States, WGA Post Bond Over Warner Bros. Merger Delay",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount Repeats Demand That States, WGA Post Bond Over Warner Bros. Merger Delay Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxONWM1VS1FTU55RXZ3X19sSnp6bm5FTXJoNURkTURvTnF4c084dUJJSlNDOUVYdU0yLWdVWi0xejREOEVOLVMzMENXdVpwSlZwV3JkcldjaXZQMlhrclJ3THBMQVFjMTdidkgteHdXcjcxSXRNX0FoZDhjRnhTM2wzMm42YTNrR2Q2dS1UclBBLVV3MnJDeXYzT3JERlkwdTV6SUJpX3UycHZWUGZqdGZaYQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 8, 2026"
       },
       {
         "stage": "Terms verified",
