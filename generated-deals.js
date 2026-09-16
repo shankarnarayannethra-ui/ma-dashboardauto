@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-f3990cf91938",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T08:54:54+00:00",
+    "publishedISO": "2026-09-16T08:23:00+00:00",
     "acquirer": "Brookfield Agrees to $2.9 Billion",
     "target": "Australia’s Reliance",
     "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-a42367a4fe16",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T18:57:51+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Space Force creates office to accelerate innovative tech acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "DefenseScoop",
+    "summary": "Space Force creates office to accelerate innovative tech acquisition DefenseScoop",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUi0wcUNDX1VyR3hwRVBXUjgzS1h1bUZhM2tIaUdGT0h6S0I4Ykw2SW95VGJjR1pxZHgtN2VCS0ZLMW9BZ3FSazZrcVIwWms2NnFhODZ6S0F0d2FyanBDQlViWDBhaEQ0UnZiWVBjcW84X3ozZ1UxQ0ZEcXBNa3poRFFRczFZbWlNa0ZteVcxU3F6R0s3bzdjdjZINGgtNDg5bDgzVkFmbFI?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-6a35ff5af4d3",
     "date": "September 15, 2026",
     "publishedISO": "2026-09-15T13:50:29+00:00",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-73f3a7514ebf",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T23:55:34+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more?",
+    "id": "news-9a6fdf0f504a",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T11:00:00+00:00",
+    "acquirer": "LINDBLAD EXPEDITIONS HOLDINGS, INC. EXPANDS PORTFOLIO WITH THE",
+    "target": "WHITE DESERT ANTARCTICA AND ECHO CHARLIE TO CREATE A LEADING FORCE IN EXPERIENTI",
+    "headline": "LINDBLAD EXPEDITIONS HOLDINGS, INC. EXPANDS PORTFOLIO WITH THE ACQUISITION OF WHITE DESERT ANTARCTICA AND ECHO CHARLIE TO CREATE A LEADING FORCE IN EXPERIENTIAL TRAVEL",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WRAL",
-    "summary": "WakeMed CEO Donald Gintzig on possible Atrium Merger: Will patients pay more? WRAL",
+    "sourceName": "PR Newswire",
+    "summary": "LINDBLAD EXPEDITIONS HOLDINGS, INC. EXPANDS PORTFOLIO WITH THE ACQUISITION OF WHITE DESERT ANTARCTICA AND ECHO CHARLIE TO CREATE A LEADING FORCE IN EXPERIENTIAL TRAVEL PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,12 +483,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxObXZHX3dHVlpuT2JPbHkwcXFadFRsOGlubk1DdXdxRU1DbUhia2xPOVUzeldkMXdUVnpBSWk4d0NYNnpsWnNpdG1DM3U2VVVfUFJ6cHVsZmJDdVZEeTh4cFA2ZzhlLWlxQkFidDIzQ0hvNklYTWNRSUZGdWIwY3BGcENNcDZ0MnNscDE2RHNEeXlraDlmZGJEZUM1eUZtMU1CaGt5bGYwS3pKdHdEVUNOTno4c2xkelJIbkZrNjBXSFg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwwJBVV95cUxOWGhEd28wQ1l6aVRXbVh6VXVyZjJPR0ZqUWxsY0VqZGdKN21Rb3d5S2lzM0k0MFpkeTdjYVZXQVVhZ1QzRlNDemI4OUprSEQ5cmdmZ0lTSUk0Y1QzaHFvdXRGTk5ZME9DZGZQVU5xV0IwMlYxWVVBdHVSQ1M0MWxucy1QOG1rT2YyVTFvS0VucG05N0FvVjVPMjdCMXFHQjd0ejl2UWhnV2ZKMW1vUmRld0IxZ2o5cEhpN2hrWi13Y19vWHNwYTdudWZKVm1CakJCbDVXbWhCSlhXaUcxbzF3MGJiOVlwSjMxOWhmWkgwWXBadVduMVY4Mm1taXZnR3ByLVJxbk1OZm03Q0RyWDFZSUtFZHpIVzZYMTJrVWNINnR1OGd5bG9MV1NtVHVWSnVLX0FNNjdxOXREQVBFVVdhakpSTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 14, 2026"
+        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -465,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Aurora police identify 6 suspects in August teen takeover; 2 teens arrested CBS News",
+    "sourceName": "cbsnews.com",
+    "summary": "Aurora police identify 6 suspects in August teen takeover; 2 teens arrested cbsnews.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,81 +1426,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-532b3303c636",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T14:11:01+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMUNRVklVaEVwVWpWX1FZdUtnQ2NSdWFrSDJXTmpmNG90bEMtaF9MWG5YWFZuNVZwUFpzeS1EbWRUSEpGLTNoNGxsbm50empNZVZ1ZjU1NnItZTZSTTVHUEV1TUdqdFVwV01Dd05mWTlqUmg5alZNZ2hocGNteEdZQ3huSXpQdFEyNVFBanRUTXB1alVRYmJ5RA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-0194f9a86cf0",
     "date": "September 11, 2026",
     "publishedISO": "2026-09-11T13:02:00+00:00",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Enbridge Inc.",
-    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion Enbridge Inc.",
+    "sourceName": "enbridge.com",
+    "summary": "Rocky Mountain high: Enbridge acquires Tallgrass Energy assets for US$2.55 billion enbridge.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
