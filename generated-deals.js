@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Musk hints (again) at possible SpaceX, Tesla merger Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Musk hints (again) at possible SpaceX, Tesla merger finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -184,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkNXbXBxQU9BdU43UTRHNVF0WjJUVTBrUGFIeURUbTU1VVVqQ3U2YkRQQ1VyWHdUdlRvTmU2NkhsbGUtZDZWeER6bWgyYkpIY2hmVVhUVE13ZmQ0bWxsaC03M0VHOVR5alBwb043SWl4dkFkMmhjV1JKcUlaWTlzSV9NcXcyRjdKWmRVbzF5dGV2eklMNk1kc0ZRZDlHTlpDWW5CLW9hQzkzT25KVWJXNGhB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b65efecb772d",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T12:00:00+00:00",
+    "acquirer": "Sep 15, 2026: DHL expands its capabilities in Colombia through",
+    "target": "Open Market",
+    "headline": "Sep 15, 2026: DHL expands its capabilities in Colombia through acquisition of Open Market",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "DHL Group",
+    "summary": "Sep 15, 2026: DHL expands its capabilities in Colombia through acquisition of Open Market DHL Group",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQYzU0MnVjTW1UU0ttOWdjRGpvV0J4WHlPUmZNdXkzbzc4VlVva3hFZS1LNkpZRXZ4ZEJiS19UdDVwbW94WmtOOHZMMVM3WWQzN3ByVVU0alFnNzRIMWd3aHk5M2xseWI4UzlCZFRTdkEtTEozbGJVWmlXcDE4QkFjbzFNdzhiSVFHenJKM043ZG1UdkFhZjBHcUlRLXRoalBFT1NQRE9QYlF1QTU5bkpESW5BTHdZSXJnMEdKN0NPbHZDczU0cjctYndOdnpVR2xnbGN3dlp6ZFA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WBTV",
-    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says WBTV",
+    "sourceName": "wbtv.com",
+    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says wbtv.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Workday Shares Rise 2.8% as Silver Lake Takeover Report Remains in Focus Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Workday Shares Rise 2.8% as Silver Lake Takeover Report Remains in Focus finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1215,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "GE Aerospace (GE)’s $12 Billion CPP Acquisition Puts Its Growth Strategy to the Test finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Skyworks Rises 7%, Qorvo Gains 5% as CEO Says $22B Merger Is in Final Stages; Qualcomm Ticks Up finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,9 +1426,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0194f9a86cf0",
+    "id": "news-bf1328e0bccf",
     "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T13:02:00+00:00",
+    "publishedISO": "2026-09-11T13:03:05+00:00",
     "acquirer": "Lilly completes",
     "target": "AtaiBeckley to advance therapies",
     "headline": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions",
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions PR Newswire",
+    "sourceName": "Eli Lilly",
+    "summary": "Lilly completes acquisition of AtaiBeckley to advance therapies for treatment-resistant depression and other mental health conditions Eli Lilly",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGEwbkdNSWVFNXZlY0xHa0lac1l5TC1IS2dGSGVlQ2RpWk1PckcwbXBJS0tpNjFSbzVjVmlrcFZ3M1FYdnFZS3J3V0xScm1NZklqdHFycXpPSFNtOGoxY2p6X29NQkZCaVMxT212ZFZfcFJEQnpHRldVQnpxVjkwTkl3bzNDNFVxdnB2ajJ1RTFqZVktd0RSdVk4cXduRnpxbTlUbHRMZkJ4V0JCbzJnTHg0WklGQWhDZDlwSVRfMmNWUDNxQTNDSUM0QmRBZjd6cjQxcjgyOW9XQjJqcjQ1WVMyTUpRYUcxdGFaYnFpY2lnUm0tNGRkNzBrMWdBbzlFbEtpNzA1NEl0dWxzZ2NCaEZBNlVIUUhq?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOVkNiZUpQQjZjY1RxVEJtblRQLThVeTRMQ1RxOHlETjNKa3BFd0psd3JQU0lhNUVRYmVPVUI3aGlnc3MyWnY3ODV3dEsyREY2RG9GaTZNQTNSQmczOUZkNEtBaXhoSGJLaWxzaXA1M095Yk5hNHplME5uRUNpb3ZINTREa2tZeXdiTnp1X0UtQzY0THZTN2x3X0dxMG02bHBDdnpOYU5ZSThMT2t5Z2RnS1QtTHQ3T2dwR0VZ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1515,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MJBizDaily",
-    "summary": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about MJBizDaily",
+    "sourceName": "mjbizdaily.com",
+    "summary": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about mjbizdaily.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "PayPal keeping options open amid buyout rumors, CEO says Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "PayPal keeping options open amid buyout rumors, CEO says finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBUbzhUSEg3bEJyXzB5b25veHZxU1gzV3FxY2FFbnFmNmtmWHBzSkhsNVJ1NzhkOGtybTBXZGJwYlNZOUpQc1o0dTN5OUpsOGNoOThKT2QyNGhoMkM3ZVRZQUxMTjE0Wk4yQ3poWUNyUkhucHpjV2JMNXJMYTVCa0k?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f79a9419a54c",
-    "date": "September 9, 2026",
-    "publishedISO": "2026-09-09T11:03:00+00:00",
-    "acquirer": "Independence Realty Trust",
-    "target": "Centerspace Agree to $8.1 Billion",
-    "headline": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger",
-    "valueBillions": 8.1,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Independence Realty Trust and Centerspace Agree to $8.1 Billion Merger WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNFZNRUJBOXkyWmJQS2NkMkJ5UzBmRFg4UDZLOUZWOEk2elViZ3pWdTdKUG5WTW5LVHI2c1RoNmdRZ0ZTWC15OV9TRnF1d3V6b3Y1MlpNZmc4dlh5T1FucTNqZEZlRlBvX2Rrb2NrdFVfckJKZ0p4am9KY1BFYWhBajNNVU5icnlRTEt0cm5GMzZ5M1hFSDZpaUtNalctQm85R1BUNG9yLWY5Q0xNZ29YTzI4cw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
