@@ -751,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-7625770dfebe",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T22:08:15+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Dominion, NextEra double bill credits for Virginians in expanded merger package",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WTVR.com",
+    "summary": "Dominion, NextEra double bill credits for Virginians in expanded merger package WTVR.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNLWNBNnlhR0Jlb1pxRFc0Q3c3eHNPTk14dFNhdWRTdGREMXMxVTZXUkM0bkxyczY0bkRSQXhKZnd3dmZ4QjRvMnRqUURrNXlZcDlJcUQ2aVFvY1E4OXR3b1BEbXhrUFJlLVo0TUZaSHVUbnQ5RFpWMks4MFFHYXhLWERKRmc0dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-7899bdae9bec",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T18:10:52+00:00",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Sazerac acquires Au Vodka for more than £300 million, source says reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -934,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOV092cS15Q3M4U0lFcEFkdUExN1hiTkZMNkJDLXF4TDRRdHlDeWcwQV9Cc1MxTy1odlFNb3JkZXdwQXZ4RGtXTG05eFc5WXAyT1FKOFkzWXpYUnd4V2JrYzFTbU5KSDJrTk5MTC00NmxobFBYNHJVSnVLdHJ5OVBVbmpCRVEtMU9DdTUtUW9yaVRSYjBGVk9NbXh2VEpTOTJ6Sm5XbFF4TktScldnZndRR0xsMExnZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-64aed522c541",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T13:59:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "NextEra Energy Reaffirms 2026 Guidance at Top End of Range as $67 Billion Dominion Merger Progresses",
-    "valueBillions": 67.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "NextEra Energy Reaffirms 2026 Guidance at Top End of Range as $67 Billion Dominion Merger Progresses WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQcjRwNXRlZ01uc1pyaUxFTGFUVFpQVFhlMHpZSERIQXpYcDF4TkYybHdyOFh6NjFzVzVqV0JEU0JwM3M2S0hlVEFpVnJkUGpyUjFmYVlPSTR5SE96QU8ycVRvZ3B1OFE2R1NCTENGVWR0Wk5JWEFVSHZOT1B2WURWQWtpZnlDN21RNDBkYVhRQnlzeV9WcHB2cEtxVVQxZWxpUzNrQVJVcldYcFVDbnRLcTFRdlFvdDZCcTJRdjBNbGVObW1VNlpxSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Saudi wealth fund weighs EA-Savvy merger, Bloomberg News reports reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
