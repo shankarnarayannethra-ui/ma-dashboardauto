@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-f3990cf91938",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T04:28:36+00:00",
+    "publishedISO": "2026-09-18T10:28:36+00:00",
     "acquirer": "Brookfield Agrees to $2.9 Billion",
     "target": "Australia’s Reliance",
     "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
@@ -78,7 +78,7 @@ window.generatedDeals = [
   {
     "id": "news-e8b30bd43c7f",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T23:49:29+00:00",
+    "publishedISO": "2026-09-17T21:24:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "US FCC approves foreign investment in Paramount Warner merger",
@@ -228,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-4337092d6100",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T19:07:00+00:00",
+    "publishedISO": "2026-09-17T19:13:53+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Softcat Acquires GDT In $1.05B ‘Enterprise Value’ Global Channel Blockbuster Deal",
@@ -259,6 +259,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNa1lUWWVvX2d0WFBtMER2UHd4UFMta2pLTklDdERWNjJBQW9XTW1uOUxaUFRTbHY1QUZVUVdXYjNZaHZaeXA4WFhkMzM5ME01TkYxS0xCdDlpLVdwd2g5Ti1nZDZRZzFWZmxJbklCSV9yUkp3TjlBUVVrMFRDbUNhLThsSzBSSlVpTC02ZWR2aDFoRlAzeElmdnRqZ1EtQTZ6S2pQZVA2UmNqNk4wZEM4U0ZSRkl0SUZjV1cwVnlR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-770db2051134",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T18:23:30+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Caesars says FTC seeks more information on Fertitta buyout",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Caesars says FTC seeks more information on Fertitta buyout Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTTcwUkpBX2ZadzZGQ3JoYXdLNzhFTmFlX0NNMXdCczlIYnpDeENaa0NRWExXdUpXTGZTeGZTeHNrbFhrMF90enVUa2NoQWVmb21FMlFxRk9vUzNnVFlTcFJtUzg5bFRYMTYwbUloTjBVZGxVcGVvemZrUlpjOFVxVHYxaWRKQ3JqSUJzZndfRHVfVElBNFZXLUNTTldSX3JmdnZDc0cxazgxRDNkalpqcg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,9 +451,84 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-498af5962867",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T17:06:03+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Cleveland Browns",
+    "summary": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy Cleveland Browns",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3VDWDNFSURHNlZMY2hRcWFRUFA3R2JFaU9jVnV4WUVBdXpMZGxJckVFbVktT3R2aDg1ZlBCaXR0OUVGYk5IaVpzVmpUS1FmU0lueXF6WC1qREdjWHg5MUJqQkxBazlaMG5qS2VuZzRsY3VMOGlLYUNTUENRRFdOQ2l6bTBMUXhkWG96NWVEXzVyRWM3Z204c1ZsakJGd25sQTNNZVZhVUpGWjJjd3JzQ2w4RTVTUTNnRkZTb3l3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-8d1a70eacdda",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T14:43:49+00:00",
+    "publishedISO": "2026-09-17T14:40:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
@@ -601,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-660ea18651b9",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T08:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGNiaTVtOVVnLTA2ang0Mld1RjJ0M1E0RWl2ZE1OSW1SMnhqc21hWF9BQ01qb0l3dVNycVhMUHZ2azJXQ2dnNnFPSlUtYkxGYnoteFppR2UxVzhYQ0RfNHhkd0tzdWhxUXFpdVBhZWJDTGt6YU1zUjlSWVpudG5yVXFrRFdrcVZrakttZGxRMWlEdm1MM3hCTVY5anZ2N0gxdHNCSkVzZXJBY0NJNDZFVGJfcGJGajJnc3RjV3dqMFpZaEYxQmZWbWdfQmFnY0RiM3A5bFUtWjdUQW5ZUTVB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-452261c2fea7",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T06:52:00+00:00",
@@ -709,81 +934,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEtYMVh1eHJZVEdqTGtOSXRaRTFPRFB6UHp6VHFRZWNScGRJYjludnkyWEZLLTZCTGJxQ2U5eUF3Zy0yRFl6Q01YbVJMcTdkSUlkRjBJRzV3cVR6WjNMeFFVU2pyZ0xwTDFIOF83TjF2UDVvbExtOG5qSzdYMGxhYXV5YXAwNkRNNm5McE9iYzRIMC1BVDZBQUNuTGlGWlhZb1hCOHBWcVJyWXNkV0ptckktVS1YMS1sOUlLV0hPSEsycjk2NlZaMndGa293dzcyMHNZ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c9918aabe69d",
-    "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T12:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp. PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQajRlbWs1enlIa3RJdHFyTUdqdVJBdFU4VWRjanJmU0RXT2hjaFpyTFVPNmlscTk0RDY1NWoxVE1uZDZDakdwaWdsdDAwbGc3amRfSTBMVlRQX01RTVMyU2hzRjVHZkNsYVZFRURTbUp6THZKaFktZkxXYkJzSGwycmZGdzE4a0kxTzE3LWNfb003TTV5UmhxdDFNVEZ1dTE3ck9nS2VDNldsbzU5VTNUdXVNYzhnNDdIVFQyM2RPWnRJaFM5OGNXaXF2dmNiNVY3RVBmRTh4Xy1BcEVvU0UxNy1XT1lvOHlRR3doU0NmOUs3b2h4azlxMDFsTnVYSUw4SEhmYlE4SkswQnhXcy0zRWVrQV9Ld3ppU3VuQXNHQTYwNC12NnBCVFlCT1p4aGxwVWFXLWhLYmlvN00yUkF5UmdvdUZzQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -939,6 +1089,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a42367a4fe16",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T18:57:51+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Space Force creates office to accelerate innovative tech acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "DefenseScoop",
+    "summary": "Space Force creates office to accelerate innovative tech acquisition DefenseScoop",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQUi0wcUNDX1VyR3hwRVBXUjgzS1h1bUZhM2tIaUdGT0h6S0I4Ykw2SW95VGJjR1pxZHgtN2VCS0ZLMW9BZ3FSazZrcVIwWms2NnFhODZ6S0F0d2FyanBDQlViWDBhaEQ0UnZiWVBjcW84X3ozZ1UxQ0ZEcXBNa3poRFFRczFZbWlNa0ZteVcxU3F6R0s3bzdjdjZINGgtNDg5bDgzVkFmbFI?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1726,81 +1951,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28bea00059da",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T09:47:48+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Euronext, Deutsche Boerse gain after CEO revives merger talk",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXIwX2NKcExaTDZlR3g3RzM0a3hOd09CUE5ITUlud1dnd2liQ05HbEhLb1RLZTRGRXVSaGxvTXRtejM3Wmo2eW1lekZjOFk5Vk4zbmYzRVBPaDRUYkx4RWNZY2FJb19fYmN1NWNxOGNKSWxWQ1pDN3FaRHBsOUMzcG1NbjR1eG1zN1RYZjhoU2VVOHRDODdiTjZVNGFyaFNPYTljdDlOTGx2T01Ed1lnb18xclVQdw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e19aa66a3435",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T05:02:42+00:00",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimAJBVV95cUxPaGEwbkdNSWVFNXZlY0xHa0lac1l5TC1IS2dGSGVlQ2RpWk1PckcwbXBJS0tpNjFSbzVjVmlrcFZ3M1FYdnFZS3J3V0xScm1NZklqdHFycXpPSFNtOGoxY2p6X29NQkZCaVMxT212ZFZfcFJEQnpHRldVQnpxVjkwTkl3bzNDNFVxdnB2ajJ1RTFqZVktd0RSdVk4cXduRnpxbTlUbHRMZkJ4V0JCbzJnTHg0WklGQWhDZDlwSVRfMmNWUDNxQTNDSUM0QmRBZjd6cjQxcjgyOW9XQjJqcjQ1WVMyTUpRYUcxdGFaYnFpY2lnUm0tNGRkNzBrMWdBbzlFbEtpNzA1NEl0dWxzZ2NCaEZBNlVIUUhq?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-93014808fe46",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T11:12:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Investor's Business Daily",
-    "summary": "In A SpaceX-Tesla Merger, Elon Musk May Be The Big Winner. What It May Mean For Other Investors. Investor's Business Daily",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVWlDMmg1T1RVMWxhQklIRWZZTFFWcmNTcy1sZ1dFdGJGVmlJU0xqalN1RFkzdURZZmZfVEctcldzd0hXRHhCTVp3N1MtQTFQeEJIM0EyWnFYR09YdVF2NE0tOHhneE9ETVNzN0cxVHpDcW9rbEZzU1B2MklzQ3I1X09DcDNURE96M1E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 11, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7f17cd28e8db",
-    "date": "September 11, 2026",
-    "publishedISO": "2026-09-11T10:33:35+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "MJBizDaily",
-    "summary": "What Curaleaf’s hostile takeover bid for Aurora Cannabis is really about MJBizDaily",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbV9ZOWJMeTIzOVdqcjFLLVhqZnhhZl9oSnU0al81Yi13M1AyQkNXVkV2SUdWX3VDdmdaczFyTGlXOWhjbDIwNm9HSUswRkhLM3E3ZXZFOEVqNGtKTzFtcWwxY0lfSFdDZzBkd1A2ZW1WVUFKdFNfMFFpQi1reUVWdVExaER0ekNJVEhVUTFHU1Z3UElpZHRjT2gzaVppTlRCeno5QThSV3RJQ1k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
