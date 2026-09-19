@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e1875faf1dd9",
+    "id": "news-6826a07e24ca",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T19:26:28+00:00",
+    "publishedISO": "2026-09-18T21:53:23+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Exclusive: Infillion acquires location data company Foursquare",
+    "headline": "School districts assigned to new merger discussion groups",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
+    "sourceName": "VTDigger",
+    "summary": "School districts assigned to new merger discussion groups VTDigger",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV1VGV2d0cXVNcWNCMEh2Z2t2Q1RZWERwSXdWMk5RZ0ZCLU5jd3ltSkhOX0ZYeXF6SHpzVHZnZDhiaDd0N2tJRElKX00wczdyYXNMaXdCLTFmaDg3dEY1OTc0eGlUVEpXTkZsaTRSZ25UZnRoZ0o0M0RMVnMyNFVVRWRHbkJDM09hX1FNUVJhTUQ2LXMy?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMHU2T0I1b3ZHZUZjUS1wdWlLYzRtNjZPYnhZMkpUWl8xX0F1Q2hkbHZHWXVhdDh0amhFcG0xQVJaQUtTSDE2VFVkNkw1OHZyQ3ZYUmZCYVdvNEdweF9JR1JmT2lqNThnSzVmd3hCbktZcFRWTjI0YkZzbHVoSUQ0bmZRWjZxeG50MkRVME5BNlNfcnhBSFZTSnNmWk9LQmttU0taQ1ZBRlpJM1NmcFlGVENQNG5JMWFMZjM1dW5yMFBzN3FqNkZUVQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-faf45538521b",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T16:31:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "4 Biotech Stocks to Watch as Potential Takeover Targets",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "4 Biotech Stocks to Watch as Potential Takeover Targets Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNODR5X0ItQl9tV0tmcmUxQVZsRjBUSWNxRGFWVlF6NFE3eFllWWExYUhuT3lxOHNzRDZRdFB4SmhKX0puZWtieHBkbUwxMTZaQUZ2NXhHTFdtVUJHaGtFVDZPcUd1bUNtb1RuRkZreEVkeWJDbDZ5NTBUeHdoZzdIbXUxSUZlU0tlLWp4STB4Tk5GU0c5R1pMdA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "US FCC approves foreign investment in Paramount Warner merger Reuters",
+    "sourceName": "reuters.com",
+    "summary": "US FCC approves foreign investment in Paramount Warner merger reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1051,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-660ea18651b9",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T08:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Guesty acquires Smily, deepening its investment in France's booming short-term rental market PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPeGNiaTVtOVVnLTA2ang0Mld1RjJ0M1E0RWl2ZE1OSW1SMnhqc21hWF9BQ01qb0l3dVNycVhMUHZ2azJXQ2dnNnFPSlUtYkxGYnoteFppR2UxVzhYQ0RfNHhkd0tzdWhxUXFpdVBhZWJDTGt6YU1zUjlSWVpudG5yVXFrRFdrcVZrakttZGxRMWlEdm1MM3hCTVY5anZ2N0gxdHNCSkVzZXJBY0NJNDZFVGJfcGJGajJnc3RjV3dqMFpZaEYxQmZWbWdfQmFnY0RiM3A5bFUtWjdUQW5ZUTVB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-452261c2fea7",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T06:52:00+00:00",
@@ -1065,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "UK watchdog probes AkzoNobel's $25 billion Axalta merger Reuters",
+    "sourceName": "reuters.com",
+    "summary": "UK watchdog probes AkzoNobel's $25 billion Axalta merger reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1201,13 +1351,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c5dbe6b42e57",
+    "id": "news-c9918aabe69d",
     "date": "September 16, 2026",
-    "publishedISO": "2026-09-16T07:39:48+00:00",
+    "publishedISO": "2026-09-16T12:30:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Australia's Reliance Worldwide agrees to Brookfield's $2.9 billion buyout bid",
-    "valueBillions": 2.9,
+    "headline": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp.",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Australia's Reliance Worldwide agrees to Brookfield's $2.9 billion buyout bid Reuters",
+    "sourceName": "PR Newswire",
+    "summary": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp. PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVJ5Sm5rVmVNMXJtZmVlTDJramtVWm1RZlpKOGpKYVFUMlBSRFFQeklaTnBMVklOZ0lQMGhxQkoyUGZ1ZDQ5Y2EwVFN4Tkt0VjU3aTlGc2NWLVR5Q21KVkpiNnpDS2R2VTFXeG9TV21oMTQxNGVFSGQtZDNLWWM5MTlwRGd0ZWpiN25aSTRxd3Uxek54cm12b1Jua2x2YTh5T3g3SThYZDVwUmV5Y1ZPUU91Rk82TkF6eEZVdDlQaWdNQWM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQajRlbWs1enlIa3RJdHFyTUdqdVJBdFU4VWRjanJmU0RXT2hjaFpyTFVPNmlscTk0RDY1NWoxVE1uZDZDakdwaWdsdDAwbGc3amRfSTBMVlRQX01RTVMyU2hzRjVHZkNsYVZFRURTbUp6THZKaFktZkxXYkJzSGwycmZGdzE4a0kxTzE3LWNfb003TTV5UmhxdDFNVEZ1dTE3ck9nS2VDNldsbzU5VTNUdXVNYzhnNDdIVFQyM2RPWnRJaFM5OGNXaXF2dmNiNVY3RVBmRTh4Xy1BcEVvU0UxNy1XT1lvOHlRR3doU0NmOUs3b2h4azlxMDFsTnVYSUw4SEhmYlE4SkswQnhXcy0zRWVrQV9Ld3ppU3VuQXNHQTYwNC12NnBCVFlCT1p4aGxwVWFXLWhLYmlvN00yUkF5UmdvdUZzQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1389,81 +1539,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-388cbab749a2",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T22:14:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Aurora police identify 6 suspects in August teen takeover; 2 teens arrested",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "cbsnews.com",
-    "summary": "Aurora police identify 6 suspects in August teen takeover; 2 teens arrested cbsnews.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQTW05bklwR05TSF9UQk5vZXNlT09ld2drZVUtNUdvc2U0V0RhWHZuRHdFRDF0OGg0alo0a2ZDb0FweFM4M1J6YlJ4UndQSV90M2pRbjB1by1YeGpQRmJOOU1yWEVhbHFPYS1sUmxuaENxeV9mTTZobnBkRUE3NTFBaDBLdjEyRnNVNnBPUWY0VUF1RlhuNm1UX3BJSENDZi1t?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1876,81 +1951,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-863922b6555c",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T13:04:08+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "HR Brew",
-    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ HR Brew",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5MnFRX2o2cTVnMUExV0dfLWFxVXBqV042bWJZX0ZrMGpjSjlzWUpDblpTOS1GRGxlbVZtd0tTaWJlWDBSenk1cTdtRmxJcktZX01tSFpqN1Zkb0FESzBFSmVZcTEwbUpYc0VYUjU3dGtza1k?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f03b45bba7a1",
     "date": "September 14, 2026",
     "publishedISO": "2026-09-14T11:06:31+00:00",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "FOX 2",
-    "summary": "St. Louis Police make multiple street takeover arrests FOX 2",
+    "sourceName": "fox2now.com",
+    "summary": "St. Louis Police make multiple street takeover arrests fox2now.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
