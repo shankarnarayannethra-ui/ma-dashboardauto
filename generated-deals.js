@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-f3990cf91938",
     "date": "September 19, 2026",
-    "publishedISO": "2026-09-19T02:58:36+00:00",
+    "publishedISO": "2026-09-19T04:28:36+00:00",
     "acquirer": "Brookfield Agrees to $2.9 Billion",
     "target": "Australia’s Reliance",
     "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
@@ -228,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-e1875faf1dd9",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T21:05:37+00:00",
+    "publishedISO": "2026-09-18T19:26:28+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Exclusive: Infillion acquires location data company Foursquare",
@@ -259,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-94c8e01a1ee0",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T20:12:57+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout - ABC News",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Breaking News, Latest News and Videos",
-    "summary": "FCC grants Paramount's indirect ownership request for Gulf funds in Warner Bros. Discovery buyout ABC News - Breaking News, Latest News and Videos",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeHBGbDVfcWNVVmM4TUFlVGNiT1pEMXBidmQ2anBSVlBpVHdjT0x1ZzAzTjk4eE54Wi11RmZpV3h6Qm5xNjBJUGQ0TmJnN2QzNEQzaU5XakNGR1drOEk1X3Izd1BJbUZMR2FZcEdLQXNNNmR4OGRyV2hJNDdZZUF2VGdSMUY2ekE3VUw1ZjA2d2daZmo4b3dxaW9ZaTdONHNBRE1xdDd1eFVxUkNB0gGyAUFVX3lxTE4zZkFMbmhuS3lhYi1rNzR0R3Qzbk1KVm4xQWVfTE5iWnY3WUVCOGoyX2tNVWpObmZsYUVPdFZCeFR1T1lzODgyemsySkYxOEFOWk9EaXU4MmVERldUd0N5VEVYQVBkNlppa3ZfY1ZoWHhlZnk1LUxDWGVmY1JnSzJ6R2Z4Q0thWFQ1RWZRblpYbGtnaEYzYTFwRGp3Z0RtUFp6UGJzdWtvLVlncVE2eW1pMGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -484,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUm1HYmQ3SmhkUzl4NUFGc0F1dElXeUdFVnZ5cS1QelpzNmt1ZEpwMGVfOXlzZkNqdmo0UXYzUHdPTkx0d2NXZjV5WVJBRVBOYmZ4Vzc5S2VkUlZxR2hTUEl1MXZaQ2Z1dGYycmZMWnhCVnJzbHFhTUJCdG5rY29kN2JVbmZUaERGMW8tVmdGaTBzbEZRRG9tUGNZZHAxNlF0VTlDc3pGeWxTdDd0d2s2THhpbDh2Zw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4e9d47fe76c0",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T10:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Commentary: A failed run club 'takeover' of Leimert Park shows what's at stake for Black L.A.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Commentary: A failed run club 'takeover' of Leimert Park shows what's at stake for Black L.A. Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNemlmU0ozSmFnbHc5NnlidUwxZkFCd1JxMlpNZzVlV01TakVta2RrUHh5eGVnQ1BZSGdaa01WQmxsak5KaUNsaGtTUUx4V1M5aUhuT2pRcU5YY3pTeEhpZm85ME9VdDAtbEVqSXVpSV9lQ3pJMVNheVJiVjl5d2lKbzJLc2huRXpjeV9ZT3pMX1VhQ01r?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,81 +751,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-498af5962867",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T17:06:03+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cleveland Browns",
-    "summary": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy Cleveland Browns",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3VDWDNFSURHNlZMY2hRcWFRUFA3R2JFaU9jVnV4WUVBdXpMZGxJckVFbVktT3R2aDg1ZlBCaXR0OUVGYk5IaVpzVmpUS1FmU0lueXF6WC1qREdjWHg5MUJqQkxBazlaMG5qS2VuZzRsY3VMOGlLYUNTUENRRFdOQ2l6bTBMUXhkWG96NWVEXzVyRWM3Z204c1ZsakJGd25sQTNNZVZhVUpGWjJjd3JzQ2w4RTVTUTNnRkZTb3l3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-8d1a70eacdda",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T14:40:00+00:00",
@@ -1051,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-50bc87c60e43",
+    "date": "September 17, 2026",
+    "publishedISO": "2026-09-17T14:39:22+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Bridging industry, acquisition: Inside Robins Air Force Base Small Business Office, contracting partnership",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "robins.af.mil",
+    "summary": "Bridging industry, acquisition: Inside Robins Air Force Base Small Business Office, contracting partnership robins.af.mil",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQ0Mwcm5sbHBNWHVMVnV5eWFVQWtFME0zMjBsXzBwOWliVklaNWgxdFh5bHduWEtSSzlpTlhlU2dLeHlmRVVKaUYxREN2NTFsMjNrdl91Slh4Zk90a1BBZG81bDlHUzA1aWllSWhhcU84WGN2VHZtZnJjS2ZoRVFFY01TR2RrM0kxa1RVQ2d6bHNaYUNpZEZZRHJ3NlZ3dDJLN0ExVmYtMThVSGgyTXl4NlRyZXZ5dG9LZktVRTdRbDkxVk9ZODI1c0NRWC1nWHRFMDlJanhnVUNHZEU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 17, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3c260bb87af5",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T14:00:44+00:00",
@@ -1065,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "North Immunology goes public via reverse merger as eczema drug heads toward clinic fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "North Immunology goes public via reverse merger as eczema drug heads toward clinic Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1309,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEtYMVh1eHJZVEdqTGtOSXRaRTFPRFB6UHp6VHFRZWNScGRJYjludnkyWEZLLTZCTGJxQ2U5eUF3Zy0yRFl6Q01YbVJMcTdkSUlkRjBJRzV3cVR6WjNMeFFVU2pyZ0xwTDFIOF83TjF2UDVvbExtOG5qSzdYMGxhYXV5YXAwNkRNNm5McE9iYzRIMC1BVDZBQUNuTGlGWlhZb1hCOHBWcVJyWXNkV0ptckktVS1YMS1sOUlLV0hPSEsycjk2NlZaMndGa293dzcyMHNZ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c5dbe6b42e57",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T07:39:48+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Australia's Reliance Worldwide agrees to Brookfield's $2.9 billion buyout bid",
+    "valueBillions": 2.9,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Australia's Reliance Worldwide agrees to Brookfield's $2.9 billion buyout bid Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNdVJ5Sm5rVmVNMXJtZmVlTDJramtVWm1RZlpKOGpKYVFUMlBSRFFQeklaTnBMVklOZ0lQMGhxQkoyUGZ1ZDQ5Y2EwVFN4Tkt0VjU3aTlGc2NWLVR5Q21KVkpiNnpDS2R2VTFXeG9TV21oMTQxNGVFSGQtZDNLWWM5MTlwRGd0ZWpiN25aSTRxd3Uxek54cm12b1Jua2x2YTh5T3g3SThYZDVwUmV5Y1ZPUU91Rk82TkF6eEZVdDlQaWdNQWM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "abc7ny.com",
-    "summary": "Four arrested after street takeover in Yaphank, Suffolk County abc7ny.com",
+    "sourceName": "ABC7 New York",
+    "summary": "Four arrested after street takeover in Yaphank, Suffolk County ABC7 New York",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "wbtv.com",
-    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says wbtv.com",
+    "sourceName": "WBTV",
+    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says WBTV",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1909,6 +1834,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMEtsa2VoZjBnYmNJU0JzVWtqNnE2N0lnRUhqUWM2X1l2VXNRXzYzWFh3SVpSS1lzcUp1WjdXdzY2ZGRuV3FZZkxJQ2tGcmJJLTJhLU5qT0R6d1BZcFdaRzR0dTlDcVNqalZRRWN1WWFqbzItM3h6MzVLa3k2dlM1YzVZNlkxNTh0a1poVkpPaWJBUDA3QVZSODFLSjI5Z3Zsbm5ETUw0VGQwM21jakFj?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-863922b6555c",
+    "date": "September 14, 2026",
+    "publishedISO": "2026-09-14T13:04:08+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "HR Brew",
+    "summary": "Wellthy acquires Cleo in bid to become ‘singular platform for family care’ HR Brew",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTFB5MnFRX2o2cTVnMUExV0dfLWFxVXBqV042bWJZX0ZrMGpjSjlzWUpDblpTOS1GRGxlbVZtd0tTaWJlWDBSenk1cTdtRmxJcktZX01tSFpqN1Zkb0FESzBFSmVZcTEwbUpYc0VYUjU3dGtza1k?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
