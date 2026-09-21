@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-f3990cf91938",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T02:58:40+00:00",
-    "acquirer": "Brookfield Agrees to $2.9 Billion",
-    "target": "Australia’s Reliance",
-    "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-    "valueBillions": 2.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEZaU1pxLVhJbjBlbjFjRFJQbWZtb2pmbVItNDVBTzBiaU1sc0RXd3FndVF0R3B2YXFJS2dpclExU2ZnazRfeEhQVVZYVTRsQi1xTHVYc1FjZ3VpMnBjUXZwZ3lTVEg5dXN2Vlp3eVBXOEcyWXpsNzN1NC12WW4xYUtDbHk5X1NKNVU5bFA0WU1GeXQyZ2ZyalFocnhSRVVhTThIdVJiSWRnMnRJMFNYMw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-620bd49f1f77",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T02:20:00+00:00",
@@ -165,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Opposition grows to Paramount-Warner Bros. merger settlement as deal enters critical week Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ded8f3c5e6d4",
+    "date": "September 20, 2026",
+    "publishedISO": "2026-09-20T14:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Settlement Talks With State AGs Reach Critical Stage as Merger Opponents Rally and Urge Rob Bonta ‘Do Not Cave’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount Settlement Talks With State AGs Reach Critical Stage as Merger Opponents Rally and Urge Rob Bonta ‘Do Not Cave’ Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3l1OHByREdmc25DVF9aQ0Q1UmdfNmhyX3BINXNDb3VpVG9RT1dMc1ZZbnFMcUdpV1hHUk9XXy1icDVEd3ZTem05UXJDdlF1cWlTMElDbzg2SWg4d2xxaGdOT1ZjSzVsMUFnTE54djVWMS1ybEY3Wk5hbElNX0JicUlsSVJEYUMzWGRSeUN1NXlQekJMb3RyYlpEa1BYcFdVUXIzYTNsOU0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3f02650f2716",
     "date": "September 19, 2026",
     "publishedISO": "2026-09-19T22:47:54+00:00",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount-California settlement talks accelerate, moving Warner Bros. merger closer to the finish line Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -901,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-871061c4d1bc",
+    "id": "news-a5c6f45a6b63",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T19:08:34+00:00",
+    "publishedISO": "2026-09-18T17:59:31+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "FedEx, Advent-led consortium secures over 89% of InPost shares in takeover offer",
+    "headline": "France's CNP Assurances considers takeover of Coface, Bloomberg News reports",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -916,7 +916,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "FedEx, Advent-led consortium secures over 89% of InPost shares in takeover offer Reuters",
+    "summary": "France's CNP Assurances considers takeover of Coface, Bloomberg News reports Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN000U1pFWGQ1dGNTZVRPdnpxc1NNb0hrQlNtODVEajU3djVZU1R0dzZ0ZzNIQ0prZnR3Y3pnZjZwV2JzLUxqVU9tZGtvM3M2RllIUkRZM1JhQnpyVnc2TFUtQUFxblJ1dmFLSGdRc1EtS2ZWcnBTSDFxMjJfTHB2cUtKdTZoaTVpRElZRlRJZkhuUjl5SmVZTDJNazdnSUhpQVU2a3FDSW5weFRSbzVGa2dXV2l3aHdD?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOT2NOZ09nWFFnM1VVcnoyY2NBaTk0TlZGQ2JtMjZreTl4RFprMHRNZGhwUU80M2RabVhFTGZlMFBJSmtoemJrSUd0c3otOTgzaU90MEZ4TkxMUnNwWWR4WEh6bHFTU0owSURiZUNUakdMUXhGT2J2VnpkbDlZSHVPSVhqSl9USGE2MmttM0llSWpZUTk3XzVVSVliaUpvVm9HWjBvS21Za0hFSVZaQV9Sd3F5dTY5bEhyendLMXN1UWhpdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -990,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "4 Biotech Stocks to Watch as Potential Takeover Targets Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "4 Biotech Stocks to Watch as Potential Takeover Targets finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,156 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4b9e263bf8b5",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T18:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Ideastream Public Media, PBS Western Reserve announce merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Ideastream",
-    "summary": "Ideastream Public Media, PBS Western Reserve announce merger Ideastream",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPMmEyMGR5V0xQd1pxUVY5RFk5NmhkbVJMUS13V2hXVDB0bjdFaHVSMHBheFBLd0VVNjZ5NFdrV25rc2RTRVcxUXNLTk1hakJCcW00Z1E4U1ozWk1oZXNvd0d3c1YyNFZQX09kbjNTYmdJOHR2X3dZSE5hSzEyQ2t1YXBsbDJKQi0xY3k5VkhCRmlzS3VvM2ozNnd6STM3TmkyN01OUHc4dG5ESnc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-498af5962867",
-    "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T17:06:03+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cleveland Browns",
-    "summary": "Browns host 1st Gym Class Takeover of 2026 fall semester at Lorain Bilingual Academy Cleveland Browns",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOS3VDWDNFSURHNlZMY2hRcWFRUFA3R2JFaU9jVnV4WUVBdXpMZGxJckVFbVktT3R2aDg1ZlBCaXR0OUVGYk5IaVpzVmpUS1FmU0lueXF6WC1qREdjWHg5MUJqQkxBazlaMG5qS2VuZzRsY3VMOGlLYUNTUENRRFdOQ2l6bTBMUXhkWG96NWVEXzVyRWM3Z204c1ZsakJGd25sQTNNZVZhVUpGWjJjd3JzQ2w4RTVTUTNnRkZTb3l3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 17, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-8d1a70eacdda",
     "date": "September 17, 2026",
     "publishedISO": "2026-09-17T14:40:00+00:00",
@@ -1740,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "latimes.com",
-    "summary": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks latimes.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount, Atty. Gen. Bonta ordered to meet for merger settlement talks Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1759,6 +1609,156 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNZEtYMVh1eHJZVEdqTGtOSXRaRTFPRFB6UHp6VHFRZWNScGRJYjludnkyWEZLLTZCTGJxQ2U5eUF3Zy0yRFl6Q01YbVJMcTdkSUlkRjBJRzV3cVR6WjNMeFFVU2pyZ0xwTDFIOF83TjF2UDVvbExtOG5qSzdYMGxhYXV5YXAwNkRNNm5McE9iYzRIMC1BVDZBQUNuTGlGWlhZb1hCOHBWcVJyWXNkV0ptckktVS1YMS1sOUlLV0hPSEsycjk2NlZaMndGa293dzcyMHNZ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c9918aabe69d",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T12:30:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "May Mobility to Become the First U.S. Publicly Listed Pure-Play Autonomous Ride-Hail Technology Company Through a Business Combination with ACP Holdings Acquisition Corp. PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgJBVV95cUxQajRlbWs1enlIa3RJdHFyTUdqdVJBdFU4VWRjanJmU0RXT2hjaFpyTFVPNmlscTk0RDY1NWoxVE1uZDZDakdwaWdsdDAwbGc3amRfSTBMVlRQX01RTVMyU2hzRjVHZkNsYVZFRURTbUp6THZKaFktZkxXYkJzSGwycmZGdzE4a0kxTzE3LWNfb003TTV5UmhxdDFNVEZ1dTE3ck9nS2VDNldsbzU5VTNUdXVNYzhnNDdIVFQyM2RPWnRJaFM5OGNXaXF2dmNiNVY3RVBmRTh4Xy1BcEVvU0UxNy1XT1lvOHlRR3doU0NmOUs3b2h4azlxMDFsTnVYSUw4SEhmYlE4SkswQnhXcy0zRWVrQV9Ld3ppU3VuQXNHQTYwNC12NnBCVFlCT1p4aGxwVWFXLWhLYmlvN00yUkF5UmdvdUZzQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f3990cf91938",
+    "date": "September 16, 2026",
+    "publishedISO": "2026-09-16T08:23:00+00:00",
+    "acquirer": "Brookfield Agrees to $2.9 Billion",
+    "target": "Australia’s Reliance",
+    "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
+    "valueBillions": 2.9,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEZaU1pxLVhJbjBlbjFjRFJQbWZtb2pmbVItNDVBTzBiaU1sc0RXd3FndVF0R3B2YXFJS2dpclExU2ZnazRfeEhQVVZYVTRsQi1xTHVYc1FjZ3VpMnBjUXZwZ3lTVEg5dXN2Vlp3eVBXOEcyWXpsNzN1NC12WW4xYUtDbHk5X1NKNVU5bFA0WU1GeXQyZ2ZyalFocnhSRVVhTThIdVJiSWRnMnRJMFNYMw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c17062e1f9d9",
-    "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T21:31:00+00:00",
+    "id": "news-6a35ff5af4d3",
+    "date": "September 15, 2026",
+    "publishedISO": "2026-09-15T13:50:29+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs",
+    "headline": "Musk hints (again) at possible SpaceX, Tesla merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "AP News",
-    "summary": "Energy giants seeking to merge say they'll extend Virginia residents' bill credits and add jobs AP News",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Musk hints (again) at possible SpaceX, Tesla merger finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,12 +1983,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPdkxReGxWMHVDYnBaTlg5V1JXaTRrUXBPSnlWZ2ExYUZHWnNFNkZDV3Y2cE53NGM2VnN1bmFERy01NlNqaVl6aUNTYlgzbHNRenEzeDdDdU5IV3dKU3lPdXpoa19lenMxOFpMT3B5amZyaHJmSDhFRUZkMm9wWkdlQk1BTmxSVl9jZklBR1BlRXZtVFRDUnM1MUV1aWxaMzk5cmJ5OVpJU1V1WG53d1RNMXR3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPUkNXbXBxQU9BdU43UTRHNVF0WjJUVTBrUGFIeURUbTU1VVVqQ3U2YkRQQ1VyWHdUdlRvTmU2NkhsbGUtZDZWeER6bWgyYkpIY2hmVVhUVE13ZmQ0bWxsaC03M0VHOVR5alBwb043SWl4dkFkMmhjV1JKcUlaWTlzSV9NcXcyRjdKWmRVbzF5dGV2eklMNk1kc0ZRZDlHTlpDWW5CLW9hQzkzT25KVWJXNGhB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 14, 2026"
+        "date": "Sep 15, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28bea00059da",
+    "id": "news-c3734c140b47",
     "date": "September 14, 2026",
-    "publishedISO": "2026-09-14T09:47:48+00:00",
+    "publishedISO": "2026-09-14T13:18:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Euronext, Deutsche Boerse gain after CEO revives merger talk",
+    "headline": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Euronext, Deutsche Boerse gain after CEO revives merger talk Reuters",
+    "sourceName": "WBTV",
+    "summary": "Man shot during street takeover in Charlotte’s Ballantyne area, police report says WBTV",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNWXIwX2NKcExaTDZlR3g3RzM0a3hOd09CUE5ITUlud1dnd2liQ05HbEhLb1RLZTRGRXVSaGxvTXRtejM3Wmo2eW1lekZjOFk5Vk4zbmYzRVBPaDRUYkx4RWNZY2FJb19fYmN1NWNxOGNKSWxWQ1pDN3FaRHBsOUMzcG1NbjR1eG1zN1RYZjhoU2VVOHRDODdiTjZVNGFyaFNPYTljdDlOTGx2T01Ed1lnb18xclVQdw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNMEtsa2VoZjBnYmNJU0JzVWtqNnE2N0lnRUhqUWM2X1l2VXNRXzYzWFh3SVpSS1lzcUp1WjdXdzY2ZGRuV3FZZkxJQ2tGcmJJLTJhLU5qT0R6d1BZcFdaRzR0dTlDcVNqalZRRWN1WWFqbzItM3h6MzVLa3k2dlM1YzVZNlkxNTh0a1poVkpPaWJBUDA3QVZSODFLSjI5Z3Zsbm5ETUw0VGQwM21jakFj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
