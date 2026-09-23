@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-f3990cf91938",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T19:58:54+00:00",
-    "acquirer": "Brookfield Agrees to $2.9 Billion",
-    "target": "Australia’s Reliance",
-    "headline": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance",
-    "valueBillions": 2.9,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Brookfield Agrees to $2.9 Billion Acquisition of Australia’s Reliance WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOZEZaU1pxLVhJbjBlbjFjRFJQbWZtb2pmbVItNDVBTzBiaU1sc0RXd3FndVF0R3B2YXFJS2dpclExU2ZnazRfeEhQVVZYVTRsQi1xTHVYc1FjZ3VpMnBjUXZwZ3lTVEg5dXN2Vlp3eVBXOEcyWXpsNzN1NC12WW4xYUtDbHk5X1NKNVU5bFA0WU1GeXQyZ2ZyalFocnhSRVVhTThIdVJiSWRnMnRJMFNYMw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-f8e8e2ea730a",
     "date": "September 22, 2026",
     "publishedISO": "2026-09-22T07:55:00+00:00",
@@ -601,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a01de53e78d1",
+    "id": "news-06554efba922",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T17:22:36+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "State attorneys general agree to settle Paramount merger lawsuit, sources say",
+    "headline": "State attorneys general agree to settle Paramount merger lawsuit | CNN Business",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -616,7 +541,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNN",
-    "summary": "State attorneys general agree to settle Paramount merger lawsuit, sources say CNN",
+    "summary": "State attorneys general agree to settle Paramount merger lawsuit | CNN Business CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHRIaDJEcEVVT0JQZlpfc3pac0pXQXpsbDRYSWEyTFVqSl9aQlp6QlJtSXk2UUs0R21PMHFnMy0tc1ZpYWVYU1hhUVYwWVNMaHRLMUVlR01Jai1ZSWpRbXJ4RXJzcWNCSGJmX0JaR2xJdl9Wa01qOEgwV0pGS1FtbC1mNEUxX0NrSkE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE1valFKck4wV3QySzNndE9Kby1vTWdnWkQyLXZtX2FJS3pvOGdLRThIX2JFOFZhYlVsaEtTanV0d09mempuTDg1VldxTFpvQnVENm9XU0F6N0ZleXZ1b0FpbmJiRzJZWE9NRXBaOUdqUXFybzJkOWdQaGZCZHBkbkhzdld1VUUwejR6ZWhmYTg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-bf5d6703acaf",
+    "id": "news-a01de53e78d1",
     "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T16:58:35+00:00",
+    "publishedISO": "2026-09-21T17:22:36+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "State attorneys general agree to settle Paramount merger lawsuit",
+    "headline": "State attorneys general agree to settle Paramount merger lawsuit, sources say",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -691,7 +616,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "CNN",
-    "summary": "State attorneys general agree to settle Paramount merger lawsuit CNN",
+    "summary": "State attorneys general agree to settle Paramount merger lawsuit, sources say CNN",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQVE1valFKck4wV3QySzNndE9Kby1vTWdnWkQyLXZtX2FJS3pvOGdLRThIX2JFOFZhYlVsaEtTanV0d09mempuTDg1VldxTFpvQnVENm9XU0F6N0ZleXZ1b0FpbmJiRzJZWE9NRXBaOUdqUXFybzJkOWdQaGZCZHBkbkhzdld1VUUwejR6ZWhmYTg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPOHRIaDJEcEVVT0JQZlpfc3pac0pXQXpsbDRYSWEyTFVqSl9aQlp6QlJtSXk2UUs0R21PMHFnMy0tc1ZpYWVYU1hhUVYwWVNMaHRLMUVlR01Jai1ZSWpRbXJ4RXJzcWNCSGJmX0JaR2xJdl9Wa01qOEgwV0pGS1FtbC1mNEUxX0NrSkE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -859,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPa0x1aDd0RXFobHhLMktiOTFibFZOdjdRVUlkWjdzdXFrZlNpeGV5dmRDaGp4SG14X2IyN3paN081SFZMZkg1d2NmRWRpck56YUNielFMVU40Y2pfdG9YakFFalg2V1c2U1lkeTRNTzhnOGVlc0t3SWUyQlF1Z2MtMUo3d2J4OF82MW5RRUpGelZyaHR1eHRCbXpZQlh1TW1vRGRMUzBFYTlyWDRHbnZiMVc4Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9293ea3239e6",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T14:58:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Railway Age",
+    "summary": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application Railway Age",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQMkhoakxPeE4waWRMTlVkY2tHbmZvRlpFMTR3Z3BjSFRvVEt5UEttOXR2SXA2UTJBd3BfTURGdVd3VFFUd0duNHFVMUwwNW8yZ3NjbkxUT1EtcmFxaFl6U0t5alZYSjFrOXVMc3JDcUh4X2RKNlZSZjNjUm9sU0x5em9YLWppcXhSR2p4d0d3Q3pkeTZoQlhZLWt3dHdvOUw5UWpzNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.microchip.com",
-    "summary": "Microchip Technology Completes Acquisition of Hailo ir.microchip.com",
+    "sourceName": "Microchip Technology",
+    "summary": "Microchip Technology Completes Acquisition of Hailo Microchip Technology",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen reuters.com",
+    "sourceName": "Reuters",
+    "summary": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports reuters.com",
+    "sourceName": "Reuters",
+    "summary": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "reuters.com",
-    "summary": "US FCC approves foreign investment in Paramount Warner merger reuters.com",
+    "sourceName": "Reuters",
+    "summary": "US FCC approves foreign investment in Paramount Warner merger Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2028,7 +2028,7 @@ window.generatedDeals = [
   {
     "id": "news-8d1a70eacdda",
     "date": "September 17, 2026",
-    "publishedISO": "2026-09-17T14:40:00+00:00",
+    "publishedISO": "2026-09-17T14:43:49+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "FTC Requests Additional Information Regarding Fertitta, Caesars Merger",
