@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-4af212f33602",
+    "id": "news-87b81d28916b",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T16:27:17+00:00",
+    "publishedISO": "2026-09-23T18:43:59+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
-    "valueBillions": null,
+    "headline": "Caesars stockholders approve $6 billion merger with Fertitta - ABC News",
+    "valueBillions": 6.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks WSJ",
+    "sourceName": "Breaking News, Latest News and Videos",
+    "summary": "Caesars stockholders approve $6 billion merger with Fertitta ABC News - Breaking News, Latest News and Videos",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVU5CY1F3TVNEZlNlX1VLcy1IRmx1ZG81N09jMzIyb0RSM18xendSM1Y5Ry0yNHJzVndlVm05aW52bC1xLXNTRFlQOFNaZ1lVeng4UWxLcnRpbjMyV2NUQW9BdlBUQ0ZYNndKMVlVT0l2bVN6azl2Q3FtRnYzeG9Odm1RM3lfNzAzZWZIVXRpeGtHZkc0WlU3ZG1MZVBwVTliVXBiMmJDZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQNHdpLWdUQ01HckdXSmp1VjJoR0FVakI3NlZIeUpWbERVQzZkWElIQ19HdmJ1Rl83blN6S3FxR0hJYnNobnJZVHVVREJwREx5VkdlX3NTSjRRVkZlNUNmOXN6WWltQWJwaHBSVm9LTjlvMExMNWFpOUswM1lXTVA5ck5ERGcteTBwN1czMmFWUGZBRmtzWWJIMlJwLVVKSE5VYVk2elhR0gGrAUFVX3lxTE9sNFVoUTNoZkRGTlRCSnl4UWlxSko2VFBtbEdlbzh6aXdQRXpiOWgtT0w2YlVjaU9BRWFad2doVG9PUnpTcFNxbjl4azhNQmpSRE8zejFqd0c0d1pTcUJWTDRReUhBelowa1JNeWRaendkNFk5QXJKMmZ6ak5yLTBwMkRkZ3RHbkYtQ2VINm9mQ3Q4MjhrcVMzckw2MDdUWnVZYlRtMlZQOVNyOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -114,6 +114,156 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a3e2fce23479",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T22:40:32+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "What the Paramount-Warner Bros. merger settlement means for Hollywood",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "pbs.org",
+    "summary": "What the Paramount-Warner Bros. merger settlement means for Hollywood pbs.org",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNeW5RUk8tWVdGVHBXM0g3d2tvVmZ0eTk0SkZTV1hnMkRmNXA2dHJQXzY5aXUzY1JJWDl0bDkxQjc3am9NRnFZOVBNZ0NnU2dHUDhlcy11eGw0YkQ5Uk9mY0ttdEZYdUF6S29mb3FPQVB5VVdJZkRmQnR1TVFWa0RGdEtlVndudkszR2ljalZmTDcyOTNISUZ5Mkk3dkNRclBfajgtNw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b842456783f4",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T18:42:18+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "WakeMed, Atrium Health | Gov. Josh Stein won't oppose NC's largest healthy care system to merge with Raleigh based system",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC11 News",
+    "summary": "WakeMed, Atrium Health | Gov. Josh Stein won't oppose NC's largest healthy care system to merge with Raleigh based system ABC11 News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckdVVzZLVFFNbWJRVFhhX1N0WlFFS2RwRXhNZVp6QXdVWHVUb196TjlRVFlMTnloYnJpYXhiRUhaeE5hLWQ4eUdPS1J3T3dTcmNvZmFHLV9pUUlNYTZyOGEySHc1RVBjOU8xbGNwQjZBN0RTbGcxQlNZZzFSM3B4TXliSVoydE16bV9qeERqNFJhMl9fZ1hHNjRIVjZSaWZZbjRndWZxNFhhX2hvWmQ0UndIZ0xjWURaLWtUTlNodmt2cmF3eVFZ0gHMAUFVX3lxTE5UaHZyNG1laXFvWS11WU5DN3BrcndHaGE2TWN1LVNrTEhjZTNnd2otNnY5WDFEY3JBd2gybm1PeTZqamQzN0U3Q2NGOVVraWM1eEsyYzE1eEU1MHFaMzhobE1mMXRIN20xMUFldmNmdm1YMjZQTXA0VWQ3UHVsZ21iZ05KTkZWR0dmV19fM05ZWk9pc245b1B2emU2anNOMDc5R2xJeUxlVkJ1RVBiUzlmYzBiX3ExME9DQ01EMExFMHZTT3FqSkxRVWx2dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PBS",
-    "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal PBS",
+    "sourceName": "pbs.org",
+    "summary": "States settle lawsuit over Paramount-Warner merger, clearing key hurdle for $81 billion deal pbs.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-00d59c2bf120",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T19:34:47+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-3ff8d62f1266",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T18:14:00+00:00",
@@ -540,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "theguardian.com",
-    "summary": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger theguardian.com",
+    "sourceName": "The Guardian",
+    "summary": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger The Guardian",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Railway Age",
-    "summary": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application Railway Age",
+    "sourceName": "railwayage.com",
+    "summary": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application railwayage.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1051,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-00d59c2bf120",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T14:49:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount wins Warner Bros takeover after settling states, union lawsuits",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPenhoaTR3UW55VHltMmhpTEhhZmNHN0FJQ0VNSTBzLUVlVXozLTVSc012RlNUZG5tbk1NVXBqOXhmVU9wN2N4V0Q2ZWY1OW9HSXFVLVZjSG8tYnlhcXRxcGhOajR2SVh6TEZSM1k0QnZpam53bnAzd0Q1Q2s2N1VxanJnWk9zdWRTZkxiekJ4LWtkTzA5VFFmMzA0SU0tVzFBX3RzZHBPN1FFZWhxYmE2ODIzLVAyY0JBa0dkSVlxU1hpUnFpUzZvREJWeHRPUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-47788aaa2bc1",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T13:03:35+00:00",
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1576,156 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-417533d2f644",
-    "date": "September 19, 2026",
-    "publishedISO": "2026-09-19T02:33:53+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajlVNlIzZFZZYU5hT0hoMUpIcGNjMlNubDFvNXo1eHRtUWYtRU12d2s0ZzFOdmtabDRsM1JwUGthbk1pN2g1a3dVRkdncEVrd1RUbFh4dENOLWNFMDR3NW1vVTZNbmJ4V3FKWmZiY2dYRTEwWWxVdHdjVnNSWDFRZ2xiUnl5a1Rh?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e1875faf1dd9",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T23:50:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive: Infillion acquires location data company Foursquare",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6826a07e24ca",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T21:53:23+00:00",
@@ -1801,13 +1801,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8a06d2a509dd",
+    "id": "news-871061c4d1bc",
     "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T17:35:00+00:00",
-    "acquirer": "Space hardware startup plans $125M stock offering",
-    "target": "Nasdaq listing through shell company",
-    "headline": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger",
-    "valueBillions": 0.125,
+    "publishedISO": "2026-09-18T19:08:34+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "FedEx, Advent-led consortium secures over 89% of InPost shares in takeover offer",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger GeekWire",
+    "sourceName": "Reuters",
+    "summary": "FedEx, Advent-led consortium secures over 89% of InPost shares in takeover offer Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1833,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51TVhRbUR0ODByNWFQVUJWdGR5YlRGUUp3eVNKbi1mQjh5Mkplb0thRXRXQndnZUhmN2ItSERIWFVZR0xybWdBbUdtUlZsNG5KSnM1eEZUbHZ0dXIyWjR5Qk91TXdteTR2Z3JQN1dKeHZFQUpSVmNsZg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNN000U1pFWGQ1dGNTZVRPdnpxc1NNb0hrQlNtODVEajU3djVZU1R0dzZ0ZzNIQ0prZnR3Y3pnZjZwV2JzLUxqVU9tZGtvM3M2RllIUkRZM1JhQnpyVnc2TFUtQUFxblJ1dmFLSGdRc1EtS2ZWcnBTSDFxMjJfTHB2cUtKdTZoaTVpRElZRlRJZkhuUjl5SmVZTDJNazdnSUhpQVU2a3FDSW5weFRSbzVGa2dXV2l3aHdD?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "After one failed acquisition attempt, Lisata finds lifeline in Marea merger Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "North Immunology goes public via reverse merger as eczema drug heads toward clinic fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "North Immunology goes public via reverse merger as eczema drug heads toward clinic Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
