@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ir.ondas.com",
-    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform ir.ondas.com",
+    "sourceName": "Ondas Holdings",
+    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform Ondas Holdings",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -301,12 +301,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6b4830cfcfe5",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T11:58:00+00:00",
+    "id": "news-28c3c0d5a04b",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T04:10:54+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer",
+    "headline": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer WSJ",
+    "sourceName": "ABC11 News",
+    "summary": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal ABC11 News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,12 +333,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzJvZS1CdFRKc3pMdi1rNjQwNjlJRm9ZWmxSNkRpODZFU0FQUDJTUDFWb2owd29EVzhMdTYycDZlRHMtUlJ2M2s4dGYxa21Ydm1sUzFjTVY0azY5RE4tSU50eGFnVGtPQkpFZzYybnd4RXctX1N4MVpqcWtDdkk3NWQ1c0N5SXFidjdCeVd5cjg4bEpxeHFVZDQ2Mm9XaGNwTFRtNURaX1pqUFJXeGc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGhBTXZ3TUlkX1ZpVjh2QWYwanlsOGhYTHFkcm9VOE5WbFp3NzU0WXJidHBhQVI0MDRQeWFVaXZBbzlQNXVkYzNNNU50YWJCX1JKbGItSi0xdjBYcnlnb21ERzJKU0d6S0R5MWtHcHJUUU51Sy1HbGFON2dTMjlCRXgwdDNGMEVGYndHcUVxbVZuaVhvQTc2YVN2bk9XU0szb2dLLWxENTVrZDZOSEVrOE9tdUdzdTR3d3pyZU5yWW4tNjZ3MU5LYXRXUdIB0AFBVV95cUxPS3FHRmZxVmZDZy1hQ3JwQnBueG9hNWtXVzRPOFE5Zk9fRU9nQlg4TDE4SnVIWGdGOXVud2dYejR2akJYQjdYVFBVaGJaMUJMUVV4YjBVWG5sN2dwdk5jSjJDajlCeHQwb3BhbUtKbWZhZzBTa2ZyV25oakVEaEI0Ni1fMzdKNEItUXFWV0gyek94ZTlLN0hvYnVVSHoxWmNMSjIyTG9XbGZkQTNhTzFRQTNfVkE0M2F2RzE0dWhybWZKZXRQNkRJaWtMNVhLSTJX?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 23, 2026"
+        "date": "Sep 22, 2026"
       },
       {
         "stage": "Terms verified",
@@ -376,12 +376,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-28c3c0d5a04b",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T04:10:54+00:00",
+    "id": "news-6d3de6f05538",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T23:41:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal",
+    "headline": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "abc11.com",
-    "summary": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal abc11.com",
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,12 +408,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNdGhBTXZ3TUlkX1ZpVjh2QWYwanlsOGhYTHFkcm9VOE5WbFp3NzU0WXJidHBhQVI0MDRQeWFVaXZBbzlQNXVkYzNNNU50YWJCX1JKbGItSi0xdjBYcnlnb21ERzJKU0d6S0R5MWtHcHJUUU51Sy1HbGFON2dTMjlCRXgwdDNGMEVGYndHcUVxbVZuaVhvQTc2YVN2bk9XU0szb2dLLWxENTVrZDZOSEVrOE9tdUdzdTR3d3pyZU5yWW4tNjZ3MU5LYXRXUdIB0AFBVV95cUxPS3FHRmZxVmZDZy1hQ3JwQnBueG9hNWtXVzRPOFE5Zk9fRU9nQlg4TDE4SnVIWGdGOXVud2dYejR2akJYQjdYVFBVaGJaMUJMUVV4YjBVWG5sN2dwdk5jSjJDajlCeHQwb3BhbUtKbWZhZzBTa2ZyV25oakVEaEI0Ni1fMzdKNEItUXFWV0gyek94ZTlLN0hvYnVVSHoxWmNMSjIyTG9XbGZkQTNhTzFRQTNfVkE0M2F2RzE0dWhybWZKZXRQNkRJaWtMNVhLSTJX?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnhnVmVRNFhKcjN4aDU5eGNlal9rRF8xYWJTOGJRdEM1Ukx1MmlXUGpRc29XaDBJSHJ4VGN0bFFKV3h0SGpNcTdkNkVmRW9tQURlb3hNNDVybndpN1V0ZWpEcEZQMl9vSWxsbGRUVDZXc2hKZ01IMlktZHMzbkwyOS1adXozaUk0RzZONDUzMGZYOGZ0Q0p6b1Jxbk1Bdkk3ZDNlcnVjUHA5Z3k1U2FwVFB5TVotb0xGTDVGSjZUc3F3bVFabzdKQkxOcGg2UDNPT3VJcHF3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 22, 2026"
+        "date": "Sep 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Warner Bros, Paramount rise on report California settlement talks could clear merger hurdle Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Warner Bros, Paramount rise on report California settlement talks could clear merger hurdle reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -901,81 +901,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4ee36d95a448",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T15:36:24+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVZVUk4ZDlrZ1BXNXNubFFLRmd2WVFpa3luOHREeS1fV2lhOVA1amtGOFVQYV9tQjVyT0VFUUVCZjdualhPRi15REFaVVBTdzRJSXViTFo1ZEVXeHQwTmh0bFBVaHl2R1lkTFllTkt5SVhfTUZPTEZuYmIxUDJ1cmx0dlY5UThBeG1mU3BQNmNfRXFXaHZEcW1adjRseWNmSlBOYWpwSkhFbEtMLUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-758e1c9cb42a",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T15:03:28+00:00",
@@ -1215,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Paramount, Warner Bros. shares rally on report of merger settlement agreement Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "Paramount, Warner Bros. shares rally on report of merger settlement agreement finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1290,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Paramount wins Warner Bros takeover after settling states, union lawsuits reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Microchip Technology",
-    "summary": "Microchip Technology Completes Acquisition of Hailo Microchip Technology",
+    "sourceName": "ir.microchip.com",
+    "summary": "Microchip Technology Completes Acquisition of Hailo ir.microchip.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercebiotech.com",
-    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition fiercebiotech.com",
+    "sourceName": "Fierce Biotech",
+    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition Fierce Biotech",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen Reuters",
+    "sourceName": "reuters.com",
+    "summary": "US spirits maker Sazerac launches takeover bid for Germany's Berentzen reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1684,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2hTOGc0WEFsM0hETjBNa3RNVjUtTC1ON3c4dm1RWDIyTVZxZmR0anNfWGxqS2IwTlRxXzdGUW5aRmc1LVFuTzlaN05Dbzltd1BFR1VUTE9JWW5hN0FOYkIyQnRsbi15NlpuWXZxRnJSSndvZVpMVjhzREs0TlRlNzFrSHEwTHBsenhYVGlXV0RSck55SHJQeUl0ekdWVGpHbmNubFBtMjk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-4ee36d95a448",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T02:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle",
+    "valueBillions": 1.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVZVUk4ZDlrZ1BXNXNubFFLRmd2WVFpa3luOHREeS1fV2lhOVA1amtGOFVQYV9tQjVyT0VFUUVCZjdualhPRi15REFaVVBTdzRJSXViTFo1ZEVXeHQwTmh0bFBVaHl2R1lkTFllTkt5SVhfTUZPTEZuYmIxUDJ1cmx0dlY5UThBeG1mU3BQNmNfRXFXaHZEcW1adjRseWNmSlBOYWpwSkhFbEtMLUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,6 +1876,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ded8f3c5e6d4",
+    "date": "September 20, 2026",
+    "publishedISO": "2026-09-20T14:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Settlement Talks With State AGs Reach Critical Stage as Merger Opponents Rally and Urge Rob Bonta ‘Do Not Cave’",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount Settlement Talks With State AGs Reach Critical Stage as Merger Opponents Rally and Urge Rob Bonta ‘Do Not Cave’ Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQc3l1OHByREdmc25DVF9aQ0Q1UmdfNmhyX3BINXNDb3VpVG9RT1dMc1ZZbnFMcUdpV1hHUk9XXy1icDVEd3ZTem05UXJDdlF1cWlTMElDbzg2SWg4d2xxaGdOT1ZjSzVsMUFnTE54djVWMS1ybEY3Wk5hbElNX0JicUlsSVJEYUMzWGRSeUN1NXlQekJMb3RyYlpEa1BYcFdVUXIzYTNsOU0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3dc432509128",
     "date": "September 19, 2026",
     "publishedISO": "2026-09-19T06:02:00+00:00",
@@ -1951,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-417533d2f644",
-    "date": "September 19, 2026",
-    "publishedISO": "2026-09-19T02:33:53+00:00",
+    "id": "news-e1875faf1dd9",
+    "date": "September 18, 2026",
+    "publishedISO": "2026-09-18T23:50:28+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger",
+    "headline": "Exclusive: Infillion acquires location data company Foursquare",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1965,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Weighs Some Concessions in Bid to Finalize Warner Bros. Merger The New York Times",
+    "sourceName": "Axios",
+    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1983,12 +2058,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQajlVNlIzZFZZYU5hT0hoMUpIcGNjMlNubDFvNXo1eHRtUWYtRU12d2s0ZzFOdmtabDRsM1JwUGthbk1pN2g1a3dVRkdncEVrd1RUbFh4dENOLWNFMDR3NW1vVTZNbmJ4V3FKWmZiY2dYRTEwWWxVdHdjVnNSWDFRZ2xiUnl5a1Rh?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Sep 19, 2026"
+        "date": "Sep 18, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2115,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "geekwire.com",
-    "summary": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger geekwire.com",
+    "sourceName": "GeekWire",
+    "summary": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger GeekWire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE51TVhRbUR0ODByNWFQVUJWdGR5YlRGUUp3eVNKbi1mQjh5Mkplb0thRXRXQndnZUhmN2ItSERIWFVZR0xybWdBbUdtUlZsNG5KSnM1eEZUbHZ0dXIyWjR5Qk91TXdteTR2Z3JQN1dKeHZFQUpSVmNsZg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d30712a6dbec",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T17:27:20+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Weil, Gotshal & Manges eyes merger options after rainmakers exit, Bloomberg News reports Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQMHU2T0I1b3ZHZUZjUS1wdWlLYzRtNjZPYnhZMkpUWl8xX0F1Q2hkbHZHWXVhdDh0amhFcG0xQVJaQUtTSDE2VFVkNkw1OHZyQ3ZYUmZCYVdvNEdweF9JR1JmT2lqNThnSzVmd3hCbktZcFRWTjI0YkZzbHVoSUQ0bmZRWjZxeG50MkRVME5BNlNfcnhBSFZTSnNmWk9LQmttU0taQ1ZBRlpJM1NmcFlGVENQNG5JMWFMZjM1dW5yMFBzN3FqNkZUVQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
