@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-4dd10b254484",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T20:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Forbes",
+    "summary": "Paramount Merger Settlement Won’t Be Resolved Until At Least Next Week As Judge Questions Agreement Forbes",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQZGpLMXFwa2k0UDVXQ3lGYUpwLUFqTFFCLU9qWkVqMDJUdmF2NGZpU3c1bkM1bkJQeE9YRlVmQ003Ujc4R3JzcVQ4R2lhTnZKN2xUQlIzM1BSdV9za2FHOFpTZ1BSekNoLXI4dXVjb0tQTk40cVY2VzVUMFVEQnd6X1VxTHVoenJadGgtVDV3cHdvd2lOYWR6SzJHT3Q4bWNBY3lBMVJwajc1MWgxWFNXblEzNDl0RU91MmdOLVFGeGhyU0FFZHY4a2huenFHRTZXbW9tMmk4X01BcFUtZFdSa1RNalRqSEk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ba0727ed989c",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T11:02:57+00:00",
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform Ondas Holdings",
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform ir.ondas.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "ABC11 News",
-    "summary": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal ABC11 News",
+    "sourceName": "abc11.com",
+    "summary": "WakeMed Atrium Health merger NC | Protesters gather as Wake County commissioners set to vote on proposed deal abc11.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -339,81 +414,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6d3de6f05538",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T23:41:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnhnVmVRNFhKcjN4aDU5eGNlal9rRF8xYWJTOGJRdEM1Ukx1MmlXUGpRc29XaDBJSHJ4VGN0bFFKV3h0SGpNcTdkNkVmRW9tQURlb3hNNDVybndpN1V0ZWpEcEZQMl9vSWxsbGRUVDZXc2hKZ01IMlktZHMzbkwyOS1adXozaUk0RzZONDUzMGZYOGZ0Q0p6b1Jxbk1Bdkk3ZDNlcnVjUHA5Z3k1U2FwVFB5TVotb0xGTDVGSjZUc3F3bVFabzdKQkxOcGg2UDNPT3VJcHF3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -901,6 +901,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-4ee36d95a448",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T15:36:24+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle",
+    "valueBillions": 1.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVZVUk4ZDlrZ1BXNXNubFFLRmd2WVFpa3luOHREeS1fV2lhOVA1amtGOFVQYV9tQjVyT0VFUUVCZjdualhPRi15REFaVVBTdzRJSXViTFo1ZEVXeHQwTmh0bFBVaHl2R1lkTFllTkt5SVhfTUZPTEZuYmIxUDJ1cmx0dlY5UThBeG1mU3BQNmNfRXFXaHZEcW1adjRseWNmSlBOYWpwSkhFbEtMLUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-758e1c9cb42a",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T15:03:28+00:00",
@@ -1276,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f46f7298da2a",
+    "date": "September 21, 2026",
+    "publishedISO": "2026-09-21T14:16:42+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. Merger Lawsuit Settled, Report Says",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Forbes",
+    "summary": "Paramount-Warner Bros. Merger Lawsuit Settled, Report Says Forbes",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQMm9CcnJMVTg2SlMtU1BKbjFtaEhtX1dIZWZoODNmMk56dnJzdFF2MmRSQjNVVjRYZS1RMTNDcjVYZnUxbEpZMzc1ZExuSXFxMHVibWVjbWp0N1oyeGhQazBzczFwTWZtSFdQSmlhX1J0Mk5QS2txYkMzeks5U2luVGJwczc2ZlJ6cFhxT0ROY3hkd0t1RkRaYVFZandGcjZNbUF1SlI1R3gzRl9GTU80QTdpQ0NvNnhsYUEyWHFRSUpEa3VtZDlXT0taWFRxQXRLZm5nMVpSNnJqQl96NGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-47788aaa2bc1",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T13:03:35+00:00",
@@ -1440,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition Fierce Biotech",
+    "sourceName": "fiercebiotech.com",
+    "summary": "Analysts ‘extremely bullish’ as Telix beams into Novartis’ territory with $1.6B ITM acquisition fiercebiotech.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1534,81 +1684,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOV2hTOGc0WEFsM0hETjBNa3RNVjUtTC1ON3c4dm1RWDIyTVZxZmR0anNfWGxqS2IwTlRxXzdGUW5aRmc1LVFuTzlaN05Dbzltd1BFR1VUTE9JWW5hN0FOYkIyQnRsbi15NlpuWXZxRnJSSndvZVpMVjhzREs0TlRlNzFrSHEwTHBsenhYVGlXV0RSck55SHJQeUl0ekdWVGpHbmNubFBtMjk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4ee36d95a448",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T02:20:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle",
-    "valueBillions": 1.5,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Paramount Discussed $1.5 Billion Investment to Clear Merger Hurdle WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVZVUk4ZDlrZ1BXNXNubFFLRmd2WVFpa3luOHREeS1fV2lhOVA1amtGOFVQYV9tQjVyT0VFUUVCZjdualhPRi15REFaVVBTdzRJSXViTFo1ZEVXeHQwTmh0bFBVaHl2R1lkTFllTkt5SVhfTUZPTEZuYmIxUDJ1cmx0dlY5UThBeG1mU3BQNmNfRXFXaHZEcW1adjRseWNmSlBOYWpwSkhFbEtMLUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e1875faf1dd9",
-    "date": "September 18, 2026",
-    "publishedISO": "2026-09-18T23:50:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive: Infillion acquires location data company Foursquare",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Axios",
-    "summary": "Exclusive: Infillion acquires location data company Foursquare Axios",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOXzFVemViOTQyaE1hVUxkUzNVODRkU0xQLUdhREY3VUxHQU1HcGE5Z1ZYZ1B2Z2VSLTRoWlRpYzBQM0EtNG9rejBkLXlWVWpjV09qclhUWUhIbnY0YmpxUXlOZVhrVkYzNzdCa3dNTVFnX1ljaHpvUzZzMzY2dEVyTm1R?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-6826a07e24ca",
     "date": "September 18, 2026",
     "publishedISO": "2026-09-18T21:53:23+00:00",
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "GeekWire",
-    "summary": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger GeekWire",
+    "sourceName": "geekwire.com",
+    "summary": "Space hardware startup plans $125M stock offering and Nasdaq listing through shell company merger geekwire.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
