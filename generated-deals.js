@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3811fb930cd7",
+    "id": "news-32852abb4dc2",
     "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T16:03:00+00:00",
+    "publishedISO": "2026-09-24T14:48:37+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount Merger Delayed As Judge OKs Motion To Block Antitrust Settlement",
+    "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "deadline.com",
-    "summary": "Paramount Merger Delayed As Judge OKs Motion To Block Antitrust Settlement deadline.com",
+    "sourceName": "CNBC",
+    "summary": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNRS1hQVJXOWxTQnctdHJFbkFLLVpWQV9jdWlmYlhxS2ViZE5nTDlVdXItbk5XTl9ld21fU0oxRnNZWVhQLUlOdEZtVmpjamR1dzE4dUZsNmt2c25jRW4zb2dVZWpuOWMwRld1SHFsNGkxRERFODEtODFjSDYyTDNQQUxOMGNWX2FCRFlUYjlydw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4aVpka1VxZDJzMk9SYW41bXhPb2RzWXRLdXFYSlBKa0Z6UWhDNTVOZVZsaTFJZDhnc3FIWGFwVXlVdXVTRTJwWnFDamZJemxNN2xjdE9sdU9ieWJiYnh0cWdtNlUwRnpxNzJjaFBjWG0tdm5UOEVJ0gF8QVVfeXFMTTdlTE5jcjJJaGM1aTdFTzdqUDFQRGcwU09LVFNGa0MyNXNaOGRpaFlRMUpXQmpyWWtXVHlqQ0poYnJ1SnQxdDlrbEZnQ2VoMU1JN2wta0xDaTloNkI3UjdDU2ZINHdZSFBDcU5iVVB2SmZtUjhKc1ZMckdaTw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-327b19df500e",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T13:41:19+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Databricks",
+    "summary": "Databricks Acquires Row Zero, Bringing Live, Governed Spreadsheets to Genie Databricks",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSlBFYndHR2RMcWhjYjYyaTUtMWsyM1B5RS1PbmdmbzRhMlk1bzR5bHZHaFptMFEybzY4UC0xVHMydVNPWmRNbWphZTloXzRDTDhFWmJsT0M5UEhYUU85Y2ZkbUc1dnZQbjdrMWZ2b3NzbUJQeXctWXZfbEtnbEdSYldYM3dYZjJEZHd0RHpxVlNSNWtSMWczTmM1cDVBX1g4eFJHMVlyNWszckt6ZHMtb2tVc18xQjJRZ24xR3poYUg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,13 +526,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0b44b04bebe4",
+    "id": "news-01567b262d7a",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T15:25:25+00:00",
+    "publishedISO": "2026-09-23T16:34:09+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion",
-    "valueBillions": 3.0,
+    "headline": "Ashtead Technology receives $660 million takeover proposal from Ember",
+    "valueBillions": 0.66,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -466,7 +541,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion Reuters",
+    "summary": "Ashtead Technology receives $660 million takeover proposal from Ember Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPdmUzNEdVSF9nMDVzRWZmQVZtQzVxOXZWNUJBTlRHLTRMeVFVZkl0eFhLTmh3aEtHdW1zTHRRaDd5THp6RzZQSk5obG4yTzlMZnhYS1lmQ3A2MDlMaHZ0V3AtejFoOFhtMk10aVdOUGxFelJKeUljTnhDV2VyaVdjQVNXVjFmeTY5aWJfazBVR2hLaGxfeWE2Y1o0M3lXUDBzZjN2N0dxVmprNENBYmc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWjB3bDJGYUhNbkdCcml1VEpEYy11R2pZVXd3aGFFYTY1SGh4OHFHelR6UnhjSlpLakZGUlY0QmN4cGM4OVNtUDB3aWlIOHQwN3lyM2FRa01LM09BZENPZENKdlR6ZThVcFJxZXpYX3pERzUtV2NIZUNlWERwQWxmRVZTWmxNMHJMN0p5Y3JJUWxyWjBPQ3hfbHppaGZQQlh4LVlqTWlDaXZSZXRTOTBtVExiNy1zT0owWkpV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -634,81 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTByR0lyeVpMQ2pucHVQWWh2bnJyYlo1Qnh2ZGY4S1RTeDV6MkJOQ3BmWUtGbkRKZXJZWDNxaldKTHozcWNRc3FGd2ZDamN2OExvcVJXUGxxaDI5bnc1dndFQVA2bDhlaUFuSjJ6Mkg3M2FjLVhJUDV5aHFZRjhJRFBobV9lS2dzeFJaZE5tYVVzTGZRVmJKOUJiVkVaOTRNaUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6b4830cfcfe5",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T11:58:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzJvZS1CdFRKc3pMdi1rNjQwNjlJRm9ZWmxSNkRpODZFU0FQUDJTUDFWb2owd29EVzhMdTYycDZlRHMtUlJ2M2s4dGYxa21Ydm1sUzFjTVY0azY5RE4tSU50eGFnVGtPQkpFZzYybnd4RXctX1N4MVpqcWtDdkk3NWQ1c0N5SXFidjdCeVd5cjg4bEpxeHFVZDQ2Mm9XaGNwTFRtNURaX1pqUFJXeGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Paramount Reaches Deal to Clear Way to Create News and Media Giant The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Paramount Reaches Deal to Clear Way to Create News and Media Giant nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "railwayage.com",
-    "summary": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application railwayage.com",
+    "sourceName": "Railway Age",
+    "summary": "STB Rejects ‘Summary Denial’ Motions for UP-NS Merger Application Railway Age",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Texas Tribune",
-    "summary": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable? The Texas Tribune",
+    "sourceName": "texastribune.org",
+    "summary": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable? texastribune.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
