@@ -226,81 +226,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-32852abb4dc2",
-    "date": "September 24, 2026",
-    "publishedISO": "2026-09-24T14:48:37+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "MGM Resorts shares sink 11% after Barry Diller's People Inc. rescinds takeover offer CNBC",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTFB4aVpka1VxZDJzMk9SYW41bXhPb2RzWXRLdXFYSlBKa0Z6UWhDNTVOZVZsaTFJZDhnc3FIWGFwVXlVdXVTRTJwWnFDamZJemxNN2xjdE9sdU9ieWJiYnh0cWdtNlUwRnpxNzJjaFBjWG0tdm5UOEVJ0gF8QVVfeXFMTTdlTE5jcjJJaGM1aTdFTzdqUDFQRGcwU09LVFNGa0MyNXNaOGRpaFlRMUpXQmpyWWtXVHlqQ0poYnJ1SnQxdDlrbEZnQ2VoMU1JN2wta0xDaTloNkI3UjdDU2ZINHdZSFBDcU5iVVB2SmZtUjhKc1ZMckdaTw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 24, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-327b19df500e",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T13:41:19+00:00",
@@ -376,6 +301,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-a0d8e8e91b09",
+    "date": "September 24, 2026",
+    "publishedISO": "2026-09-24T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Opinion | Bonta's cave on Paramount-Warner deal fits California's history of corporate surrender",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "calmatters.org",
+    "summary": "Opinion | Bonta's cave on Paramount-Warner deal fits California's history of corporate surrender calmatters.org",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdnFXbV9QZjBGMU1JM2pJajMtXzhPem8xNTBrZlNNQjBmMjVmZzgxZk9pRkpoNi1oenFKa2VaZnhMa0Q5WVNJa204YkJqTEZST1pjcHdEVzJIZWwxdXB5T09VNzNoRXFhZkJsRFUyb3dUUmFwb1ZiZzFfVjlKajhZbldneHk3Q2xGQlF2V05yenA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 24, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ba0727ed989c",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T11:02:57+00:00",
@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "IBM Newsroom",
-    "summary": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK IBM Newsroom",
+    "sourceName": "newsroom.ibm.com",
+    "summary": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK newsroom.ibm.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -751,6 +751,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-2647d50b41df",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T13:00:00+00:00",
+    "acquirer": "TJC Completes",
+    "target": "Luna Innovations Incorporated",
+    "headline": "TJC Completes Acquisition of Luna Innovations Incorporated",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "businesswire.com",
+    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated businesswire.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2NaYWNqcmhYTjV2VFM0Wlk1N3BzRWFRNndzY3lrNzBPazl4OTY5ck1paURMU2JjSFFQZ014T3dIX0pDdGlQV2l0SEExcTNHNUtMSEcxZ0d3bm5vX1ROT1JNN3RISHAwSUJkWDFuQ0lSLVRZZzVmanlzVmJyaGt5Y2pSbnk0X2lrbG5sM0xncUFNczZFYkNSeXlTUzRhdEdYdUw3Y2RZVG95TWE1aU14QnY0YkRpQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-28c3c0d5a04b",
     "date": "September 22, 2026",
     "publishedISO": "2026-09-22T04:10:54+00:00",
@@ -826,81 +901,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-6d3de6f05538",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T23:41:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount, attorneys general settle lawsuit, clearing a path for Warner Bros. merger Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPcnhnVmVRNFhKcjN4aDU5eGNlal9rRF8xYWJTOGJRdEM1Ukx1MmlXUGpRc29XaDBJSHJ4VGN0bFFKV3h0SGpNcTdkNkVmRW9tQURlb3hNNDVybndpN1V0ZWpEcEZQMl9vSWxsbGRUVDZXc2hKZ01IMlktZHMzbkwyOS1adXozaUk0RzZONDUzMGZYOGZ0Q0p6b1Jxbk1Bdkk3ZDNlcnVjUHA5Z3k1U2FwVFB5TVotb0xGTDVGSjZUc3F3bVFabzdKQkxOcGg2UDNPT3VJcHF3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-d03c493f1855",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T20:37:45+00:00",
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NBC News",
-    "summary": "Paramount reaches deal with California, other states over Warner merger NBC News",
+    "sourceName": "nbcnews.com",
+    "summary": "Paramount reaches deal with California, other states over Warner merger nbcnews.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nytimes.com",
-    "summary": "Paramount Reaches Deal to Clear Way to Create News and Media Giant nytimes.com",
+    "sourceName": "The New York Times",
+    "summary": "Paramount Reaches Deal to Clear Way to Create News and Media Giant The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1501,7 +1501,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-73040c4d711f",
+    "id": "news-5e51e2cdbeaa",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T14:56:46+00:00",
     "acquirer": "Paramount",
@@ -1533,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lVRll3ZF9rM185WlJsZFFGRWQyVExORTBEWGQ0MnhkMHpITDBGbmRoYmZHQlU4TlQ5RHREY21ISFMwOEUxVV9MbXlzeHF2VEtDVjRETDEwdTZDcThKd1NLRVhDYzlzVzhfTkFObnQxcEh4aFBfeUMwM2VSU3ZmZExkUFF2SUIyNmdQWEdFcUhtZmPSAZgBQVVfeXFMUEJ3cWVWRmpackFLSXkzWHZWQmozMUZHWXRXSE15MFJVb1pPVG5ISHFjcHhuRldIZUVSUGlHd2xsLUc5Nmx0THB4TWJfZXFrb1dEZVZhTTZwUFJnaVVmQmJaZ1I0WlY5VU1PYS05ZDQ4dE0xbHBJTnJOZkUtSXBEekNMQ0tOU1RMUktPY2d3WWlmVE16T3QxUjI?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lVRll3ZF9rM185WlJsZFFGRWQyVExORTBEWGQ0MnhkMHpITDBGbmRoYmZHQlU4TlQ5RHREY21ISFMwOEUxVV9MbXlzeHF2VEtDVjRETDEwdTZDcThKd1NLRVhDYzlzVzhfTkFObnQxcEh4aFBfeUMwM2VSU3ZmZExkUFF2SUIyNmdQWEdFcUhtZmM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,12 +1876,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ea37bc1bdc2e",
+    "id": "news-0aa4f9985be4",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T10:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable?",
+    "headline": "Houston ISD’s state takeover playbook is costing a fortune",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "texastribune.org",
-    "summary": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable? texastribune.org",
+    "sourceName": "The Texas Tribune",
+    "summary": "Houston ISD’s state takeover playbook is costing a fortune The Texas Tribune",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
