@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b842456783f4",
+    "date": "September 26, 2026",
+    "publishedISO": "2026-09-26T22:41:38+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "WakeMed, Atrium Health | Gov. Josh Stein won't oppose NC's largest healthy care system to merge with Raleigh based system",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC11 News",
+    "summary": "WakeMed, Atrium Health | Gov. Josh Stein won't oppose NC's largest healthy care system to merge with Raleigh based system ABC11 News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPckdVVzZLVFFNbWJRVFhhX1N0WlFFS2RwRXhNZVp6QXdVWHVUb196TjlRVFlMTnloYnJpYXhiRUhaeE5hLWQ4eUdPS1J3T3dTcmNvZmFHLV9pUUlNYTZyOGEySHc1RVBjOU8xbGNwQjZBN0RTbGcxQlNZZzFSM3B4TXliSVoydE16bV9qeERqNFJhMl9fZ1hHNjRIVjZSaWZZbjRndWZxNFhhX2hvWmQ0UndIZ0xjWURaLWtUTlNodmt2cmF3eVFZ0gHMAUFVX3lxTE5UaHZyNG1laXFvWS11WU5DN3BrcndHaGE2TWN1LVNrTEhjZTNnd2otNnY5WDFEY3JBd2gybm1PeTZqamQzN0U3Q2NGOVVraWM1eEsyYzE1eEU1MHFaMzhobE1mMXRIN20xMUFldmNmdm1YMjZQTXA0VWQ3UHVsZ21iZ05KTkZWR0dmV19fM05ZWk9pc245b1B2emU2anNOMDc5R2xJeUxlVkJ1RVBiUzlmYzBiX3ExME9DQ01EMExFMHZTT3FqSkxRVWx2dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 26, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-4c7bcd5b494f",
     "date": "September 25, 2026",
     "publishedISO": "2026-09-25T18:42:57+00:00",
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "calmatters.org",
-    "summary": "Opinion | Bonta's cave on Paramount-Warner deal fits California's history of corporate surrender calmatters.org",
+    "sourceName": "CalMatters",
+    "summary": "Opinion | Bonta's cave on Paramount-Warner deal fits California's history of corporate surrender CalMatters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "newsroom.ibm.com",
-    "summary": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK newsroom.ibm.com",
+    "sourceName": "IBM Newsroom",
+    "summary": "IBM Acquires Logiq Consulting to Expand Secure Digital Transformation and Cybersecurity Capabilities in the UK IBM Newsroom",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "businesswire.com",
-    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated businesswire.com",
+    "sourceName": "Business Wire",
+    "summary": "TJC Completes Acquisition of Luna Innovations Incorporated Business Wire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -915,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "nbcnews.com",
-    "summary": "Paramount reaches deal with California, other states over Warner merger nbcnews.com",
+    "sourceName": "NBC News",
+    "summary": "Paramount reaches deal with California, other states over Warner merger NBC News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1084,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNSXRhTkxIMDJYNDhyT1dQb3loSmdKMFFmU1hkeGVSbEV1X0lWQzZibmJXckF2d1RzOTBNNEZVWkh6SzZtX0FmOXAtUUZaY05sQWtwbkpKMWZCbTlIbm5uS0dkM2poNWlWeDdXY2RIUU8wbHAtY2hwT1NuTVdwdnRwVkc3Sk5ZNmtmMTVTOERBY2tid1FPOE5rY0djemdaUVlibmNMYlhxNkxaTU9oNmtIZVczZ0lRSmxEUU80WEpEeGFka0tT?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3ff8d62f1266",
-    "date": "September 21, 2026",
-    "publishedISO": "2026-09-21T18:14:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Guardian",
-    "summary": "Paramount settles lawsuits with 12 US states, clearing way for Warner merger The Guardian",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOcV96N1ZWLU04WWJxcFdnZ2MtcVU0c3ZyMnozNEFBblBhNHROZzJPbnV0YnlsNWRmeWh0VE4zX0Z2UGZEczlkQVI5ZTRxdFYzRVFZYzI0LVRqZS1oVVJpT3ZyV3hodWVUUWVtX01SSVBHTG9ZV054MzJEQm1PTnZxd2V5RkF1d1Y2OEdTR0hhYXNxUDhnQ3IyVGl3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,7 +1501,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5e51e2cdbeaa",
+    "id": "news-73040c4d711f",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T14:56:46+00:00",
     "acquirer": "Paramount",
@@ -1533,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lVRll3ZF9rM185WlJsZFFGRWQyVExORTBEWGQ0MnhkMHpITDBGbmRoYmZHQlU4TlQ5RHREY21ISFMwOEUxVV9MbXlzeHF2VEtDVjRETDEwdTZDcThKd1NLRVhDYzlzVzhfTkFObnQxcEh4aFBfeUMwM2VSU3ZmZExkUFF2SUIyNmdQWEdFcUhtZmM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQN3lVRll3ZF9rM185WlJsZFFGRWQyVExORTBEWGQ0MnhkMHpITDBGbmRoYmZHQlU4TlQ5RHREY21ISFMwOEUxVV9MbXlzeHF2VEtDVjRETDEwdTZDcThKd1NLRVhDYzlzVzhfTkFObnQxcEh4aFBfeUMwM2VSU3ZmZExkUFF2SUIyNmdQWEdFcUhtZmPSAZgBQVVfeXFMUEJ3cWVWRmpackFLSXkzWHZWQmozMUZHWXRXSE15MFJVb1pPVG5ISHFjcHhuRldIZUVSUGlHd2xsLUc5Nmx0THB4TWJfZXFrb1dEZVZhTTZwUFJnaVVmQmJaZ1I0WlY5VU1PYS05ZDQ4dE0xbHBJTnJOZkUtSXBEekNMQ0tOU1RMUktPY2d3WWlmVE16T3QxUjI?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,12 +1876,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0aa4f9985be4",
+    "id": "news-ea37bc1bdc2e",
     "date": "September 21, 2026",
     "publishedISO": "2026-09-21T10:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Houston ISD’s state takeover playbook is costing a fortune",
+    "headline": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable?",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1891,7 +1891,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "The Texas Tribune",
-    "summary": "Houston ISD’s state takeover playbook is costing a fortune The Texas Tribune",
+    "summary": "High costs, dwindling enrollment: Is Houston ISD’s playbook under takeover sustainable? The Texas Tribune",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
