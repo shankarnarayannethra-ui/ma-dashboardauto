@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-011e6141bd27",
+    "id": "news-c8f9f86d78c8",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T21:34:00+00:00",
-    "acquirer": "AMD to",
-    "target": "World Labs",
-    "headline": "AMD to Acquire World Labs for $8.2 Billion",
-    "valueBillions": 8.2,
+    "publishedISO": "2026-09-28T22:56:19+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount, states reject calls for deeper review of merger deal",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "AMD to Acquire World Labs for $8.2 Billion WSJ",
+    "sourceName": "Los Angeles Times",
+    "summary": "Paramount, states reject calls for deeper review of merger deal Los Angeles Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQLVpVcHpJVVFBektEcldpS0ttVXk1a2dkR0kzZEtUNmp3d1hQNzVEb3NOZVhEc1piQmtIYlI3WF9QUExkT2R3TW9tOW1ZZ0RpSGdELWxBbVRldmYtRmNUQjRxWjdZeS1RZnVvNFhvbU9pQzFfd2RyXzYxMnR4X3RpNFlBUzU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPOEFZUElIQ252UDdNQlZ4ZHdaeVlWTjZJSF9PMjVJUTFSMS1iQ3Nkb1Y3THZEd3g2UjVvamVsLWNRZXUyLU1CNkNVSWJnMGltX2hyZlp5VmZ0Yk1FVnpxeGR2RWZMX3p0NDlZRk9mM053Nzh3SDhVcGt2OWxwX3JmS2FJRTVmQ2hCTUh6blk3TlpKZ0gyNnFXd29EeDNmUEwtOWNncHdPWVlJY29WRHVxWA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1efe4b0a8fab",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T12:03:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Foreign banks eye merger with UBS – report",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Foreign banks eye merger with UBS – report Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHBPQlZzMktSVkRIeFQ2YUNadlBLOVhDSWNuSUJNakt3d29KYjZkQmNjOGpTTEc4bjVZOWtUZ1hYbkQwc01NUVBKeW5sc1lpTEJoQlZaaEE4dm9EQ0ZkSDJ1dUZCdm8zRFEtTjVRYmJxNDh6TVlzdkRQTmZoekVXcnFDSElWclJDd3YzcjhvRmFvZ1dLMF9MZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-7f033613fdaa",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T08:05:00+00:00",
@@ -540,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "CVC drops Bodycote pursuit, clears path for Veritas' $2.5 billion takeover Reuters",
+    "sourceName": "reuters.com",
+    "summary": "CVC drops Bodycote pursuit, clears path for Veritas' $2.5 billion takeover reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -690,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Foreign banks have expressed UBS merger interest, Swiss newspaper reports reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -840,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "kcra.com",
-    "summary": "Attorney General Rob Bonta defends settlement with Paramount as judge delays merger | CA Politics 360 kcra.com",
+    "sourceName": "KCRA",
+    "summary": "Attorney General Rob Bonta defends settlement with Paramount as judge delays merger | CA Politics 360 KCRA",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -859,6 +784,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNSkRxTTFwOFpCdkxNWmJfNXZiUUp2dGxGU3Q1dG1ZaGx4TkFRQXFEUm00Qmw5U0I3OENjVHcwNDJoUi1oc29WWWUwVlkyU25hSmtjXzU2M082djFrWGZTbl9JY1psNGQzR1hHcUx3N0F3MENPRjlhY2NHdzBZWHR3c2xFSGxRN1piTXZPWjlNRWVFdXB2Tm1jUHJlYWRucUtab0c0VkQtaE0waFkxV0pKUWFfa2tvdFJxa25nWmE4RjlMVFFpYUZKMlZCTllYRUFDR240?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e7aeb5f1b216",
+    "date": "September 27, 2026",
+    "publishedISO": "2026-09-27T09:44:47+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Morgan Stanley Lagged Its Peers After UBS Merger Talk and a Target Cut. Here’s What the Stock Already Prices In",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Morgan Stanley Lagged Its Peers After UBS Merger Talk and a Target Cut. Here’s What the Stock Already Prices In Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOE80VmdBbVg5a3dnRVN2R21VUnNFdF9vTWY0b3FEajVhLWNDd3JRUDNRNTZ2dmMtUEdOMDJoTEhCZ0dSZk1Nc0lyU015MmpBNWJyUm5XamRFY21HUDVLdkxGOTVLdVJITzBFQnVtejI1Q3k1STZ2RVlzekk0UzVHQ1ZIS1pBQkNZdTB5eGZYNkw2MmZ5Y1UwdlIzajY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion Reuters",
+    "sourceName": "reuters.com",
+    "summary": "Royal Caribbean acquires stake in resort operator Sandals for $3 billion reuters.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1740,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "KLAS 8 News Now",
-    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B KLAS 8 News Now",
+    "sourceName": "8newsnow.com",
+    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B 8newsnow.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Raleigh News & Observer",
-    "summary": "Wake County commissioners approve WakeMed-Atrium Health merger over protests Raleigh News & Observer",
+    "sourceName": "News & Observer",
+    "summary": "Wake County commissioners approve WakeMed-Atrium Health merger over protests News & Observer",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,6 +2059,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNT2VkbVIwQTU3anVRY1FvZnhWYUtqRWwwMmpTQXlNc3NXSzktZDAtMHpTbU45a3NES00tNE9va1I2RXJqZHVxcl9rNmJ2ckM5ZXBQWVprTmhMdWRrSnM5Z21MWmF5RTlDclh1czNJRWZxaThuZElaODRYdTlWc2VnQU5lODNHSTVtSWfSAYoBQVVfeXFMTTRwdGRoX3VDMDRXeW0tRnZMVS1Kc1VVR3FYM1BvOUl3NHdrRW9KdU13SktqZERCdE53U3A1S3d2TTRPcVhhOWZfVUxGZjBSd1h1aHplVExpS1JFckRFS2JDbWF6UXdZOFJWOHJxaHBRSUVjaHEyNzYzWDBaU28wOEZFenlteTZxaU1B?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6d95f47f11ab",
+    "date": "September 22, 2026",
+    "publishedISO": "2026-09-22T18:00:00+00:00",
+    "acquirer": "Forge to",
+    "target": "Becker’s Healthcare, the #1 Events and Digital Media Portfolio Shaping U.S. Heal",
+    "headline": "Forge to Acquire Becker’s Healthcare, the #1 Events and Digital Media Portfolio Shaping U.S. Healthcare Industry",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GlobeNewswire",
+    "summary": "Forge to Acquire Becker’s Healthcare, the #1 Events and Digital Media Portfolio Shaping U.S. Healthcare Industry GlobeNewswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOdXBRMlVrXzd4OWZNa1FOZDVZNFVONUhobmlfZGpPanQ1dzFJeUJvY0RLVVRBRnIwVFJscUF4R3RxQzhJaVlEYjlFbUFOZjREM2JaTHo2ZEtSNm80RDhnRjlKbzFfMnV5NXF3S2p3azdSRjBQTzhQT0ZPNGNkMUJPODNDWlg5Rm1GbEpWYU16NnpSY1FmSVh6LWpBZ3ZsSGtfWGlLdTl4M2dEYzg3SVcwN3NsN3hrNnpiZWtVT1QwMXdYN1gzTEVCSXRQZDVzLTRmbm41cVZQWHF5aXJyV2ltOXRkbnlNc19vRS14UDJ2ekhwN1BQbDBTcFpTM1dtR1NzeG9sVEpQeDNxM0RhaUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQM2NaYWNqcmhYTjV2VFM0Wlk1N3BzRWFRNndzY3lrNzBPazl4OTY5ck1paURMU2JjSFFQZ014T3dIX0pDdGlQV2l0SEExcTNHNUtMSEcxZ0d3bm5vX1ROT1JNN3RISHAwSUJkWDFuQ0lSLVRZZzVmanlzVmJyaGt5Y2pSbnk0X2lrbG5sM0xncUFNczZFYkNSeXlTUzRhdEdYdUw3Y2RZVG95TWE1aU14QnY0YkRpQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 22, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-23692bcd30f6",
-    "date": "September 22, 2026",
-    "publishedISO": "2026-09-22T11:24:48+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros",
-    "valueBillions": 110.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BBC",
-    "summary": "Paramount settles lawsuit with US states, clearing way for $110bn merger with Warner Bros BBC",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE54OTRSU3J3TjNNcTczM1JlYkhxZGF1VUZ2QTJxLUJMU3BlcWNaZkJsUnBBcnVYTmM1SEFWWFByc1RKS2hfT2ZUcHRGSDlEYU5yUVBwb3hjU3BBbUk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
