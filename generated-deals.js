@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-46648ee9f099",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T18:30:17+00:00",
+    "acquirer": "EXCLUSIVE: US lawmakers including Sen. Warren push energy regulators to reject",
+    "target": "power company AES",
+    "headline": "EXCLUSIVE: US lawmakers including Sen. Warren push energy regulators to reject acquisition of power company AES",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: US lawmakers including Sen. Warren push energy regulators to reject acquisition of power company AES Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPbXY3Mlc4Nk9QVk9WNEpIQlc4S1RTd04wR3RFS1l4Z2lsZFRoZDdicnphWENYVnZ2Z2h6d1FvbE9RN3BjaV9zaHJMWl9ZZkNvSlk0eEJIc0MyNy11LWdjOHdLWUVWMXJZX2dOZG9hN3psZzU0eDdoamFLX0FWVjIzNVN5WmQzRHhEQk9ZaFl0X2xWR2RncVozQ1hjN2ZEeVhmWHoyakNoVEFhZEhnc1RuVVM5NFlUaVBjUHNldGltdnpBaW1Vc2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0b958b8d42ce",
     "date": "September 29, 2026",
     "publishedISO": "2026-09-29T17:15:00+00:00",
@@ -15,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "fiercehealthcare.com",
-    "summary": "Midwest nonprofits HealthPartners, Essentia Health announce merger plans fiercehealthcare.com",
+    "sourceName": "Fierce Healthcare",
+    "summary": "Midwest nonprofits HealthPartners, Essentia Health announce merger plans Fierce Healthcare",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4c722c9ca71e",
+    "id": "news-301edcfba7f8",
     "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T08:00:00+00:00",
+    "publishedISO": "2026-09-29T11:17:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
+    "headline": "Incline Acquires The Conrad Company",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Incline Acquires The Conrad Company prnewswire.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,12 +258,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVW5CYVN6cW1Ua2NNaHZwWTMtUVlGSzlxcUFMbUhJajRmRktRVkstb1A5YnFnRDgxelJrQldnWDFjVUlqMnNWTWFCMFR6NnRMNXJvaGNhbWo4X3JvaTFzb0FxOTJkODc5ZFR1VVJzQ3FBQ09wbDMwalotY1ZIcTZrUEdjSUl4SHZySkF2bWE3UWtGUC1wakE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e4fb9ce345de",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T23:18:36+00:00",
+    "acquirer": "AMD to",
+    "target": "Fei-Fei Li's World Labs",
+    "headline": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI'",
+    "valueBillions": 8.2,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "AMD to buy Fei-Fei Li's World Labs in $8.2 billion bet on 'physical AI' Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOUEpLOGExLXd6b0dKeXJadmdubW9zdWZzTDB6eVhLb0RSN3RSQTYyenBJdTVRdmR6Vm5jRnp4VHVQQ1NEbGFQb1J0V08xcThIRUs1aG5NQ0piLXhEQTRhcXZQNEZkMUVuaHVyLTRNVjhjbDEtZmxuTGpuR2d1ZDU2b1pGdkxqS1o2TUNDcUMyaFUzRVdmUUpPQndkdEZMZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
       },
       {
         "stage": "Terms verified",
@@ -315,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "theatlantic.com",
-    "summary": "A $111 Billion Hollywood Takeover With a Murky Future theatlantic.com",
+    "sourceName": "The Atlantic",
+    "summary": "A $111 Billion Hollywood Takeover With a Murky Future The Atlantic",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -451,6 +601,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ae497a308755",
+    "date": "September 28, 2026",
+    "publishedISO": "2026-09-28T13:43:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "18 arrested for July Newington street takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WFSB",
+    "summary": "18 arrested for July Newington street takeover WFSB",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPalFsRkNnd2JCbmREUGlBNjd1WV9tQ2IzTHNfdnEtc0F1SUJYZkNuNmZUc1NJeXJYWUhuSVExYWwwQndqVExqZFpSdFQ1RFl6VGtJVXhxNTFGdmExX3h2bVY5M2VkTVpPZXpWaWtEZXZLVm95bENwYS1femRONTg3RA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0e33334954f4",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T13:00:00+00:00",
@@ -465,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Leica Biosystems Completes Acquisition of StatLab to Bolster Delivery of More Precise, Timely Diagnostics for Cancer Patients PR Newswire",
+    "sourceName": "prnewswire.com",
+    "summary": "Leica Biosystems Completes Acquisition of StatLab to Bolster Delivery of More Precise, Timely Diagnostics for Cancer Patients prnewswire.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -601,81 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1efe4b0a8fab",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T12:03:28+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Foreign banks eye merger with UBS – report",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Foreign banks eye merger with UBS – report Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcHBPQlZzMktSVkRIeFQ2YUNadlBLOVhDSWNuSUJNakt3d29KYjZkQmNjOGpTTEc4bjVZOWtUZ1hYbkQwc01NUVBKeW5sc1lpTEJoQlZaaEE4dm9EQ0ZkSDJ1dUZCdm8zRFEtTjVRYmJxNDh6TVlzdkRQTmZoekVXcnFDSElWclJDd3YzcjhvRmFvZ1dLMF9MZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-7f033613fdaa",
     "date": "September 28, 2026",
     "publishedISO": "2026-09-28T08:05:00+00:00",
@@ -753,7 +903,7 @@ window.generatedDeals = [
   {
     "id": "news-62341ad70188",
     "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T06:42:00+00:00",
+    "publishedISO": "2026-09-28T06:48:59+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "CVC drops Bodycote pursuit, clears path for Veritas' $2.5 billion takeover",
@@ -1365,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Forbes",
-    "summary": "Judge Won’t Rule On Paramount-Warner Bros. Merger Settlement Until At Least Next Week Forbes",
+    "sourceName": "forbes.com",
+    "summary": "Judge Won’t Rule On Paramount-Warner Bros. Merger Settlement Until At Least Next Week forbes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "8newsnow.com",
-    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B 8newsnow.com",
+    "sourceName": "KLAS 8 News Now",
+    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B KLAS 8 News Now",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2040,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Ondas Holdings",
-    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform Ondas Holdings",
+    "sourceName": "ir.ondas.com",
+    "summary": "Ondas Acquires Three Defense Technology Businesses to Expand Its Integrated Autonomous Defense Systems Platform ir.ondas.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONTByR0lyeVpMQ2pucHVQWWh2bnJyYlo1Qnh2ZGY4S1RTeDV6MkJOQ3BmWUtGbkRKZXJZWDNxaldKTHozcWNRc3FGd2ZDamN2OExvcVJXUGxxaDI5bnc1dndFQVA2bDhlaUFuSjJ6Mkg3M2FjLVhJUDV5aHFZRjhJRFBobV9lS2dzeFJaZE5tYVVzTGZRVmJKOUJiVkVaOTRNaUE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6b4830cfcfe5",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T11:58:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNzJvZS1CdFRKc3pMdi1rNjQwNjlJRm9ZWmxSNkRpODZFU0FQUDJTUDFWb2owd29EVzhMdTYycDZlRHMtUlJ2M2s4dGYxa21Ydm1sUzFjTVY0azY5RE4tSU50eGFnVGtPQkpFZzYybnd4RXctX1N4MVpqcWtDdkk3NWQ1c0N5SXFidjdCeVd5cjg4bEpxeHFVZDQ2Mm9XaGNwTFRtNURaX1pqUFJXeGc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 23, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-082b751e2147",
-    "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T09:53:32+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Clean Virginia: NextEra’s utility takeover attempts, alleged political moves relevant to merger case",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Virginia Mercury",
-    "summary": "Clean Virginia: NextEra’s utility takeover attempts, alleged political moves relevant to merger case Virginia Mercury",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPT0UwTGVIT0dhdGk3MWs2TWJjd2lHUnlwWnRRVDhOQ2FpQi1oTDl1dHZybGd6WVFhNnZJbnBuVnU4RGMxMnBtSXlRaHRicHlOd25lMktPaW1QTFhMVEs4d3NLd3BjbFZYczFSa2ZEdnRQR0lYNndMMy1LU1RjMEtqU2pZaElkclE4bzBXV0ZWY2ptaUMxYTRJemdzNFMxeXRBUjR1V1N3eGo4VXl0dzQ1aG4wUmhwQUY4aEdkcWRKdWc3cU92aHJlNGZTNEFIMFMxRktj?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
