@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-0b958b8d42ce",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T17:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Midwest nonprofits HealthPartners, Essentia Health announce merger plans",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "fiercehealthcare.com",
+    "summary": "Midwest nonprofits HealthPartners, Essentia Health announce merger plans fiercehealthcare.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPRHZST3ljaENLQzdYYU5NYkdfb2VnMzZDak5ZUE5Kam9YVGNUb3Y0aEh5UlFSUkc3NDhoa2d0OE9mZjRyVW5uWjlVTFEzQkZzOG0ySGIwc1dyYm84M1pyYmhwWUZfLVgwcTFaY3VRMWt6VTJaRXY1QU9OTVRCYVYyMEt5aFpOM0YyNVNEeUZ1YTlGanNhUm1HY0kzaw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-ed6b09069dd5",
     "date": "September 29, 2026",
     "publishedISO": "2026-09-29T16:11:00+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4af212f33602",
+    "id": "news-4c722c9ca71e",
     "date": "September 29, 2026",
-    "publishedISO": "2026-09-29T13:25:50+00:00",
+    "publishedISO": "2026-09-29T08:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks",
+    "headline": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Perpetual Rejects EQT AB’s Improved Offer, Ends Takeover Talks WSJ",
+    "sourceName": "PR Newswire",
+    "summary": "Pearson Acquires Workera, a Pioneer in AI-Native Enterprise Assessment and Skills Verification PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVU5CY1F3TVNEZlNlX1VLcy1IRmx1ZG81N09jMzIyb0RSM18xendSM1Y5Ry0yNHJzVndlVm05aW52bC1xLXNTRFlQOFNaZ1lVeng4UWxLcnRpbjMyV2NUQW9BdlBUQ0ZYNndKMVlVT0l2bVN6azl2Q3FtRnYzeG9Odm1RM3lfNzAzZWZIVXRpeGtHZkc0WlU3ZG1MZVBwVTliVXBiMmJDZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNbHozc1FpbnIyUUZNMGZHNWRzMWxUNnoxUlhqZXhCc2xhcms4UzNaMmUxb0RWZlNXNG1neEo2dGN4NDR2cVJTTGlfdEJSSWhSMU9PRU1OR25Sc0NEdDdwRnV1ZjhIa1VLS3lWOFFKQnJtRE1YX0FWYk0yOFg0MEduMUluZGhCRXh2RGVXcVVSMlcycUNCQjBIdlE1RXpvMjhkTzlteUlaRnVWLXRybTBzOGFsUGRwV2xnSmZTcHd0a2h1M3pVb2pOMnFVWGs5WHl5M3BLbnVvemd3SE9fbDNHRWEycw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -240,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The Atlantic",
-    "summary": "A $111 Billion Hollywood Takeover With a Murky Future The Atlantic",
+    "sourceName": "theatlantic.com",
+    "summary": "A $111 Billion Hollywood Takeover With a Murky Future theatlantic.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -334,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNMzFQRHFpeHVLQ0tzdk0tVjBIWVVoVjUwS1VkeTRpd21kMTBsNldlSl9Wc24xN2VIMzBjMF9VT01vb28wNnZGTWRUcGpnTkxGXzlURnB5T0FsSEdRTzhTeUtRN0VvMzJlalRZTDl5SC16c3RUd1h5TEFhTnlUcXg5TzNCUHYzdVBQOTlQdUtucXRWRFFYNXotalYwdW1hNEpwbGhOdW9mc09SMFZ1OHdiWTg4RzRhTVN0WEVIZXVscjJrQTRTcVZVRWJoTFdISFdXOXFuNzFPYnpKNVF4UzY5T0Q3MmRpRWdRNVZMcEc2LTZVejhrYjU0Z0U4ejA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2ac576b847d2",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T13:04:23+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "18 people arrested in connection to Newington street takeover from July",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "NBC Connecticut",
-    "summary": "18 people arrested in connection to Newington street takeover from July NBC Connecticut",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMXNBNmRPV0dFU0daTHdTRUVjMHVsVzNNMDBfZTBERTcteWFBTWxZYWc1MzF0enV6ekVEWE85ZFdRcHhDblZvVG9DbFQ2T2tjMUZ0ZVExZkUwbGlDQjNDZnV3YXpTR2dnOWxWWXlSeDQ4QTFfY0pvVHJvREhjcTA5OWJkdm5vc0lDb0VaTDJUbWpwSUVydF9ZRk9zYWIxaDRXQllaY2RmZGxCVEE2dUxvQWVHNVpkNEc3S1pWc3FWY9IBxwFBVV95cUxQX1FTc1ZsYklxZ1dsRWZITWNJVS1CQ0pSYlJ4LS1YVXphRWRMaF9uTGthMGRERGY4eFl3UTNqenlPbTBibkcyX0c2YldnLVNmZTdOY3ZCMzhSU0J0N0J2d2g4MFVlRGd2T3dna0NaRkNRbkszanEzQUZCeXlYT3ctSS1NR0JvU3RIR0pJd1BVSG9ITXJQUXVjdkdtN0gwbmctVW4wYzQ0alRWdzNBTGkzRDVPc0o0RG5KSm1yV2xCM2doT2pqOW1z?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -559,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQbzlPQlc4NFNsVnNodmlQalB3OGFTS2dod1JJSDdnejNUdDdsVkpIdlJ1TW9HSG5qYjZ5aXJtU0FEMjU4aTl6Z3FZYjJUTjJQblMyQlRkay1na2ZXLVQtMzRVV0JrU1NEQXFfYnhDTEtxeHRlaGNjYjJfTFRNMDJtcjNicW9KeGRabmsw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0761f5359509",
-    "date": "September 28, 2026",
-    "publishedISO": "2026-09-28T12:07:43+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Ireland's top private landlord IRES open to $827 million takeover bid from Barings",
-    "valueBillions": 0.827,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Ireland's top private landlord IRES open to $827 million takeover bid from Barings Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOSm85R0cwUmY5S1RMeHRWSFFaSmZULVV3MzBCQkVmOUY2NUxYOVZqMDI3ajVReE5UUjFPODZGcEs1SnY0N1hIZXh0M1dRYlpYN0MwQXdKRFFCY3dTQkFvczdESHZFVUdXMk1kaUxrd2tCazFzZmNKOWE3emMxOEF2ZkZxMHV5SnF4UzFiSlMwYVpzblc3R0t1TzRlZjFsLV93cDlnN1JmbWdocFI4SWV4Tk8xc2lhaGp4ZHFndnVJQkdIQmJWdldz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "deadline.com",
-    "summary": "Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger – Zurich Summit deadline.com",
+    "sourceName": "Deadline",
+    "summary": "Kevin Mayer Shares Thoughts On Paramount-Warner Bros Merger – Zurich Summit Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,6 +1276,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f4363f83e0d5",
+    "date": "September 25, 2026",
+    "publishedISO": "2026-09-25T09:49:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Block the Merger Coalition Asks Court to Reject Paramount’s Settlement With States Over Warner Bros. Deal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Block the Merger Coalition Asks Court to Reject Paramount’s Settlement With States Over Warner Bros. Deal Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPWFUzT3FfSmt2NFJvTFBFSllCQ1g2WWt4bzlEQkFKeC1JZWNCOHBmb1lzNXA5XzYwWE9rNXRJT0ZpVThOTjhtQWxFUGtqT0RweEtOdlFZVHVvdUNiT0lmZHNLUjFkaGdoOUQ4cDg4YnZXelU3SUQ2d204RENJU2ZWUmg2bkQ2X01LRHNSVzQtN1NfWGptSlh1aVVMR0o?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 25, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-a95748c1cbbc",
     "date": "September 24, 2026",
     "publishedISO": "2026-09-24T20:20:00+00:00",
@@ -1440,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "deadline.com",
-    "summary": "Block The Merger Coalition Asks Judge To Delay Paramount-WB Settlement deadline.com",
+    "sourceName": "Deadline",
+    "summary": "Block The Merger Coalition Asks Judge To Delay Paramount-WB Settlement Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "KLAS 8 News Now",
-    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B KLAS 8 News Now",
+    "sourceName": "8newsnow.com",
+    "summary": "Caesars shareholders approve of Fertitta buyout worth $17.6B 8newsnow.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2103,7 +2103,7 @@ window.generatedDeals = [
   {
     "id": "news-6b4830cfcfe5",
     "date": "September 23, 2026",
-    "publishedISO": "2026-09-23T12:00:07+00:00",
+    "publishedISO": "2026-09-23T11:58:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Arcadis Shares Fall After Canada’s WSP Global Pulls Takeover Offer",
