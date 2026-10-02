@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -109,6 +109,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWY2cUl6RnA5NWNxOHAzTHRBUEV3WUxNcUczNEVMTDJmVnBfX0x4UVF5T1VwQld6eWNVZUVHMFI1OGlJTXZ5bkNFZ0JaS1I1cHhNYWpFdTdOMzBUMlNsQ1hGQ3d1Q1pwcjBFdHM5bG1MNzE1TkhJcHlpMUFIR3dTSm5nZU9UQWF4QXdFdlBrbm53bGlxdHhqY1AtSjBxb21pbUhlTzNWeVN0MlM0Q2Z3STlyRWFrUnM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2bf7ea130be4",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T20:08:15+00:00",
+    "acquirer": "Henkel successfully closes",
+    "target": "specialty coatings company Stahl",
+    "headline": "Henkel successfully closes acquisition of specialty coatings company Stahl",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Henkel",
+    "summary": "Henkel successfully closes acquisition of specialty coatings company Stahl Henkel",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObld6M21zRzdGS2VKV0pKV0NMMzJFZ215eC11WktVZkNVX0Z5QmZaYnc0aDdIV2QybnpsbFB4eXowbG90NkRxVDNYXzdqM0dpcVVGdjFDWTZETHhzdW9MVm9laWdUX0pfWWh4akxTcHJKeGxCaDVpaXBJQU1lQkVQazhZcDVRS1psZFU3bWJjaXV0b0xySUlldG1YUE1RVkNSVDhpejhvbEROZ3M2RmhKWnJnTjVlUlNSclFra0s0TDJhM1ljaVBCMWdZZEwzMkFDSmtKYWtzcnpLb1djdFJJd3ZPQldCSTRNNDNEYg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -484,81 +559,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEtMaWRoczhVOFB6YkdGZVFMc0VjZjV5X0JLM1BCS1M3MFNqWW5BMFJ1MlhlV0JYaXFpTDF3azA2REZKa1VSdkV1cTZMYzNSeWRvUUd3ZzBOaF81VzFGY045Z3dpeWVZSWRIRWdjVjBmU1JOanlPdmFZaDRhSlQxYWJmWHFoVXRqdTZYdUpCdC1sSkNWUzIzQlFseXdPTEJpWGF0cFkzTmxXMUhVeGlyMHBiWndrVGFEdHJKdkNWQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-532fbab3d29f",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T00:42:37+00:00",
-    "acquirer": "Paramount Skydance",
-    "target": "Warner Bros. Discovery Announce Anticipated Closing Date of Paramount",
-    "headline": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger - Warner Bros. Discovery",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Investor Relations",
-    "summary": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger Warner Bros. Discovery - Investor Relations",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTRwbVMxWjN4a2MzUHFuaWNiSU1QOEZnVHNKQWExVVVLVWlub3pqMV9mVFVhZmEyb0RXLWIwVGw2eDB0NmlYT2FJNU5MTUNkT3ZTdjdJbVJqSVlpT096by1ETjJYLTk0clhtTkRhN29LV05HSHpsLVVKNFdKOFlPOEZuMGxVSi1ON3JOelVwdy04REpoS0I1UjdfYmhkSXp0dnZlNlZiSmFkZHU3UmNMOVhONG9kYWNYUjFBTEFYRVJVOTFBa2ZzTUhJSkxBb21jMFR3OWZ2OTRUNURmb2hfOWdGcDZYMDB0MXVVS05LYUd2RExkS3o5VEZGcVhSQzNzZk54XzhQdW9qYjE0eC1IMkNKZG5zd1VLZGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aarcorp.com",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
+    "sourceName": "AAR CORP.",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1965,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Northern Star Rejects $27 Billion Takeover Proposal From Gold Fields wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
