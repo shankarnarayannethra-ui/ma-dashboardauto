@@ -151,81 +151,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-13a5a3aa17b4",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T16:48:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "James Gunn & Peter Safran To Stay At DC Studios After Paramount-Warner Bros Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Deadline",
-    "summary": "James Gunn & Peter Safran To Stay At DC Studios After Paramount-Warner Bros Merger Deadline",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNRFBnWnJHd3ZxdEZKVzN0dEtTUVpYM1Y1cE1GYldGb1lua2s0dmJ3bkQwMjBnc2hTY3hBNEoyZWpRcURqS0pEY1JfM1JROVV5SFE3LTZuZ1FwYW9rbkNVdGZRbFgyUTlrazBnWDdHM25JTERBdnp0eWJFWk1yVDZhZUtNNTVJcDY2Z3NN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9d401b1a3322",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T21:51:30+00:00",
@@ -559,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVMzWVlWeGNMcVVrMGFPR0NtS2prbWJTT25nNnlsNzZUR0dMN2ZXV1pGY0V2akZhcjhDNEhQUVkwZ09Tc3RGVWxyR0FBd2o1eFIteUNETF9vN19tWXJBX09HVEdRd3NXclQwdnhUMUY4a3hPM185eVNNNmRvLVNIbDZwWHpnSGM3S2RFM0NzVEotTTdQWENRX2hZU2hQVXFHOFpTQU5oMWFRT1ZuYmw1VnNxSjhITnFEajdfWTBNc29qOEplN3c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-008b8ad27241",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T13:01:51+00:00",
+    "acquirer": "Zurich Insurance Completes",
+    "target": "Beazley, Names New Beazley CEO",
+    "headline": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Insurance Journal",
+    "summary": "Zurich Insurance Completes Acquisition of Beazley, Names New Beazley CEO Insurance Journal",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9iaFh1WTVoc0lhU3VkRjRyaWt6RjkweEQ4dENLSWVtM2djY2xNVnlUcFNiS0VPbmo2TWFGaTlFemlXMmhGaC1xaFVVVnh0WENNTWQ0c1dRNkZGZzVoUkNYRlR1VXZLNVRWdVdfMVBuUW5fNnZCWE1mOVVLaFFTQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion The New York Times",
+    "sourceName": "nytimes.com",
+    "summary": "Trump Media’s Merger With Nuclear Fusion Company Moves Closer to Completion nytimes.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1365,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Paramount-Warner Bros. Merger Set to Close Next Week After Judge OKs Settlement With State AGs Variety",
+    "sourceName": "variety.com",
+    "summary": "Paramount-Warner Bros. Merger Set to Close Next Week After Judge OKs Settlement With State AGs variety.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MPR News",
-    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge MPR News",
+    "sourceName": "mprnews.org",
+    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge mprnews.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1815,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "theatlantic.com",
-    "summary": "A $111 Billion Hollywood Takeover With a Murky Future theatlantic.com",
+    "sourceName": "The Atlantic",
+    "summary": "A $111 Billion Hollywood Takeover With a Murky Future The Atlantic",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1890,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "aarcorp.com",
-    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings aarcorp.com",
+    "sourceName": "AAR CORP.",
+    "summary": "AAR accelerates its aftermarket platform strategy by agreeing to acquire a controlling interest in MRO Holdings AAR CORP.",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
