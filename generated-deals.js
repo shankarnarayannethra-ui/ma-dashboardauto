@@ -390,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -526,6 +526,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-ce6efbda08be",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T12:57:52+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Nebius",
+    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack Nebius",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmpiZkVBSTJfOHViU0U2ZWpKRkx6VVpvZzVtNEp3ajJjeURnclM2SXVhY1kzeGt2aHhibGtEQXpzazkwYVptNDlJQTJ5aEVoOE8ybmg2MjZmUXVPWExLcGVzam4yOG1LR2V3WHludUxFMjBHVUFHZGN1clE5VDg3MXYzNWl5NWtTaC0zN3JkUGZNR1VWTHNBV2xZZXo4ak9lb0J6dkVFS3JfbjZ3NzlFUzgwQkFOZw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c10249d14a5d",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T07:15:00+00:00",
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "foxbusiness.com",
-    "summary": "Mark Ruffalo blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal foxbusiness.com",
+    "sourceName": "Fox Business",
+    "summary": "Mark Ruffalo blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal Fox Business",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1009,81 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNeUhLMGJXeEVLdEdrR19lTmR6V1RyVTZaMm54aTVQeDVUQkQ1dGxjUEVhTkRJWEtkbXZ4TUk0X0o0NTZBOVJRNDE5LXNyWVVqRDFfSU5iWGI0YWliOUVzQmt2SlkyOHcyX0VQVlFEQVl0cXUzbXQ1TTRsWXZxVTJmeXNHaWNxaEVQU2Exc2F30gGTAUFVX3lxTE9XVTEySlhncnliSFIyUFVoRnR4cE1xblYtcXNYcGRERVIzaDFwMnJBc0dRLTNkVGphYlB0d3c3WExwb2o5RzJFVGFPYVRXYm9yR19RSzJpNC1ZM0gwVEpQX1ZMOGhaV3NVaTRqcmtRYzNXbmJnMGIxcXhaWl9ieVJpdHhmU2NGQzRvdWhBSzFDREV3TQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e2de94f7420e",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T20:25:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SpaceX Just Got a Little Closer to a Tesla Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Barron's",
-    "summary": "SpaceX Just Got a Little Closer to a Tesla Merger Barron's",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5iYktrbGdEMDJvcFVhcFdZcVloZjJGc1RQd2xoSWRFOUdRNU5sZDNDN1RLTVZYdHNvSDBGZkhHM0ttMlpIMUpFT0RPMnlUX2s3VlpNZF95cmZ0elNTSFh6R2cxSlRnc1Ixa1pnYUptSU9wMXlaWFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "MPR News",
-    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge MPR News",
+    "sourceName": "mprnews.org",
+    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge mprnews.org",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
