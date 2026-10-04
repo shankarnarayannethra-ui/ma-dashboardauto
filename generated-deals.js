@@ -301,81 +301,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2bf7ea130be4",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:08:15+00:00",
-    "acquirer": "Henkel successfully closes",
-    "target": "specialty coatings company Stahl",
-    "headline": "Henkel successfully closes acquisition of specialty coatings company Stahl",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Henkel",
-    "summary": "Henkel successfully closes acquisition of specialty coatings company Stahl Henkel",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxObld6M21zRzdGS2VKV0pKV0NMMzJFZ215eC11WktVZkNVX0Z5QmZaYnc0aDdIV2QybnpsbFB4eXowbG90NkRxVDNYXzdqM0dpcVVGdjFDWTZETHhzdW9MVm9laWdUX0pfWWh4akxTcHJKeGxCaDVpaXBJQU1lQkVQazhZcDVRS1psZFU3bWJjaXV0b0xySUlldG1YUE1RVkNSVDhpejhvbEROZ3M2RmhKWnJnTjVlUlNSclFra0s0TDJhM1ljaVBCMWdZZEwzMkFDSmtKYWtzcnpLb1djdFJJd3ZPQldCSTRNNDNEYg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-a09642262277",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T19:38:07+00:00",
@@ -390,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "cnbc.com",
-    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed cnbc.com",
+    "sourceName": "CNBC",
+    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1159,6 +1084,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPaFZDbmg5blhLSHh5RklYekZWWjF2clBjQWJYS3hwY2w2eGFPNDBnX2FWZndZZkgxS3dNOHVyYWdaYzRxVGg3bXI5N2VkWUd5M3dmYm1HdjBVbHJXeXphNEhDQmFvQjh4YS12Y1lKUEVLdWxNNVEtRWdpRkdIeENNT0FlT0JWOEEtVHlwUQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6b8493334843",
+    "date": "September 30, 2026",
+    "publishedISO": "2026-09-30T20:10:16+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors? Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNmh5aWRJREpoYWhqVk5TTWJGVFdZVDdWaVBwZGRweE56SnZXdVVsUVVXTV9XRnBsNTlISUVDcXdqcU05WXI0Zk8tZzUycmZqUkQ2dlpEN3U5WUx0OXpFb3NQVkIwVmFaSzZnbXBIbEtjUjJhM2M4TFB4ZDI5MTQ0VkJkM01CU2VVdUw3UTFjMUQyR3FTTUJ3b0Zpaw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "mprnews.org",
-    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge mprnews.org",
+    "sourceName": "MPR News",
+    "summary": "Minnesota health systems HealthPartners, Essentia Health announce plan to merge MPR News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
