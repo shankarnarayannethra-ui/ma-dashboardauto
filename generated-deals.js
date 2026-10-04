@@ -228,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-1f2c27f373f6",
     "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:37:00+00:00",
+    "publishedISO": "2026-10-01T19:41:25+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group",
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Mattel shares rise after reports of takeover interest from Authentic Brands Group cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -990,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed CNBC",
+    "sourceName": "cnbc.com",
+    "summary": "Grindr expands beyond dating with $250 million telehealth acquisition of PurposeMed cnbc.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1140,8 +1140,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors? Yahoo Finance",
+    "sourceName": "finance.yahoo.com",
+    "summary": "What Could Morgan Stanley (MS) Merger Talks Mean For Investors? finance.yahoo.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1515,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "The End of Private Equity’s Leveraged Buyout Era Is Nigh Bloomberg.com",
+    "sourceName": "bloomberg.com",
+    "summary": "The End of Private Equity’s Leveraged Buyout Era Is Nigh bloomberg.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
