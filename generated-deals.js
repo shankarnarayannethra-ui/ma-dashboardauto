@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-f8ff6677ebeb",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T18:04:23+00:00",
+    "publishedISO": "2026-10-05T15:41:28+00:00",
     "acquirer": "Schneider Electric to",
     "target": "PTC in French Industrial Giant’s Largest-Ever Acquisition",
     "headline": "Schneider Electric to Buy PTC in French Industrial Giant’s Largest-Ever Acquisition",
@@ -78,7 +78,7 @@ window.generatedDeals = [
   {
     "id": "news-d7754b563c7a",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T16:28:29+00:00",
+    "publishedISO": "2026-10-05T10:28:29+00:00",
     "acquirer": "Accenture Completes",
     "target": "Mjølner Informatics, Bringing Deep Software Engineering Expertise",
     "headline": "Accenture Completes Acquisition of Mjølner Informatics, Bringing Deep Software Engineering Expertise for Energy, Utilities and Manufacturing Clients in Denmark",
@@ -226,81 +226,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-43b4ad135731",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T17:58:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount, Warner Bros. will be named Skydance after merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Los Angeles Times",
-    "summary": "Paramount, Warner Bros. will be named Skydance after merger Los Angeles Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdDlfUWU1eGRtMmZBVEdiR3owMDBSdEVmVFVVeFVOVS1OcUpXTk04ZElWcHJyY2RaRmFuMXJBSFFjZENFM0VxcWFyaVlIWk9fbFh6SFo2QmhtZWlpdkFHdk5VcFRQZzQweF9hN1RSWUVHQUZQNnNNMUtMZlVfZDdVWjI4dkxQNTcyc3VNSjE5RjRiRUFqTl8zOGdUNUpJX0VDbXptdEdBRHprbFJQUUNxMTBIQWFUWmV5RFM0?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-4e1001dda1f7",
     "date": "October 2, 2026",
     "publishedISO": "2026-10-02T13:53:24+00:00",
@@ -376,13 +301,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1b6841f5a869",
+    "id": "news-a3dc7f6ad8da",
     "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T00:56:54+00:00",
+    "publishedISO": "2026-10-02T13:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "South Korea says ordered to pay Elliott $48.49 million over Samsung merger case",
-    "valueBillions": 0.048,
+    "headline": "Supabase Announces $150M in New Funding and Turso Acquisition",
+    "valueBillions": 0.15,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -390,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "South Korea says ordered to pay Elliott $48.49 million over Samsung merger case Reuters",
+    "sourceName": "PR Newswire",
+    "summary": "Supabase Announces $150M in New Funding and Turso Acquisition PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +333,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQb2VpQVBjR21OM3RLWTVydkpKYmVDSzVwMk5CV3FaRjdrZHhNb1NjZ241N3NpQzF3cllmbDZ6UVdYLWdaSEFxSExHWVJxbVBKVzhHT2FPUHJqRE5jdE93UlM1UG00bjZ0T0lBbm5ieEZHTWxWbXNLQnZXa1k4elg3d0g3dS1ScVd2eTZmd2FIUUxtUEJLb3NtWVRxV2ZKN3pnSW5lWTZ0WjJZZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPcllabUczVGJsaGs1cGZQb1VaeUYwbDZ5Q2RMQlF3SVRpdHVUYVc2bVhReS1JdTJQZDg0QzdFZ1NhTGtrWWRJWVV5dkFnUFV4T3FXbDhfeFMxNkFtQzJjc0thZGZMakJ6QXYxalc1cm00VVRwX1YxdkdwZUZMeWdmbjJuSl9rUGJzMkVhQVY5bHpmT05aMTY0ZXJJS0tlSi1pNTFNMU1IdnlvX2t5VDNPWWdkVWxUdmM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -540,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group WSJ",
+    "sourceName": "wsj.com",
+    "summary": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group wsj.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1051,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-4af880221fc7",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T00:42:37+00:00",
+    "acquirer": "Paramount Skydance",
+    "target": "Warner Bros. Discovery Announce Anticipated Closing Date of Paramount",
+    "headline": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ir.wbd.com",
+    "summary": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger ir.wbd.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgJBVV95cUxNbTRwbVMxWjN4a2MzUHFuaWNiSU1QOEZnVHNKQWExVVVLVWlub3pqMV9mVFVhZmEyb0RXLWIwVGw2eDB0NmlYT2FJNU5MTUNkT3ZTdjdJbVJqSVlpT096by1ETjJYLTk0clhtTkRhN29LV05HSHpsLVVKNFdKOFlPOEZuMGxVSi1ON3JOelVwdy04REpoS0I1UjdfYmhkSXp0dnZlNlZiSmFkZHU3UmNMOVhONG9kYWNYUjFBTEFYRVJVOTFBa2ZzTUhJSkxBb21jMFR3OWZ2OTRUNURmb2hfOWdGcDZYMDB0MXVVS05LYUd2RExkS3o5VEZGcVhSQzNzZk54XzhQdW9qYjE0eC1IMkNKZG5zd1VLZGc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f9bf8c48dbfa",
     "date": "September 30, 2026",
     "publishedISO": "2026-09-30T23:49:45+00:00",
@@ -1126,81 +1126,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-91514ca6e77a",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T23:13:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Judge approves Paramount's settlement with states over Warner buyout, allowing merger to soon close",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AP News",
-    "summary": "Judge approves Paramount's settlement with states over Warner buyout, allowing merger to soon close AP News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQMG1LT3NienNIWUtPbVJ2MHZ6cDRCWmZzN0VlSjBSMDZBTzhzNmZaMldXaVAzd0dpZTdKVmVORXJiODJGcVl2b0RPclhrc1R3cVQtSE1sMzd5SFVENDdKUjFJcFNudXhnVW5kd3V3WU42Zi1fUmtuUVB6dDd5aE5ZZkVpMDZFV3ZLNDA4dDFqLVNGeFg0Y1NrVVgwLWR4b29HWVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9f8a3977f80a",
     "date": "September 30, 2026",
     "publishedISO": "2026-09-30T23:04:58+00:00",
@@ -1234,81 +1159,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNSk9heXRXUzRVTk1tdVJjN0FzVDBSMG1MeUtPN25FaFJ6N213UmF4V2ZuUjdqMjZFTWNDWjhVbWctTF9zcWpubmdGbXJwZEtZcEhUVko4NkxvSllQT0ZMMXdBZmZYSkhXRGVBNHY3V0kxYXlWT0x2TnQ2ZHR4ZnBiRFBDOXktWFBtdXZzb1RfUkFlOG85SDkwcVZVVkVjYVd6cU9vY2VEbEpWakNuOEdfRUo5eV9NRXJmQkdvVg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Sep 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1bdbe277d1fc",
-    "date": "September 30, 2026",
-    "publishedISO": "2026-09-30T22:50:05+00:00",
-    "acquirer": "Paramount Skydance",
-    "target": "Warner Bros. Discovery Announce Anticipated Closing Date of Paramount",
-    "headline": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Investor Relations | Paramount",
-    "summary": "Paramount Skydance and Warner Bros. Discovery Announce Anticipated Closing Date of Paramount Merger Investor Relations | Paramount",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOd0EzTVFYVElYZS1fRVV4b1NZMDA5czhYZ0NGbzRWc2JxMW5JNnlDb2pSM2Nzc3JzSjN4bTEyM0JTaTVSWm5zVkJuNktmZnE4WDJGcnFjYnVQUUpkNWs0Tm5jbUlZdGNneUVMTEJScmExNXc1R2tmNm1HMlJFaTZHV2dvbmM0Nk9KRU41bVEtd0ZpSEtnSGhibElMMlZUM2dGa0FxMEk2elBjMVJBQTgwMUNkN1Q?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1951,6 +1801,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-8bedd3793ce5",
+    "date": "September 30, 2026",
+    "publishedISO": "2026-09-30T15:12:33+00:00",
+    "acquirer": "Trump Media & Technology Group",
+    "target": "TAE Technologies File Form S-4 Registration Statement for Proposed",
+    "headline": "Trump Media & Technology Group and TAE Technologies File Form S-4 Registration Statement for Proposed Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "TAE Technologies",
+    "summary": "Trump Media & Technology Group and TAE Technologies File Form S-4 Registration Statement for Proposed Merger TAE Technologies",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPLXVOX0otNWRCWUVXTnhMNXh6MnZyeF9jdkI5YTlJS0xQcWRxelBLeFpHQUlwQXFRVTZvaG13M3M5WjlGOHdMUWowVFBfbWlXWDVHUExMaXE2em40eWR4WUFTVVZJTXkyb0dVVUVhLXZFdkpGa21VenVkaWZXV0JyWWNzMUlwVEpFU1B2UktCLW82bmtNbHRuRThRU0RKOF9QM2RIODNoNVNjeS16VUdhbkZhcjFZRkE3Y21JQjRnTEQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-14fa8f95db7a",
     "date": "September 30, 2026",
     "publishedISO": "2026-09-30T14:00:00+00:00",
@@ -2064,6 +1989,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Sep 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-428f44f2fc74",
+    "date": "September 29, 2026",
+    "publishedISO": "2026-09-29T21:46:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "ND clinics to change name following merger of two Minnesota-based healthcare providers",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "KFYR-TV",
+    "summary": "ND clinics to change name following merger of two Minnesota-based healthcare providers KFYR-TV",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPMWM5blNnaTdjaUl2bVVpNzBaX1h6OW40SmxrWV9leTJ0VnplUnBUMENnVjNtZTNFZDR6akpUUklJYnI0N0ZfeE1IanVXX3dwSUFQM2k0QVVDbWlHQ2VzRjBabi1tVml4RU0tZTlVQkZGOXZpeUhiLTIxRmw5UGVRQmR3UEFJRXBZdFZhbHNuYU42bU02OXJHaVhsUEJOMlNSeGpkWmpoX3IxeUs4LWpERUhPV2tuUdIBygFBVV95cUxNTUZTMXlnRjJ4aTllNmJzMENmZUZXaFF4LXdmcUUwSFNqekU0WG5oMkFRLXZTbVl5SFNpMU8xVTlaRHFMVEZ4b2ZtY2J3NnlWenJpbDVhbVhwbzJ0VWpoV29tanNoVnUzeWQ2Tm5oNXgzWWxuMV9yTTVLV2RwSnBvcE05eE5Kck5yWVlrTlBFQWlGS0s3dHl5YzZYN2hySndqOE1ZcG9ITFFFSHRsenNsM0U0Z2xyeVNQUHFid3pobHNVc1JGTUFDWkhB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Sep 29, 2026"
       },
       {
         "stage": "Terms verified",
