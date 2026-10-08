@@ -826,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-020ce4a0492e",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T12:47:24+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount Closes Deal for Warner Bros. Discovery, Creating Media Behemoth",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "Paramount Closes Deal for Warner Bros. Discovery, Creating Media Behemoth The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQM1JfZV9HNGxYcnEwVWlieV9Cbk1HRndMQkFFTFBFVFNkWV8yREVROFVidGRBUHMwZ0FxM2pFbTVCdmI0Z0pJMGxNb0JFRlRvekpNb2pmZEhJLUZXejdxVGx4Z0wyclJJcWR0R09PNjdKeHpPbHFzOTdGaHJyeS0tQnktWUtCUlZYOFY1bUd4VlY5akptWGxwOWhqSQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-cb7c768ab72b",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T12:42:00+00:00",
@@ -1164,6 +1239,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c450b044e34f",
+    "date": "October 3, 2026",
+    "publishedISO": "2026-10-03T18:11:43+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Italy's Intesa raises MPS takeover offer price and warns it could drop bid",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Italy's Intesa raises MPS takeover offer price and warns it could drop bid Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdRMU9vOENaaEdwWjJzTk9FaFlwUlV0ay04ZE9tdEdFOGhMT1pIR0VtWm5fR3RjU0NRVGVlTW9xbUZBV0o5RkRvZEQ2ZTJGNTFEMjJSY0d2dVlVOXdZSk03bWxEcGRuem5lS1l2b2hRS2hhUTNpdjJZU00tMTJMXzJYQnBYeFEzWmxmX1NFVndWUk1NRFJkTElwWXd5aGdldEM2VDN2S1U3SVpSa0RmUnhucW8yU2loV05sX3locw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1651,6 +1801,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-8e8de16ed6d1",
+    "date": "October 1, 2026",
+    "publishedISO": "2026-10-01T23:04:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "GSA memo to set AI-specific acquisition rules",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Nextgov/FCW",
+    "summary": "GSA memo to set AI-specific acquisition rules Nextgov/FCW",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlhPQjNfaEk1WnFGRWdkOGlCVFFkcFYtaExkTExEZ18zOF9DU2lHYThLanI5TTl5QWt2T1Y0Uk95bWhIeFI3NXZzYUVGejk4RDlTNE8tajB2VzFMQV9vR1dDTEJYQlJiZEZ2bXcwcURVanFmMk9lZzNPenp1T2ZnRUJBYmx6QTczcWFpWG1JOW9ITXg5MURzSkpB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 1, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9d401b1a3322",
     "date": "October 1, 2026",
     "publishedISO": "2026-10-01T21:51:30+00:00",
@@ -1984,231 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWQzWWFFWG1aT1ZQZldQdXVPam9zNVJpSHhRcUZtQV93VDJHMG9WTlpDLWJ5X2JWNzhYUXFOSTJLajh2d1pudXRhLWE3M05pSzA1OERoazRWajZxSi1NQ2lLQkRoRFU1V0lwV2VNOExfT0g2TldnWXZGX1ZVa3E4Y3hFZkZnbXRTWHM1V05RWWltbHRSUW52QXRPSW9PMzZxWExzZC1vLWtYUEZPanN1X2xPRm1NSzBhdmZtcWh6bDFSbEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ce6efbda08be",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T12:57:52+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nebius",
-    "summary": "Nebius acquires Inferize to strengthen Nebius Token Factory's production inference stack Nebius",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitgFBVV95cUxONmpiZkVBSTJfOHViU0U2ZWpKRkx6VVpvZzVtNEp3ajJjeURnclM2SXVhY1kzeGt2aHhibGtEQXpzazkwYVptNDlJQTJ5aEVoOE8ybmg2MjZmUXVPWExLcGVzam4yOG1LR2V3WHludUxFMjBHVUFHZGN1clE5VDg3MXYzNWl5NWtTaC0zN3JkUGZNR1VWTHNBV2xZZXo4ak9lb0J6dkVFS3JfbjZ3NzlFUzgwQkFOZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c10249d14a5d",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T07:15:00+00:00",
-    "acquirer": "Inseego completes",
-    "target": "Nokia’s Fixed Wireless Access business",
-    "headline": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nokia",
-    "summary": "Inseego completes acquisition of Nokia’s Fixed Wireless Access business Nokia",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNNktQRFVkX2NXZnVkNVBVR3hKRzh2bnI5bW9fLWpjQWJBcENsd1diVV9NVWZLME1INV9mMVEyTkV1ZDE0eGs3QmYzVFp0di01cmpkaHk0cUJIcGtITnoyUFlySlpkU1ZlR2ZjcVkwanQ5QmQ3VDdsV2t2N0lJRGpfQWpadS1MbU9zTnBSOThWWXczekZUaTdUUC1MNlZkTlYyYkdGQw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-47f82c59da2c",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T07:01:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Mark Ruffalo blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fox Business",
-    "summary": "Mark Ruffalo blasts Paramount-Warner Bros. merger after judge clears $110B Hollywood deal Fox Business",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNeEtMaWRoczhVOFB6YkdGZVFMc0VjZjV5X0JLM1BCS1M3MFNqWW5BMFJ1MlhlV0JYaXFpTDF3azA2REZKa1VSdkV1cTZMYzNSeWRvUUd3ZzBOaF81VzFGY045Z3dpeWVZSWRIRWdjVjBmU1JOanlPdmFZaDRhSlQxYWJmWHFoVXRqdTZYdUpCdC1sSkNWUzIzQlFseXdPTEJpWGF0cFkzTmxXMUhVeGlyMHBiWndrVGFEdHJKdkNWQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
