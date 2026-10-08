@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-2a2654710d73",
-    "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T13:55:37+00:00",
+    "id": "news-2e4c86201563",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T18:37:46+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Atkore stockholders approve acquisition by Prysmian",
+    "headline": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Prysmian",
-    "summary": "Atkore stockholders approve acquisition by Prysmian Prysmian",
+    "sourceName": "CNBC",
+    "summary": "Why a Starbucks takeover of Chipotle would — and wouldn't — make sense for both companies CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,307 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNaWU3MzN0NFFXei0zWmEwSF9vZlc2ZE5YVWlXaU5WZzduZnhYUHJ5Nk42MFg4VC1sX1p2WnlOUWt5ZF9HMFA1X1FqZ1FtVjZBNG81NnNBUTlWcmVjbzhJLUtHV0dhUFAtS3pFdi1aTFBMODFFOFZQcks5X3YxaFoyYkVJOTB6ODNJS0RiZDJwallEQ0dHakEwblpyN2JybXZsUUE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1GWU0yZFhTREE0NnhtSjZJX29iVW55QUFINkstWGV2NEhaSmVmNXFDYjYxajItQTNOcmFKclBYckRZVm5maFpTRDhTWGRiV3BtMW8tZXhOX3FwcXJ1Sm5TbnBvVDNwZzVGczJuSUVpWl81SnI4Z3fSAXtBVV95cUxNODB1TEZaQ19hRTBLaU9hQU1jTE5kdTVYSHVpdjJyM0VSVTQzNTBZLURlcDVxMTdmMDFJQ0Jtd1Zpa1RucnNVR2FESFQ5WlBockVaRDhPV2F0eGRMZDZzVVAzOU5qMmFmT3NwTHE5eWVfZWR3NnlVSGc1Z2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-81a301c5810d",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T17:51:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Starbucks reportedly exploring Chipotle takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Guardian",
+    "summary": "Starbucks reportedly exploring Chipotle takeover The Guardian",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbE1qaW5ZeUs0NEFTZExHQVV2d3Z6cE5JaFJRekQyNENGT1h2cm9VUUhtNFRPUUUyNDJlck1SYm1DRDUzWnBOWWgtNlROZ1JBVlkwT1BaZE9OZWpMTHdjNV8wdV9wWkRwWHFMdG9TdDJyZHVkb3dfRzd5RWVYS3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-05ef68edcbab",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T14:06:07+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Financial Times",
+    "summary": "Starbucks has explored takeover of Chipotle in restaurant megadeal Financial Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-080388fcd3ef",
+    "date": "October 7, 2026",
+    "publishedISO": "2026-10-07T16:28:12+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Virginia Lt. Gov. Hashmi opposes NextEra-Dominion merger as public hearings begin",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Utility Dive",
+    "summary": "Virginia Lt. Gov. Hashmi opposes NextEra-Dominion merger as public hearings begin Utility Dive",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNWE5OdXc0SmRkNWhnbDAxNHhKZHM4NHoySnlhWDFyaVU2czF5OGxZWjVwXzRLN2xhNU1sUzJPcE9SZl9ZSC1HZkhzWl9XVXRvM2RBWXBzSTR4Z3FwU0FqMWdqVTlhWFZwT2lfSjIzNjBjaXBwUE9pRVVIMzE2emR1NUJmc1NSbFQ0cTBkZ3M0MnE0TzRVdDZ0RW82aVVwMmpHbk8zUl91Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 7, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ccb3170db29c",
+    "date": "October 7, 2026",
+    "publishedISO": "2026-10-07T13:59:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Why Paramount-Warner merger has sparked fears about press freedom",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Al Jazeera",
+    "summary": "Why Paramount-Warner merger has sparked fears about press freedom Al Jazeera",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOOWJnSURzVHU2R08tQjVrQ0dsWEtsSmJlcGNPTmNxa0kxUnU5X0lwS25sNy1uOVc2c3BTaGVTZTRPOVdWS0tXOVZ3bzA1T0ptZ2dxWlVobmxvWFVIVjR0aWMwOFA0V0hQY1VreXJXRXNqTWRBTDVMWDdGNGczU3Y1YWtrUDlvckdBRmpLMGJGM294ZTFVTWpaWUVDZ2xJakFUYWktVzNWcUljZ9IBrwFBVV95cUxOOGFOZnVySDNkSTAtbE10TW12MVlNVnZoY3VndnpLOGhTZGREc2xhenMwTUhhT3pHYmhfVG10cm1LR0RuZDZYSlV1eGpvSVJ0MTNPbWhsc243dTdYZGlKZXZjd2JnY21JOExfbjNfbElMUllYOUxrdHRfS0Zka0htN0YyN2hDV01URmdadGhSSDQwQ1hNbnRUeng5STZqUjNFX2pMdDBXNTQ2Ny1oUG93?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -189,81 +489,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f6a476d6ff88",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T22:47:10+00:00",
-    "acquirer": "Latham Advises Skydance in Completed",
-    "target": "Warner Bros Discovery",
-    "headline": "Latham Advises Skydance in Completed Acquisition of Warner Bros Discovery",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Latham & Watkins LLP",
-    "summary": "Latham Advises Skydance in Completed Acquisition of Warner Bros Discovery Latham & Watkins LLP",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPampZN1lTOXp6eG9MNnFTbTFPM1hrZGNIZTZPYm00Zzg1TmJZcEVXNk5lQmJkMHFVb3BoSWZmeXdIV2t3NjlMR3VQcWx2cHR5TVFtYzB6RXE4Qzk1RlRES2EwTVJCc3c2Rk50V1k0aHVvX2JFdFA2VnVmNTlaOXdpbjM2c3BDd1kycHE1T0xOUjBVcGZ2NkpIYVdqbnlXdERlaW93UDROdGVLN3RK?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,6 +826,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-72dd0bcc307f",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T15:32:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmhBeklBZXZpbnUtdU5XM2xGV095aUNBT2RwM1dKbTYyM3dsYzdHbUxzWWRLbWxoeVBwV2cwSmYwZm9XVDRtT1JTTjAwZjZoRUpTYlpoLWpjWlctZmc0WG1uZ29pLUlYS2ZqR3FVZlI0MXMzaWYxWHZrU1BPMk9Pc2VaRnFzMlRBRkpncTFRalhNRVBscGctWDVjWW5jZkxwckZJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-42bf19cf669c",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T14:33:57+00:00",
@@ -751,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-e556c4d876a3",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T13:02:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: ‘Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,’ David Ellison Says",
+    "valueBillions": 111.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Paramount-Warner Bros. $111 Billion Merger Officially Closes: ‘Today Is a Historic Day, Not Just for Skydance but for Our Entire Industry,’ David Ellison Says Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNSWhCSEEyZ21sdFN0eVVSaDQ3eUVHQ1lMU2duVVNNSzRwUU0yaVdHOEFqMGxmVHFZUDNJanVpdEF3Ujg4SVpxcVlyQzB4UzAwUkt4M2xTYmlJNzJNN3Y3WEV2TENJa3hmWHNYbmVQYWVBRHlMTHhvTlJRQUoxWnJUazdxSmNyc2N0UVB6Z1hpcVhCdm0wTlFMN05iMk96Q3VsNlRJRVJhRXYycXZIcXhnaElyUmlqdXM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-443524aad364",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T12:54:17+00:00",
@@ -826,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-020ce4a0492e",
+    "id": "news-e141e8afe777",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T12:47:24+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Paramount Closes Deal for Warner Bros. Discovery, Creating Media Behemoth",
+    "headline": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -841,7 +1216,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "The New York Times",
-    "summary": "Paramount Closes Deal for Warner Bros. Discovery, Creating Media Behemoth The New York Times",
+    "summary": "Paramount Closes Merger With Warner Bros. Discovery to Form Skydance The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -934,6 +1309,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPU3FqSTVKTlVKYjhpTElEZG96U0k0V2hxWGFYNXk5emE4XzN2Ukpyb0dSakdPLWxoVnMzUE9uV3dmb3ZxM2x4ZE9ZNllUYjdKMElxdGFjSDdLYkVwdmY5R0FoQ3hEVDY0R2dySWdkNUhSUzNLZXg1QklURkQwY2RrUElRVWNUaFFhbC1HSXUxQ0Z5bERVYUdwLV9ZeHJ1X1YwY2tJM0ZhTm9WUFNoQXN6Y2FPYkxCUldRb0ZwNFNmUkNNaHJNSHhpc0lFaVVuS1l1cmdyUA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-00ee12c7b107",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T11:41:20+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount-Warner Bros. Discovery merger to close after nearly yearlong battle, paving way for Skydance",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Paramount-Warner Bros. Discovery merger to close after nearly yearlong battle, paving way for Skydance Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQTk5Gd29jRmlYYUFobG1xMGV4ZndKd0VQam9KSGlSak0zVDFaeGwtMmxJcVJIWTFIOXpTdWY3a2lxUVhHOUlRTEVvaWZYLVV2czlkVVl1MnEwQnAxRi1rbS0wUW45TE1YajJPR2h5dzZFanJia3NrOHRrMFVxdFhlNWVQYXN6cnZFN28tQ2hwRFVNYzFVU1czdS04OWJtSDE5NldEU3VaZGdFb2hUWFp2VEZLX1RyQVVELTdHbkp2N29SQzJBOS1YOUZET3g5RnJablVFd3o2V2xDYnpvRzk5bEQ1MWZ3VDFYbEhFUlFHNW9YenlVVTNz?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,12 +1801,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dbd0e5823efd",
-    "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T22:30:57+00:00",
+    "id": "news-5804f7f48c42",
+    "date": "October 3, 2026",
+    "publishedISO": "2026-10-03T13:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
+    "headline": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say Reuters",
+    "sourceName": "Variety",
+    "summary": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly? Variety",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,12 +1833,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzR6UUJPeU5wX2ZQYUlMWVZTb2ZCXzduZC1WTFRBZVlPOXU0MENIWUZjWVZIMHdIc0lvTUdYV1pMTURNTHZWcXZmT0hVb052SG1FTWV5dFN3UDFRQmxsYktrc2FzN0V0dFJNTzVKamxMeks3bDFNcGxuQlM5Y3FsVzlxUGNTOUZLbXR4RWV4My1CYWZzYUhlSnR2SWlvY2R2V0pTUVZn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 2, 2026"
+        "date": "Oct 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1426,12 +1876,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-166438d3e4cc",
+    "id": "news-dbd0e5823efd",
     "date": "October 2, 2026",
-    "publishedISO": "2026-10-02T21:47:24+00:00",
+    "publishedISO": "2026-10-02T22:30:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Army to establish new autonomy command, acquisition executive",
+    "headline": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1440,8 +1890,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Breaking Defense",
-    "summary": "Army to establish new autonomy command, acquisition executive Breaking Defense",
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: China demands copper supply commitments for Anglo Teck merger approval, sources say Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,7 +1908,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTXlEZ2hvWUdaY2pNRDNWTlZFRXhSMFV6bS0tbU94cjJDNlNXLS10X0RZUkZkWHVSOFRibFhydXFrdlo4OXk2QnBvSTJ3ODI1akRPdklIN0VrUFpzNVMtUFFFRzVtSFJLRVRfRXhOOTJQTlAwQjZTM3lDTFRYWThGSFZRdWZJai02ZnhmOTllOXI2czlHX0pEcE5VNUEtUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQXzhLRWZhLUFJdVVORElYVGRzdmVHRXdtQklrVVFuUHBRVVZWenY2a0ZEV1N2X21YVHF6bGo3NFowdjFEOFlnc0dHSzRMZ2M4NUFpc0h5MldrcDBxcFJPQlRXY0phRDVtallfOHNjQTAzQVZ0dWVMWTZQU3RyYjM5YmtHQVVWSDlIRjI0UmZLZG9FYmFLeXNZU1M0UFlELW9NNjJfWmtMcXBrN0JIZUdQYUt6Q1B5ek16Tnc1RXpEVEJGLXpma0xGeUVB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1764,456 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8e8de16ed6d1",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T23:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "GSA memo to set AI-specific acquisition rules",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Nextgov/FCW",
-    "summary": "GSA memo to set AI-specific acquisition rules Nextgov/FCW",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSlhPQjNfaEk1WnFGRWdkOGlCVFFkcFYtaExkTExEZ18zOF9DU2lHYThLanI5TTl5QWt2T1Y0Uk95bWhIeFI3NXZzYUVGejk4RDlTNE8tajB2VzFMQV9vR1dDTEJYQlJiZEZ2bXcwcURVanFmMk9lZzNPenp1T2ZnRUJBYmx6QTczcWFpWG1JOW9ITXg5MURzSkpB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9d401b1a3322",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T21:51:30+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Mattel attracts takeover interest from Authentic Brands Group, source says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Mattel attracts takeover interest from Authentic Brands Group, source says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPR0RjN3NNRUptZEdRTXljT1RObmt6QWpjLWs5SnRvMkpzMXBKaWxiMGlxZ2VkTng2c0dRX1ZHZHZBUDBwWC03NFFORWRpeHZaazViOTEwYlAxLW4zMlA0cmRsQXFEQ3ZuWUhHQ1VQZG5PaWRNc2xnc1Y0WW1PNGxuNFhrbmh4T3hZS1dHR0NxbmhjWW5vbERsNnh1Z2VqdFltOFR6N2xodXhiSXdPM21sZDVGdVk4R3VvWk1MRDM0NlE5eXFxdTlwaUNNV0g?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fb3ce03da820",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T21:51:09+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "GSA issued an AI acquisition policy for new contracts. Here’s what it says.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FedScoop",
-    "summary": "GSA issued an AI acquisition policy for new contracts. Here’s what it says. FedScoop",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQcWlXcm1vOGpSTDdtaWR3cTlQZUlTTVI4UUdkdGdjSVUxaUZBdEdXaHBiUThhRkYyT0VhenZ5dkFvWHBQVGF5TDg1bEVNSjI0UHB5N0o1T0FDLWViUzcweHNEcW9TSUJ3M3VtS2paV1JjUW9pbFYzOENSNGw1NUIyNlFraDBqYzU1OElHUFpJTGtXcWlnRWs2cVB3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1f2c27f373f6",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T20:37:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Barbie-Maker Mattel Draws Takeover Interest From Authentic Brands Group WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxObWY2cUl6RnA5NWNxOHAzTHRBUEV3WUxNcUczNEVMTDJmVnBfX0x4UVF5T1VwQld6eWNVZUVHMFI1OGlJTXZ5bkNFZ0JaS1I1cHhNYWpFdTdOMzBUMlNsQ1hGQ3d1Q1pwcjBFdHM5bG1MNzE1TkhJcHlpMUFIR3dTSm5nZU9UQWF4QXdFdlBrbm53bGlxdHhqY1AtSjBxb21pbUhlTzNWeVN0MlM0Q2Z3STlyRWFrUnM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-76b268e712bd",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T15:40:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Nuveen completes Schroders takeover to create $2.6 trillion investment group",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Nuveen completes Schroders takeover to create $2.6 trillion investment group Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQSVMzWVlWeGNMcVVrMGFPR0NtS2prbWJTT25nNnlsNzZUR0dMN2ZXV1pGY0V2akZhcjhDNEhQUVkwZ09Tc3RGVWxyR0FBd2o1eFIteUNETF9vN19tWXJBX09HVEdRd3NXclQwdnhUMUY4a3hPM185eVNNNmRvLVNIbDZwWHpnSGM3S2RFM0NzVEotTTdQWENRX2hZU2hQVXFHOFpTQU5oMWFRT1ZuYmw1VnNxSjhITnFEajdfWTBNc29qOEplN3c?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d6ebaff512a3",
-    "date": "October 1, 2026",
-    "publishedISO": "2026-10-01T14:05:06+00:00",
-    "acquirer": "CMA CGM Group completes",
-    "target": "FedEx Supply Chain, strengthening its logistics presence in North America, and e",
-    "headline": "CMA CGM Group completes acquisition of FedEx Supply Chain, strengthening its logistics presence in North America, and enters into multi-year commercial agreements related to air and ocean freight",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CMA CGM Group",
-    "summary": "CMA CGM Group completes acquisition of FedEx Supply Chain, strengthening its logistics presence in North America, and enters into multi-year commercial agreements related to air and ocean freight CMA CGM Group",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPRWQzWWFFWG1aT1ZQZldQdXVPam9zNVJpSHhRcUZtQV93VDJHMG9WTlpDLWJ5X2JWNzhYUXFOSTJLajh2d1pudXRhLWE3M05pSzA1OERoazRWajZxSi1NQ2lLQkRoRFU1V0lwV2VNOExfT0g2TldnWXZGX1ZVa3E4Y3hFZkZnbXRTWHM1V05RWWltbHRSUW52QXRPSW9PMzZxWExzZC1vLWtYUEZPanN1X2xPRm1NSzBhdmZtcWh6bDFSbEE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 1, 2026"
       },
       {
         "stage": "Terms verified",
