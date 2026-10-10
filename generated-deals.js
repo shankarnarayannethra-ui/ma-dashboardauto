@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-9a5031bb1686",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T06:00:04+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "SpaceX takes aim at US wireless carriers with spectrum acquisition Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-322d2b94575d",
     "date": "October 8, 2026",
     "publishedISO": "2026-10-08T22:28:07+00:00",
@@ -376,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9a5031bb1686",
+    "id": "news-a222d9491f19",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T20:19:00+00:00",
+    "publishedISO": "2026-10-08T19:51:16+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+    "headline": "Chipotle shares jump on report of Starbucks takeover interest",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "SpaceX takes aim at US wireless carriers with spectrum acquisition Reuters",
+    "sourceName": "Axios",
+    "summary": "Chipotle shares jump on report of Starbucks takeover interest Axios",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiT3V4cGJsTlN3TUZZeDFCVWt2d0tfR0tWN3k3ZmdqT3otbmExTm54dUNOOVhKcjVYNHlPWFloSG5qbHFZY0ZXOUZoakgtalJrbGV4ZlJqZGF6Q1kxa3pXaXV1NDVBVG9MbU80ejQ0QW84VjFTcUlBczBn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1501,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-0fcc6cf2706e",
+    "date": "October 6, 2026",
+    "publishedISO": "2026-10-06T13:45:05+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Paramount closes deal for Warner Bros.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "LiveNOW from FOX",
+    "summary": "Paramount closes deal for Warner Bros. LiveNOW from FOX",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZjRUSVdDcGozWk1HS0Eyb0FvSWFzTEdORnBOX0RYckZ2VWVTQWRxM01jNG5Ydl9ReE5LYnRNd1Jlbi1KQlRiQXJyN0NCWS01aFVabTdZcTJBWGVIUXB1LURmQmREMFZlTlRsWTMwY29fVWZqYXEwV1NkNNIBgAFBVV95cUxNQVdYSVZjbDVNX1dnMUJWcUZJd3NmQ1lPOWdHdW5Uakw5bkt5TmU3ZFVvSWFhRS1HeUJRLVFlam5tLXF4MWFxdm8ycHRiTUZXejV5NmRUOUxDT2xZRG1ualVqeC1PVWJEY3lIRXZqdVEwd1VkbGV1TXhpZHdES3ROOA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-67d306fe6247",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T13:02:21+00:00",
@@ -2026,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b12e89f90487",
+    "id": "news-18f7e33a8134",
     "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T15:34:16+00:00",
+    "publishedISO": "2026-10-05T15:33:24+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "UK grocer Sainsbury's held merger talks with rival Morrisons, reports say",
+    "headline": "Shionogi strikes $2B deal for IntraBio hot off FDA label expansion",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2040,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "UK grocer Sainsbury's held merger talks with rival Morrisons, reports say Reuters",
+    "sourceName": "Fierce Pharma",
+    "summary": "Shionogi strikes $2B deal for IntraBio hot off FDA label expansion Fierce Pharma",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,162 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOQUZlaGNBNmlxLUZRdl9ROUpDY0w0TEVYTHhCbnNUNEtadmFMSXFqUURFWHZLS2R0RzcwSUpwTVBFV3lueWNvSVZLZ1E4M3RIdzRweXNBV0ZxUy1xTkxMeHRKMlRLUE55eEs3XzljbWtwRDlpNDFSSm5CQUtTZk1FRGRaZjE3Z013dkg1QWlKTmpudTNQOFlKY2hrdUlwNTRZSEpocl9TSW9XRFh2djdXd3lTYWJHS1U?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1BMZW9GWWlwUTJXTy1SbWY3ZXhUUlVBR0RXcUV6aFhzUi1fcXdDWndrVDY5dldsR2dwLXlaYzhnYXV1cXIxOUJwVm9ic0RaMDFBWlhLclJyVGlSckZWakEtRTJEa1U5Qm1nV1BoZ01NdDVLWTFmQjloM3VJOExleTc5MnJlUUQxcEFacnJXTGF3QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c450b044e34f",
-    "date": "October 3, 2026",
-    "publishedISO": "2026-10-03T18:11:43+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Italy's Intesa raises MPS takeover offer price and warns it could drop bid",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Italy's Intesa raises MPS takeover offer price and warns it could drop bid Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPVHdRMU9vOENaaEdwWjJzTk9FaFlwUlV0ay04ZE9tdEdFOGhMT1pIR0VtWm5fR3RjU0NRVGVlTW9xbUZBV0o5RkRvZEQ2ZTJGNTFEMjJSY0d2dVlVOXdZSk03bWxEcGRuem5lS1l2b2hRS2hhUTNpdjJZU00tMTJMXzJYQnBYeFEzWmxmX1NFVndWUk1NRFJkTElwWXd5aGdldEM2VDN2S1U3SVpSa0RmUnhucW8yU2loV05sX3locw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5804f7f48c42",
-    "date": "October 3, 2026",
-    "publishedISO": "2026-10-03T13:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Skydance Blasts Off: Can David Ellison Make Paramount-Warner Bros. Merger Fly? Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdzR6UUJPeU5wX2ZQYUlMWVZTb2ZCXzduZC1WTFRBZVlPOXU0MENIWUZjWVZIMHdIc0lvTUdYV1pMTURNTHZWcXZmT0hVb052SG1FTWV5dFN3UDFRQmxsYktrc2FzN0V0dFJNTzVKamxMeks3bDFNcGxuQlM5Y3FsVzlxUGNTOUZLbXR4RWV4My1CYWZzYUhlSnR2SWlvY2R2V0pTUVZn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 3, 2026"
       },
       {
         "stage": "Terms verified",
