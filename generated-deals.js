@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-f2b0c1f62b3e",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T17:21:14+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "United States Coast Guard News (.mil)",
+    "summary": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security United States Coast Guard News (.mil)",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbktXSHJUVFV2UVNEdlhlNWVpTjhNU01jaGptUW8wM3Zwdk9JaHQ1cWg0akxNYnppTmxadTViOUhMRHF6NW1jYTd1OVlJbU5CLUFQN0pEWkRxZ0laX0lKaEFvVno0NlhyTVI2bjdibHpoMjhwekhOZkZEdHRLQXFOb3Z5Y2RrOUtRV3oxbUh1UFI4bnd3MTFOQVU5VW9pUkNaNmRmREhRLW5EMmJ2NlhGQzg2SFlPVV9NZVNSOHpBQVNFRDE2dW9YNHRLT2owRU9TNGNF?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-c07693e39dc1",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T11:13:56+00:00",
@@ -109,6 +184,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9a5031bb1686",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T06:00:04+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SpaceX takes aim at US wireless carriers with spectrum acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "SpaceX takes aim at US wireless carriers with spectrum acquisition Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,81 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-06fc6301f4f9",
-    "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T19:38:18+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXy1zR0J3VHNhRTNRcFFxSHkxTnllUW8wTkJMYWFJWE1LMklyUFd1QlRWMXJxc1F4QlNEUk13M0hjcGJpSTBXYU42eDNCRzV6cWJtY0hZWFVZQ0lMRndZWndfcmw3eGlFYmJINjI1YVpNaE9udS1wdTN4Rmw4aTBrV3Nlam9zamxaTnVPRjRtVXEtVFV2OFBmY0FNQmJZQ0xzOVBCZnpITGZFeHhncFE2WnpodVJBYVpqcEpGcUpPdks?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-080388fcd3ef",
     "date": "October 7, 2026",
     "publishedISO": "2026-10-07T16:28:12+00:00",
@@ -1534,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPSHplUFNEb20zUHdJcERHNUltQlhPY0NoMGJrNUptZ05SZ29fTWo5RFZ4UGpfREpETUFNYzRaRGRXR0lKYWEyNF9uREhYQUdSNThGenNiU3c4YzJvT0pGUUN3M3dMWUUzZUUwQmxlSVRHYXMyQ0hwNEVpTXhyd1BjMUVmeXRUejBuUTh4ZFluWnFRYjVkdlhSRUt4dVlkZTdJbHF5MDE3YXMzQdIBrwFBVV95cUxOOHByMEgxeFRRbl9rLUZ4X19Qa25ram5kZXdUdjg3V244MjZIVTRPb2xSb0NyMXBfVUxrUjlseW9LVjVXdjJ3ekduX3ZOcTRkdXpuQTBERVEwRHVQdERSSE5haExfNTE3WDNsbW1UMUR1MlJLM2ItYmdvdEp5SmpLZmxHX04zZk90TlIzNTRILVNXVHZidHhZSURlMEhUejY0LTF3akdFUWFFTWdkWXo4?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-72dd0bcc307f",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T15:32:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Skydance CEOs Acknowledge Layoffs Will Be Coming After Paramount-Warner Bros. Merger: Read the Full Memo Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPRmhBeklBZXZpbnUtdU5XM2xGV095aUNBT2RwM1dKbTYyM3dsYzdHbUxzWWRLbWxoeVBwV2cwSmYwZm9XVDRtT1JTTjAwZjZoRUpTYlpoLWpjWlctZmc0WG1uZ29pLUlYS2ZqR3FVZlI0MXMzaWYxWHZrU1BPMk9Pc2VaRnFzMlRBRkpncTFRalhNRVBscGctWDVjWW5jZkxwckZJ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
