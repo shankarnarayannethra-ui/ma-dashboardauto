@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-c07693e39dc1",
+    "date": "October 9, 2026",
+    "publishedISO": "2026-10-09T11:13:56+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-9a5031bb1686",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T06:00:04+00:00",
@@ -301,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-31bc1c4ac469",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T21:18:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Chipotle shares jump after report that Starbucks has explored a takeover",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS News",
+    "summary": "Chipotle shares jump after report that Starbucks has explored a takeover CBS News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPajBZOVB1N3lMWDd2dDVIWXkyQTd1emtsSGRaX3ljalZkR25ISXZuY01QM3QyTVNVOGVzZFNPdlFJbzBjaHJpdk1oY3J1dHFWTVE2bTdhUnBmOWZsWWMzazZrYUFsZzM3b0o4aWVSMWxJZzM1dmJQWGkyNWtsQVdwNnhaOTRFODQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-3e8511474ca9",
     "date": "October 8, 2026",
     "publishedISO": "2026-10-08T21:11:00+00:00",
@@ -376,13 +526,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c591bd8d2bd6",
+    "id": "news-3ed4ad4b6ca7",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T20:46:07+00:00",
+    "publishedISO": "2026-10-08T21:04:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Houston ISD takeover commission calls for limits to state interventions",
-    "valueBillions": null,
+    "headline": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
+    "valueBillions": 0.606,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -390,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Houston Public Media",
-    "summary": "Houston ISD takeover commission calls for limits to state interventions Houston Public Media",
+    "sourceName": "Variety",
+    "summary": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger Variety",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRU9PQTNFQlhMTHF3c2VRNlFQQ0tCdENJVmo1ZGdOYzhLMVVHSlI1MVFpSmRSX3BGcmxiQV8yY2hXakJvclBrU3ZzX1dIajFyN0wzdFV4U0ZfZ0w3UFFZNVprT0xtUUd3ZUFPZUlidWNWcFNhOFN1NUxJMXVzdUZkU1lDbmlWRWF6NFQ3TkllSkpTMzBFeEJ6VEZWY0hyNEZvekRCRExkbTBWVDY0Wlc4TjBzdUJBM1YyZVEtVHJMRXBRUG5MUUhHWDE2c0RZbmhLeFl1Z05kdEljUFJt0gHkAUFVX3lxTE82X3F3VGs4TTBubXFuOEctR2J0WTVCSXpIZ2duNVIyQXR6OEJhWmJUSVdrZ3htRi1JVGJkdUdvRUprNDc2Z09xM3pyd0VoNXo1YnZtYXVTYUw5MTNETWhmOW9UZjJpbXozWVBJV3A4MFVoY0ROc1YzOFlPeEs2VWlMT0R4eW9wUHR4X3k2eU1oS3RGVFEzMUlPRHlSLTZ2bTd4MXpXVTc3enp1N09KN2ZsZjJmTEtBUHFuUmYwTUVmV3N2YkZSN2E3RjlEVjhBMmdZNjZwWklVNV8tVENEMkRONGNMSA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNlTjcycjk2RGFoSGlheU5YaTBLQk5KampBUEoybVVKLVpjMnBMREVQNElLUGlrejlEN2xtVzl4eGtTMENLMkEwc1dhOUR6Qk91a2ozQUlYNUEza3BfQVRoTnV4Tmk2RkJTWmtlQm5ubHlqSVgzaWljMTlDT1pvdThlSTlaV3U0eTBwNS1iS1lyaFhFd19zLUJYWFlZUGxrcjNlcERZdU80YU94ZlE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a222d9491f19",
+    "id": "news-c591bd8d2bd6",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T19:51:16+00:00",
+    "publishedISO": "2026-10-08T20:46:07+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Chipotle shares jump on report of Starbucks takeover interest",
+    "headline": "Houston ISD takeover commission calls for limits to state interventions",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Axios",
-    "summary": "Chipotle shares jump on report of Starbucks takeover interest Axios",
+    "sourceName": "Houston Public Media",
+    "summary": "Houston ISD takeover commission calls for limits to state interventions Houston Public Media",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBiT3V4cGJsTlN3TUZZeDFCVWt2d0tfR0tWN3k3ZmdqT3otbmExTm54dUNOOVhKcjVYNHlPWFloSG5qbHFZY0ZXOUZoakgtalJrbGV4ZlJqZGF6Q1kxa3pXaXV1NDVBVG9MbU80ejQ0QW84VjFTcUlBczBn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNRU9PQTNFQlhMTHF3c2VRNlFQQ0tCdENJVmo1ZGdOYzhLMVVHSlI1MVFpSmRSX3BGcmxiQV8yY2hXakJvclBrU3ZzX1dIajFyN0wzdFV4U0ZfZ0w3UFFZNVprT0xtUUd3ZUFPZUlidWNWcFNhOFN1NUxJMXVzdUZkU1lDbmlWRWF6NFQ3TkllSkpTMzBFeEJ6VEZWY0hyNEZvekRCRExkbTBWVDY0Wlc4TjBzdUJBM1YyZVEtVHJMRXBRUG5MUUhHWDE2c0RZbmhLeFl1Z05kdEljUFJt0gHkAUFVX3lxTE82X3F3VGs4TTBubXFuOEctR2J0WTVCSXpIZ2duNVIyQXR6OEJhWmJUSVdrZ3htRi1JVGJkdUdvRUprNDc2Z09xM3pyd0VoNXo1YnZtYXVTYUw5MTNETWhmOW9UZjJpbXozWVBJV3A4MFVoY0ROc1YzOFlPeEs2VWlMT0R4eW9wUHR4X3k2eU1oS3RGVFEzMUlPRHlSLTZ2bTd4MXpXVTc3enp1N09KN2ZsZjJmTEtBUHFuUmYwTUVmV3N2YkZSN2E3RjlEVjhBMmdZNjZwWklVNV8tVENEMkRONGNMSA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c07693e39dc1",
+    "id": "news-05ef68edcbab",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T14:11:00+00:00",
+    "publishedISO": "2026-10-08T14:06:07+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
+    "headline": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -765,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
+    "sourceName": "Financial Times",
+    "summary": "Starbucks has explored takeover of Chipotle in restaurant megadeal Financial Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +933,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +976,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-05ef68edcbab",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T14:06:07+00:00",
+    "id": "news-06fc6301f4f9",
+    "date": "October 7, 2026",
+    "publishedISO": "2026-10-07T19:38:18+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+    "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "Starbucks has explored takeover of Chipotle in restaurant megadeal Financial Times",
+    "sourceName": "Reuters",
+    "summary": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,12 +1008,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXy1zR0J3VHNhRTNRcFFxSHkxTnllUW8wTkJMYWFJWE1LMklyUFd1QlRWMXJxc1F4QlNEUk13M0hjcGJpSTBXYU42eDNCRzV6cWJtY0hZWFVZQ0lMRndZWndfcmw3eGlFYmJINjI1YVpNaE9udS1wdTN4Rmw4aTBrV3Nlam9zamxaTnVPRjRtVXEtVFV2OFBmY0FNQmJZQ0xzOVBCZnpITGZFeHhncFE2WnpodVJBYVpqcEpGcUpPdks?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 8, 2026"
+        "date": "Oct 7, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1576,81 +1726,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0fcc6cf2706e",
-    "date": "October 6, 2026",
-    "publishedISO": "2026-10-06T13:45:05+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount closes deal for Warner Bros.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "LiveNOW from FOX",
-    "summary": "Paramount closes deal for Warner Bros. LiveNOW from FOX",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBqZjRUSVdDcGozWk1HS0Eyb0FvSWFzTEdORnBOX0RYckZ2VWVTQWRxM01jNG5Ydl9ReE5LYnRNd1Jlbi1KQlRiQXJyN0NCWS01aFVabTdZcTJBWGVIUXB1LURmQmREMFZlTlRsWTMwY29fVWZqYXEwV1NkNNIBgAFBVV95cUxNQVdYSVZjbDVNX1dnMUJWcUZJd3NmQ1lPOWdHdW5Uakw5bkt5TmU3ZFVvSWFhRS1HeUJRLVFlam5tLXF4MWFxdm8ycHRiTUZXejV5NmRUOUxDT2xZRG1ualVqeC1PVWJEY3lIRXZqdVEwd1VkbGV1TXhpZHdES3ROOA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-67d306fe6247",
     "date": "October 6, 2026",
     "publishedISO": "2026-10-06T13:02:21+00:00",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-18f7e33a8134",
-    "date": "October 5, 2026",
-    "publishedISO": "2026-10-05T15:33:24+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Shionogi strikes $2B deal for IntraBio hot off FDA label expansion",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Pharma",
-    "summary": "Shionogi strikes $2B deal for IntraBio hot off FDA label expansion Fierce Pharma",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1BMZW9GWWlwUTJXTy1SbWY3ZXhUUlVBR0RXcUV6aFhzUi1fcXdDWndrVDY5dldsR2dwLXlaYzhnYXV1cXIxOUJwVm9ic0RaMDFBWlhLclJyVGlSckZWakEtRTJEa1U5Qm1nV1BoZ01NdDVLWTFmQjloM3VJOExleTc5MnJlUUQxcEFacnJXTGF3QQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 5, 2026"
       },
       {
         "stage": "Terms verified",
