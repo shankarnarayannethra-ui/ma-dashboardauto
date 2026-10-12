@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-61d891b9ac34",
+    "date": "October 10, 2026",
+    "publishedISO": "2026-10-10T13:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "How Paramount-Warner Bros. Merger Could Impact Sports Broadcasting",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Forbes",
+    "summary": "How Paramount-Warner Bros. Merger Could Impact Sports Broadcasting Forbes",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSHlvMFZYT1FlRGlIcXc4LW5OWG1vN2RQQVBORnlCUDdGaGx1d0tacTk4bGVpRFNDREVNcG5ZUXZieEVVT1I5QVloVHRfbmc0SEhIekV4ZU1lekFOenZoNElhZzljLVltdTJ2RlNad0U1UFpqX0ZxTVpsVVI0bXd4WGZ2Mzh2MWpBNjdONmVoZmtpUWpVckJDNjduLUpXd2ZhQ2kxeGVvMlFLZC1GY043S0o3MXd6ZTVVX0Q0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2219422028c9",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T19:50:06+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f2b0c1f62b3e",
+    "id": "news-e325b4b10d55",
     "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T17:21:14+00:00",
+    "publishedISO": "2026-10-09T19:40:30+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security",
+    "headline": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire?",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "United States Coast Guard News (.mil)",
-    "summary": "Coast Guard acquires four long-range unmanned aircraft to strengthen maritime security United States Coast Guard News (.mil)",
+    "sourceName": "Yahoo Finance",
+    "summary": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire? Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,82 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPbktXSHJUVFV2UVNEdlhlNWVpTjhNU01jaGptUW8wM3Zwdk9JaHQ1cWg0akxNYnppTmxadTViOUhMRHF6NW1jYTd1OVlJbU5CLUFQN0pEWkRxZ0laX0lKaEFvVno0NlhyTVI2bjdibHpoMjhwekhOZkZEdHRLQXFOb3Z5Y2RrOUtRV3oxbUh1UFI4bnd3MTFOQVU5VW9pUkNaNmRmREhRLW5EMmJ2NlhGQzg2SFlPVV9NZVNSOHpBQVNFRDE2dW9YNHRLT2owRU9TNGNF?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-c07693e39dc1",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T11:13:56+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEhzV0xmVVFCVmZidFExanpOeEtDN3gtV1RSZXBhSHp1X1ZrVHFRZ0VFaVR3UTBDNDI3eTA5X3hnRlVkdTR3QVRnWERMcmZqS0g1Z1pONk92em56ZFRCWkpqUG1VUENIWjlaS1NxSnFVR2VnWjBPSXo1endKUkRrajFicFpZM2llNEd3cTJhWXNKQ2o1WUJlY1NET1pESms?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3ed4ad4b6ca7",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T21:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
-    "valueBillions": 0.606,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNlTjcycjk2RGFoSGlheU5YaTBLQk5KampBUEoybVVKLVpjMnBMREVQNElLUGlrejlEN2xtVzl4eGtTMENLMkEwc1dhOUR6Qk91a2ozQUlYNUEza3BfQVRoTnV4Tmk2RkJTWmtlQm5ubHlqSVgzaWljMTlDT1pvdThlSTlaV3U0eTBwNS1iS1lyaFhFd19zLUJYWFlZUGxrcjNlcERZdU80YU94ZlE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-c591bd8d2bd6",
     "date": "October 8, 2026",
     "publishedISO": "2026-10-08T20:46:07+00:00",
@@ -934,6 +859,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBrbE1qaW5ZeUs0NEFTZExHQVV2d3Z6cE5JaFJRekQyNENGT1h2cm9VUUhtNFRPUUUyNDJlck1SYm1DRDUzWnBOWWgtNlROZ1JBVlkwT1BaZE9OZWpMTHdjNV8wdV9wWkRwWHFMdG9TdDJyZHVkb3dfRzd5RWVYS3M?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c07693e39dc1",
+    "date": "October 8, 2026",
+    "publishedISO": "2026-10-08T14:23:12+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
