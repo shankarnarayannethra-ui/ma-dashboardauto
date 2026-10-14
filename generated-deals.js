@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-b7d4fa659ac4",
+    "id": "news-ef6d0745c4a1",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:45:00+00:00",
+    "publishedISO": "2026-10-14T20:07:45+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Rush University System for Health, Endeavor Health unveil 12-hospital merger",
+    "headline": "Perella Weinberg, Piper Sandler abandon merger talks, FT reports",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fierce Healthcare",
-    "summary": "Rush University System for Health, Endeavor Health unveil 12-hospital merger Fierce Healthcare",
+    "sourceName": "Reuters",
+    "summary": "Perella Weinberg, Piper Sandler abandon merger talks, FT reports Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVM1MVRGaGtCTWpLckI4Sk45T2VVOGphY3ZacmdGVW1LdnFiZjh2dFIxS1gtSGpjQzhYbTlHSVUwY0ExQm1jUHp3aHY0ckIxQ2Jpd0xqVWlialZ0UVFoQ3pYemZfNnhVNXl6aDFxMUdjR2Y5NzBlQmlnU2NDU01kQ21LbHpGNGdadEFUOWdSSUc4YjZWT1Y2Tlc0ZzJpVS1OeWtLN2FLaDhhY0YxbVo2MElFRnE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pSWl9ScDFtYldwRWYyeHgtWC1LaTNRRTBYRndoUHk5bVdkS2lSVHMtYWh6WEpvSTQyR2paRURhVk02cUNpeGttWTk4eEZxMDNWcWU0SGN0Tl9lYm0zanZlTTJfTmdUNGhZUVpVbkJONmVQLXBLTVVNMzgzbFV2TXR6S0x1NTdYcWVGVGIwaTNaVkdKOFJYbGJtZjlzY2lkRUNYcExHRHNDaW5ud19ZZWxXMXM5UDNBWHc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-cf7bc0a4fa10",
+    "id": "news-93ad63573910",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:06:00+00:00",
-    "acquirer": "Rush University System",
-    "target": "Endeavor Health announce",
-    "headline": "Rush University System and Endeavor Health announce merger, making them largest health system in Chicago",
+    "publishedISO": "2026-10-14T19:10:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Clear Channel Outdoor Holdings, Inc. Announces Completion of Acquisition by Mubadala Capital",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Rush University System and Endeavor Health announce merger, making them largest health system in Chicago CBS News",
+    "sourceName": "PR Newswire",
+    "summary": "Clear Channel Outdoor Holdings, Inc. Announces Completion of Acquisition by Mubadala Capital PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,157 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGk2RFg4QVBBN0dvTm01ZjhBVm5HYmdjODV6Q0hUYmg5UVBHZEJkNXlmYVRubnQyVVdJajk3ZzBIQnZORXJGZF9pemhISjEzTHRSWjNjMTc2UEFkSEZVRlNnUE5TUElpMlJ4aHVRRGNzbDFjam40Vjc3RkQ4MUdkZmd0amZZWXRvYThHcGdwMG96UFRYTFE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPQVZHa1VFdkxYVnB2QnhRVF9xdHRudTh1NUQtR3V4NWV3elg3R0NDZU00VndmQkJUTEx3TjlHYmlPc3BQbFM0RnZHaGF0eFVvSGQ3UkQ0QUgwLVdocHZpdFctSm1ULTVjY1lWTHp1VUgwTnByYVZmUGpJLURaSmFUTThQTFhWUGthMWhaWkRTXzZQYWI5UnZESGtTdktnaGRUQ01QckNVeVVLN1oxTVo4OGlNWHZrUE5CbW9YZnotWWlsWDhvaGJrZlpjQUx3cjlnN0g2bE1iaXduY1UxdG9F?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a73f2df5d5aa",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T16:52:06+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform | Nscale",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Nscale",
+    "summary": "Nscale Acquires Anyscale, Enhancing its Full Stack AI Cloud Platform | Nscale Nscale",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5yQW10WElUajJUN1NlMGo0eGFwY2JIZ0Q4Mkk3WlhMOFFaNGc2eEVBY1pqYWExaWNjNEdlUDRpTGYxeFZhbXlNWlJGNDREbjhRMklTNnFlMm1pUXIwTGFsY1VXeTJnVDRpY2dMck1qQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b7d4fa659ac4",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T15:45:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Rush University System for Health, Endeavor Health unveil 12-hospital merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Healthcare",
+    "summary": "Rush University System for Health, Endeavor Health unveil 12-hospital merger Fierce Healthcare",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVM1MVRGaGtCTWpLckI4Sk45T2VVOGphY3ZacmdGVW1LdnFiZjh2dFIxS1gtSGpjQzhYbTlHSVUwY0ExQm1jUHp3aHY0ckIxQ2Jpd0xqVWlialZ0UVFoQ3pYemZfNnhVNXl6aDFxMUdjR2Y5NzBlQmlnU2NDU01kQ21LbHpGNGdadEFUOWdSSUc4YjZWT1Y2Tlc0ZzJpVS1OeWtLN2FLaDhhY0YxbVo2MElFRnE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,81 +901,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-68965c32bebc",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T19:03:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Barron's",
-    "summary": "CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears Barron's",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX05HV2syWEozTjdnUTh2OHpHVUVUYUNlcHRRUWhkOEx1OUxXM2E5YTJPaEl4Q29SaEt0TnpZSTZIRTdPc0J1aExfVnMtM3JIRHJDMG90dFRaOE1HMFdTdGNkak8wZ2NBTldrNnlicVZ0MmNZUFJJLVFOVDA5TFV1STF0dGM2dw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-806e597b69f4",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T18:00:00+00:00",
@@ -1126,6 +1201,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-fb6b4509d51c",
+    "date": "October 12, 2026",
+    "publishedISO": "2026-10-12T08:49:00+00:00",
+    "acquirer": "China approves Geely",
+    "target": "34% of Ford España",
+    "headline": "China approves Geely acquisition of 34% of Ford España",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "China approves Geely acquisition of 34% of Ford España Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFBtSVJQWEhxeElkUGVmY0l3WGxIUTlXLXJ1X1UzS2ZTYWQ0NDZIVF9tUzJhdEM2VVlSQVJhclBiUk5RZ1p6XzBBV2lNZXVwZ1ZEYUFSTGs0VFJMS1hQTkM5M1NsbkFIM0JGbGpvZnNSeGlHNDRoUlA1UGlET1c5Y0FXSzhXU1FMSEFxWV9ZZjNLZXBIa0F0d2NBNlVDeTVpd1BOZE5GTQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-322d2b94575d",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T07:00:00+00:00",
@@ -1234,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-e325b4b10d55",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T19:40:30+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire? Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEhzV0xmVVFCVmZidFExanpOeEtDN3gtV1RSZXBhSHp1X1ZrVHFRZ0VFaVR3UTBDNDI3eTA5X3hnRlVkdTR3QVRnWERMcmZqS0g1Z1pONk92em56ZFRCWkpqUG1VUENIWjlaS1NxSnFVR2VnWjBPSXo1endKUkRrajFicFpZM2llNEd3cTJhWXNKQ2o1WUJlY1NET1pESms?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-06fc6301f4f9",
-    "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T19:38:18+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Anglo-Teck merger, nickel sale are test cases for navigating geopolitical complexities, CEO says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQXy1zR0J3VHNhRTNRcFFxSHkxTnllUW8wTkJMYWFJWE1LMklyUFd1QlRWMXJxc1F4QlNEUk13M0hjcGJpSTBXYU42eDNCRzV6cWJtY0hZWFVZQ0lMRndZWndfcmw3eGlFYmJINjI1YVpNaE9udS1wdTN4Rmw4aTBrV3Nlam9zamxaTnVPRjRtVXEtVFV2OFBmY0FNQmJZQ0xzOVBCZnpITGZFeHhncFE2WnpodVJBYVpqcEpGcUpPdks?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 7, 2026"
       },
       {
         "stage": "Terms verified",
