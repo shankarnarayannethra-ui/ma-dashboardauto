@@ -151,9 +151,84 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1254111b9191",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T14:37:44+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Steris inks $2.1B Xodus buyout to expand consumables portfolio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "MedTech Dive",
+    "summary": "Steris inks $2.1B Xodus buyout to expand consumables portfolio MedTech Dive",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkxLZlRlTkhxRS1sbG8wemdHRWNYLWY4UTgtTkpNY1ZpNjM2MzRvU0QtZkprTndIVnlfeUkxeExSRTZRWWRpX21tU2JtWFMzUkcwYTZLTHNCdGFnSFpLTGl5ekVLRmZOZWxYYVU5SGFodzN4dDhIeUJfeUphSkRaNVhkdkl3R2ZNdEVhNjlfUm1yMGpoTnlEZWtwdG9pcVRaOFNN?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e49bbe0329f0",
     "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T20:47:00+00:00",
+    "publishedISO": "2026-10-12T21:37:34+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Albertsons Wants $8 Billion From Kroger After Failed Merger",
@@ -526,7 +601,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-aea6b7deeda8",
+    "id": "news-4c60081b0160",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T13:01:37+00:00",
     "acquirer": "Potential acquirer",
@@ -558,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82OGZYOUg4UGFYWksxUF96dkd2U195UTZfaGFNNVFpMmlwcXRkNDdscVRLTnJPNDg1emZ1aXI4MW42WXlUQTRURWQtbU9VamJPc1FGQ0RiUFVZN3h5eU1PQThQQUxtNGp1Y3NlMUQwdVk4X2J1Ukh0d2xORQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE82OGZYOUg4UGFYWksxUF96dkd2U195UTZfaGFNNVFpMmlwcXRkNDdscVRLTnJPNDg1emZ1aXI4MW42WXlUQTRURWQtbU9VamJPc1FGQ0RiUFVZN3h5eU1PQThQQUxtNGp1Y3NlMUQwdVk4X2J1Ukh0d2xORdIBgAFBVV95cUxPeElnRzdaMW5pYUJDQ0lWY01wQTE4Q2loWEFYb1BQZ2wyY1h2cV96SExiVjYtaHpCdGdFUjhlQUFUbU5ya19PX2Y2RXlRYURDMlprZG1VRVdNbDl4YnhfeXNKRHd5WEJYRWxmWllHU3hHczlFRFlsY1hWaVgta3hSZg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-acc4c9f544fb",
+    "id": "news-fb6b4509d51c",
     "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T08:51:48+00:00",
+    "publishedISO": "2026-10-12T08:49:00+00:00",
     "acquirer": "China approves Geely",
-    "target": "Ford España",
-    "headline": "China approves Geely acquisition of Ford España",
+    "target": "34% of Ford España",
+    "headline": "China approves Geely acquisition of 34% of Ford España",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -616,7 +691,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "China approves Geely acquisition of Ford España Reuters",
+    "summary": "China approves Geely acquisition of 34% of Ford España Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1651,12 +1726,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c07693e39dc1",
+    "id": "news-6d01f7255b07",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T14:23:12+00:00",
+    "publishedISO": "2026-10-08T14:57:29+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
+    "headline": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
+    "sourceName": "Yahoo Finance",
+    "summary": "Starbucks has explored takeover of Chipotle in restaurant megadeal Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNdldkZnk1OTNpMGdaci1HZjU3MHFjeWNBclJmcnlIaXExTzZaaXJtVmhQYmc5OXBGUE1iaUNQWXZ2by1LaTZUOGJRUDQxcFFKSnVJOUszeFZLT2E4MWJOaFg0SHV2aUE4ZnV4NEMzbURoVFNpRWhwSlFkMjVvSU5aa3JoeThGWDNjMlNzY201clZRMmktUktBcXVmZWxXU1VUd0UzTmt3RFktdUtKOHd3aTNR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,12 +1801,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-05ef68edcbab",
+    "id": "news-c07693e39dc1",
     "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T14:06:07+00:00",
+    "publishedISO": "2026-10-08T14:23:12+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Starbucks has explored takeover of Chipotle in restaurant megadeal",
+    "headline": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1740,8 +1815,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "Starbucks has explored takeover of Chipotle in restaurant megadeal Financial Times",
+    "sourceName": "Reuters",
+    "summary": "Starbucks declines comment on Chipotle takeover report, says laser focused on turnaround Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQakJnaW45T3dxeVNQODhlRzl4eVNLZExDdEEwU2hHMTlsQ1Y3UHlacVBFN2tjb3J2TEJRUVVHUmo2bDczTGw1S205QVp1cU9iMnhEU1dGbVA1Uzd0eGQ5SWtLVUE2cWk2bWE3azlVTHVwRHlsR1p6M0tKdlIzcEFqa1ZVSWk?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNTmJ2Y2FjX1o2WTBVR2hCcExURmtYMDRzYlhrcE1OZnBqOGVXLUhOUHp1dVF3UFFnaEM5aF92dmdNcHVBRTJ5MFFwam9abTcyTlprT0J3NVhhVzRpNnpSWHRIUTI5NUZ1Q3dvOFd0RkxjeS05ZXQyaFpxYVpxcXZRUDFhczZKb2xtd1hiV1RFc0lBOUlzRjF3?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNdjdfb3BXbHk1VUVWREVnS0tuUDFleG9CaF9ZTG1VTFVpZnpxbVlBaTZzQ1pHVmsya0N0RFJaVjAtVW9HdnI2RzFkeEh3LUFKSy1SMGZ4dG5tdm05bzZrSG5LWFJuczZRX3ZtcnlPalV3SU96dWdFdVlpa0J1eGpEaUZuLUF5NUpZNWQ0Q29BTUNsZTNqSy1TanFBcF9OLUFwUG53cHp2WkVCWWk2cDR3VzVIZzYwOG5GLXdGWEFHR0t0OWFs?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a038e7382ec9",
-    "date": "October 7, 2026",
-    "publishedISO": "2026-10-07T01:06:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AP News",
-    "summary": "Paramount completes its takeover of Warner Bros to become one Hollywood giant known as Skydance AP News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdFA1Sm43WnNqUXFFUzdqVm5yZVF3d205aGJ5ZWVRTHNXNTJfZmZBSTlROTMwZUZjUTJJZlEwS2hWX3p5WTBqUFUzWmtudzFBSGlHRHRZdkhIMVIxMnRwV3ZwTkQybDdZcGRGcFdDdm9YaDV5eXY5al9xNHBIZjZMc01MTVRnNjdKVHN4dUxwY1pJUUdWcTlhYkNyc3dUd3Z2bS1tTEpvNks?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
