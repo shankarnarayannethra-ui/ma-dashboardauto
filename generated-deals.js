@@ -1,12 +1,87 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-ef6d0745c4a1",
+    "id": "news-1a3c233d7aca",
     "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T20:07:45+00:00",
+    "publishedISO": "2026-10-14T23:47:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Perella Weinberg, Piper Sandler abandon merger talks, FT reports",
+    "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-80d681279db7",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T21:06:14+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Perella Weinberg, Piper Sandler abandon merger talks, source says",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -16,7 +91,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "Perella Weinberg, Piper Sandler abandon merger talks, FT reports Reuters",
+    "summary": "Perella Weinberg, Piper Sandler abandon merger talks, source says Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -259,6 +334,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcVM1MVRGaGtCTWpLckI4Sk45T2VVOGphY3ZacmdGVW1LdnFiZjh2dFIxS1gtSGpjQzhYbTlHSVUwY0ExQm1jUHp3aHY0ckIxQ2Jpd0xqVWlialZ0UVFoQ3pYemZfNnhVNXl6aDFxMUdjR2Y5NzBlQmlnU2NDU01kQ21LbHpGNGdadEFUOWdSSUc4YjZWT1Y2Tlc0ZzJpVS1OeWtLN2FLaDhhY0YxbVo2MElFRnE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ae932742f76a",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T15:11:15+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Rush University System for Health, Endeavor Health announce merger plans",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ABC7 Chicago",
+    "summary": "Rush University System for Health, Endeavor Health announce merger plans ABC7 Chicago",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzRXQ3Jyb0s2c0pUNDJLb0V6YlF2U2xWMkowRnhDTDNrbjhyS2Z0MmlRa3FUZlJFUDlwajgxdXgweVJONC1GZ1labnduaTJ1TjZHQzB2Q3RQTmtBQkYzQ2c0UGlzaWpiVnNZWGxMTmVMRHRFN1RlQ25nZFRLZUVBMGhxY1gtMEFWZVZUTUhqbVlEeTdIYWgxR084WjZicjBx0gGmAUFVX3lxTE1TM0F5N1o4aDlMZW16Ty1iNERKSHNQSEZ3TlhpbnlCWFEzeVU2U0VmWkw1ZUlPVmExbjhydkJZbHJCMTdSN0ozS09hNjRDc1hFbERFdFpGdVBhc0pTWGkxZXFud0JFTlY2TUFyczJRclNmRXhBSzZxQXNIUVY5MFBMQTBtOVYycUdIZHo0b0g0Tnp3SDVVY2xXcEdKTHZFRW1zdnNyeFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,81 +1351,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fb6b4509d51c",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T08:49:00+00:00",
-    "acquirer": "China approves Geely",
-    "target": "34% of Ford España",
-    "headline": "China approves Geely acquisition of 34% of Ford España",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "China approves Geely acquisition of 34% of Ford España Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFBtSVJQWEhxeElkUGVmY0l3WGxIUTlXLXJ1X1UzS2ZTYWQ0NDZIVF9tUzJhdEM2VVlSQVJhclBiUk5RZ1p6XzBBV2lNZXVwZ1ZEYUFSTGs0VFJMS1hQTkM5M1NsbkFIM0JGbGpvZnNSeGlHNDRoUlA1UGlET1c5Y0FXSzhXU1FMSEFxWV9ZZjNLZXBIa0F0d2NBNlVDeTVpd1BOZE5GTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-322d2b94575d",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T07:00:00+00:00",
@@ -1684,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQdXkzR3lmSzVOcm9oMjN0b1hhWXV2QzVNTWUzWDlsRm9WeUdCUzFNVUUwUlV3N2Y4Rmd2SDM4dnlwbmQ0cU8wcVBPYzk0OVNUUXRWN3Y4ZDMtWVdlX0Z6R1J1eWRTc0FvTjRJZi1ZVXZQc3htVnVYY1VENTVrWlN6b19ob3ZpQ2hjUlBmaVlXekZqVlRTZkRJd0MtSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 8, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-3ed4ad4b6ca7",
-    "date": "October 8, 2026",
-    "publishedISO": "2026-10-08T21:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger",
-    "valueBillions": 0.606,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "David Zaslav Gets $606 Million Payout From Paramount-Warner Bros. Merger Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNcHNlTjcycjk2RGFoSGlheU5YaTBLQk5KampBUEoybVVKLVpjMnBMREVQNElLUGlrejlEN2xtVzl4eGtTMENLMkEwc1dhOUR6Qk91a2ozQUlYNUEza3BfQVRoTnV4Tmk2RkJTWmtlQm5ubHlqSVgzaWljMTlDT1pvdThlSTlaV3U0eTBwNS1iS1lyaFhFd19zLUJYWFlZUGxrcjNlcERZdU80YU94ZlE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
