@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-e325b4b10d55",
+    "id": "news-6086f5da460f",
     "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T19:40:30+00:00",
+    "publishedISO": "2026-10-09T20:51:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire?",
+    "headline": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2115,8 +2115,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire? Yahoo Finance",
+    "sourceName": "PR Newswire",
+    "summary": "Evernorth Completes Business Combination with Armada Acquisition Corp. II PR Newswire",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2133,7 +2133,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEhzV0xmVVFCVmZidFExanpOeEtDN3gtV1RSZXBhSHp1X1ZrVHFRZ0VFaVR3UTBDNDI3eTA5X3hnRlVkdTR3QVRnWERMcmZqS0g1Z1pONk92em56ZFRCWkpqUG1VUENIWjlaS1NxSnFVR2VnWjBPSXo1endKUkRrajFicFpZM2llNEd3cTJhWXNKQ2o1WUJlY1NET1pESms?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG1EbWJsc2dzOGw1WTdnOU5DWVdXbElvQXU3cU1yN1BwUkR5dEhiZFN0UmloUU1DM05rb05sUGFranZTOEFQdk9ZblJ6Z1VPeTUyTjhhVFBFWC04NTg5ZGk1eTNGYTgzVFZ0RVZHaFkxeGNFMm1tRVNrdjhWbDEwUVZLWkpjV1ZSRm1EaklBbTRLWEgzSGpTZm83MDhrbVA5czRsV3ZzRVFhLXFmeWVCMGFfYldxOXo0bGIzMlJVRER3dGlnWkZV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-abcf30378ccc",
+    "id": "news-e325b4b10d55",
     "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T13:06:39+00:00",
+    "publishedISO": "2026-10-09T19:40:30+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Microchip Technology Acquires VORAGO Technologies",
+    "headline": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire?",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Microchip Technology",
-    "summary": "Microchip Technology Acquires VORAGO Technologies Microchip Technology",
+    "sourceName": "Yahoo Finance",
+    "summary": "Starbucks (SBUX) and Chipotle (CMG): Could a Potential Takeover Backfire? Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNNEhzV0xmVVFCVmZidFExanpOeEtDN3gtV1RSZXBhSHp1X1ZrVHFRZ0VFaVR3UTBDNDI3eTA5X3hnRlVkdTR3QVRnWERMcmZqS0g1Z1pONk92em56ZFRCWkpqUG1VUENIWjlaS1NxSnFVR2VnWjBPSXo1endKUkRrajFicFpZM2llNEd3cTJhWXNKQ2o1WUJlY1NET1pESms?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
