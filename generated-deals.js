@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-52ec48aa257c",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T12:07:00+00:00",
+    "publishedISO": "2026-10-15T20:01:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Elon Musk Could Announce A Tesla-SpaceX Merger In Coming Weeks: Analyst",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1a3c233d7aca",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T23:47:57+00:00",
+    "id": "news-1c7df257a475",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T06:43:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+    "headline": "Apollo's easyJet buyout faces union pushback ahead of first quarter 2027 close",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays Yahoo Finance",
+    "sourceName": "Reuters",
+    "summary": "Apollo's easyJet buyout faces union pushback ahead of first quarter 2027 close Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPdTl2bDF6c2E1ZzFVMndycjkwT21DU2p3ZGplNmhSOC1TVWhrX1JfTWQyd1ZsRERjUTZNQ05YalRtNnpNTzNmMU9fUFJ2SHJlTDZ1MFRONXJJc3phT1dlWHE3SHRPOGZ0cG8zYVRSSXlGNllUVGhtbkoydGFVRGZkY0xDTDBJNHBBSElLVmdydk9uU3lBMndsRWVhV2hFN0xsaWZ6c0VyS0U3UQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2579872b1e89",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T22:21:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Shareholders Approve Fox’s $22 Billion Roku Acquisition",
+    "valueBillions": 22.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Deadline",
+    "summary": "Shareholders Approve Fox’s $22 Billion Roku Acquisition Deadline",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQdW9FNi1XSWdSOFF6Sl9zdEZXRjlVRzJ1aEYwS1A0MWhPOXpfVmpnTVlJOFRwd2VEVW5SWWdwdkhOdTZMRkRHMnVBeU1mekhpdU15eUJLSXdoZVlUbmxRQkpXSzhQNnZPcmRJTHlkZURMcUhnUFJtR2NRaEw5S2RqaTRCNA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-43e9bf7eba7e",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T12:26:53+00:00",
+    "id": "news-2e6c61627ba8",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T21:08:34+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Türkiye: Police raid and state takeover of opposition TV channel ‘a brutal blow to media freedom’",
+    "headline": "Another Paragon spinout goes public through reverse merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Amnesty International",
-    "summary": "Türkiye: Police raid and state takeover of opposition TV channel ‘a brutal blow to media freedom’ Amnesty International",
+    "sourceName": "BioPharma Dive",
+    "summary": "Another Paragon spinout goes public through reverse merger BioPharma Dive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,12 +708,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNUTAyaHg5d2prRjRtWEhiUUYyeVJ6RlFKdTlOdng3aWdHTlZoRjN0X1pHYmo5dHhtV2UzbXN1Z1cyM18tRzVlSDJLdWlIekNqV083elZsUmJCQ1VhQm9kbDVmQ3Q4WUsyLWdmT1A4dzhqZFNhM2VMWTB1dVJ1WFd4NDFLQjg4X2pxUkJIUkVxVW9CRC1QVTFCbVFwdFBkWW1FdUxLSWpva3lLNk4tTFNhRUl5ZmR2cy1NQkg1dTFqQ2lHS2JwNzRNcHdwWHpDa1JraC0zTzZLamtGZw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjJwX3M1U3AxY2xPcnlvTW1zV0hzNlBXWkhBU0RNY0JSN2QweTgxZ2l6ck5XSUY0eW1jdDUxeFBvdHE3U2pIUi1fMnJHd202aGdIT3lmcTlLUXBSbmtULUdHbHlUZDREQ2R0dC1TRHZWVWtmMEY5VEhId012dHg5dnRtdTlqVDB1MzFMaDR5Mmk4QmFhVEV0ckI3ekxHVjdyZTJxNkVn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 14, 2026"
+        "date": "Oct 13, 2026"
       },
       {
         "stage": "Terms verified",
@@ -676,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dd6966e71ff1",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T12:00:00+00:00",
+    "id": "news-001629c93316",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T16:19:16+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Ara Infrastructure Acquires Majority Interest in Pacific Ag, North America's Largest Crop Residue Supply and Logistics Company",
+    "headline": "Albertsons seeks $8B from Kroger over failed merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Ara Infrastructure Acquires Majority Interest in Pacific Ag, North America's Largest Crop Residue Supply and Logistics Company PR Newswire",
+    "sourceName": "Grocery Dive",
+    "summary": "Albertsons seeks $8B from Kroger over failed merger Grocery Dive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,12 +783,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAJBVV95cUxObUFybDMyVXMtc1ZwRk1yRWpnVDVGRzdEeXdUaS1pZGFWVE00WmZTbWJFX3lpdkljSXo2QkxWX052VVlsbzFhNHlhLWUzcmVjdGlKZ3U1cTRPem43bVBlWm9ISFVLZ01aZXZUaGNBYUtUaDNDQWk2dlQ1cEl3SGNWUU9EbV9Od1gtcDB3a3V4S0Z4RlNkeWpMQjFKamlUaFFySHl6NmNrblhpcDVFZ3V5MFltQ0VMLWRsLXIxSXNVbHFBMlFNQ01GT2V2RW9CT2tmaG45dzY4ZVRlaWZaUGkyUEl3a1psSmJoU3QtVWNmRVNZUE8wdGx4WEU4WWRNX1lGc0V1bjFDMTNlU3ha?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPT18ydVpRcGZGOTdoTjd0R29VNmpQSDUzUnJ5ZkNMNHAxdWt6bUczLVZQcUREMVZLM2JQTkJYcUNJd1F6bjNRWUNrNkMtZ1NxaTVlcU9jejBwSmhNcXlTZnRjV2xSak5CWTJXODdyWng0VmxzZjBtOEM2QlR1UTZZYllJTGh0NG82V2RpaWtKY0w4SlhnSzRfck1Ja3A?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 14, 2026"
+        "date": "Oct 13, 2026"
       },
       {
         "stage": "Terms verified",
@@ -976,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-80309b5c85ff",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T12:18:55+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Why the Paramount-Warner merger is a problem for democracy",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Conversation",
+    "summary": "Why the Paramount-Warner merger is a problem for democracy The Conversation",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPSV9Tc251ZU9VQjFlMXZBUkJZVGlfMloxbVhOam9NbnRlaEpXQ3d1SzVHLVdNcGl3dkh4SThZWlU1eTFNT0h0MmxsQkg5ck1HYWVjcVZIc1JsVnhvYm5vSXlrZ0FJLUk4c3JQdGVjX2V0MEJrZXNsWHJJek9wU3hzNmtzSmp2LVh3V1h3alJVdW9FNW9RRHNzUw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-be873ff0a660",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T10:10:27+00:00",
@@ -1009,6 +1159,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTm9xS0FVNTN3Q0FfWlFCY09Lb0M2T3djVE9CNG5CWlg5OEhCa1pDRG9BZjJvRE5QYmhtWVU4RjN3UVlETlQzZGxEUzZCb3ltVnNSWWhRbEVzbjd1MkZKTFgxUUpsdWZwX3dDNkpRVjUtaFpLb3RsbURjNGJlY3B2TGpGbmhEQ0s2MFRDSUtjVVZPT3luU0NmbFVsaldPRTJOU1ZPdzJjQ1V5M0N1Q2FQYlBpRlRYbkdYSGNtYU1NTmFzd2FkWjJXYzhkZ1VmSXVOaGIxWXp4NFBhbEhLdGFaV0o3cmZmc0lBb29ldzRQSjZvRGNwaVgwMA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5a804a95cfb7",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T07:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Acorns Acquires Frich, Expanding Its Financial Education Community",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Acorns",
+    "summary": "Acorns Acquires Frich, Expanding Its Financial Education Community Acorns",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWmREOFhGamtEcGRYbnFRd1BFcGM0UVpyanB1enMxUE5Ic1l3WlVjQ0tqWHJVRFZlcnJCR3pGZWUtb1ZCT1ZENVBTUng5azFYZmFCMS1oeHpYWDVSdU9IMDFlVlluN2QtLUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1276,81 +1501,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-68965c32bebc",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T19:03:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Barron's",
-    "summary": "CCC Intelligent Solutions Stock Pops on Buyout Talks, Defying AI Fears Barron's",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNX05HV2syWEozTjdnUTh2OHpHVUVUYUNlcHRRUWhkOEx1OUxXM2E5YTJPaEl4Q29SaEt0TnpZSTZIRTdPc0J1aExfVnMtM3JIRHJDMG90dFRaOE1HMFdTdGNkak8wZ2NBTldrNnlicVZ0MmNZUFJJLVFOVDA5TFV1STF0dGM2dw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-806e597b69f4",
     "date": "October 12, 2026",
     "publishedISO": "2026-10-12T18:00:00+00:00",
@@ -1384,81 +1534,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQTFdzamJ1QVVEak55MVlhdzhzaERKbGlweGlFaktqZTl3amtSR2dkTkJZU1owbDhVMnBpNDVnd3hPbnRVSGdQczBCWjl6RlFicWl5b1lmeHp6RUNhcWhqclltMnU2U2x0T1prNHFNTFl3ZDl1SHloNWNlOExQR0MtVHJfQmNKazZRenFNYjF4ZXNtMDJONE1qM0N2RnIxTzdDcllMRExB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-94b0ff04d184",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T17:27:41+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Albertsons is demanding $9.3 billion from Kroger over failed merger",
-    "valueBillions": 9.3,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Quartz",
-    "summary": "Albertsons is demanding $9.3 billion from Kroger over failed merger Quartz",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE1fOXRXYzhqaE9WYXVwNjFJa0xzVnF1Y1dfcWhzSTJwaUIwWTFTMjJXbUFGMDh2c0NtdW9hM2tNNlM1b1FGZ2tpZllfYjVPUGc4RUhzdmswb2dBV0pYSzcxQng4UXdhbWlHWEQtT1RGcElGZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1909,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxORlFFTHdGeXpOZ3BQRk1pSC1uV1RCVTRqdjlqLWc1RVNSTG01OTlJNkhOdmRJVDI1SHd3NHQ2WEd2czY1N2JrdXc2LUtwazF2ME1SbVhoSHpBZmpPYU5PdkRGNENXWFlDbnc0SUo2VnoxbHhFYk1xdmdFVEZxcTUwUDBhcElkcDRmSzk3bTA3M3ZBZUlMYzVCZzJUSUR3ZUFDemZpMUtsWWhzYzIxVEp2OFhmalVDUHc4Y3JnRA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-6086f5da460f",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T20:51:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Evernorth Completes Business Combination with Armada Acquisition Corp. II",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "PR Newswire",
-    "summary": "Evernorth Completes Business Combination with Armada Acquisition Corp. II PR Newswire",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQcG1EbWJsc2dzOGw1WTdnOU5DWVdXbElvQXU3cU1yN1BwUkR5dEhiZFN0UmloUU1DM05rb05sUGFranZTOEFQdk9ZblJ6Z1VPeTUyTjhhVFBFWC04NTg5ZGk1eTNGYTgzVFZ0RVZHaFkxeGNFMm1tRVNrdjhWbDEwUVZLWkpjV1ZSRm1EaklBbTRLWEgzSGpTZm83MDhrbVA5czRsV3ZzRVFhLXFmeWVCMGFfYldxOXo0bGIzMlJVRER3dGlnWkZV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
