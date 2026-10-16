@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-55bf6540a032",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T22:47:16+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Tomahawk Nation",
+    "summary": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach? Tomahawk Nation",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVFFc0FOUzJoelJ2S09GUDYyQzlVMFpFZ0RsRDFMU1V3QWpHby1fMUxoYkN6VFIyXzN6cUdUeTZoYTIyT0lwcWd4Nkt6cEdhbmd6WTNSQWtYYTZCVy1VN05NWmhVTk01YnkxNzgtTGNTLWhkajA2VUUzYnhkWDRxSDkyTG9pN0N2R2gxbUlvM0tKWHM2R25fV3hUTnoxeGhYTHdPMGZyTmxzeUU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-52ec48aa257c",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T20:01:00+00:00",
@@ -114,6 +189,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-1a3c233d7aca",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T23:47:57+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0ec2ea7a6cd7",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:06:00+00:00",
-    "acquirer": "Rush University System",
-    "target": "Endeavor Health announce",
-    "headline": "Rush University System and Endeavor Health announce merger, would create largest health system in Chicago",
+    "id": "news-fb6b4509d51c",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T22:11:36+00:00",
+    "acquirer": "China approves Geely",
+    "target": "34% of Ford España",
+    "headline": "China approves Geely acquisition of 34% of Ford España",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Rush University System and Endeavor Health announce merger, would create largest health system in Chicago CBS News",
+    "sourceName": "Reuters",
+    "summary": "China approves Geely acquisition of 34% of Ford España Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,12 +783,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPRGk2RFg4QVBBN0dvTm01ZjhBVm5HYmdjODV6Q0hUYmg5UVBHZEJkNXlmYVRubnQyVVdJajk3ZzBIQnZORXJGZF9pemhISjEzTHRSWjNjMTc2UEFkSEZVRlNnUE5TUElpMlJ4aHVRRGNzbDFjam40Vjc3RkQ4MUdkZmd0amZZWXRvYThHcGdwMG96UFRYTFE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFBtSVJQWEhxeElkUGVmY0l3WGxIUTlXLXJ1X1UzS2ZTYWQ0NDZIVF9tUzJhdEM2VVlSQVJhclBiUk5RZ1p6XzBBV2lNZXVwZ1ZEYUFSTGs0VFJMS1hQTkM5M1NsbkFIM0JGbGpvZnNSeGlHNDRoUlA1UGlET1c5Y0FXSzhXU1FMSEFxWV9ZZjNLZXBIa0F0d2NBNlVDeTVpd1BOZE5GTQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 14, 2026"
+        "date": "Oct 13, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1876,81 +2026,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fb6b4509d51c",
-    "date": "October 12, 2026",
-    "publishedISO": "2026-10-12T08:49:00+00:00",
-    "acquirer": "China approves Geely",
-    "target": "34% of Ford España",
-    "headline": "China approves Geely acquisition of 34% of Ford España",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "China approves Geely acquisition of 34% of Ford España Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRFBtSVJQWEhxeElkUGVmY0l3WGxIUTlXLXJ1X1UzS2ZTYWQ0NDZIVF9tUzJhdEM2VVlSQVJhclBiUk5RZ1p6XzBBV2lNZXVwZ1ZEYUFSTGs0VFJMS1hQTkM5M1NsbkFIM0JGbGpvZnNSeGlHNDRoUlA1UGlET1c5Y0FXSzhXU1FMSEFxWV9ZZjNLZXBIa0F0d2NBNlVDeTVpd1BOZE5GTQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 12, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9a5031bb1686",
     "date": "October 9, 2026",
     "publishedISO": "2026-10-09T22:02:46+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMWRfbDJMYVBZZ1JuQTM4aWZUcWk0b1NzSWtkVUcweHNTU3BBbi1YLVFva0tYWUpJNjBpS2lBWFp2bjRCbVVZcnU3by13anpSek5lOFk0SUZFLW1Pc1ozUDM3U2RrZEVLOGRPZzhhMFp5QzlnRVpwa0I2Z2hNaHFTMTRnTXZNNnV6dzFkd3lLcmU2dzF1TTVpUWRGZElpa1lUWjVNbzR4YWR2b1dQWGhjVnQxWQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1356cf2b61b9",
-    "date": "October 9, 2026",
-    "publishedISO": "2026-10-09T06:48:54+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Ireland's DCC Energy to sell tech unit Nexora for $725 million ahead of KKR buyout",
-    "valueBillions": 0.725,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Ireland's DCC Energy to sell tech unit Nexora for $725 million ahead of KKR buyout Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNU1JyeTVnZ194eEI5bWVkTGJBLVdGOFZXSWUxNzlvZURLTUdibEVrODdrVVpnZG9mVlJ2TWhpN19MeVBuVmNlUXR2RmYzS1F3ZkI1bnlqcjhmTEYxSVBDZVFWNzJ5OFBkOHRYVjI1VjZDLXFaTERHYURfbm82bnIzY1BSend4U1JEZlFBb000THFQLVM2ak41NXIxSUY0QjFUMjdMR3ZST01zelhrVGFqenVVWTJaZVYzUkZ1WUFINFE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
