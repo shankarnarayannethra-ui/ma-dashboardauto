@@ -151,6 +151,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5d80a96b98f4",
+    "date": "October 16, 2026",
+    "publishedISO": "2026-10-16T20:40:02+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Ryan Day Buyout: What Would It Cost Ohio State To Fire Its Football Coach?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "FOX Sports",
+    "summary": "Ryan Day Buyout: What Would It Cost Ohio State To Fire Its Football Coach? FOX Sports",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTIyeHhVcUxKbGxIZ3otdEdMUk5JWEJlZV9IeVp6LXp0ZVZDSG52WDZRVU91U2NzSG8xSjhkMmQyRXlIZnVQaFNUSmVVdG9CZ1VfS3g4ckYtLWpEaHRwUDFhVjVFV1UxdFpiTHVNMTFGbnR6TFhZOWZJdmN2TXF3U1lWU1U2aXo2V3pBZkUzeUVMaVBoLVBRSlZFSFBNUTDSAZ8BQVVfeXFMT2J6cDd6a21NMVJhbVliZmJNcXJNTFpybE9fVDUydE9jUmJHT1VKcnBFZ1BGS3h4cmRJYTRCVTFGWlNWS3EtT0hzX3lIcFZlNGRjSEhJLW1Ra0IwTTQ0VC1VbWFWUjhSUWVZVHJSTFRYVzByRDFUSW8zVy1QNmhweDl4ZGk3cVl1MUVxcDNBNERYbnZOY0tRaVkzNS1XSnRJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 16, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-63496008de86",
     "date": "October 16, 2026",
     "publishedISO": "2026-10-16T13:29:02+00:00",
@@ -826,159 +901,9 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-bd8617db1ac6",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:26:50+00:00",
-    "acquirer": "Endeavor",
-    "target": "Rush announce",
-    "headline": "Endeavor and Rush announce merger plans",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Evanston Now",
-    "summary": "Endeavor and Rush announce merger plans Evanston Now",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE44VkM1MjRndy1CVEs2Q1ZYWjlOeHRJVDZCVzMwUFlrdGczMFZWQkhBbUsyZHFpdjVLdWdvZ2xGdW1GOExINWY5YzRCdGlNS0hWSnNxZjZnWmNmdENrUHlSX1E1bUtYU1VieURQemJTNXUtZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-ae932742f76a",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T15:11:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Rush University System for Health, Endeavor Health announce merger plans",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "ABC7 Chicago",
-    "summary": "Rush University System for Health, Endeavor Health announce merger plans ABC7 Chicago",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRzRXQ3Jyb0s2c0pUNDJLb0V6YlF2U2xWMkowRnhDTDNrbjhyS2Z0MmlRa3FUZlJFUDlwajgxdXgweVJONC1GZ1labnduaTJ1TjZHQzB2Q3RQTmtBQkYzQ2c0UGlzaWpiVnNZWGxMTmVMRHRFN1RlQ25nZFRLZUVBMGhxY1gtMEFWZVZUTUhqbVlEeTdIYWgxR084WjZicjBx0gGmAUFVX3lxTE1TM0F5N1o4aDlMZW16Ty1iNERKSHNQSEZ3TlhpbnlCWFEzeVU2U0VmWkw1ZUlPVmExbjhydkJZbHJCMTdSN0ozS09hNjRDc1hFbERFdFpGdVBhc0pTWGkxZXFud0JFTlY2TUFyczJRclNmRXhBSzZxQXNIUVY5MFBMQTBtOVYycUdIZHo0b0g0Tnp3SDVVY2xXcEdKTHZFRW1zdnNyeFE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-fb6b4509d51c",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T22:11:36+00:00",
+    "date": "October 14, 2026",
+    "publishedISO": "2026-10-14T08:56:45+00:00",
     "acquirer": "China approves Geely",
     "target": "34% of Ford España",
     "headline": "China approves Geely acquisition of 34% of Ford España",
@@ -1013,7 +938,7 @@ window.generatedDeals = [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 13, 2026"
+        "date": "Oct 14, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1309,6 +1234,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkxLZlRlTkhxRS1sbG8wemdHRWNYLWY4UTgtTkpNY1ZpNjM2MzRvU0QtZkprTndIVnlfeUkxeExSRTZRWWRpX21tU2JtWFMzUkcwYTZLTHNCdGFnSFpLTGl5ekVLRmZOZWxYYVU5SGFodzN4dDhIeUJfeUphSkRaNVhkdkl3R2ZNdEVhNjlfUm1yMGpoTnlEZWtwdG9pcVRaOFNN?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d9dd22665fa7",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T12:44:50+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Biotech",
+    "summary": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout Fierce Biotech",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXZLUTFsbDFRdzZkUnlzTDlSRkVSWUFWLW5hZzFweUlBQVBES29Eb2E2aUFZdkVhN3dlVmJCY3JrcF9ub0djTlZ0Ym1aWXB3dk91a0VVSWJMSm9mVUtGSzV5blViS2NUZXd6bk9lcXpONFhSNGxiaGJLUkdsaHA5d0dyWFFCR2lCYzdnbFJoYXBmbWZsWUZXM21NNEREdWgxclhhcW4yRFNqRkhUb09oaXhienUxT21U?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
