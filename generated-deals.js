@@ -451,6 +451,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-55bf6540a032",
+    "date": "October 15, 2026",
+    "publishedISO": "2026-10-15T22:47:16+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Tomahawk Nation",
+    "summary": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach? Tomahawk Nation",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVFFc0FOUzJoelJ2S09GUDYyQzlVMFpFZ0RsRDFMU1V3QWpHby1fMUxoYkN6VFIyXzN6cUdUeTZoYTIyT0lwcWd4Nkt6cEdhbmd6WTNSQWtYYTZCVy1VN05NWmhVTk01YnkxNzgtTGNTLWhkajA2VUUzYnhkWDRxSDkyTG9pN0N2R2gxbUlvM0tKWHM2R25fV3hUTnoxeGhYTHdPMGZyTmxzeUU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-f900c2735edb",
     "date": "October 15, 2026",
     "publishedISO": "2026-10-15T20:49:12+00:00",
@@ -1051,81 +1126,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2e6c61627ba8",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T21:08:34+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Another Paragon spinout goes public through reverse merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "Another Paragon spinout goes public through reverse merger BioPharma Dive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNNjJwX3M1U3AxY2xPcnlvTW1zV0hzNlBXWkhBU0RNY0JSN2QweTgxZ2l6ck5XSUY0eW1jdDUxeFBvdHE3U2pIUi1fMnJHd202aGdIT3lmcTlLUXBSbmtULUdHbHlUZDREQ2R0dC1TRHZWVWtmMEY5VEhId012dHg5dnRtdTlqVDB1MzFMaDR5Mmk4QmFhVEV0ckI3ekxHVjdyZTJxNkVn?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-001629c93316",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T16:19:16+00:00",
@@ -1426,6 +1426,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d9dd22665fa7",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T12:44:50+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fierce Biotech",
+    "summary": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout Fierce Biotech",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXZLUTFsbDFRdzZkUnlzTDlSRkVSWUFWLW5hZzFweUlBQVBES29Eb2E2aUFZdkVhN3dlVmJCY3JrcF9ub0djTlZ0Ym1aWXB3dk91a0VVSWJMSm9mVUtGSzV5blViS2NUZXd6bk9lcXpONFhSNGxiaGJLUkdsaHA5d0dyWFFCR2lCYzdnbFJoYXBmbWZsWUZXM21NNEREdWgxclhhcW4yRFNqRkhUb09oaXhienUxT21U?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-80309b5c85ff",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T12:18:55+00:00",
@@ -1534,81 +1609,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTm9xS0FVNTN3Q0FfWlFCY09Lb0M2T3djVE9CNG5CWlg5OEhCa1pDRG9BZjJvRE5QYmhtWVU4RjN3UVlETlQzZGxEUzZCb3ltVnNSWWhRbEVzbjd1MkZKTFgxUUpsdWZwX3dDNkpRVjUtaFpLb3RsbURjNGJlY3B2TGpGbmhEQ0s2MFRDSUtjVVZPT3luU0NmbFVsaldPRTJOU1ZPdzJjQ1V5M0N1Q2FQYlBpRlRYbkdYSGNtYU1NTmFzd2FkWjJXYzhkZ1VmSXVOaGIxWXp4NFBhbEhLdGFaV0o3cmZmc0lBb29ldzRQSjZvRGNwaVgwMA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5a804a95cfb7",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T07:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Acorns Acquires Frich, Expanding Its Financial Education Community",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Acorns",
-    "summary": "Acorns Acquires Frich, Expanding Its Financial Education Community Acorns",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5KWmREOFhGamtEcGRYbnFRd1BFcGM0UVpyanB1enMxUE5Ic1l3WlVjQ0tqWHJVRFZlcnJCR3pGZWUtb1ZCT1ZENVBTUng5azFYZmFCMS1oeHpYWDVSdU9IMDFlVlluN2QtLUE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
