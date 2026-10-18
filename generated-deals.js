@@ -451,12 +451,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-55bf6540a032",
+    "id": "news-f900c2735edb",
     "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T22:47:16+00:00",
+    "publishedISO": "2026-10-15T20:49:12+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach?",
+    "headline": "Indivior Shareholders Approve Proposed Merger with Supernus",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Tomahawk Nation",
-    "summary": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach? Tomahawk Nation",
+    "sourceName": "Indivior",
+    "summary": "Indivior Shareholders Approve Proposed Merger with Supernus Indivior",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVFFc0FOUzJoelJ2S09GUDYyQzlVMFpFZ0RsRDFMU1V3QWpHby1fMUxoYkN6VFIyXzN6cUdUeTZoYTIyT0lwcWd4Nkt6cEdhbmd6WTNSQWtYYTZCVy1VN05NWmhVTk01YnkxNzgtTGNTLWhkajA2VUUzYnhkWDRxSDkyTG9pN0N2R2gxbUlvM0tKWHM2R25fV3hUTnoxeGhYTHdPMGZyTmxzeUU?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZHhScTljczdkelRnSFlybGFaaGs5OHBONXdLTWdpYXZPdUozUmpwTWQtTldxMkM4TENIdWVwN1VRWGRVNHhjalhYaFFxdHBvdGxRYV9faXZ5RDZTUi1OQ01nNnd4eEZvSVhTYTU3dzU1aWtVOFVQUk0tRWlCZ2hmOWlmVnA1aFdEYzU0MW5uWjFMQW5zdTNWQnZPNUNHX2lJaTRqYWZuUHZqbTJScHJNMkhJbElzajlVS1RzQnptektDQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
