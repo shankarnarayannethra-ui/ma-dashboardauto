@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-b5028ab86219",
+    "date": "October 18, 2026",
+    "publishedISO": "2026-10-18T23:44:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Australia's Cleanaway agrees to $6.5 billion EQT takeover, shares surge",
+    "valueBillions": 6.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Australia's Cleanaway agrees to $6.5 billion EQT takeover, shares surge Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZ3BnTkYwbTF0X3R2ZUpDMy00Tk9ITWR6RjZlODdWWkdhQ0t5eVh1NWdlZmFxWVluT3hvSUZ4cHhJaTR1WEtZdU5NWEYtTk1rNVVvWU0xbXp2YjQ5ejliaHUwSEFYSDBocmc0X3lmNUN2SUVscVFSNF9XVF83VkVrVzVGdHhTQzA3dzhPU2liT1REY3dteWFaUENGWDRDMnBlZzltcTdzeFZ0T2dCUmdNRFowZEdmdjZNRl9veg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 18, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-0ab5e8793066",
     "date": "October 16, 2026",
     "publishedISO": "2026-10-16T21:22:20+00:00",
@@ -409,81 +484,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNcXktYkYzaW9lOWxaN3NPMHhPQ2MyTnlvZkxELWQ0NFdjMUpvUTFyZ1FWUWxmM1pMZ2Q0aDdLWFNhNHlHXzI2NF94VHVvME1XM05kWVBNVnJMWTdzZUdSQ1hnYkRaZnRlMmRQdGluVXdONWxzVWRIY1JIam5LM09QWXJHZW9mbVhGZUhKenlPdlVodWozY0ZETkhwN0gwWENoRDZZQWdfTnVoc1hpWG9ZNkVyc0xiMTc4b2stYlczTGE5bXBGUkVnOU9BV3Q?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-55bf6540a032",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T22:47:16+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Tomahawk Nation",
-    "summary": "Mike Norvell’s FSU salary, buyout info: What would it cost for Seminoles to fire their head coach? Tomahawk Nation",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPSVFFc0FOUzJoelJ2S09GUDYyQzlVMFpFZ0RsRDFMU1V3QWpHby1fMUxoYkN6VFIyXzN6cUdUeTZoYTIyT0lwcWd4Nkt6cEdhbmd6WTNSQWtYYTZCVy1VN05NWmhVTk01YnkxNzgtTGNTLWhkajA2VUUzYnhkWDRxSDkyTG9pN0N2R2gxbUlvM0tKWHM2R25fV3hUTnoxeGhYTHdPMGZyTmxzeUU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,6 +1126,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-1e16349e2800",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T21:15:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "MSUFCU announces $13.5B merger with Texas-based credit union",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WKAR",
+    "summary": "MSUFCU announces $13.5B merger with Texas-based credit union WKAR",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOUlBBOF9XLXAwRnduTTZNNmkzdHlJUTlEcVdJZnJZN2hPZ0VmQUhfUF9DaktOSmdZR0E2XzBfOExUSGpTQ3N5cFI3SDZMOUZHbTlJdnFwZVBUQlRsWkVZeTViZFRKWDZtbllzOFNyUHB1ZDhrSDJ2aGNJZHBFUFpRcU52a3V3TXJGcWxncHdFRHpjTl9wZGF2cUJESVl6UTFuR1U4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-001629c93316",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T16:19:16+00:00",
@@ -1384,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNVkxLZlRlTkhxRS1sbG8wemdHRWNYLWY4UTgtTkpNY1ZpNjM2MzRvU0QtZkprTndIVnlfeUkxeExSRTZRWWRpX21tU2JtWFMzUkcwYTZLTHNCdGFnSFpLTGl5ekVLRmZOZWxYYVU5SGFodzN4dDhIeUJfeUphSkRaNVhkdkl3R2ZNdEVhNjlfUm1yMGpoTnlEZWtwdG9pcVRaOFNN?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d9dd22665fa7",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T12:44:50+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fierce Biotech",
-    "summary": "Biotech builder Paragon imports Apogee's top brass after AbbVie buyout Fierce Biotech",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOYXZLUTFsbDFRdzZkUnlzTDlSRkVSWUFWLW5hZzFweUlBQVBES29Eb2E2aUFZdkVhN3dlVmJCY3JrcF9ub0djTlZ0Ym1aWXB3dk91a0VVSWJMSm9mVUtGSzV5blViS2NUZXd6bk9lcXpONFhSNGxiaGJLUkdsaHA5d0dyWFFCR2lCYzdnbFJoYXBmbWZsWUZXM21NNEREdWgxclhhcW4yRFNqRkhUb09oaXhienUxT21U?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
