@@ -1,6 +1,231 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ccd3787b0cce",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T22:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Weil Is Engaged in Merger Talks, Leadership Tells Partners",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg Law News",
+    "summary": "Weil Is Engaged in Merger Talks, Leadership Tells Partners Bloomberg Law News",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxORnF5dGI3NFNrMkZoMWxocFJCV0g5RzhJeGZHMWNZMGFUZVBaWGVOOEJ0bUdWWE5taW5qSEozdUlaeWVwV1FoVThzMzBQMDRldjJBbk9EVlBPcC1FcjREdjdnNTZOd1A4Y05nd0x5LWJpYXJ3QnE5V0dfR1c1a3lZTEhDQlBxR3NoejdNY0R4amZxMF9zc3JfSXBFcjgxdS13X3EzQVVmWk9vcjNYeXc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-481f8f43577f",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T20:58:41+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SCC staff recommend axing Dominion–NextEra Energy merger as proposed",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "VPM",
+    "summary": "SCC staff recommend axing Dominion–NextEra Energy merger as proposed VPM",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LV2dBTjVoUmJrZkJXY1hMOEg2YlNKQ043dHIycndoa3R5Zlpmbk9LRGNIY2prbGJmdXVmbDhiVUpHbnRKT1VuUnNiV1Rpd2RnZmc4a2lQZ3lWZUJaS1hraW1XaEFFclRHZ0QyWm5VajJ3VkRIVFUzMDlUQU4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-45aca841eade",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T18:28:56+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "New Mexico utility regulatory officials pave the way for PNM acquisition hearings to continue",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Source New Mexico",
+    "summary": "New Mexico utility regulatory officials pave the way for PNM acquisition hearings to continue Source New Mexico",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOUV1TnRZSC1HYXpxOTIxbFJDVklwV2JQTkJEVmdEYk5xYTZUUDhPeFhVR0FxRXJZRG10UEpEX2xMcmtZbWt2YXZhaWZoUDBxWUQ0U0h5blUtRXZqYVlDcE8wV3NMaEtfcHVtZlVpY1pQcU84cDVIVFdEaS1VX1NiaHdkT2U2UEVYWEFVcU9vQUctRVhQSGt5bUc1YkhHbWtoQ2R5ZV9ybHZGWWxMTmZlRFh4VVlXZFE4V3hiQmV0LVNkdnFW?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-bca8a8256173",
     "date": "October 19, 2026",
     "publishedISO": "2026-10-19T18:10:19+00:00",
@@ -376,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-97735f3c404a",
-    "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T10:00:05+00:00",
-    "acquirer": "US grocery giants Kroger",
-    "target": "Albertsons head to court in $9bn battle over failed",
-    "headline": "US grocery giants Kroger and Albertsons head to court in $9bn battle over failed merger",
-    "valueBillions": 9.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "US grocery giants Kroger and Albertsons head to court in $9bn battle over failed merger Financial Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOcFpncEV2TlZrLXhFbXZLUDVnQmFuQmMydVdYVzZHYXBkY1JhaHFNb3BRZVNDdGEwZ0dXTElackdVUjNTZ3dKYUxBM1lVUUhPaF9Jd1I5YnE5YVFuRmw3ZUk0cXBIdzROYTU5S21CNXFIRTFoTjhyRTdvLUU1QUptQUZ0bmU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-b5028ab86219",
     "date": "October 18, 2026",
     "publishedISO": "2026-10-18T23:44:01+00:00",
@@ -559,156 +709,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7d8b1bdd46ee",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T20:45:37+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Army Task Force Partners With Acquisition Directorate to Accelerate Counter-Drone Tech in Africa",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "U.S. Department of War (.gov)",
-    "summary": "Army Task Force Partners With Acquisition Directorate to Accelerate Counter-Drone Tech in Africa U.S. Department of War (.gov)",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQTU85aWxJVlo1RVRUV1Q3aXVVaFJUcWlNNnI3NHRFSVh6Uy1IM1BTcmphXzllQjV5Ulc1YmR5VEZWNTVpOHdNMjk1dmQwekdhN2xXb2xVbzFqWk5tSU5fTzVuM3lyWmlld2V2LTlqUkRtX1pWUU5MLUFJSE9aQ3hDb1JQUjVuX3RJN3NwbHN6cFRUS2ZMazF5cXNPTkNlUTBTSHRpS1Jwd2c0NUlZdWdGOUV1czhCSGpzZmZKR0JlZ3paNXJoR0ZrQkVXeEFoai1SZnFocjN1TXdwUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5d80a96b98f4",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T20:40:02+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Ryan Day Buyout: What Would It Cost Ohio State To Fire Its Football Coach?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX Sports",
-    "summary": "Ryan Day Buyout: What Would It Cost Ohio State To Fire Its Football Coach? FOX Sports",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPdTIyeHhVcUxKbGxIZ3otdEdMUk5JWEJlZV9IeVp6LXp0ZVZDSG52WDZRVU91U2NzSG8xSjhkMmQyRXlIZnVQaFNUSmVVdG9CZ1VfS3g4ckYtLWpEaHRwUDFhVjVFV1UxdFpiTHVNMTFGbnR6TFhZOWZJdmN2TXF3U1lWU1U2aXo2V3pBZkUzeUVMaVBoLVBRSlZFSFBNUTDSAZ8BQVVfeXFMT2J6cDd6a21NMVJhbVliZmJNcXJNTFpybE9fVDUydE9jUmJHT1VKcnBFZ1BGS3h4cmRJYTRCVTFGWlNWS3EtT0hzX3lIcFZlNGRjSEhJLW1Ra0IwTTQ0VC1VbWFWUjhSUWVZVHJSTFRYVzByRDFUSW8zVy1QNmhweDl4ZGk3cVl1MUVxcDNBNERYbnZOY0tRaVkzNS1XSnRJ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,6 +1726,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-fd1d7b082f75",
+    "date": "October 13, 2026",
+    "publishedISO": "2026-10-13T20:15:00+00:00",
+    "acquirer": "Brookdale Completes Acquisition of 17 Communities and Announces Mutually Benefic",
+    "target": "30 Additional Leased Communities from Welltower",
+    "headline": "Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "PR Newswire",
+    "summary": "Brookdale Completes Acquisition of 17 Communities and Announces Mutually Beneficial Agreement to Acquire 30 Additional Leased Communities from Welltower PR Newswire",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisgJBVV95cUxNRnc2SjRLcHRQSWpSYVhZRjdrTngxcVNJRW1UTHlWWDdTR21ucGxjRDhKU0tWSDJfd3hrb0VvcmpUNjRHZWpzZnBpelRNQWFNYUM0c2pmbUJ4eFNTMHVQanY5UlUwRDlHcUswRFd6a3duY0hQNk9TcWQ1WWtPUVJqb3c4T1NnV3NNSW8tUXhvUzBWZ2dYdEh2WmZEOG1xQzVtRi00cDNyTnMxVWJKVk5feGhUU09qTjV1TEJzc3dNS0lhNDdBTFNZSHczSXNqQlFhQm5ObzV2Q2FkZmJVSmRXOVFrQVJlTW1WUzJ4Z1pJdkJSRklnZ2dpd2N3cU96YWNQbXcxQmYwV3ZJLVhKNXNUWWVGTDdsdC16Sm15TW5kMm9kV0ZzeVhZVzQwMktMaktQWUE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 13, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-001629c93316",
     "date": "October 13, 2026",
     "publishedISO": "2026-10-13T16:19:16+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxQTm9xS0FVNTN3Q0FfWlFCY09Lb0M2T3djVE9CNG5CWlg5OEhCa1pDRG9BZjJvRE5QYmhtWVU4RjN3UVlETlQzZGxEUzZCb3ltVnNSWWhRbEVzbjd1MkZKTFgxUUpsdWZwX3dDNkpRVjUtaFpLb3RsbURjNGJlY3B2TGpGbmhEQ0s2MFRDSUtjVVZPT3luU0NmbFVsaldPRTJOU1ZPdzJjQ1V5M0N1Q2FQYlBpRlRYbkdYSGNtYU1NTmFzd2FkWjJXYzhkZ1VmSXVOaGIxWXp4NFBhbEhLdGFaV0o3cmZmc0lBb29ldzRQSjZvRGNwaVgwMA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 13, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7147dc091785",
-    "date": "October 13, 2026",
-    "publishedISO": "2026-10-13T05:33:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Prysmian completes Xtera acquisition and accelerates expansion in submarine telecom",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Prysmian",
-    "summary": "Prysmian completes Xtera acquisition and accelerates expansion in submarine telecom Prysmian",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOQmNVbGFBeWhXSE0waUVBTHRSTnA0N3BndGhxQTRFaGZ1M24xWmkxd2NEdEFsVVRpOVgyWXFSbEJzS0ZMcUpFek1idm5aOTdBTVZNb3FDSDM1Q3F5OGlxMkVUekFXTU9oaEJ1VGg3d3pKeExHRE5QUG53VGxka0Ezam50U3hVbEQxelRYVVlmN2E0aUY4OHEwazhrZmpFMDF2QnNJbEphREV0U1dxdHRsdzB5NHVGS19OLTdtcDUtNWp1aW8yeHE2dVhLcUc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
