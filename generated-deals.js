@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-c569d58940eb",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T22:48:21+00:00",
+    "acquirer": "EQT to",
+    "target": "molecular testing firm Qiagen",
+    "headline": "EQT to buy molecular testing firm Qiagen for $10.8 billion",
+    "valueBillions": 10.8,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "EQT to buy molecular testing firm Qiagen for $10.8 billion Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHkyNW5pTXVNT2J0VFpZaGVHcW95Q3lkRWZ0clJYMVdva0M4b3BDUkwzQkNnRk41T2x3M1E1bDlxUUlCYTI5cVFHc093UU5rYndOcGRpa2FjSHBreml6WGJrbHFBSXhmaTB3QUozeDVQRERJMkhpTDFCUy1zZHk0aWIxcEhpdnJjTUd3bERiNmZleEM1enEyQlpuUDNYekE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-40e9028ace98",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T20:57:22+00:00",
@@ -34,156 +109,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWg4ZGc4eElFTUc3STkzZnNLZ3hoZkVQWDMwbm9MMnFpRFIyYTV1OGh0NEo3RFZxUExBOV9fckd6SlV1WjNPTGdnbm83LTFpRS15elZOeWlWajI1TlhvQ0pSNVdLNWptMFZyRjZob2paWXFObkhOR1dFNWpUdUZfcWlHUTg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-07d9d022c156",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T18:15:53+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTVHd2VEZUVrVDJpZzdZTFpLRDlEdXdVck83NDhpeUlyZnNwVVNqRWppNThJVVFiMDJPazVOblA1ZDdScmJ2SWFodWpKMC1BZHdjTmlsdFROVkZfRWJpbzZ6VEdUUnVpcnE4NWxxNGI0V1VVNTJ6YnNaR01wT0VsZmhVNlJIU1BFV3ZPVUprek8ySE83U2xfaldDaGhwLTRHem5QMnBYTE9VbjEzS0JkSENkZTc2UUpETVpTUGtWejg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-7e37ab6d69b3",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T15:29:08+00:00",
-    "acquirer": "Elon Musk signals Tesla",
-    "target": "SpaceX could",
-    "headline": "Elon Musk signals Tesla and SpaceX could merge. Here's why he thinks it's a good idea.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CBS News",
-    "summary": "Elon Musk signals Tesla and SpaceX could merge. Here's why he thinks it's a good idea. CBS News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBuU09rcEp3T1k3UzJLMk5oX0pxNmRtRjBOOHZIeTkweVlpME5kZDlQZUhpNHYzQnRlckJWU2hoYjR1X3J6VFBSbEYtdnczSGtMLXJuVFVNNXJ1UzZiVFdZalp1b19FM3dHSi13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1d7e12e7e37e",
+    "id": "news-f344fb99846f",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T14:02:05+00:00",
+    "publishedISO": "2026-10-21T12:41:05+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Library of Congress Acquires Letters Written by Former First Ladies Martha Washington and Mary Todd Lincoln",
+    "headline": "Musk backs SpaceX-Tesla merger idea as both boards form special committees",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Library of Congress (.gov)",
-    "summary": "Library of Congress Acquires Letters Written by Former First Ladies Martha Washington and Mary Todd Lincoln Library of Congress (.gov)",
+    "sourceName": "Yahoo Finance",
+    "summary": "Musk backs SpaceX-Tesla merger idea as both boards form special committees Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQb2Fib0VnbXZYaDdheHc5TVNMVjRGZjlZeEpJaUwzSFBhSUdjMVdnWjlWZjFYeUtWS0czMXVhMGQ4Nkhia05fWVhsejhpYTlucEM0QUJiZTZZR09OTUxnejJRbXZFUFRjeXF0NV9DcmFjLUpyWkZkT3p5RnhEdHlGTGlVZlNpRVRWWkhaSDR4UmxNVVlQUkJyRmdqRXBpMDVCM2E0SlVkSEJpNUl2YmpFYzZ1Tnl5SDRSNU1URFptcXZBOVJBRUhPMFM0UFh3TnlDc2M0c3lfbU5mbm1pZ3B3d3BNZGV3TFZDYWwwX1YzR0R6YWp1dlpsM1R3dDVXdw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnJPQ0hUeGVqU1RfZHRCeVFtcnZJaGItX1RLYWlmZmZtTG5wT2dOQUJOcGIwUEM4SG90ZzE2X01xTFAtLU40dUtHVDdTTzlNOVBrUmZKWHNFM2J5V3A1c3JZdDVXUnE0ZkZYVlBDdTkwdFZ0Qlp1c3kzdzQxUXhnY3FvcGtSU2gwZ05oLXhrWWU5R1l0UWdfMFg4YnEtWGpCdmhlNi1ZWERqTzA3YUpIaVhsRzBPTG1KNnlpOE1lNXdrVjBSSWI3TnNsTHBvd2x4MC1yOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-07d9d022c156",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T10:33:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Wall St sees Tesla-SpaceX merger as inevitable, but split on price Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNSTVHd2VEZUVrVDJpZzdZTFpLRDlEdXdVck83NDhpeUlyZnNwVVNqRWppNThJVVFiMDJPazVOblA1ZDdScmJ2SWFodWpKMC1BZHdjTmlsdFROVkZfRWJpbzZ6VEdUUnVpcnE4NWxxNGI0V1VVNTJ6YnNaR01wT0VsZmhVNlJIU1BFV3ZPVUprek8ySE83U2xfaldDaGhwLTRHem5QMnBYTE9VbjEzS0JkSENkZTc2UUpETVpTUGtWejg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1fee13e628c9",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T02:27:00+00:00",
@@ -484,6 +484,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-20130cea6aa4",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T02:09:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Why would Musk merge SpaceX and Tesla?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Why would Musk merge SpaceX and Tesla? Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkVkNTdkcV9oczJLb25yYzRRajZGUG1TcnBXNF9nLTJIVEhJQnVERENGeC03LTBJNHVOT0diX1RxNnN0dzVJUUdQT2dUUnpCUzE0VVNaSFRzVVpLNk9ZNUxKWDZrdFFld205MlFLMkk4UGVyUG9WbVdzaFg0V2o4a0VTM0ZWcTYtZUt4eWlqTkJrWXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 15, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-1a3c233d7aca",
-    "date": "October 14, 2026",
-    "publishedISO": "2026-10-14T23:47:57+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Tesla-SpaceX Merger Could Be Announced As Early As Before December AGM, Says Barclays Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPTGwta25FVlF4T0c3OTZtY2RrTkhib1U3Tjl6eDBDTWFQUXpvemt5c2lSOVU4T3loVTF6SDFvOFQ5ZEJPNGZIRmR6cENHSzJHa0ZuZ252OTFUNmxWQjhyd1piRGZzYVJiZXBnQ1RjQm5iLUhWT0IwaVFOUjB4VVZ1Z2RpOE5ZRG9tajdLdkdnZ25VVENZRUowbk1vcHMzZmtGbnc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 14, 2026"
       },
       {
         "stage": "Terms verified",
