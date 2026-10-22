@@ -151,81 +151,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-40e9028ace98",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T20:57:22+00:00",
-    "acquirer": "Elon Musk Says SpaceX",
-    "target": "Tesla Are Exploring a",
-    "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWg4ZGc4eElFTUc3STkzZnNLZ3hoZkVQWDMwbm9MMnFpRFIyYTV1OGh0NEo3RFZxUExBOV9fckd6SlV1WjNPTGdnbm83LTFpRS15elZOeWlWajI1TlhvQ0pSNVdLNWptMFZyRjZob2paWXFObkhOR1dFNWpUdUZfcWlHUTg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9578304bbe69",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T14:38:24+00:00",
@@ -301,13 +226,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f344fb99846f",
+    "id": "news-645e53c69a65",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T12:41:05+00:00",
+    "publishedISO": "2026-10-21T14:34:25+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Musk backs SpaceX-Tesla merger idea as both boards form special committees",
-    "valueBillions": null,
+    "headline": "PG&E pegs San Francisco grid takeover cost at $22.5 billion, more than six times city's estimate",
+    "valueBillions": 22.5,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Musk backs SpaceX-Tesla merger idea as both boards form special committees Yahoo Finance",
+    "sourceName": "Reuters",
+    "summary": "PG&E pegs San Francisco grid takeover cost at $22.5 billion, more than six times city's estimate Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxPNnJPQ0hUeGVqU1RfZHRCeVFtcnZJaGItX1RLYWlmZmZtTG5wT2dOQUJOcGIwUEM4SG90ZzE2X01xTFAtLU40dUtHVDdTTzlNOVBrUmZKWHNFM2J5V3A1c3JZdDVXUnE0ZkZYVlBDdTkwdFZ0Qlp1c3kzdzQxUXhnY3FvcGtSU2gwZ05oLXhrWWU5R1l0UWdfMFg4YnEtWGpCdmhlNi1ZWERqTzA3YUpIaVhsRzBPTG1KNnlpOE1lNXdrVjBSSWI3TnNsTHBvd2x4MC1yOA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYm1reXFtcThPWXNrSjlSaHlvRUdLTk42RzBmZm1MalNONUVkT2x5RDBKWFZGWTV6RGdnYXF6UnBSMXdTdzVPWk8zTzMydHNaV19EOFFxTkZDRVpsRUU3QVhQT2FUTGdBelBtTy1OdE9mRHpaSVNBYzlESWwwMS1uS2dib2EwM0F6LWdubS1UV3pSc2wxRFJPOHdEdk5wbGZOdmNXaGJhMnhoNnFFUm9yQ1hXRktUbDBQWUlGRVdjbFM5aHU1WHBkX0dLdHo?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,6 +376,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-40e9028ace98",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T10:58:36+00:00",
+    "acquirer": "Elon Musk Says SpaceX",
+    "target": "Tesla Are Exploring a",
+    "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZWg4ZGc4eElFTUc3STkzZnNLZ3hoZkVQWDMwbm9MMnFpRFIyYTV1OGh0NEo3RFZxUExBOV9fckd6SlV1WjNPTGdnbm83LTFpRS15elZOeWlWajI1TlhvQ0pSNVdLNWptMFZyRjZob2paWXFObkhOR1dFNWpUdUZfcWlHUTg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 21, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-07d9d022c156",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T10:33:00+00:00",
@@ -526,12 +526,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1fee13e628c9",
+    "id": "news-783ca064a4dd",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T02:27:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "A possible SpaceX-Tesla merger? Here's what people are saying",
+    "publishedISO": "2026-10-21T04:07:53+00:00",
+    "acquirer": "Elon Musk says SpaceX",
+    "target": "Tesla exploring largest",
+    "headline": "Elon Musk says SpaceX and Tesla exploring largest merger in history",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +540,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "A possible SpaceX-Tesla merger? Here's what people are saying Reuters",
+    "sourceName": "Al Jazeera",
+    "summary": "Elon Musk says SpaceX and Tesla exploring largest merger in history Al Jazeera",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,7 +558,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQVWtPa2VhQnBubUJ2TExKcTBrNDdibllGd0d1MFVid0J2UWRGNEh4M2Z1bWh2WHBtdk1fS2p6Y1B0YnVBVlZPRGU0dUg1SFRWdjVicnRla1I3UjU5TWhJbXB4N0pmQklKVnVTX1h0OFF6NlM3OWM0VWVqcTlpMVVsOUw4X01IM0txY0lTbktZeUx0UXlsdGg3T1ZGckJ1U2ItekFvX3RjONIBrAFBVV95cUxOV0hPV2JOVEc4dDhtWGUtUHh5aUpQb2J1WXAxbVEyZjhWc093X3hoMUdQdlNBZEpkU1J3VmhGdDFOdVlvYjFSZVNvbE5vMGNUVVkzUFZ6QjkzMXFPZjBxTnQ5TVpZMnhuVm80VTJOTVp5YzZxNDZlcHRhNG9PbFUzWlV2YWhVazlQUDB6M1JPdGk5WlByQnh4OFdicUd1ZkZfdmJCRFI3RWZPb1BB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-20130cea6aa4",
+    "id": "news-1fee13e628c9",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T02:09:00+00:00",
+    "publishedISO": "2026-10-21T02:27:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Why would Musk merge SpaceX and Tesla?",
+    "headline": "A possible SpaceX-Tesla merger? Here's what people are saying",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -616,7 +616,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Reuters",
-    "summary": "Why would Musk merge SpaceX and Tesla? Reuters",
+    "summary": "A possible SpaceX-Tesla merger? Here's what people are saying Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPRkVkNTdkcV9oczJLb25yYzRRajZGUG1TcnBXNF9nLTJIVEhJQnVERENGeC03LTBJNHVOT0diX1RxNnN0dzVJUUdQT2dUUnpCUzE0VVNaSFRzVVpLNk9ZNUxKWDZrdFFld205MlFLMkk4UGVyUG9WbVdzaFg0V2o4a0VTM0ZWcTYtZUt4eWlqTkJrWXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNaWRxNkpTVm40U0R4RURyQVBpbXZKNVNDZU9OV3UtRUZNaTJRMWRFd00tVHBXSzhWdzZvbG12U3htRlBhZHMxQ1M2UFp5Q2U1UXdJaF9zS1BLLVFjTG50bXVfWVdacEFNNEtVNkhDdHJnVW4tRlh3YzdVeFowR3A0eTdoZ2pXdmN6MHhTNE13OF9IUWNid19HdVFlcV9sN1NvVkhjZmdxaVdMOUxta3NPREd6Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1234,6 +1234,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d3c18c0f0421",
+    "date": "October 20, 2026",
+    "publishedISO": "2026-10-20T18:03:41+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "OpenAI acquires Orchestra Bio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "OpenAI",
+    "summary": "OpenAI acquires Orchestra Bio OpenAI",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-32f7d19a974c",
-    "date": "October 15, 2026",
-    "publishedISO": "2026-10-15T14:01:12+00:00",
-    "acquirer": "AkzoNobel",
-    "target": "Axalta to be called Axanzo following",
-    "headline": "AkzoNobel and Axalta to be called Axanzo following merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AkzoNobel",
-    "summary": "AkzoNobel and Axalta to be called Axanzo following merger AkzoNobel",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOY0hkT1lRcndWc3F6ZWFaeHZIZUoybzR4bTJ2VUZLTG5scklNMkdMX0hwN0M5ZDI1V21iTkhvdlozNkNESGxHOE04QWdNR1VFeU9oaVR5cS0wSW9nckNxLUxoLVNuRERMYlJfNTlEc3JydjNXWTZyVmVzM1pGbF92d0VtZllQQm9FRDdmN3FtUTZ0ZnpjdS1zc2JnWlpTLXd1dVNBWWY1NkNmakE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 15, 2026"
       },
       {
         "stage": "Terms verified",
