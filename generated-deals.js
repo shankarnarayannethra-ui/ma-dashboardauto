@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-46c072f06f64",
+    "id": "news-bb1ab7c85d19",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T16:05:23+00:00",
+    "publishedISO": "2026-10-22T23:54:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint",
+    "headline": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "World of Outlaws",
-    "summary": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint World of Outlaws",
+    "sourceName": "WSJ",
+    "summary": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDRqdlhQMl9rZDF2blFaRVpMcFBqLXdNblB3RGlZN29YNXlZcC1nTWpXM1FsOTBrVE5hT0Z6OWtKYmFWRGV1MmpVeTdVVnplSXhjU0EzRDB3WGZSTzhNUEhGSnRJRHEtM3Nic01FWmNxc3JPUzJJNE9ZSnBiTFJTYlhpc0ltQWoyLWNSaDZrYTUzODFwd2V6dFozYUhiR3FuNVVQMEctRWloMnJjUGoxNUZmQk5HMGFFZmhLSQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-22c78b7d349d",
+    "id": "news-84b3981fd720",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T12:57:00+00:00",
-    "acquirer": "SpaceX",
-    "target": "Tesla Are Already Joined at the Hip. What a Formal",
-    "headline": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean.",
+    "publishedISO": "2026-10-22T20:49:29+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "As Exits Continue, Weil Works on Merger Deal, Tells Partners to Carry On",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "SpaceX and Tesla Are Already Joined at the Hip. What a Formal Merger Would Mean. WSJ",
+    "sourceName": "Law.com",
+    "summary": "As Exits Continue, Weil Works on Merger Deal, Tells Partners to Carry On Law.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMzUyNDRqaUN5bzNjOUtHdmk2VHZFTHpPbjRSR0VOM3JnM1BRZjFDZ1dfVWZYd1NkZnpEMUF0WVRGRndJQnEzU0hyMUNES1F4YVc1Q3hGNkpyQnQ2ZTZ4Y09EcUU1V2l1bFV3VHo3RG5wbk9VUjB5dTRmMGUxcXBsTXZxVlk4Snh0RXRKTWNKMkpxQzFiZ2FRaGlzNWUwMkZtbVM2Rg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzBGWXctcjJjTk4tTVJtUEtLWmxTRlU0NXpiSFYyckI1cWw3RzZHZXhYc0hzS0R1Z0F0RkM0bjRQX0V2Z2tzcVlyYVRWU3Y4bWVLUUhnZEEtb2EtaDA3dlZpQVp1UWluTE03SFVwQjRtanJvUzZKeDB4TU1PMEtWTTlMVHRQX1hSNFlLWUhnaGlZT3FCMUEzel8zTFNhV1Jmb1FscnU1N2lFa0tsT3ZYazNoRnlSU2ZQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-46c072f06f64",
+    "date": "October 22, 2026",
+    "publishedISO": "2026-10-22T16:05:23+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "World of Outlaws",
+    "summary": "World Racing Group Acquires SLS Promotions, Expanding Its Race Promotion Footprint World of Outlaws",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPcDRqdlhQMl9rZDF2blFaRVpMcFBqLXdNblB3RGlZN29YNXlZcC1nTWpXM1FsOTBrVE5hT0Z6OWtKYmFWRGV1MmpVeTdVVnplSXhjU0EzRDB3WGZSTzhNUEhGSnRJRHEtM3Nic01FWmNxc3JPUzJJNE9ZSnBiTFJTYlhpc0ltQWoyLWNSaDZrYTUzODFwd2V6dFozYUhiR3FuNVVQMEctRWloMnJjUGoxNUZmQk5HMGFFZmhLSQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,13 +451,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-645e53c69a65",
+    "id": "news-43fd9be66bd7",
     "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T14:34:25+00:00",
+    "publishedISO": "2026-10-21T11:01:03+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "PG&E pegs San Francisco grid takeover cost at $22.5 billion, more than six times city's estimate",
-    "valueBillions": 22.5,
+    "headline": "Inside the Conservative Takeover of the University of Texas",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "PG&E pegs San Francisco grid takeover cost at $22.5 billion, more than six times city's estimate Reuters",
+    "sourceName": "Texas Monthly",
+    "summary": "Inside the Conservative Takeover of the University of Texas Texas Monthly",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -408,7 +483,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQYm1reXFtcThPWXNrSjlSaHlvRUdLTk42RzBmZm1MalNONUVkT2x5RDBKWFZGWTV6RGdnYXF6UnBSMXdTdzVPWk8zTzMydHNaV19EOFFxTkZDRVpsRUU3QVhQT2FUTGdBelBtTy1OdE9mRHpaSVNBYzlESWwwMS1uS2dib2EwM0F6LWdubS1UV3pSc2wxRFJPOHdEdk5wbGZOdmNXaGJhMnhoNnFFUm9yQ1hXRktUbDBQWUlGRVdjbFM5aHU1WHBkX0dLdHo?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQZ3ZQS08xLVlrUDlPckhKMDhWVVhDMGYxQldSSFRpRjZrZnA4UjA1TkRNcVU3bGNJR0wyWnhYQmo4NllMZVMxbzFrVDhiNHBzWEl3Q0VMQzRTX18tdms3Ylo3aFdRMjRFSEZfOWFNS1ozRWU3ZDhBNHRTcG5pdEREOTFEektDeW1NcjRTSi13?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -784,81 +859,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUThSVkMzVThmclNyYmRobWM3NURJYmt1THZJTHhab2Y1LUNJckxJb1hpOGI3eU1QZ3A3d0ZSVzFfamRRYm51UFg5dVV2V3lQRkxnUjRJOUllbXJFcHBkdi1nOEJ4bFduQzZLYkQzWHphUk91ZFV6MzRDcWtJU00?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-da61ec0f4b5e",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T22:47:00+00:00",
-    "acquirer": "Tesla",
-    "target": "SpaceX Formed Committees to Discuss Potential",
-    "headline": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,81 +1576,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a3d8a5e8047d",
-    "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T20:31:19+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Hunter Harrison’s Real Lesson for the UP-NS Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Railway Age",
-    "summary": "Hunter Harrison’s Real Lesson for the UP-NS Merger Railway Age",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUxoQWNiT25YbF8wOEV2WENoX0tiMWRQbUFEbDMwZ0FnamRLUnlmTXRaLXI0T2FQemdMSVE0SjFZVzV1V0xkSDBoeDlVWnpYNjdUa1lIbGhCZ1BnY0tlRGZ2V2t0NGhCa3E1dF9sUVhiNlM2MEljd0MyQ0F6V0tZUlhYWDd2bldkTUY2eDN5ZEZxZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-bca8a8256173",
     "date": "October 19, 2026",
     "publishedISO": "2026-10-19T18:10:19+00:00",
@@ -1759,6 +1684,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQeVBBYlZaTF9DU2FwM2w0VW1nSDBBbl9JX3JLUVAyTkxtR2VKWTZIaHRIOEN5Y3BYMXg2MHVONWI1SzBWM3phbVVoOXI5ZThuZ2w2VTFnM1NqOXU3N1hRejBEa2NlNl83bmN0d1d0WFhldVAzVXh0ZkxNYVVCZ1E4MXBEbFcwSE8zREVMVHQwb3ctbzNNUk05MEdXZFFBSUNlSnhQT1RpdGVOMHk5QVcta0ZTN2ExYk9WcnFIdHh3?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-f86cb5f98a46",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T15:55:16+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Divert acquires anaerobic digesters in North Carolina, Rhode Island",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Waste Dive",
+    "summary": "Divert acquires anaerobic digesters in North Carolina, Rhode Island Waste Dive",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPempYV1R6UzQzSWxCdVg4RVRGNmh2bHl0SlFINzd1bUE5clFOSjlsUnBXcVJxQXU3UDZZTVQtNEZfMVhudUppSkYwYlVsS0ZDOG40el9EUmJ4LXBRb1pQLVlSZVdrbDlYbWRMUHJQUU8tNHVtUG5pZmNoWldXZmRrYUJ5RDFVSHVodmFnUUdUYnBXWDNicVU4RGVaOEhOQmlTamhSZmgwa3pRNGNfcmVkRw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
