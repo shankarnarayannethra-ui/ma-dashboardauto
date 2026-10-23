@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-223805dcae11",
+    "id": "news-672de0fa805d",
     "date": "October 23, 2026",
-    "publishedISO": "2026-10-23T11:09:02+00:00",
+    "publishedISO": "2026-10-23T14:01:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports",
+    "headline": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports Reuters",
+    "sourceName": "WSJ",
+    "summary": "Weil Gotshal Loses More Top Lawyers as Merger Talks Collapse WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-bb1ab7c85d19",
-    "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T23:54:52+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks",
+    "id": "news-3e647ba06385",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T12:12:00+00:00",
+    "acquirer": "Weil Gotshal",
+    "target": "Willkie Farr Call Off",
+    "headline": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2)",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Exclusive | Weil Gotshal Bleeds More Top Lawyers as It Holds Merger Talks WSJ",
+    "sourceName": "Bloomberg Law News",
+    "summary": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2) Bloomberg Law News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,12 +108,87 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVjBKX012a09SakE4Y0YtLUJFWGJzVFA3YTFoaUU0OUVhOVJkNmRrcFVjQ3NxdHF6THpmZVRKZjB2MjN4d0o1ZHRHU1ZzZGlmNWVjZ0p5cU8wRVgwWmJ4WlVLYmszQTJfQ3hENHpkVDhEUmg4dEl2azBWbUlHSDhZOXdGOUtDVm1lQVVPWXcyb01RNlJ5QnpjU1hIWDVwSkFjT2tyREU5anE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVhGZnBZcjkxVURUMFg2RzB2bnF2Rjc4cktMNldUODUzY2Ntb05yNTQ0anA5SHpMR3EzQm9QZXZ4RFRxZTNVTjJiZUJUS0stLTE1bDZQNW1hc3dBQWdZa2MwR2tHa1JrZU9wSlJZSHN5cnlEWEh4ZnRuM2ZjbTNKRVZnenRaaDVtOHBnT21mdG5KTVNJSU4wZkRpQkpZa2xka0Zjc09oT25jNFllMmdVVg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 22, 2026"
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-223805dcae11",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T11:09:02+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
       },
       {
         "stage": "Terms verified",
@@ -376,81 +451,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c569d58940eb",
-    "date": "October 21, 2026",
-    "publishedISO": "2026-10-21T22:48:21+00:00",
-    "acquirer": "EQT to",
-    "target": "molecular testing firm Qiagen",
-    "headline": "EQT to buy molecular testing firm Qiagen for $10.8 billion",
-    "valueBillions": 10.8,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EQT to buy molecular testing firm Qiagen for $10.8 billion Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNVHkyNW5pTXVNT2J0VFpZaGVHcW95Q3lkRWZ0clJYMVdva0M4b3BDUkwzQkNnRk41T2x3M1E1bDlxUUlCYTI5cVFHc093UU5rYndOcGRpa2FjSHBreml6WGJrbHFBSXhmaTB3QUozeDVQRERJMkhpTDFCUy1zZHk0aWIxcEhpdnJjTUd3bERiNmZleEM1enEyQlpuUDNYekE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 21, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-9578304bbe69",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T14:38:24+00:00",
@@ -676,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-40e9028ace98",
+    "id": "news-8b4582b736fe",
     "date": "October 21, 2026",
     "publishedISO": "2026-10-21T10:58:36+00:00",
-    "acquirer": "Elon Musk Says SpaceX",
-    "target": "Tesla Are Exploring a",
-    "headline": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger",
+    "acquirer": "SpaceX",
+    "target": "Tesla Explore",
+    "headline": "SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc.",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -691,7 +691,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "The New York Times",
-    "summary": "Elon Musk Says SpaceX and Tesla Are Exploring a Merger The New York Times",
+    "summary": "SpaceX and Tesla Explore Merger to Create a De Facto Elon Inc. The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1351,6 +1351,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d3c18c0f0421",
+    "date": "October 20, 2026",
+    "publishedISO": "2026-10-20T18:03:41+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "OpenAI acquires Orchestra Bio",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "OpenAI",
+    "summary": "OpenAI acquires Orchestra Bio OpenAI",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1d8605f2d7ed",
     "date": "October 20, 2026",
     "publishedISO": "2026-10-20T16:49:57+00:00",
@@ -1609,6 +1684,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1LV2dBTjVoUmJrZkJXY1hMOEg2YlNKQ043dHIycndoa3R5Zlpmbk9LRGNIY2prbGJmdXVmbDhiVUpHbnRKT1VuUnNiV1Rpd2RnZmc4a2lQZ3lWZUJaS1hraW1XaEFFclRHZ0QyWm5VajJ3VkRIVFUzMDlUQU4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 19, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a3d8a5e8047d",
+    "date": "October 19, 2026",
+    "publishedISO": "2026-10-19T20:31:19+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Hunter Harrison’s Real Lesson for the UP-NS Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Railway Age",
+    "summary": "Hunter Harrison’s Real Lesson for the UP-NS Merger Railway Age",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPaUxoQWNiT25YbF8wOEV2WENoX0tiMWRQbUFEbDMwZ0FnamRLUnlmTXRaLXI0T2FQemdMSVE0SjFZVzV1V0xkSDBoeDlVWnpYNjdUa1lIbGhCZ1BnY0tlRGZ2V2t0NGhCa3E1dF9sUVhiNlM2MEljd0MyQ0F6V0tZUlhYWDd2bldkTUY2eDN5ZEZxZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2059,156 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-184ff055cff9",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T16:36:13+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say",
-    "valueBillions": 0.004,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Utility Dive",
-    "summary": "NextEra’s $4M Trump ballroom donation muddies Dominion merger debate, watchdogs say Utility Dive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPYmp3N3lHX1QzYWRPa3lEUWdrZDg5ek5RWjUyUXNGQTBEaFBweEctMDMxbGhOSFgzek9zS0p5TE5iX3BqZjRjaHpVeGxpNDVmcVR5T3NhVENiRnhzNUhONjIwUDNTOHlKTWUxNHNUNi16enFrR29rbC1ydHZzenVzaTZFUmNUdHk4NzI2RDV2Q012QTVtdUpNem1PSWZETEdEdk5xdWx5N2dkZUk3QTZrUGpB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-63496008de86",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T13:29:02+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Prediction market odds on Tesla-SpaceX merger are above 50% for early 2027 CNBC",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPLVYzM2RYRlhQbVBYZjdnWTh4UzdheGh2LUtJRC1ib0I4SjBEdmRGOGkwLUYwelRvT3EzVXhnTDhBUjNOcE5PUWhLZDE0d1VYdVdXeExpNVBrWFZwQ1ZKX3NVaE81ZDNfUGd6VXJwM3VoQlg2ckhJTVF3VkVoTXhxNDJ30gGHAUFVX3lxTFB1TW5ZbGdYaGs2bFJaWkhQZU5VckVmT0Jsa21mUlNfcHJPRER0YUxrbU15X0dYejlxLUZNZkcyYVNYb094OG9GVTJoVHEwblN1Z3REN1YxSlpMWEFyV0tjRUw3TGpFeHltdHJQLWZRUllURU1DVnQ5WmhwYUdxN0c3OU1qaVg0RQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
