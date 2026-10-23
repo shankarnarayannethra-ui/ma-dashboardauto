@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-cb8cd16225e4",
+    "date": "October 23, 2026",
+    "publishedISO": "2026-10-23T17:04:17+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Smith & Nephew talks with J&J on orthopaedics deal fail over CEO role, source says",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Smith & Nephew talks with J&J on orthopaedics deal fail over CEO role, source says Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 23, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-672de0fa805d",
     "date": "October 23, 2026",
     "publishedISO": "2026-10-23T14:01:00+00:00",
@@ -76,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3e647ba06385",
+    "id": "news-d87b438141cf",
     "date": "October 23, 2026",
-    "publishedISO": "2026-10-23T12:12:00+00:00",
-    "acquirer": "Weil Gotshal",
-    "target": "Willkie Farr Call Off",
-    "headline": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2)",
+    "publishedISO": "2026-10-23T13:08:43+00:00",
+    "acquirer": "Weil",
+    "target": "Willkie Call Off",
+    "headline": "Weil and Willkie Call Off Merger Talks as More Partners Leave",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg Law News",
-    "summary": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2) Bloomberg Law News",
+    "sourceName": "Law.com",
+    "summary": "Weil and Willkie Call Off Merger Talks as More Partners Leave Law.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVhGZnBZcjkxVURUMFg2RzB2bnF2Rjc4cktMNldUODUzY2Ntb05yNTQ0anA5SHpMR3EzQm9QZXZ4RFRxZTNVTjJiZUJUS0stLTE1bDZQNW1hc3dBQWdZa2MwR2tHa1JrZU9wSlJZSHN5cnlEWEh4ZnRuM2ZjbTNKRVZnenRaaDVtOHBnT21mdG5KTVNJSU4wZkRpQkpZa2xka0Zjc09oT25jNFllMmdVVg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQRXJlVGFDVTlBdWdmTU1hemdmN2h0SDU3SG9TeDh5b1lZU2M5QW1KYlYxSDJqSnp0MmxKSkFHcEtnM1JpbENXMWxaUUpsWnI1UjlfN1kxc2lQeXZxLWFpcVR5QWNiVUxWVkl2YXRmOTV2b3owVUFia0hfQXhTQ3ZHdW5JT1dSQWlNSTk0Zi0zb2dhUzNyaVQ5UDExUVFnSUNUbVkxT1V4NnhBclFR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -151,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-223805dcae11",
+    "id": "news-3e647ba06385",
     "date": "October 23, 2026",
-    "publishedISO": "2026-10-23T11:09:02+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports",
+    "publishedISO": "2026-10-23T12:12:00+00:00",
+    "acquirer": "Weil Gotshal",
+    "target": "Willkie Farr Call Off",
+    "headline": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2)",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Smith & Nephew merger talks with J&J orthopaedics unit collapse over CEO role, FT reports Reuters",
+    "sourceName": "Bloomberg Law News",
+    "summary": "Weil Gotshal and Willkie Farr Call Off Merger Discussions (2) Bloomberg Law News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNEFJUEg3ZF9EUDdXNENKUTFJOWdDZHFTVkIzd0VTckhBQk1yTzl3dlpKSFExMFg5RUp4NGJLby0xQzFxVWhOeVJGN3JDRU1hM2RnNlUtcDV5d1JBQkh5dk9lUndabzZ3NGlHaGdwY1hnTGEwcW9kRG5aT2NhRzNuYTRfTVFtOGJlSlZRcHhNdnVEQlJXODJOTVBQUTI3S3pPNmdMVmd5NmNxR1RkYkxnUmpYYzhRTEZTWkZUSkpZNDBXa2tsM296YmkyMUdfQQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOdVhGZnBZcjkxVURUMFg2RzB2bnF2Rjc4cktMNldUODUzY2Ntb05yNTQ0anA5SHpMR3EzQm9QZXZ4RFRxZTNVTjJiZUJUS0stLTE1bDZQNW1hc3dBQWdZa2MwR2tHa1JrZU9wSlJZSHN5cnlEWEh4ZnRuM2ZjbTNKRVZnenRaaDVtOHBnT21mdG5KTVNJSU4wZkRpQkpZa2xka0Zjc09oT25jNFllMmdVVg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d3c18c0f0421",
+    "id": "news-1d8605f2d7ed",
     "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T18:03:41+00:00",
+    "publishedISO": "2026-10-20T16:49:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "OpenAI acquires Orchestra Bio",
+    "headline": "Weil Meets with Partners Over Merger Plans",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "OpenAI",
-    "summary": "OpenAI acquires Orchestra Bio OpenAI",
+    "sourceName": "Law.com",
+    "summary": "Weil Meets with Partners Over Merger Plans Law.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5FeFRia3ZmQXZoODE5dExVcC1nNmNlZWhKUWdiWk1VOXhvaVVlbFphNjhEdFd5MThUalctbkJNQmhLbDYxbkMyY2pKWVpQMXM0VGNoM2xnN0RuNjVCOWo3MW8tMHBkVUtV?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWdPQ1ZBcURqYTFoYkEzUlp3MWx6OXJYNnN2d1hSR0ROT1pNZmV4aEZtOHFYTUUzZ2lTR1NYVWJNUFZhcmt6TmI2eWVpSGl6dFJIdlI2UjAzbjEyMTA1OW8tTmUwRzQ0MEZyOW00WkNxWDBKdDY2LTZrbWh3YzFVRnNqaGFMaWlYeUJXZmpFcFN3aWM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1426,12 +1501,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1d8605f2d7ed",
+    "id": "news-b2bfe9ba9e3c",
     "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T16:49:57+00:00",
+    "publishedISO": "2026-10-20T16:45:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Weil Meets with Partners Over Merger Plans",
+    "headline": "Kroger doomed merger with weak store divestiture plan, former Albertsons CEO testifies",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1440,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Law.com",
-    "summary": "Weil Meets with Partners Over Merger Plans Law.com",
+    "sourceName": "Grocery Dive",
+    "summary": "Kroger doomed merger with weak store divestiture plan, former Albertsons CEO testifies Grocery Dive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1458,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNTWdPQ1ZBcURqYTFoYkEzUlp3MWx6OXJYNnN2d1hSR0ROT1pNZmV4aEZtOHFYTUUzZ2lTR1NYVWJNUFZhcmt6TmI2eWVpSGl6dFJIdlI2UjAzbjEyMTA1OW8tTmUwRzQ0MEZyOW00WkNxWDBKdDY2LTZrbWh3YzFVRnNqaGFMaWlYeUJXZmpFcFN3aWM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOSVFkM3JjZVIzc2hfbUFYUV9sX0kzeDhIa2lHZTlfT1pFSGdqZW43eWl0Nm5Qd2J0UG5ydlN3MVBJYXBuc1AwTkZLeTN3XzYyX3JFTVhSOXVpc004TkNQSDFCVloweThqQjZDSzdzMm1MeXk2LVdzMmNBUkNfU2lVZkZnTVdHOWlKeXZwMkpIeFo3RDZ1ZWFKYWpnUmI4WktXMERUcHg3UXA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 18, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0ab5e8793066",
-    "date": "October 16, 2026",
-    "publishedISO": "2026-10-16T21:22:20+00:00",
-    "acquirer": "SoftBank weighs $18 billion",
-    "target": "Allied Universal, source says",
-    "headline": "SoftBank weighs $18 billion acquisition of Allied Universal, source says",
-    "valueBillions": 18.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "SoftBank weighs $18 billion acquisition of Allied Universal, source says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQWXdNdHpBa2pKc200dGJ6aDlPYUNpNTlla3ZxM2ZWQzdXNDBxclZxc3pSRlZNelgwSnIzSzdmRVFhdzRVNVhJckNMTjhFOTNsdWlkMWxJSkJRa3huaXd6d3R6cktEODVnUE5aMGMwWEw0ZzRwTTJnX1ZoQ2F5UVhpMUZNNzNLNGNDT2RhdGZnMHZtTHZjcm9PNFk4bldiTjZ4TnJ6SF9zV0owWERWXzgyYmpYLVpFOE9ITG1kanhfOWdfME40Tmh0eTF5cjNfa3AxdFJV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 16, 2026"
       },
       {
         "stage": "Terms verified",
