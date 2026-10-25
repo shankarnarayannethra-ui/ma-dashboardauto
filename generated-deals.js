@@ -226,6 +226,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-84b3981fd720",
+    "date": "October 22, 2026",
+    "publishedISO": "2026-10-22T20:49:29+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "As Exits Continue, Weil Works on Merger Deal, Tells Partners to Carry On",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Law.com",
+    "summary": "As Exits Continue, Weil Works on Merger Deal, Tells Partners to Carry On Law.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOMzBGWXctcjJjTk4tTVJtUEtLWmxTRlU0NXpiSFYyckI1cWw3RzZHZXhYc0hzS0R1Z0F0RkM0bjRQX0V2Z2tzcVlyYVRWU3Y4bWVLUUhnZEEtb2EtaDA3dlZpQVp1UWluTE03SFVwQjRtanJvUzZKeDB4TU1PMEtWTTlMVHRQX1hSNFlLWUhnaGlZT3FCMUEzel8zTFNhV1Jmb1FscnU1N2lFa0tsT3ZYazNoRnlSU2ZQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 22, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-46c072f06f64",
     "date": "October 22, 2026",
     "publishedISO": "2026-10-22T16:05:23+00:00",
@@ -934,81 +1009,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-58786ea10bf1",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T21:59:46+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’ | CNN Business",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "CNN",
-    "summary": "SpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’ | CNN Business CNN",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lLWJUcHdJcDZvWnVoeGlraDVxSFRiRXZWQTlsRHhWeldSYm5IdUZkTkRTRFBzWTVzcDVBUjFuMGlVSWtsNVpHckhlVGNDTzdXeUVBZTd1SmFYTE5zMEx4NFVPYUlucklhOXFtYUJ3bWVRUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
