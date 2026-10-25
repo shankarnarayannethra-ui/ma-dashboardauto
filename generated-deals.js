@@ -901,12 +901,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-4b21c0777d1b",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T22:50:00+00:00",
-    "acquirer": "Elon Musk says Tesla",
-    "target": "SpaceX are weighing a $3.5 trillion",
-    "headline": "Elon Musk says Tesla and SpaceX are weighing a $3.5 trillion merger—without him in the room",
+    "id": "news-c7ca492a4f76",
+    "date": "October 21, 2026",
+    "publishedISO": "2026-10-21T03:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "What Could A PayPal Holdings (PYPL) All Stock Takeover Mean For Investors?",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -915,8 +915,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fortune",
-    "summary": "Elon Musk says Tesla and SpaceX are weighing a $3.5 trillion merger—without him in the room Fortune",
+    "sourceName": "Yahoo Finance",
+    "summary": "What Could A PayPal Holdings (PYPL) All Stock Takeover Mean For Investors? Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,12 +933,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAtUThSVkMzVThmclNyYmRobWM3NURJYmt1THZJTHhab2Y1LUNJckxJb1hpOGI3eU1QZ3A3d0ZSVzFfamRRYm51UFg5dVV2V3lQRkxnUjRJOUllbXJFcHBkdi1nOEJ4bFduQzZLYkQzWHphUk91ZFV6MzRDcWtJU00?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxOeHNUSW9ERUNnZ2l4WFVNdGJGQkNNV1Y1RjNvRk5ZcksybnZCQWlsWENidEQ1dFhycl9BYy1EampGV2ZTTE5fQTFWLWJaZkhNRGZoWm5oUF9wR0ZfNm9Xd0ZNNnFiMEplS0lFMFFmbDFFTF9DYXVKVnZKRm93dkV5TWRCMGszRjVoMjloMTZwS1NHektlSlFPMFVacG9aZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 20, 2026"
+        "date": "Oct 21, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1009,6 +1009,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-58786ea10bf1",
+    "date": "October 20, 2026",
+    "publishedISO": "2026-10-20T21:59:46+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’ | CNN Business",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNN",
+    "summary": "SpaceX stock surges after Musk says a merger with Tesla would be ‘a good idea’ | CNN Business CNN",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMickFVX3lxTE9lLWJUcHdJcDZvWnVoeGlraDVxSFRiRXZWQTlsRHhWeldSYm5IdUZkTkRTRFBzWTVzcDVBUjFuMGlVSWtsNVpHckhlVGNDTzdXeUVBZTd1SmFYTE5zMEx4NFVPYUlucklhOXFtYUJ3bWVRUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1909,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPVUhQTTcwUnFPZktrOFVVM1QtMFhXajRTUktLdzZFelMwQTdjclNhbkF0UnJwcUpZa3RWQnl5NmlHLVFQZV9QdE53R0h0eGo1bWNYdDg0LTZEX2VIZURfd3NncjFwcU1kMUc5ekdfSGMxeUw2UXA2V3c5cmEwZVFVZFJUZW5UYmI1b19LbmZuMUVUV3dOZ2pyTDMxUU5zeXd5dk9NYjhPWDl2UQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 19, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0130e25809d6",
-    "date": "October 19, 2026",
-    "publishedISO": "2026-10-19T16:19:04+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Merck KGaA bets on RNAi with $1.3B Silence buyout",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "BioPharma Dive",
-    "summary": "Merck KGaA bets on RNAi with $1.3B Silence buyout BioPharma Dive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQeUlKTUJMZmE0UG9hRktFaWJtZjR2Wk9CTEhZa3ZFX2hPcDNGNkVXUWkzZHlnbzczaFBHNFZYZ0pzVFBKRDBfWjlBRTExaU5Ecy1vZGYyaEFXZ2R6Zm9aRllfNFhheGJmUVhYOExiR3Z1dnN1YTVZNWt1UDJ1RVNhOGRLYkR3eU5NMkY0LUJkXzN3QkJwUlc2ZU1ZWUdETG04MmpkVUR4OEF5dGd1b0E4?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
