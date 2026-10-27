@@ -226,13 +226,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-40f1a8053f6e",
+    "id": "news-5e2c477aeaa8",
     "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T14:08:26+00:00",
+    "publishedISO": "2026-10-26T10:49:48+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
-    "valueBillions": 5.7,
+    "headline": "Buy Tesla ahead of potential SpaceX merger, says Barclays",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners Financial Times",
+    "sourceName": "CNBC",
+    "summary": "Buy Tesla ahead of potential SpaceX merger, says Barclays CNBC",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84RWIxU2dTNVlEVmZORVpmNUxtcWtJOGFwSUFNZjNSRHdIbGk3VkN2YklyN2dtSWFrQkl2YXpKSm5rcFdXNGdxVy1DcDRick5PempXQ1VwcjVFN3JPWG9hdDRMdkxXVEwzUGh0MVdYdWwySmc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -301,13 +301,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-5e2c477aeaa8",
-    "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T10:49:48+00:00",
+    "id": "news-40f1a8053f6e",
+    "date": "October 25, 2026",
+    "publishedISO": "2026-10-25T18:16:23+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Buy Tesla ahead of potential SpaceX merger, says Barclays",
-    "valueBillions": null,
+    "headline": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners",
+    "valueBillions": 5.7,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +315,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "CNBC",
-    "summary": "Buy Tesla ahead of potential SpaceX merger, says Barclays CNBC",
+    "sourceName": "Financial Times",
+    "summary": "Bon Secours agrees $5.7bn takeover of Bain-backed Surgery Partners Financial Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,12 +333,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMic0FVX3lxTE84RWIxU2dTNVlEVmZORVpmNUxtcWtJOGFwSUFNZjNSRHdIbGk3VkN2YklyN2dtSWFrQkl2YXpKSm5rcFdXNGdxVy1DcDRick5PempXQ1VwcjVFN3JPWG9hdDRMdkxXVEwzUGh0MVdYdWwySmc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOOWFQd2Z6N0dKS1ZaQ2Rwczd6ZzBTMEJRM0RVWGI1bzVjRjVIeHBNSkozZGhMejlGUE9kd0RXQ1JGYzdhbEdSSG5NRTB0aXRMdkNscnhPSnRoSHFmZDFRSldkM1pXTzRnclJlRFdOUk1QR1hXNTV1emtld0lOTEx0bnhLa2U?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 26, 2026"
+        "date": "Oct 25, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1576,6 +1576,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-da61ec0f4b5e",
+    "date": "October 20, 2026",
+    "publishedISO": "2026-10-20T22:47:00+00:00",
+    "acquirer": "Tesla",
+    "target": "SpaceX Formed Committees to Discuss Potential",
+    "headline": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Tesla and SpaceX Formed Committees to Discuss Potential Merger, Elon Musk Says WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZnBuOWFoU3p1dzRaWUl3eHYxenNhMlMyWnJJdU4xOXkza2xjNDA2MkVVMDd4Tkktdl95NkNZYlk5N0lndVNOVjhubzR3aXpyMWlKRF9RdmFpcnhTdXZDWHVDQ2pHVzRRU0Nwb0t3YjNPUnQ1ellybFZFQ0lnejJFU01DUHA3Xzg4cHJtYWpBaFpDQQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 20, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-58786ea10bf1",
     "date": "October 20, 2026",
     "publishedISO": "2026-10-20T21:59:46+00:00",
@@ -1909,81 +1984,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNNUluMVVLVk9ZUmpHeTZNSkduQVlaYWtydVZ3WEptUWc0SXpqUGZ4ckZmOGM4X3JwY0V0WjJfelhvdWRLRTdZRUdnYUxwM0NRZWZGY0M4blhETWlzVnlQY0JMSEdRZFBDaG5MNW1jck9zaEdQdUs4bzhRSjdaX0xsV0xqN1RjWmRuRzAwMFZxamVNTlNuanFhVExaV3RDMEw2RmtSODg4RzB1RzRERWFz?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 20, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-096a856d8237",
-    "date": "October 20, 2026",
-    "publishedISO": "2026-10-20T18:10:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Lionsgate Stock Jumps on Report Legendary Entertainment Has Submitted New Takeover Offer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Variety",
-    "summary": "Lionsgate Stock Jumps on Report Legendary Entertainment Has Submitted New Takeover Offer Variety",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPTy03R1Y5SHMtempGa3E4cHNrNUM0ZUxEN3NpZUJrcnM2Z0VfQnh6ajhVY1VHNXV1U0pJTlVETVpoYTZGcS04azZVNG5MSHBudzBUanpUWU1ZaWlBRkR6Y0xmSU9ldlpkOWtLYWlaS01ienpmTXE0czMzaWJoUVdndzVEV1Y0TEZIczc2WkhZc1ZXdUFFdm52d1hvSGdlenJMaWJGX3RvOA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
