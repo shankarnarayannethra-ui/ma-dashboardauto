@@ -3,7 +3,7 @@ window.generatedDeals = [
   {
     "id": "news-ad6e9083e7bf",
     "date": "October 29, 2026",
-    "publishedISO": "2026-10-29T05:14:02+00:00",
+    "publishedISO": "2026-10-29T12:48:30+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
@@ -34,6 +34,231 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZjMDZJa0ZlREhCcm5NU2wxdElJNU80WkZxXzFLS0tXWHNXWVhha0g3cGM5Zi13QWd6T3FfWmdlWWpCY29EUjhydDhzRGliMkRSM1ZfRFl5eXotbTliZ0RIVXFqc0RnbzA0d2VlMTJFZkhubzk5RmZPQ0tsQ0VZVV9oZlVxM1BLYWM3MnE2ODNmQjdpOHNteEpqaE5KeGdKQkxPaVhqSFAzOFRwZkZDMDFfWkw2SGd3TWtJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-97cae710d6ef",
+    "date": "October 29, 2026",
+    "publishedISO": "2026-10-29T12:01:36+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery",
+    "valueBillions": 17.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "DoorDash acquires Instacart for $17 billion, doubling down on hyper-local delivery Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQb1EzOEQzaEN2LUVIalowbG1HNGFDMElhSS12X1ZTZk1aSTNvSUl4TEdvVTNodlJXYjFTWHFoV3pjUXhIMkktQkVmb0p3ZGUtdURUeDVCTXkxNXJXdjNmZXJZNmJ1TW94RHROalZZZE1VdC1Fcm5fcFAyMHVvNlM4dDFVNEpoQURVNWpyNERtVkJOaGVpakNydkdodnVFTTZ4VWlPMV9uV2RlWHR1UDZHQzM1S0s5M1RZQUR3X3ZpQko1RGtFV1RvdFg2cTVWQy1pTGFnQllLUE44WGxl?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-50c989f83e46",
+    "date": "October 29, 2026",
+    "publishedISO": "2026-10-29T08:55:18+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg.com",
+    "summary": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger Bloomberg.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFZBN1BRNVRuMHIzNkRPTTk0bEZjbnhJdXBwZ1JDMkFNQkptaGZwZjVwOG8xOVppbXVZdUQwemkwNDEzQ1RWaUxGUlFUZ1ZOa0dlemlzb1dtMXVHNGl5QjlUdnl4RnE2UDBVUjZLclN3TndpM012dXFOLWxXV2xDcmltSk1ZeDlTWTZfNWRYaEdtazlmcXp3Sjd0RGcta3gxd1RQNU51TjFERnNFRnNtQ3JVQzM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 29, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-a9d6bc1fcd3e",
+    "date": "October 29, 2026",
+    "publishedISO": "2026-10-29T01:10:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Marvell Technology (MRVL) Is Reportedly In Advanced Talks For An Optics Acquisition Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOLTZ5VzVmcVR6LUZFQzZrRHY2cHhBTzFsUnN0UHR3cWZDeVdMNTBYRHRoR0VxeGFfNGhZSE00dVo2bXBCVWxfOFZBWi01dFhsTUpXWnRpWk1SMGl4YXVyN3pvTExjVnM4QnE4RF9OS3gyckMzQl9wU21YcVl5aExfb1AxZ1o0SDNqbFlhZXRSOURvbThCRkdVV21yZlZZemNwZjdJRWVPTnhPTHhS?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -109,81 +334,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOaXRBZk5Dajd6S2tvazAyU1pNbTVBcG9td2ZjbWRvR2d2alFyTnoyOTVnMzFwME9DRmhUZGdEUm0yN2prcWwwTEF6Y1B4WjVFTmlBOF9rMDZBWmRaRUhEYzVNeVZCdGtHbXVPVUNkVS1FNktFYlFUdmR0UThRc2t1ckk4NE1panVIellYNDZoSTNERVE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-50c989f83e46",
-    "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T21:51:47+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Bloomberg.com",
-    "summary": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger Bloomberg.com",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNFZBN1BRNVRuMHIzNkRPTTk0bEZjbnhJdXBwZ1JDMkFNQkptaGZwZjVwOG8xOVppbXVZdUQwemkwNDEzQ1RWaUxGUlFUZ1ZOa0dlemlzb1dtMXVHNGl5QjlUdnl4RnE2UDBVUjZLclN3TndpM012dXFOLWxXV2xDcmltSk1ZeDlTWTZfNWRYaEdtazlmcXp3Sjd0RGcta3gxd1RQNU51TjFERnNFRnNtQ3JVQzM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -451,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ec6931166ea6",
+    "id": "news-7e21137418ba",
     "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T19:11:26+00:00",
+    "publishedISO": "2026-10-28T19:57:11+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "State AGs Keep Merger Scrutiny Alive When Federal Review Ends",
+    "headline": "NextEra CEO responds to governor’s concerns over $67B Dominion Energy merger",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -465,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Regulatory Oversight",
-    "summary": "State AGs Keep Merger Scrutiny Alive When Federal Review Ends Regulatory Oversight",
+    "sourceName": "WTVR.com",
+    "summary": "NextEra CEO responds to governor’s concerns over $67B Dominion Energy merger WTVR.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -483,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkhmdVFJMWxEUjNHdnAtZUxwYjFZV1loWkhnMzBFeGtGY0c4NlhHRnZQXzNvNjgtS3ZCM05OaDBHYkEwUnIyNzU1bFkwRDlNYWJnWnVKNUxSYUNkTzJwRm5UdjhaR2t1YzFvLWVuakxKX0NyNlZ6a2ctbF96QTdQZEMtTDAtbU1vODBRZVotV2V0Ui1TNHFpOXZhdFVHS21KUjlyNkdZWHREUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPQlRyQzE4a0RHY0FhcnkxaFpFLTZwMzhtUUtSTDM4NXNLTkp1Y0gtT0pyREhWWF9GcjNLZ2Z1TEpLSjh3SFNUcFJCOFJqTnhfVjNzelVqMHJSRFNIMEd4WjBOTGFxX2lXU3dqTHh0dVFDNjNMZWhJRmE0OWRLbkFqRVVaUlZTcXVmR1pNVVM0dFcxZjQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -826,12 +976,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ffe8bf00b81e",
+    "id": "news-5b8cca055a77",
     "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T11:04:26+00:00",
+    "publishedISO": "2026-10-28T14:10:01+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares.",
+    "headline": "From GPS to Mars: How space acquisition prepared Col. Ellen Ellis for life on the red plan",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -840,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares. Yahoo Finance",
+    "sourceName": "Space Force — Space Systems Command (.mil)",
+    "summary": "From GPS to Mars: How space acquisition prepared Col. Ellen Ellis for life on the red plan Space Force — Space Systems Command (.mil)",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -858,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlpGaVJsNlE2MjFtYW91QVdYTk1xMnM4QmM2ajJRV29xSG5CZEIxTDhCYVhMb2FNWExhUnF5LUlUbUpGbFI0UW9mT1AwekJORUNfeU1ubkJiTHJnSlNLVU1pcXE5QmVpZmVIYzF5NlV2YTgxaGlkNmRQcU4yb3ZxWGV5Z1p2a0JRYWlrZWhIdUJ3OUtV?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOMExBWXlDOW5qdWR3eTktM2dmYVhvSWgtOXg5T2JsTHBLTzNhN01SSVhjN05KamsxWDg3S1J1eFJILUJURlpmbEstOXptSVVXY1pUakdTSFdJMmNWcFBKcnVlaUdqNjdIclhpeVhLNzlpV2N0Qm52SEoxWmRpOXd0VFQ5WThYLXdzZDNlaGdNaGZKMzNBQmVsaTlLZWZ5OW44Wm1OOG9RclpEazN0QWlPaGR5bTFqYklxNy1KaDVYd052ZjZRbGFoZXAtbG15RDBQR0pKOWxtc2JqVHVqbGREd091b0VaUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c20eb10d8017",
+    "id": "news-9422fe4f7f59",
     "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T06:12:00+00:00",
-    "acquirer": "TPG pursues $5 billion",
-    "target": "British data centre group Ark, FT reports",
-    "headline": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports",
-    "valueBillions": 5.0,
+    "publishedISO": "2026-10-28T12:53:24+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Lippert's parent company receives unsolicited buyout worth billions from equity group",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -915,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports Reuters",
+    "sourceName": "WSBT",
+    "summary": "Lippert's parent company receives unsolicited buyout worth billions from equity group WSBT",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -933,7 +1083,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlktclZaVEZxdmlPX21pbjVqS21lTmk3aHdGWU5JenV0TzBVQkhNMTFZZWZOR2xiVmR5dDNCZTB4VGZnODZnajN2X0JJZ2xPZ2xNeldzemxDSk9fMkRpa3FzcHV3eHBBMVQwYktDVmdhODBmSWZCQ1RISmlFa0RfXzhlbllHUkpPNVM2NHBZeVlwejk4N1kxQlFpVnFtbTlVSnNYT1JDUENzeG0yMzViNXdmbzZYYUhSQ01aYl80b3c1S3EzOUZjM2tB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAJBVV95cUxPaDRISXFxTGl6WWpEdm5sU1ZUMUV5RzA1eXRfNXFoMlJ3SlQxcVpoSlJFcGVGWS1vWXJTY01rdXAwUVh4Q3VVRlVSMXEzZlZUR3Fob2NaX3IwQXdodkF2RjZWbFBnTTVfb3lhWVdUbWE0OUhfeURsaHh2NDZlZW1MSmJkY0hfa1M2cGtKbDE0Y1ZvQjRkUzR0LU51VWM3RTQySjllQWpScHYtNF9KRjZKdjZQYjM5OFl0blUyNkNOTDUtQjBEQzB5NXJJc1NBbmU4R1hJa2x2OUhFcTltVVI5Qk8wMnJCckZINHUyd2hEdm03b0RObU5icjN4VHkwUlI3aW5kWDVxTDN2V3FXUEdnNHBiQWdadlBQN0RMMElGbHF1NDRPUWdZX0NJUlpnTmEy?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-ffe8bf00b81e",
+    "date": "October 28, 2026",
+    "publishedISO": "2026-10-28T11:04:26+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares. Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlpGaVJsNlE2MjFtYW91QVdYTk1xMnM4QmM2ajJRV29xSG5CZEIxTDhCYVhMb2FNWExhUnF5LUlUbUpGbFI0UW9mT1AwekJORUNfeU1ubkJiTHJnSlNLVU1pcXE5QmVpZmVIYzF5NlV2YTgxaGlkNmRQcU4yb3ZxWGV5Z1p2a0JRYWlrZWhIdUJ3OUtV?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1014,81 +1239,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-98e459738bdd",
-    "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T23:57:35+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "UPDATED: Montana Public Service Commission postpones vote on NorthWestern Energy merger",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Daily Montanan",
-    "summary": "UPDATED: Montana Public Service Commission postpones vote on NorthWestern Energy merger Daily Montanan",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRzBjZXU1dFdTNm96b05PaFNHclBPNmItWVpCRl9EOUNmc0ktV3RMVld2VVRDRHp4TjRxVjhSbnBzSHh0R2tOVGg2c2RXVmdE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 27, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1234,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNU2pZY3J4T2Fvd0hub09FM2RkaHJQc21pOWRWal80cHpZMXN2RS1La2M2WmpVY1hnbzlnUHNBZG5rQ3hWTFZPdmh0cmFPMHVHV0ttRlhzXzZ2SVdFOTd5ZU42YWFTblZtQnRPQUZNcENPSWJUeEF2TE5JRFFXaUdCRlZmLUFCT1JhT0wxWGpKNlZXYnowUG52dlBqc1JYS2EwcE1PS3gwVzhhYWZ4RkJURTh0LWl6SWxEOVIzT3RXbG1EZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-06a5f2a3570f",
-    "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T16:54:08+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Advent raises $30 billion for latest buyout, mid-market funds",
-    "valueBillions": 30.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Advent raises $30 billion for latest buyout, mid-market funds Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaWZ3QnkyMzNBUW80dk5iTjZLWGpSN1pTVWVVUlp4bDY2VUV1U1dKYUdhYVp0NEJtWmJER3dDamRYZnRzeUVPM3hFQ2NTZExfYl9sVHotTDNKRTJwQ0w4RmhWZWxvV0RwQ0hhTUZBSzY1VW0ydHNJaXNHR1RJeFV3Wm1fUmIzTkFsamoxcjF2bm9ZWVJuQzJFb3dueHZBbW9jUzloeGlVVk9LMHpjU0lIdQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1609,81 +1684,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0bGF2VkRBc2ktcUdMLUpOZV9JaFlmUGRnNk5wMS0wb1R0aXJVN1JhVXZTaWNoczRrbEpmZVdVbkZQMGtYeG9RLWVOMFVCMHBTTW84MlBPRm5GTlJ2NmFsbVpXWlBseS1MT3I0YVR4dDRVSGxnSzhzdERJaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 26, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-194ac10b4123",
-    "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T20:26:52+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Tata Motors' takeover bid for Iveco clears 80% acceptance threshold",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Tata Motors' takeover bid for Iveco clears 80% acceptance threshold Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNM2w5ZThJT3ZkWmtQMERiUVFBM3JIU2JOcGlHQlZTMnl5V3JoeTJyM3FXSWZiTlY4T3JwQzZNbEtzQ2RnMDNfY1JiWEtMLTRnRU5rcnBNaVVGM0tiSDhxZUJkdmkyZnRmb2ZnR0JyRmJ3cG9DS0FHa2NCNnRENlh5TUFSTDd1bVMxMzk0RXgzVy1PcUF3RVEtNnNJSnR2NmJWMlFBSFEyd0VKUzcyTmc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-69798fa27493",
+    "id": "news-f25b44f6148c",
     "date": "October 22, 2026",
-    "publishedISO": "2026-10-22T07:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders",
+    "publishedISO": "2026-10-22T14:00:00+00:00",
+    "acquirer": "50 years ago, Raleigh City Schools",
+    "target": "Wake County Schools",
+    "headline": "50 years ago, Raleigh City Schools and Wake County Schools merged",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Fortune",
-    "summary": "Elon Musk’s dream merger is a nightmare for SpaceX shareholders Fortune",
+    "sourceName": "WUNC News",
+    "summary": "50 years ago, Raleigh City Schools and Wake County Schools merged WUNC News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,7 +2208,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNURJRmhWdmFQMXNhZEhqcklsM05rRGhIS2t2dHEyejd4RDJSTl9hd2lXMDFKTVY4VmNZNXJSZVI0NzYydklFSy0wRzVvY3F1SmZSSW9yamhjVlRrMGwxdDBEZVRjeFhsRzVsc2JfU1BKVFg4NEZzQ2pkdjBGbHRxOW9DYlRBSkdSSDF3QVVfa3A5TXc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNM0Q1aGNzbzhGX3hVQThJMTNIQ081MFNuX2hXUGNRNU01dng4Q0xyVUpfOUFWRFlNMjhQTmEtTFlPejRPcXY0UGpvalVycjdVUmpQOVFHcUdPbHBjTENtZ3BRaTVBNGk3dDk5TlNSX3pvUXpBaHZrRFZfa21MajltRU5vTy1Sa2NBc081WXA2WWI4UkRNMkxnNldfTHBqWkxHSTd4MkU3TThnOHdHbkRlSm1WV1M0NXVp?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
