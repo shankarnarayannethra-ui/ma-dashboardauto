@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-ad6e9083e7bf",
+    "date": "October 31, 2026",
+    "publishedISO": "2026-10-31T18:04:38+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZjMDZJa0ZlREhCcm5NU2wxdElJNU80WkZxXzFLS0tXWHNXWVhha0g3cGM5Zi13QWd6T3FfWmdlWWpCY29EUjhydDhzRGliMkRSM1ZfRFl5eXotbTliZ0RIVXFqc0RnbzA0d2VlMTJFZkhubzk5RmZPQ0tsQ0VZVV9oZlVxM1BLYWM3MnE2ODNmQjdpOHNteEpqaE5KeGdKQkxPaVhqSFAzOFRwZkZDMDFfWkw2SGd3TWtJ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 31, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-2b94ae5a0d07",
     "date": "October 30, 2026",
     "publishedISO": "2026-10-30T18:25:33+00:00",
@@ -153,7 +228,7 @@ window.generatedDeals = [
   {
     "id": "news-27a5b78b8148",
     "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T15:26:08+00:00",
+    "publishedISO": "2026-10-30T14:32:23+00:00",
     "acquirer": "Albertsons",
     "target": "Kroger fighting in court over failed",
     "headline": "Albertsons and Kroger fighting in court over failed merger",
@@ -184,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5VOHNSbFJId2V6aEVmOWtPRVF6MUpmWXFzR1d5X2R3a3dvbDYwc3o5UXVOanRYZjZkZTlheXNmd2ZDN0tfckZpWTd0Z0RmazBqOGFpckJuTFVaQVVKQUJfdXJpNDFKWDhwcjhBVndIYnE?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-0f08c758e52c",
-    "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T13:20:45+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Space Force — Space Systems Command (.mil)",
-    "summary": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O Space Force — Space Systems Command (.mil)",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ001US0wbnVfbXFMUzd0X1NxMGFMblhfdlotZDdYaGFQR2REbVNRd1VjT2F1cDJWYzVIaV9LT2NZNzZzd0xGY2QzZXR0SmNFcVAzblZyVXNMZnY0V1NfVU5xNkQ5M012SjdBa2ltOVJtS1hmMHY5Z192dTVORkVoNFBpbGFzLTEtZXVuZmlUTU9zdGdxUkgwZ09ISGdnaGlZV3lRZFJubDI3b1d3ZzUtMUQ1dlctUUxsQkZtOFROMXU0TjlMNlFBMHN2RmJvWUFTeFRlVGNrMDhZX0NhZEVBRTNTX1Ezdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Deutsche Telekom Is Said to Hit Brakes on Giant T-Mobile Merger Bloomberg.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1576,12 +1576,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ae6d6fa7f957",
+    "id": "news-b12e7f98e202",
     "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T10:30:00+00:00",
+    "publishedISO": "2026-10-27T12:49:57+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks",
+    "headline": "Dutch regulator blocks takeover of Unilever's Unox brand",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1590,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Forbes",
-    "summary": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks Forbes",
+    "sourceName": "Reuters",
+    "summary": "Dutch regulator blocks takeover of Unilever's Unox brand Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1608,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkJpc3JrczRNZ050Ui14UUsyMmFVTGlORDZIQnIyODVIUTNfR3JhQnoyNDRxcnQxWGszY1hQZ3dveXctdUh1SVNNaVZnblNVWS1xOUdGR2JaS1FrNXRVZlRHdW45U1dMWDV0YnI2NUpRN1UzVTA2MUpqbHJRRzdjUDhLUGxUNEZrdU9iQ3R5ci1FNFZPb21PbWo4T2V2Ry1WcEdWdHY4UGRMRldBQjBXTlp0QlQ3YUxxYUgtWHZueEQ4eFg1eVE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2k1X2VESkZvTlg5OHFkMlE1OFA5ZFRsWTNCcTlCTUpBWTNPQWlXYmVySjhuamNuYWVSWE9manY2Y2hHV2YzbnZDdG15dnJnUXFpaWJzSlUyLW1teUNlWUR2dWJFSjkyQkRRRnItbllZZ3luSDd6VFU5ajRkclE3amdnWTc3eXFYLUlZemxWakVlaHI5ZWN4VFl6MzNRVG1QVlAxTXg3bUlWVU5zSVJqcU9mRQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,12 +1651,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ad6e9083e7bf",
+    "id": "news-ae6d6fa7f957",
     "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T08:12:00+00:00",
+    "publishedISO": "2026-10-27T10:30:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
+    "headline": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout WSJ",
+    "sourceName": "Forbes",
+    "summary": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks Forbes",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZjMDZJa0ZlREhCcm5NU2wxdElJNU80WkZxXzFLS0tXWHNXWVhha0g3cGM5Zi13QWd6T3FfWmdlWWpCY29EUjhydDhzRGliMkRSM1ZfRFl5eXotbTliZ0RIVXFqc0RnbzA0d2VlMTJFZkhubzk5RmZPQ0tsQ0VZVV9oZlVxM1BLYWM3MnE2ODNmQjdpOHNteEpqaE5KeGdKQkxPaVhqSFAzOFRwZkZDMDFfWkw2SGd3TWtJ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkJpc3JrczRNZ050Ui14UUsyMmFVTGlORDZIQnIyODVIUTNfR3JhQnoyNDRxcnQxWGszY1hQZ3dveXctdUh1SVNNaVZnblNVWS1xOUdGR2JaS1FrNXRVZlRHdW45U1dMWDV0YnI2NUpRN1UzVTA2MUpqbHJRRzdjUDhLUGxUNEZrdU9iQ3R5ci1FNFZPb21PbWo4T2V2Ry1WcEdWdHY4UGRMRldBQjBXTlp0QlQ3YUxxYUgtWHZueEQ4eFg1eVE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
