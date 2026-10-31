@@ -151,12 +151,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7f5190b89677",
+    "id": "news-1a552872c559",
     "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T13:20:14+00:00",
+    "publishedISO": "2026-10-30T16:08:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O",
+    "headline": "UVA Health acquires State Farm site on Pantops",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -165,8 +165,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Space Force — Space Systems Command (.mil)",
-    "summary": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O Space Force — Space Systems Command (.mil)",
+    "sourceName": "UVA Today",
+    "summary": "UVA Health acquires State Farm site on Pantops UVA Today",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -183,7 +183,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxNV3p0dG1vcjAwNVRLMWhnNWRqU01LU25QaTA3TzJaQ3NJdWtqeXI5WWczZU9SMDQwSzJ3YVh6NFdWbXU4c3pNX3JwaEVBMXd4QXh0dkxLUmQ5TVVFQjFvaTlZakFqeXBicVRNUnNJT2xNT2ZtaDR3RXl5Nlo1U21jSFBIc3VGR1JUVEZ3X3NBcWFiOGhnSmxkdEhTeVp0X2tjTkZOVUhoV28tZmtzWmxhTVluOHQwbUxteTJ5Z3RDZ2NfWnpKVWE3S1c5Ml8yX1V2?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFh1cDhsN2hBbU9DQ010V1pJclA2c1VLTlNGTzlla1Y4MDVQdVZXZG1lUVA0MzVoUkg4cTJQYlNaOUZscHFFNVdLeUVPakZDSkRiVHlRd1dtX2R3Y0ZrNVByS0FCLWZ0d0FEY2RSN2JDNWI2c25OclNPTlBTdW03X3l6QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -226,12 +226,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-376bff27fd92",
+    "id": "news-0f08c758e52c",
     "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T09:01:07+00:00",
+    "publishedISO": "2026-10-30T13:20:45+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "‘A lot of uncertainty in the air’: In Philly, questions linger as Saul High School prepares for merger",
+    "headline": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -240,8 +240,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WHYY",
-    "summary": "‘A lot of uncertainty in the air’: In Philly, questions linger as Saul High School prepares for merger WHYY",
+    "sourceName": "Space Force — Space Systems Command (.mil)",
+    "summary": "Space Enterprise Consortium Unites Industry Leaders and Space Force Acquisition Program O Space Force — Space Systems Command (.mil)",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -258,7 +258,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY2UteWoyQ3NvSEdib2ZzM3pORGhRdjloNmM4RUVhTnYybE1WVGphM2NsakE2RGZJVGU3WUg2dERCRGFUVFhDUUhrOE9JVHhPSW9qcVYtUjY2SDBYSktSTmtyUVNBX3Zic0R2Y0FuOU5SeVlpTFdpYWdXQ05XMnloQXFfVHQ4cGM4UHNSUQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQQ001US0wbnVfbXFMUzd0X1NxMGFMblhfdlotZDdYaGFQR2REbVNRd1VjT2F1cDJWYzVIaV9LT2NZNzZzd0xGY2QzZXR0SmNFcVAzblZyVXNMZnY0V1NfVU5xNkQ5M012SjdBa2ltOVJtS1hmMHY5Z192dTVORkVoNFBpbGFzLTEtZXVuZmlUTU9zdGdxUkgwZ09ISGdnaGlZV3lRZFJubDI3b1d3ZzUtMUQ1dlctUUxsQkZtOFROMXU0TjlMNlFBMHN2RmJvWUFTeFRlVGNrMDhZX0NhZEVBRTNTX1Ezdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -676,81 +676,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-72231148664b",
-    "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T21:22:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wendy’s, struggling with beef prices and growing competition, gets a buyout offer",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AP News",
-    "summary": "Wendy’s, struggling with beef prices and growing competition, gets a buyout offer AP News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPXzloNlJFcFRGdXY5azdsVm1XVm1IV0VYem1YcU5jb2VvTl9XaUxwbEJxajZ5dDZ0SUdMblR1T2RreEFKZkdKNnQwMjRiNVRpNnJuc0xsV1dEQ0E5OFdPLW1vS1BZWEwxcXRYb3VnQlhNUlV5Nk8wSmxhWUZfOWE4XzNVbm1hbzZ3RFZGRzZB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 28, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-7e21137418ba",
     "date": "October 28, 2026",
     "publishedISO": "2026-10-28T19:57:11+00:00",
@@ -1051,13 +976,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ffe8bf00b81e",
+    "id": "news-c20eb10d8017",
     "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T11:04:26+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares.",
-    "valueBillions": null,
+    "publishedISO": "2026-10-28T06:12:00+00:00",
+    "acquirer": "TPG pursues $5 billion",
+    "target": "British data centre group Ark, FT reports",
+    "headline": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports",
+    "valueBillions": 5.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1065,8 +990,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Tesla Closed Up 4% at $407. Here’s What a SpaceX Merger Could Mean for Your Shares. Yahoo Finance",
+    "sourceName": "Reuters",
+    "summary": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1083,7 +1008,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTlpGaVJsNlE2MjFtYW91QVdYTk1xMnM4QmM2ajJRV29xSG5CZEIxTDhCYVhMb2FNWExhUnF5LUlUbUpGbFI0UW9mT1AwekJORUNfeU1ubkJiTHJnSlNLVU1pcXE5QmVpZmVIYzF5NlV2YTgxaGlkNmRQcU4yb3ZxWGV5Z1p2a0JRYWlrZWhIdUJ3OUtV?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlktclZaVEZxdmlPX21pbjVqS21lTmk3aHdGWU5JenV0TzBVQkhNMTFZZWZOR2xiVmR5dDNCZTB4VGZnODZnajN2X0JJZ2xPZ2xNeldzemxDSk9fMkRpa3FzcHV3eHBBMVQwYktDVmdhODBmSWZCQ1RISmlFa0RfXzhlbllHUkpPNVM2NHBZeVlwejk4N1kxQlFpVnFtbTlVSnNYT1JDUENzeG0yMzViNXdmbzZYYUhSQ01aYl80b3c1S3EzOUZjM2tB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1126,13 +1051,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-c20eb10d8017",
-    "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T06:12:00+00:00",
-    "acquirer": "TPG pursues $5 billion",
-    "target": "British data centre group Ark, FT reports",
-    "headline": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports",
-    "valueBillions": 5.0,
+    "id": "news-98e459738bdd",
+    "date": "October 27, 2026",
+    "publishedISO": "2026-10-27T23:57:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "UPDATED: Montana Public Service Commission postpones vote on NorthWestern Energy merger",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1140,8 +1065,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "TPG pursues $5 billion acquisition of British data centre group Ark, FT reports Reuters",
+    "sourceName": "Daily Montanan",
+    "summary": "UPDATED: Montana Public Service Commission postpones vote on NorthWestern Energy merger Daily Montanan",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1158,12 +1083,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZlktclZaVEZxdmlPX21pbjVqS21lTmk3aHdGWU5JenV0TzBVQkhNMTFZZWZOR2xiVmR5dDNCZTB4VGZnODZnajN2X0JJZ2xPZ2xNeldzemxDSk9fMkRpa3FzcHV3eHBBMVQwYktDVmdhODBmSWZCQ1RISmlFa0RfXzhlbllHUkpPNVM2NHBZeVlwejk4N1kxQlFpVnFtbTlVSnNYT1JDUENzeG0yMzViNXdmbzZYYUhSQ01aYl80b3c1S3EzOUZjM2tB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5yRzBjZXU1dFdTNm96b05PaFNHclBPNmItWVpCRl9EOUNmc0ktV3RMVld2VVRDRHp4TjRxVjhSbnBzSHh0R2tOVGg2c2RXVmdE?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 28, 2026"
+        "date": "Oct 27, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1459,6 +1384,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNYlpLVElmV1RTMUUzOW8wV1kxbFNjdVI1X0tiMGc1NVluZWYzU1AtMzYwYU1Yb2JLM3hsOGhDZXNIaGpMN2RjLTZsUkhIOTRHMUFGdS1mR090YUhlaWxYd3ZzaU1hTlMzTlgzRVhobTlQWkRiejEwV1oteHhUemszRVBmMTVQbDBOLUpqN1NQdFZEVUl2dUF4VGE2VFdJdWVpVmd2NlYydW5vMmJl?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 27, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b12e7f98e202",
+    "date": "October 27, 2026",
+    "publishedISO": "2026-10-27T12:49:57+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Dutch regulator blocks takeover of Unilever's Unox brand",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Dutch regulator blocks takeover of Unilever's Unox brand Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOY2k1X2VESkZvTlg5OHFkMlE1OFA5ZFRsWTNCcTlCTUpBWTNPQWlXYmVySjhuamNuYWVSWE9manY2Y2hHV2YzbnZDdG15dnJnUXFpaWJzSlUyLW1teUNlWUR2dWJFSjkyQkRRRnItbllZZ3luSDd6VFU5ajRkclE3amdnWTc3eXFYLUlZemxWakVlaHI5ZWN4VFl6MzNRVG1QVlAxTXg3bUlWVU5zSVJqcU9mRQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
