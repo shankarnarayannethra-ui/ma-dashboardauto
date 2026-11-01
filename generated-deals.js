@@ -1,12 +1,12 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-ad6e9083e7bf",
-    "date": "October 31, 2026",
-    "publishedISO": "2026-10-31T18:04:38+00:00",
+    "id": "news-2b94ae5a0d07",
+    "date": "October 30, 2026",
+    "publishedISO": "2026-10-30T18:25:33+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
+    "headline": "CD&R explores deal to take payments processor Global Payments private, source says",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout WSJ",
+    "sourceName": "Reuters",
+    "summary": "CD&R explores deal to take payments processor Global Payments private, source says Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,12 +33,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZjMDZJa0ZlREhCcm5NU2wxdElJNU80WkZxXzFLS0tXWHNXWVhha0g3cGM5Zi13QWd6T3FfWmdlWWpCY29EUjhydDhzRGliMkRSM1ZfRFl5eXotbTliZ0RIVXFqc0RnbzA0d2VlMTJFZkhubzk5RmZPQ0tsQ0VZVV9oZlVxM1BLYWM3MnE2ODNmQjdpOHNteEpqaE5KeGdKQkxPaVhqSFAzOFRwZkZDMDFfWkw2SGd3TWtJ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Oct 31, 2026"
+        "date": "Oct 30, 2026"
       },
       {
         "stage": "Terms verified",
@@ -76,12 +76,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2b94ae5a0d07",
+    "id": "news-1a552872c559",
     "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T18:25:33+00:00",
+    "publishedISO": "2026-10-30T16:08:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "CD&R explores deal to take payments processor Global Payments private, source says",
+    "headline": "UVA Health acquires State Farm site on Pantops",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -90,8 +90,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "CD&R explores deal to take payments processor Global Payments private, source says Reuters",
+    "sourceName": "UVA Today",
+    "summary": "UVA Health acquires State Farm site on Pantops UVA Today",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -108,7 +108,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNWZ2SzJDSVRaLS1weElISF9wYThNdG12Z0s3ZEFQa3dySTV1X3pFeEw5dlN5eTNWUXpJekFiYVVqUGFqZTNxdkgteW10UUdCd2c4NVZyWHd2WmZEN1NNeFRYYmxYUkZBbWxUZ2pxT2czajNpNUdRcGZZcm9TTHBrMXZxTEdvNGJiUkJrdFpsbm9keEpybmdfdTMwNFM2VjhCcHdySnVKTDM0QW9FOWhuX2pOQ1lnTGN3anlQQw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNVFh1cDhsN2hBbU9DQ010V1pJclA2c1VLTlNGTzlla1Y4MDVQdVZXZG1lUVA0MzVoUkg4cTJQYlNaOUZscHFFNVdLeUVPakZDSkRiVHlRd1dtX2R3Y0ZrNVByS0FCLWZ0d0FEY2RSN2JDNWI2c25OclNPTlBTdW03X3l6QQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,12 +1651,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-ae6d6fa7f957",
+    "id": "news-ad6e9083e7bf",
     "date": "October 27, 2026",
-    "publishedISO": "2026-10-27T10:30:00+00:00",
+    "publishedISO": "2026-10-27T08:12:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks",
+    "headline": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1665,8 +1665,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Forbes",
-    "summary": "DoorDash Acquisition Talks Return Instacart Founder To BIllionaire Ranks Forbes",
+    "sourceName": "WSJ",
+    "summary": "Tata Motors Clears Key Hurdle in Iveco Takeover as Shareholders Back Buyout WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1683,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPRkJpc3JrczRNZ050Ui14UUsyMmFVTGlORDZIQnIyODVIUTNfR3JhQnoyNDRxcnQxWGszY1hQZ3dveXctdUh1SVNNaVZnblNVWS1xOUdGR2JaS1FrNXRVZlRHdW45U1dMWDV0YnI2NUpRN1UzVTA2MUpqbHJRRzdjUDhLUGxUNEZrdU9iQ3R5ci1FNFZPb21PbWo4T2V2Ry1WcEdWdHY4UGRMRldBQjBXTlp0QlQ3YUxxYUgtWHZueEQ4eFg1eVE?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNdmZjMDZJa0ZlREhCcm5NU2wxdElJNU80WkZxXzFLS0tXWHNXWVhha0g3cGM5Zi13QWd6T3FfWmdlWWpCY29EUjhydDhzRGliMkRSM1ZfRFl5eXotbTliZ0RIVXFqc0RnbzA0d2VlMTJFZkhubzk5RmZPQ0tsQ0VZVV9oZlVxM1BLYWM3MnE2ODNmQjdpOHNteEpqaE5KeGdKQkxPaVhqSFAzOFRwZkZDMDFfWkw2SGd3TWtJ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
