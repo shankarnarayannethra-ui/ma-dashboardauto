@@ -1,13 +1,13 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-31f8662e2fdf",
+    "id": "news-70cf0538d35e",
     "date": "November 2, 2026",
-    "publishedISO": "2026-11-02T01:21:00+00:00",
+    "publishedISO": "2026-11-02T13:53:26+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "What is Mike Norvell’s Buyout? FSU Fires Head Coach, Defensive Coordinator Tony White",
-    "valueBillions": null,
+    "headline": "Marvell Slides 3%, Lumentum Drops 6% on $115 Billion All-Stock Merger Deal; Coherent Climbs 2%",
+    "valueBillions": 115.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -15,8 +15,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Sports",
-    "summary": "What is Mike Norvell’s Buyout? FSU Fires Head Coach, Defensive Coordinator Tony White Yahoo Sports",
+    "sourceName": "Yahoo Finance",
+    "summary": "Marvell Slides 3%, Lumentum Drops 6% on $115 Billion All-Stock Merger Deal; Coherent Climbs 2% Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -33,7 +33,232 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORUR3RlpudElRdGZzV215dXplZ3hzeENRMFBkdmpjY2JjYmRCMU1sQWgtdUVfVTdPTXA3YndQb2xjZ3NIb2c4NzNKV2JqV3NXNURVS0pVYlZyR1JNUlNQMzRPb3FRTzZUMXhKVUQzdkc2MnRRcTh6WkdzSWJ6VnBJLXBNLWg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSXdZNFpUTC1pTFJDblZYYmJXUHdoSmZjWlFkRjI4LUo2OW4tTXljcGxaZUZxYkZVc2xIOUpjX1RyZ1BnYlQ3cHBqV2hMMWtpRXJhMUhBcjFYRHFiV2pUSWFaNGJTaGtWU2h3blV4bXpDTlZHS2FraGpnMjBpb1BoN2Zpa0k4NnlzT3otY1VRbzg2ejRRTm1RM0RaRG0?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e1e43fdc064a",
+    "date": "November 2, 2026",
+    "publishedISO": "2026-11-02T12:15:50+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Marvell Plunges 13% on Lumentum Takeover Rumors: Make Your 3-5 Year Bet Right Now",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Marvell Plunges 13% on Lumentum Takeover Rumors: Make Your 3-5 Year Bet Right Now Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPdG5CWWdOZllmNG11cEotQzZET3UwRlo1ZUtRbTdyRzBCOXNERWZSeGJuS3ZOR2hiMGw1NGd1UDljbkZMVVpIb0ctZDFDbGJvZ3g1YmJUX0swWURUNUU2Q1JGNkdKd0QxUWVHWG11MVJNQnlMOG1RcHRTQThmX19nTnZoNm9OMTloNk03UzVlRE10ZGkzUVNUMEhhLWNsejdpNzZz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b4920fdd5b59",
+    "date": "November 2, 2026",
+    "publishedISO": "2026-11-02T05:59:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Glencore proposes to alter CEO pay terms after any takeover, FT reports",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "Glencore proposes to alter CEO pay terms after any takeover, FT reports Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxON0J1T0pKdWJGbGs4WWF4LW55T3dmUEQ5TkhpcWxHZHk4VDhZazFpeElSRFozMVlBamYtbk5VRG5weUItclRVWEM0c0VDaEdNNERqcXFDa1BjaUI5SnpFb1JnOUJDSVFZRG5VM2RBRnY0S2hqcFZJT3UyY3RkNnQ2OEpycklsRmdNemhXc2xGcnMzVlpSSG5OanZBZGZlUjU5QTBuNjJZRFMxR2dEV1FOTUJlVEZjcXEtNHlsejhoVlc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e7bca12949ce",
+    "date": "November 2, 2026",
+    "publishedISO": "2026-11-02T04:09:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians",
+    "valueBillions": 5.5,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CNBC",
+    "summary": "Canada-India $5.5 billion bank takeover attracts opposition from workers, politicians CNBC",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVEtScGcyUFhsVUxZdl91T2w0RDRndElqRUs4eGlGS0hkcjhEMGd6bjFzQWpDcWtGU2hPWURYU1JMRlVIVUV6djRfN242b25HREZGVzdYRVBBMnphaE42VHFXQkpORHpJUkR5ODZmMEdRUWRIb2JRR3dLRG5ZT3dKdWdVczZrd9IBiwFBVV95cUxONFFSTVVzQmVzTGZUUFNkbVdkc1hqazhGQmFXTVo0azBBVVJWWHQ2MkVSS2dRcEJKOFRmZUVRck8xUnRXM3VhSzNLX0RZREtobm9iNGltZ0VFOU1veVdtY0RoS0E3TjQ4X0FJRklxenNEOTBHOWNLNHhiZlhEUWo1VG56UDVrOXdqZUNn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -376,81 +601,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-b5abc77e0566",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T15:40:39+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Florida State’s Mike Norvell Firing, $47 Million Buyout Decision Looms",
-    "valueBillions": 0.047,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Sports",
-    "summary": "Florida State’s Mike Norvell Firing, $47 Million Buyout Decision Looms Yahoo Sports",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQYTN1QW1yTzh0eEFmRVVWUk9IeS1CTkY4MUstV1U5NjBNc1JIYVhFSGkzd1J0ZE5JbUN5WnduRHpmZHAwdURzVjRscUpUY2xJYXdRWHFYWWtxZ25wZWZRY0VUZHB0VW9nWV8yd2IyNG00NUFwVE81d2pBQXVOTnVPcjlNeFdQVGpXbHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-46a373080e08",
     "date": "November 1, 2026",
     "publishedISO": "2026-11-01T08:00:00+00:00",
@@ -489,156 +639,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-37b63dcb65fb",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T00:24:38+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Brent Venables Buyout: What Would It Cost Oklahoma To Fire Its Football Coach?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "FOX Sports",
-    "summary": "Brent Venables Buyout: What Would It Cost Oklahoma To Fire Its Football Coach? FOX Sports",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPYVFwQ05KWmxrRzhGR0lQWUtRcTgwcVFXa2h2ajhMT1lncGNQWTVfQzlGdHh5VkhfUWJiR2xSbS1TbW9WeXhBdnI2a2VKSWxwUUplUlFoVWlHWXFhVWZFci12SEJ5WWYzbWdUeVFmMTdWTkxMbWFqd3RBLTdEM1ZwUzJCTm5TQktSaXZTb3JtM254Z9IBkgFBVV95cUxORFVYaVNxQkdTeURQeWM5Zlc0Q0g3TzdVel9uVXU4dkc3NnFlMlRMRVhQNFRud1pPQzY4aTYtRkRJUE8zcjBNY2ZjbER2TWlPeDF0OWhPQmpuQXViR1hiRnNMUUFuS21jdDdtNzNETlB4d3hvaU53VlBhMDN3Q0dWMU14MzN2Xy1TNExERFFIMlRRZw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-fc242003273b",
-    "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T22:18:25+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "As the acquisition world turns: 4 plot twists in the latest storyline",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Federal News Network",
-    "summary": "As the acquisition world turns: 4 plot twists in the latest storyline Federal News Network",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPTWQ5ZFdBdS1rUU1xRXpBdWFPQUttV3VBWFhXRXlGaXJfeFd5c1pjUWt1aURoQ2RLUS1EUkRaaGEzaFpfcmdTdW53U1V0OFdyREl3dDB6dmFYUmJyRXl4YnFhYzBBeC1DMUNUXzlZTXVXdy1PcGNfOERPbmp0eW5FWkp2RWNscmtsLXVpdDRpVXNhUTJ1YnhlVzEyX3hSZXhhWThfT25ROFNTU3JMMXJMLWNEbWliWE9XdjZQelNWRnFUYXcwNHc?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 30, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1164,6 +1164,81 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 30, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-6045bf5aab1e",
+    "date": "October 29, 2026",
+    "publishedISO": "2026-10-29T20:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Department of Energy Acquisition Guide",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Department of Energy (.gov)",
+    "summary": "Department of Energy Acquisition Guide Department of Energy (.gov)",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNURFM1hsUUd0cUFremstVGVBX21ZRWk3bnFvMkhodzRvemd3SW1EOG5OSEhPTkRlaHBabHkyMkpENTVOWnNsWVFlbkJ4WUwyNXpfVUNmS0NrR3g4LUdTSE16Vllwd3cyQXdJcWVFVjVGcTBHV282Z2c5UE5wTU5xampFVXg?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Oct 29, 2026"
       },
       {
         "stage": "Terms verified",
@@ -2139,81 +2214,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-80b2a7e57d0a",
-    "date": "October 26, 2026",
-    "publishedISO": "2026-10-26T22:25:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Here's what Microsoft's buyout offers actually include",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Business Insider",
-    "summary": "Here's what Microsoft's buyout offers actually include Business Insider",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTFB0bGF2VkRBc2ktcUdMLUpOZV9JaFlmUGRnNk5wMS0wb1R0aXJVN1JhVXZTaWNoczRrbEpmZVdVbkZQMGtYeG9RLWVOMFVCMHBTTW84MlBPRm5GTlJ2NmFsbVpXWlBseS1MT3I0YVR4dDRVSGxnSzhzdERJaw?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 26, 2026"
       },
       {
         "stage": "Terms verified",
