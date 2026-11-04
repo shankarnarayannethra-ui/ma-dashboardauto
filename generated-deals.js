@@ -76,6 +76,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d676a4443bb5",
+    "date": "November 3, 2026",
+    "publishedISO": "2026-11-03T17:10:42+00:00",
+    "acquirer": "India's competition regulator clears Kotak Mahindra's",
+    "target": "Deutsche Bank retail business",
+    "headline": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Reuters",
+    "summary": "India's competition regulator clears Kotak Mahindra's acquisition of Deutsche Bank retail business Reuters",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPZXhBc0Exb185Q1BpSGZPQ0FLc3lqZkR3RVNYUF9NdU5mM1FIbzVYRnRQM0cwLVF0bXgwMTJIaUtNQ1pPTGhQd3plV3FpVzNIUEFVb1UwaFVFS01aODAxUEpPdDdWUV9IQldlQmhCZXlfZ1JMOHpWZ1VHMURMWFljNFo2MDNaejlaSGZBaXgyVlZVS2xuM2F2cGxSemFHYnBCZ0hXOWFJNmhreDhpRlhpQVJmSVM5bzBoTC1ILUUxZUh6SFU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-fae33623b641",
     "date": "November 3, 2026",
     "publishedISO": "2026-11-03T17:07:44+00:00",
@@ -301,13 +376,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-0d353604cfa5",
-    "date": "November 2, 2026",
-    "publishedISO": "2026-11-02T22:57:15+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "'Very uncalled for': Here's what BP gas station says happened during Corryville Halloween takeover",
-    "valueBillions": null,
+    "id": "news-13230e15d598",
+    "date": "November 3, 2026",
+    "publishedISO": "2026-11-03T12:39:47+00:00",
+    "acquirer": "Emaar considers",
+    "target": "construction arm valued at nearly $14 billion, Bloomberg News reports",
+    "headline": "Emaar considers buyout of construction arm valued at nearly $14 billion, Bloomberg News reports",
+    "valueBillions": 14.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -315,8 +390,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "WCPO 9 Cincinnati",
-    "summary": "'Very uncalled for': Here's what BP gas station says happened during Corryville Halloween takeover WCPO 9 Cincinnati",
+    "sourceName": "Reuters",
+    "summary": "Emaar considers buyout of construction arm valued at nearly $14 billion, Bloomberg News reports Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -333,12 +408,162 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOZ2MwRFVaaTg0Y0ltU1Bmcl9BcURZSVc1N2tiZ1pHU2JZc1BYTGVSaFAyNXN2Z2d1ckQ0c0dsVnJZN192R0lDNU50S0ZsVlZJUG5QMURVUE9RZE1qNnBZaXJ4OV9XNnR1amNxS0xHMFV3RzNrSkFwWFdDLW5uVThXRDZ4MFpMTGFISExnZHU3ZFRTcGRtNkFpQks1UUkwS1VYYXppdFA3V011VUhTaS05OXRlRGlmY3pJQWkzYUJLMWVmcVllSUhUYlJvWQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQRFplRVRqcE5Uc0NmX1A0VWEyNl9lQThBTEZ3bWlmbjU2SWRoSUlheEFZdUR0MHU2VVUtYW0xX0JmS001STZuQTluY1drNzR0VTVTQWM5X2QxU3BpTVFwTnFKTUhGWFZ0Z0lVWHQ4eExOLTBsb001RzZ1LVdBUm40dzVGcnlZT2tmcktqOHJMb0NTV2NQeHhXN3AzXzd2U2V5WDkwZWYxcEprZ1RoMTlERG54Y1lOaC1DZ0Zucm9GSkJNMVFr?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Nov 2, 2026"
+        "date": "Nov 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-dbb1e7c3c371",
+    "date": "November 3, 2026",
+    "publishedISO": "2026-11-03T11:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "The “Major Questions Doctrine” Precludes a Merger Efficiency Defense",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "ProMarket",
+    "summary": "The “Major Questions Doctrine” Precludes a Merger Efficiency Defense ProMarket",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeTR1NTJ4WVd5ZkVDc0h1X0tsOF9vTVhMdlFvblhSNEVjdXhxbDlXaUlWQ2pnN1VLWGltYXFLTFBlVUZYQUZkQWJvWURESjRjZVhFUGhJWFZDWjBxSTBjalF2ZDhLdFdLS0tURjZkWHFyZVU2djl3NlR6eVhiUk5MWnAyRlYzbnBNQUFDYTNVTXpjLWFSNjlzSzRQbEJtRzl3Sm9jN0JOWQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 3, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5a08339bac3f",
+    "date": "November 3, 2026",
+    "publishedISO": "2026-11-03T06:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report.",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Finance",
+    "summary": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report. Yahoo Finance",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVR2VVBSM3czRGo3VFdlb0NWZjlhdGZRS1ZtS2phOVJqWGdubDdPUnBLMFFneDNZYXBiSnM3OUdPMTlBczNfeUlmV2ZEc0VIbzRXVFpEblZaT0Vja3A2eUk2WmFRdElHR0lKX1cxZTkwSlhCbWwwcHIzeGRVdndPOGl4T0NhR2JwQjRqXzNzNlZ2T2Nqal9sdmxxcng4ZFVGNnZVVGlRN04?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 3, 2026"
       },
       {
         "stage": "Terms verified",
@@ -676,6 +901,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-745569834d9a",
+    "date": "November 2, 2026",
+    "publishedISO": "2026-11-02T14:02:05+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Caterpillar Inc. Acquires Fabick Cat Dealership",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Caterpillar",
+    "summary": "Caterpillar Inc. Acquires Fabick Cat Dealership Caterpillar",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQY043WHUxVExwNUpzejVOTVNZUm5ycWtxeHlMRnZFN1Z3amRzNUpGMWdHbmIyWWRjSWlIOTAtX3NiNUZ1MEtWZlpTYlFUVDh2QXh6aFBVRFpvc0o3RF84d1VSX3JwTjFFT0NJdWhrb2UxTU5mMWd6QjZwa1k5WWgwSHhSblpOSHNZYVM3VG9Wa2V2SWNZaEJFcl9BbVF2bkdDcFpSb3FPNnNYQXpubXZHYkliTHZIOVY4?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 2, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-90f3c235ef01",
     "date": "November 2, 2026",
     "publishedISO": "2026-11-02T08:48:42+00:00",
@@ -901,87 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-f7fbfe8543ef",
+    "id": "news-46a373080e08",
     "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T23:07:34+00:00",
+    "publishedISO": "2026-11-01T08:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "FSU fires Mike Norvell, owes coach $50 million buyout after befuddling 7-year tenure",
-    "valueBillions": 0.05,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "FSU fires Mike Norvell, owes coach $50 million buyout after befuddling 7-year tenure The New York Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNWTMyODQxS1JDcnU4YTZVS1ZSSWZfTFh0YjNQZU5QWGxsaVkxZ0ZocHRneDgxc1VLUzcwcFN5dmN0THNJNmp2aEQ3UzdwTk13TmZ6R3VBMWtSTS12U2J4OUJFRmdJMjBoQ2JWbzBEUkJKd0xCcWh3WU9ldllBYU5qTlpxM2ZJTlptLThtTzdxVEdnVHhlNG5nS1UySmotZkZyUUZra09qdkQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8993d348a70d",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T21:05:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
+    "headline": "Why Wendy’s is losing the burger wars—and is now a takeover target for Nelson Peltz",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -990,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays. Yahoo Finance",
+    "sourceName": "Fortune",
+    "summary": "Why Wendy’s is losing the burger wars—and is now a takeover target for Nelson Peltz Fortune",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1008,82 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWg4YTdLSnk3d1p2cDZpaWFVcFVzbWZfbkdfeVVWejRjZjM5OGVTY0RoQXB0UklxdTVkejE3SzExYm13dWRVOVVDcWZGRjRDNXdJVEtpMEFCU3hKc1RyQ3RvakNEbXo3OE5Gb0E0UjBpczNlMC12blFBRWV5YjYzaXBIU3h6RzVZOWVYaDRMajdHWFFnUm5aLUhFcVk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d84fcc85c1cd",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T13:05:45+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3pBN0NNOHJZSlM2X0RCbnVjRHJYWUI1bzdrVFg0bjhqQTUzeTN1a2hsZDhGazJQNzR0V3gwb0ZLWHpfTUM2dGhrTjVDdmlHREE2Q0I2M1Q1SUIzZ0VJUzh1dGR2MkUxMFNEZlp5Rk1uTTJYaDlTWVpKd0VLbVJ0ZTFnT2VkTFlOVzY1STFKZkRHcHlWcjNLa283VTBxTDJBNVZ1MzFUQlRPMGs1eTJxMkd6c0FJY0JoWW1SN3l1T3FCOUlZSzcySg?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNSjk3WUI1eUdtLXFkVURvVFEyUDM4eFR1WVdQU3R5Q1JjTnd3MTNpTFFrQ0JpYmE0Q2lSN1JaZU1qV1JHV0hyeEhVd1pCWWhpcUhfa0pweXNRRlhPVDdZR3prdWlob2JVY2s4b2FYU3g4YS14V21lM0xDUl9Ld2hjU2llREJvazBCY0h0WHhRalU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1234,81 +1384,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNTUljVGRraHhKcVJXcnZTSk53Zy1PSnZvVnY5WmkyNkFEVUFrclBaY2pMMkJSd01SVWpzU1Bqd0MySUlsSGt3QjNpMEFzVFBPWkpiN1JUcmJmSVVpSzNOREF0QV9vbDE5XzB3cndUeHlnR3dkLVFrQjRFZVI4d2pEMVJTWUlVWEVIX0E?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 30, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-91e08dc6ac91",
-    "date": "October 30, 2026",
-    "publishedISO": "2026-10-30T16:54:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Microsoft’s 60,000-person buyout offer hints at a future with fewer workers and more equipment",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Fortune",
-    "summary": "Microsoft’s 60,000-person buyout offer hints at a future with fewer workers and more equipment Fortune",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQjM1Zy1OWnU3SGZFUkdhYnNHTXg3Ynh2Wjl1dmRoNFdiN0prU1Rkb1N5d0ktSXBaMFJySmk3Z2FBZmV4c0FnVFhrUFJHa3hOR1FLSVNuWjh4RVNROG9hRkdOeTMyVjVuVzZSN25adkNnRXFGM3MtRDFEMXFZNDRmQ1MtWnk2bDBtWHRsUDJn?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,13 +1726,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-02eb29b7a6d2",
+    "id": "news-caffb976b803",
     "date": "October 29, 2026",
-    "publishedISO": "2026-10-29T17:25:00+00:00",
-    "acquirer": "SELCO",
-    "target": "Numerica credit unions announce",
-    "headline": "SELCO and Numerica credit unions announce merger",
-    "valueBillions": null,
+    "publishedISO": "2026-10-29T16:03:10+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "DoorDash stock pops, Instacart falls after companies announce $17 billion acquisition deal",
+    "valueBillions": 17.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1740,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "NPR for Oregonians",
-    "summary": "SELCO and Numerica credit unions announce merger NPR for Oregonians",
+    "sourceName": "Yahoo Finance",
+    "summary": "DoorDash stock pops, Instacart falls after companies announce $17 billion acquisition deal Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSjFvV2p0czRHVTQwRlZJRHJ1SEphaHBPTk1LWjU2Y0ZRaF91c3JUcWRseDc0bFltalVOVlh3WEhjSVZNS1FERnlRV0ZZSS1nYl9kbWZuWWJyUy1sSzRuSllvanBGSEFvVW95U1F5RGRuR1JoV3d5YWZwNS1IQ01ZMWJZTUdCRUNXTjNxNUM5aUoxc2dY?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdzhOc2tXeXFicmxkUXpvYmM4TUd0a3QyeTUtczJlZmtXWkpHWHpLZVFjX1N4dWFRMlNCZ3lLaHVyd3l3eXRyWlE5VmJ5WVNuM2dEejl6ME03RUptRGZQVEhiZ3ptdEZ1b0djb2Vkenl2SGpUdXo2UGRlSklPbkw5Qm85eEZNeWd0dzhNMDh6bFREOFpyUzZmblR3OEFmRnhZNFZxSkZLLTZXVjVzZUNiNGRPWFd2NF9YSlpHVUI5N1JmLU90aXhISHdmdTRDUkJaOUlyaHZsQjcyTzJPQUdacUtFQ096aHM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1726,13 +1801,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-caffb976b803",
+    "id": "news-3272c89f5a2f",
     "date": "October 29, 2026",
-    "publishedISO": "2026-10-29T16:03:10+00:00",
+    "publishedISO": "2026-10-29T14:17:42+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "DoorDash stock pops, Instacart falls after companies announce $17 billion acquisition deal",
-    "valueBillions": 17.0,
+    "headline": "Lumentum Holdings (LITE) Is Reportedly In Advanced Acquisition Talks",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1741,7 +1816,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "Yahoo Finance",
-    "summary": "DoorDash stock pops, Instacart falls after companies announce $17 billion acquisition deal Yahoo Finance",
+    "summary": "Lumentum Holdings (LITE) Is Reportedly In Advanced Acquisition Talks Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1758,7 +1833,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdzhOc2tXeXFicmxkUXpvYmM4TUd0a3QyeTUtczJlZmtXWkpHWHpLZVFjX1N4dWFRMlNCZ3lLaHVyd3l3eXRyWlE5VmJ5WVNuM2dEejl6ME03RUptRGZQVEhiZ3ptdEZ1b0djb2Vkenl2SGpUdXo2UGRlSklPbkw5Qm85eEZNeWd0dzhNMDh6bFREOFpyUzZmblR3OEFmRnhZNFZxSkZLLTZXVjVzZUNiNGRPWFd2NF9YSlpHVUI5N1JmLU90aXhISHdmdTRDUkJaOUlyaHZsQjcyTzJPQUdacUtFQ096aHM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQWmNXSXRmT1QzZGdNSDdrVDEtVnY5TjZtb3N0aXBPNXRJLXJUanFvYUMzQ1dvMWZrVGJ3YXFjWnVOV2kxY0FoM2huYm5rOEJOLW84emNybU1qeW5ZX3dZLWVYTGhZTV9LaWJTNy1BVFpXUnQzajI3NzdPcDhtdlAwbHprTDlwYjhEYml1Q0VzcG5vUkwzMGR5SjFLN09MenVVay1JNXpNZ0NKa3c?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1914,81 +1989,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Oct 29, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-f8a5c847811c",
-    "date": "October 28, 2026",
-    "publishedISO": "2026-10-28T23:15:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Upwind raises $400M after walking away from Datadog acquisition offer",
-    "valueBillions": 0.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Upwind raises $400M after walking away from Datadog acquisition offer TechCrunch",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOTl9CSENzOGw2a0dXM0xzWnM1RWY2RUpjelY5TndOTmp1VTd3aklseGNnZnRiOXZ6SDdxT21ZemdHRTBQOHRDdWszUnc4cVJrX2NQMEM5U1Jld3JXanJBdV9HVEV1dEtRVG9fdG9NVUJFOUpCQkxzOXNtSG5LSDBDSlNzamxvTHZLNzJ2MnhyMUNVWHRCTmxSY2kyVnJmRUdTb21HcUJB?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Oct 28, 2026"
       },
       {
         "stage": "Terms verified",
