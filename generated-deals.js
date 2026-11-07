@@ -226,6 +226,156 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-5b7aaeb6f268",
+    "date": "November 6, 2026",
+    "publishedISO": "2026-11-06T18:59:47+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Google Acquires Crusoe’s Wyoming Data Center Site",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Crusoe",
+    "summary": "Google Acquires Crusoe’s Wyoming Data Center Site Crusoe",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQQlF4U2xWUlNOdXRsU3pqczk5eGNLREZubzJHZ1NTNTlNbnVRZzlGTkNPaXVpeGl1Wm1wYXo2RmJrMWJ4SExoNFRkYVV6VzY2Xzd5LW9zRXpqVmNmTm0zazY0S19pLUhWTURJNVE5Qlp2RDJzckRacEc3V3NIblh4UWowOHB5UU90?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-b47d9e9de56b",
+    "date": "November 6, 2026",
+    "publishedISO": "2026-11-06T18:27:00+00:00",
+    "acquirer": "Fox completes",
+    "target": "streaming giant Roku",
+    "headline": "Fox completes acquisition of streaming giant Roku",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Fox Business",
+    "summary": "Fox completes acquisition of streaming giant Roku Fox Business",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNc0E2VXF3SkFmS1RaWC1uc0RtTnljbXZ1VEJ5UUQ0V0VvT3UwNWpnNlZ4bUItbGVwcngtbF9KZVY0bXZEOVZfTkctNGxTU1E2MzYtSFNSd2NWZlhtdlBKa3JxeXBoZmJwYVVFX1NucHJ4aG1BY2VVamFlVWpkWEdldEQ4VVdwWllNbHfSAY8BQVVfeXFMTlB4ZmZoTVR4b0pjTS1PcDhBY1RxV3ltUlduVHBUVUZNX0lWQV9ScVJXY3hQelk0WVZLaWVJNEs1NEJ3SVZUWFB3dE5aem1qUVJlVkNDeWRBX3BTeERibkx1OHp2MzdHUlZVZEc5Sk1WbVR6QV9PUjFJTWFpb0JITmR0ZGxETXpQUWZTT3ByTUU?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-e85f94f5e6a0",
     "date": "November 6, 2026",
     "publishedISO": "2026-11-06T17:23:00+00:00",
@@ -676,81 +826,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-7f3ba0a938d8",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T21:37:56+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
-    "valueBillions": 1.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkRjckN4TVlWTWxVREJ6LVlwZzJOcWc3R19Yc3I3eERUb3Z3TUd0RFVqa3FwM1BfOGZsenUxSU9KbWpiSFlENndON0ltc1djdWQzOWloZGlSWENBUGRpMFAzWHBjdDRibS1uNlRTbjctMHZRQnlNNEtqSGUwd1JSODZ6UVl3ZmZjdEdxTzdURHVyM3JIZXNV?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-1d79a9f9386c",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T19:55:07+00:00",
@@ -976,156 +1051,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d6218a103c57",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T16:32:36+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Shield AI acquires radar firm Echodyne in $5.3B deal",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Breaking Defense",
-    "summary": "Shield AI acquires radar firm Echodyne in $5.3B deal Breaking Defense",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNc0oyckdaOGFhZU5nc0lhQTJwaTgweC1PaWhYaTBfUkU1WmZXaEVqNUthRTZiVkFPR0FKLUx6ay03ZU1GSUVrRXRhQWtLbVJDREJla2t5YndjajJBdWNYbWN2M05lNkdNeGdfa0tBUVpfTTAxak9UMjNXLUZIbURUN3VlR09CS21UejlPTTAzT1JaUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-75816f52340d",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T16:06:59+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wendy's rejects Trian-led $1.4 billion buyout offer, adopts 'poison pill' plan",
-    "valueBillions": 1.4,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Wendy's rejects Trian-led $1.4 billion buyout offer, adopts 'poison pill' plan Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWG40MUJ0RHlEckE2Rk9wQmdUWEhfTXd6TW56YWFtYWtnSm94MGd0VndNdm16TXptcTJWX2tYMVdyNmZZdkM3dnVQNzQ5VkxlNHRiSG9lSi1yVkZLQVZDeXlCcDVVNWpoTTBMYWM4OW1PNjJJaGtRVG51TVlNcnNieHhZck12TnFYTUY1M0xxeWl1ZnJTV2M3LQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-2f093bb2c630",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T15:19:05+00:00",
@@ -1276,7 +1201,82 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-94124d4bac7d",
+    "id": "news-7f3ba0a938d8",
+    "date": "November 5, 2026",
+    "publishedISO": "2026-11-05T13:20:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer",
+    "valueBillions": 1.4,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "Wendy’s Rejects Trian’s $1.4 Billion Takeover Offer WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQSkRjckN4TVlWTWxVREJ6LVlwZzJOcWc3R19Yc3I3eERUb3Z3TUd0RFVqa3FwM1BfOGZsenUxSU9KbWpiSFlENndON0ltc1djdWQzOWloZGlSWENBUGRpMFAzWHBjdDRibS1uNlRTbjctMHZRQnlNNEtqSGUwd1JSODZ6UVl3ZmZjdEdxTzdURHVyM3JIZXNV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-02df72a46a0d",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T12:13:33+00:00",
     "acquirer": "Potential acquirer",
@@ -1308,7 +1308,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heNIBfkFVX3lxTE1VTTdWQW9Vc1g2VGR5YlJjZl9ZWGtLWWV2LTNWUlR2YzZFUkc5d0hZanBwLVZ5TzFOaVl1YkYyUkZubFRaTEFQS2RRVnpWNklGX2REMWlVRmFMZUxpNk9UZUZXOC14dG1jbGpOMHpBQU0xeUJCdkxHMXFmSmc3dw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-c4108af7a8ed",
+    "date": "November 5, 2026",
+    "publishedISO": "2026-11-05T11:23:03+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals",
+    "valueBillions": 5.4,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The New York Times",
+    "summary": "China Blocks SoftBank’s $5.4 Billion Robotics Takeover, Impeding Foreign Deals The New York Times",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOQmlCanlYdUl5YWZwSTdBM1V2NXJnUFlVTnlPNzRPT0ZqZlVHMHNtZmY0dmdKMEJLMlh4SUU5bER3UFp0ampfcUdIS28tMk1mMkZXZDBHLTl0Y1hCNWhlcm1XSi1yUV9MSVlXdjF2Y0RCOERoTDZJZ2dUUTRNMnVpeXNMZlM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1534,6 +1609,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-07dcbb8c8fb9",
+    "date": "November 5, 2026",
+    "publishedISO": "2026-11-05T06:21:01+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Everett council votes to approve transit merger with CT",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "HeraldNet.com",
+    "summary": "Everett council votes to approve transit merger with CT HeraldNet.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2YzNGg5aHFPWWNhLUd4WEJrZUFWMURGeVkwOVh6d1UyUkFRaTlBMDAwYzUtV0VqX3cxTjdwT3gwZGVnREpEOFhfLTZBckJFeEZXWmRaVW5qV2ZyQlA2OUIzaGZ3aTQzX1hVbDZsMEdDdlpYQ3A4ZkRBVkhYT1ZhZ1hIZkxhZ0NEOVRTeDN1dnRXUVhBMVFZcA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,13 +2176,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-43c4ca41818d",
+    "id": "news-3dad7a0fe8df",
     "date": "November 2, 2026",
-    "publishedISO": "2026-11-02T17:14:53+00:00",
+    "publishedISO": "2026-11-02T00:00:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Plato's Lofts Acquisition Secures Housing for UNCW Students",
-    "valueBillions": null,
+    "headline": "Bilt Acquires Sports Loyalty Technology Leader LAVA in $300 Million Deal, Signaling Major Expansion Beyond Housing",
+    "valueBillions": 0.3,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -2040,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "University of North Carolina Wilmington | UNCW",
-    "summary": "Plato's Lofts Acquisition Secures Housing for UNCW Students University of North Carolina Wilmington | UNCW",
+    "sourceName": "Bilt Newsroom",
+    "summary": "Bilt Acquires Sports Loyalty Technology Leader LAVA in $300 Million Deal, Signaling Major Expansion Beyond Housing Bilt Newsroom",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2058,162 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdFB0X25YMnVNWTA0cFBYOTJYNWdMOEFPSWUtdnh4LS1wT2xzTVYycDh4SS02SjM4bWRjdS0wTnp4S2lwWTEzajgtOURkNGJrSE0wWHp0WHJDSUt4RE9IemZoRmt0NV9tUjJvZ2NMSkYwTjNtZGNxWEpLZjNmVGh3bzMzcHVaaHdUR3B6c05KWVZybWNwWUY1TkdZTEI?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiXEFVX3lxTFAtd0xvRy1HM3RpbFBlaXpiei05S1FvSzRoRFlCTjUtbk5uLTQyc01kRUVWYzhfZHhjWUlnd2JwV3dJXzZ2Tm1rOFlkMWtTYUFLcmFtZ2QyYkROMHlY?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
         "date": "Nov 2, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-8993d348a70d",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T21:05:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Barclays Says a SpaceX Merger Is Now \"a Key Part\" of the Tesla Bull Case. Here's Who Actually Wins if It Happens -- and Who Pays. Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWg4YTdLSnk3d1p2cDZpaWFVcFVzbWZfbkdfeVVWejRjZjM5OGVTY0RoQXB0UklxdTVkejE3SzExYm13dWRVOVVDcWZGRjRDNXdJVEtpMEFCU3hKc1RyQ3RvakNEbXo3OE5Gb0E0UjBpczNlMC12blFBRWV5YjYzaXBIU3h6RzVZOWVYaDRMajdHWFFnUm5aLUhFcVk?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d84fcc85c1cd",
-    "date": "November 1, 2026",
-    "publishedISO": "2026-11-01T13:05:45+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Portugal weighing bigger Galp stake after Moeve merger collapse, minister says Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNN3pBN0NNOHJZSlM2X0RCbnVjRHJYWUI1bzdrVFg0bjhqQTUzeTN1a2hsZDhGazJQNzR0V3gwb0ZLWHpfTUM2dGhrTjVDdmlHREE2Q0I2M1Q1SUIzZ0VJUzh1dGR2MkUxMFNEZlp5Rk1uTTJYaDlTWVpKd0VLbVJ0ZTFnT2VkTFlOVzY1STFKZkRHcHlWcjNLa283VTBxTDJBNVZ1MzFUQlRPMGs1eTJxMkd6c0FJY0JoWW1SN3l1T3FCOUlZSzcySg?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 1, 2026"
       },
       {
         "stage": "Terms verified",
