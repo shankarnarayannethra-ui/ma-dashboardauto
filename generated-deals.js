@@ -1,6 +1,156 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-8259b1f591eb",
+    "date": "November 8, 2026",
+    "publishedISO": "2026-11-08T12:00:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Deion Sanders’ $25.5 million buyout could complicate Colorado’s decision on his future",
+    "valueBillions": 0.025,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Yahoo Sports",
+    "summary": "Deion Sanders’ $25.5 million buyout could complicate Colorado’s decision on his future Yahoo Sports",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQYTBEbmI3SHpXNWZPX3RhaGZJVUhDT2p0ejYwSUdjNnR6UjI4RjVwc2E5M3JReVBXcmdNYi1ydURHUm1WUlMxRTlvMDhscEVyaHItWF9PdURnUGFPNVZmNnZKVWVRcU9sY2IyemNva2pUZDZ1Q3FYT3E2NThiVm9keA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 8, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-0d7726ad6db1",
+    "date": "November 6, 2026",
+    "publishedISO": "2026-11-06T23:46:39+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "State-appointed managers in Texas takeover school districts brace for imminent removal",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Texas Tribune",
+    "summary": "State-appointed managers in Texas takeover school districts brace for imminent removal The Texas Tribune",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPbWo3aTBQVUFXRkVCcjhpLVZmamF4VkN5b05jTFBXQXhralRTdDI4cnFvUDBNMGM3WkFBbWpTclFjR2JYZURZdHB2UWpsOVo1Zm5xSDU1aDVnaGd4RTB1YWVkLVV2LXVpT0g1ZGJUeGVkNkpGeFRkMDYyZHFOYlR0aDJudWJxcDlBVG9WenRxeVNSWmJxb0tV?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-73811c68b67f",
     "date": "November 6, 2026",
     "publishedISO": "2026-11-06T23:08:18+00:00",
@@ -109,81 +259,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVWwxOEdwa1JacndvN2hzQ2lHQXZuc0RwSU91eW1BTVVLVzcybzVyX0RIYUJfTHhnalk4eW5jQkN1WVdybnRLcXU4RDFXUWx4QXlPNGVYMU5oay16Q2pJRUNyZ2FTZ1NYR3RLeWl4Vnl3MF96R1ZDYTBDN3Z2NjB6eEg4ZzRyUkdjS1JNSmlMdkVLUDB4ZlhPUWRhUFM4ZkVVUlM2WUN3?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 6, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-860ebf618ea9",
-    "date": "November 6, 2026",
-    "publishedISO": "2026-11-06T20:08:18+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Supply Chain Dive",
-    "summary": "UP CEO’s rate threat adds wrinkle to Norfolk Southern merger process Supply Chain Dive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOYk15NWp5R3VEci16WUZvLUVZd1pIV3VJMlVpci12NndOdEpKQUJsQm0zUEZ4ZFFpeDIzYWw5aEhSWHBCczc2bzFmQVEyUy1OYkt5Y1IxWDlIbG0yY0g0UVQ5aUFud2swRXhQVDZtR0E3ZTZ2aFFMRTlJNkFwcjNTN3FrU0dNeGxCak5qMGRmV3plUHpBeU1zM2FJcVVBdXF2NzFnd2Rwdnpac3NPU1Q5QXBR?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -390,8 +465,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Crusoe",
-    "summary": "Google Acquires Crusoe’s Wyoming Data Center Site Crusoe",
+    "sourceName": "Crusoe.ai",
+    "summary": "Google Acquires Crusoe’s Wyoming Data Center Site Crusoe.ai",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -676,12 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-732d3c1e4bff",
+    "id": "news-e6791cf5c002",
     "date": "November 6, 2026",
-    "publishedISO": "2026-11-06T14:21:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’",
+    "publishedISO": "2026-11-06T14:42:00+00:00",
+    "acquirer": "Fox Corp. Closes $22 Billion",
+    "target": "Roku",
+    "headline": "Fox Corp. Closes $22 Billion Acquisition Of Roku",
     "valueBillions": 22.0,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Variety",
-    "summary": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’ Variety",
+    "sourceName": "Deadline",
+    "summary": "Fox Corp. Closes $22 Billion Acquisition Of Roku Deadline",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dzJYSENyZVNJZFRXQzZta0hDM3JpOXQxTEo4Nkhqek56azBlck00bFlzeFN3WllqWDZ6bVBhVUpBdWtSa0tmcTFicERTN0tyQ3preTFub3l1N1YzaVc5Z05JU1l4b2FLMWEteW54YTZ1Skd1dURXWEk4NHA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifkFVX3lxTE8xdl9Yc1RyTkhoaFc4c09qNnYzMjRmeWMxTWVlcUVlenpITEdwNC0zMTZtWTNUU1dYNXFjMGlZVlc2bUc4WVFCWFRtNVVza3IyU1VnXzl5TWpEdmsxWml3QkN3cUlxN1drTTlCUFhESFNiYVlOak8tUDE5X0k4Zw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -751,13 +826,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-53278bca6588",
+    "id": "news-732d3c1e4bff",
     "date": "November 6, 2026",
-    "publishedISO": "2026-11-06T10:02:29+00:00",
+    "publishedISO": "2026-11-06T14:21:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
-    "valueBillions": null,
+    "headline": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’",
+    "valueBillions": 22.0,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "The New York Times",
-    "summary": "Microsoft’s Buyout Offer Sets Its Workforce on Edge The New York Times",
+    "sourceName": "Variety",
+    "summary": "Fox Closes $22 Billion Roku Takeover, Says Streaming Platform Will Remain ‘Open Ecosystem’ Variety",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -783,7 +858,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdFVnMzBvemo5MjY1TnFGUkhTZjVxY05CakNJQjRHQjBlZExJUFprcmUzbVdyaXJQWEo3cE1DRmoyRjBWYnp4RVdwYUZIX1RkWGY0QWUzWF9kV0h1V1ptWHZRVHZWSkRlWUtzbVd4YjIwSHZSbktz?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB2dzJYSENyZVNJZFRXQzZta0hDM3JpOXQxTEo4Nkhqek56azBlck00bFlzeFN3WllqWDZ6bVBhVUpBdWtSa0tmcTFicERTN0tyQ3preTFub3l1N1YzaVc5Z05JU1l4b2FLMWEteW54YTZ1Skd1dURXWEk4NHA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -901,6 +976,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-d0a6c114ffc5",
+    "date": "November 5, 2026",
+    "publishedISO": "2026-11-05T20:33:37+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign - ABC News",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Breaking News, Latest News and Videos",
+    "summary": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign ABC News - Breaking News, Latest News and Videos",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVJhWWhYOElBQkFaczM5cWx6YWhaYVNLUmpfR1duT2I2aHJvZ2Z1aC1qcFJSX1duVG1CaWt6VGh3UUxMZE5XWnB5N29iUkYwR00zUWZVSzlzMThBamJpenBIbzU1NEpBamktYklnTElkdk14cXducTJHUHNoZHJYX3lMb1VqYl8yNW1NWjJteFEzbFA5Wlh3eEhmWk5iQ1Y2V19jQWQ4TFFkZ9IBrwFBVV95cUxONHBEWXllLTlwcm9OSm8waVlDOGFlaWljaFJ0Q0gtLVowUG5pNzdkYXBfaGFyZjE2NF9uZllycnBIanV6ZXRlUUhCUFBSd2JmWWxreDV6VXE0V2RYdUR0WjdnWUg1bUxtUU9BclZpX2hKRFkwMld2WFA4dFZLNWFrTHF3VUhJSEJBN3VsN0JsLXRTUjBzZnUxZnNUUEFrYllYNFdqWjBFTnZoZmZDczBn?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-1d79a9f9386c",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T19:55:07+00:00",
@@ -934,156 +1084,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2toVFBvZXIwVVRJUDJwdzdJLVU1cDZjNkNFSFlZb3dNWkstNWYzWFBlUUN6Y2tsanFGQjhQTzJHaWhwaW9mMnJyc1lfWXJOcmVlNWtfaV9yRlR2eW9Rdk9sV0NkUjRkODVrOElXNkRNeVFvNExMY3U1Sk8yRklCR3huamdSSm5NNUlaRTJ4Tmg3S2xZbjdDMFdLcFJlMlZ4a0VjaQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-4284bb473011",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T19:53:31+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Reuters",
-    "summary": "SpaceX, Tesla extend losses as midterm results cloud data center, merger outlook Reuters",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQaXI0TWJjeldpYmNUM0tQR3NKcEh6bGtsaWUzOV9XQnQyaFVnNlNuaEcxakNkdjd4MzBJR2NoMWdua1RaNEVfSzNjOGRCVU5vVmc3MXRYdlkzVEpYV3JZR2JMYVVSMTJ5ZmkxY2VYM2RSWm1nb005RENwSk93NTcxa0U5X1lrMUw1cHRFV3c4b3lhc2doNHFJM012TE1yN1N5ZEo2em9pSExVcHgtQ2h1cURZOE5taVF6aFVKZU5GWVpHX0FDSGpGYmppMFUtUXM?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-a53f7149e76c",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T17:04:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Wendy’s rejects buyout bid and girds itself for a hostile takeover campaign",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "AP News",
-    "summary": "Wendy’s rejects buyout bid and girds itself for a hostile takeover campaign AP News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakdUbXlodVo0UEE0QWVtSm8tVjdCajhCNERYMWdtc1pzSC16ellVMUZoS3hJQlBOSVVSbWhxd2MtR3UzekRBN3kzazV1YmwyTG1LMnJudzhPdjNTaEp5YlJTMkZhWGxwaTM0UlJmQktFbFNMUjB5MjhlMTVGVDZ4d3lzTDU1Q2txVFA0TU0zZ1pMYkxFRXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,13 +1201,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-75816f52340d",
+    "id": "news-2f093bb2c630",
     "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T16:06:59+00:00",
+    "publishedISO": "2026-11-05T15:19:05+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Wendy's rejects Trian-led $1.4 billion buyout offer, adopts 'poison pill' plan",
-    "valueBillions": 1.4,
+    "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
+    "valueBillions": 0.35,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1215,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "Wendy's rejects Trian-led $1.4 billion buyout offer, adopts 'poison pill' plan Reuters",
+    "sourceName": "TechCrunch",
+    "summary": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure TechCrunch",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1233,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOWG40MUJ0RHlEckE2Rk9wQmdUWEhfTXd6TW56YWFtYWtnSm94MGd0VndNdm16TXptcTJWX2tYMVdyNmZZdkM3dnVQNzQ5VkxlNHRiSG9lSi1yVkZLQVZDeXlCcDVVNWpoTTBMYWM4OW1PNjJJaGtRVG51TVlNcnNieHhZck12TnFYTUY1M0xxeWl1ZnJTV2M3LQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTFLLTQ0SkZWWU1sWUJVRXNJTDdNWklGc2t6dG9GY3JZc2xmSnBYLWxOZ3NUNGJDcllEYWlHcWFkVXVOLVdFTGRCVnZkQmowNkkzVVFISW1JN3pKdlZ2QXppcGp1cG9RMERsZkhQeGtjNjdPLXREMDlQX3lNdFlORXNSSzdlSzBZNFNjdnZGWGx1Zk9BNDdzMzM2MktUdjhpSFhtQ0VYTEpiUQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
