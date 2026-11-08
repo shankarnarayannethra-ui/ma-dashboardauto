@@ -1,81 +1,6 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
-    "id": "news-a5fd702eaec2",
-    "date": "November 7, 2026",
-    "publishedISO": "2026-11-07T05:04:54+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "New Course Gives SSC Guardians a Leap Forward on their Acquisition Careers",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Space Force — Space Systems Command (.mil)",
-    "summary": "New Course Gives SSC Guardians a Leap Forward on their Acquisition Careers Space Force — Space Systems Command (.mil)",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQQ1ptMVNEZjhoZ0wxMGxlY01OMzRLY2szeFpKTlVseW11Zm9ZdWxLZHJJQjVBZ1hvTmR1TFZudFY1eEQwVXdWRzNaVzJjc19Ma3M4VWIxbHl1UklGUlJuYzZSNmpjMjdQSUI2TU5PYnpyYXpxSHBSZWI0VDB0R1JOMURrYWdvcHd5X0FPQmlZRDFOcEZxYmNtZ2hHYWFWSHkwLVhUVmlSVnpTdGdwaUFIWUtpNXVWVjVJZDZ0NFJDM3JwTHIxYnhpNlFzRU1OSWR5U3BhUmtqQVlIUGpDSWNj?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 7, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-73811c68b67f",
     "date": "November 6, 2026",
     "publishedISO": "2026-11-06T23:08:18+00:00",
@@ -753,7 +678,7 @@ window.generatedDeals = [
   {
     "id": "news-53278bca6588",
     "date": "November 6, 2026",
-    "publishedISO": "2026-11-06T12:23:09+00:00",
+    "publishedISO": "2026-11-06T10:02:29+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Microsoft’s Buyout Offer Sets Its Workforce on Edge",
@@ -784,6 +709,81 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5YdFVnMzBvemo5MjY1TnFGUkhTZjVxY05CakNJQjRHQjBlZExJUFprcmUzbVdyaXJQWEo3cE1DRmoyRjBWYnp4RVdwYUZIX1RkWGY0QWUzWF9kV0h1V1ptWHZRVHZWSkRlWUtzbVd4YjIwSHZSbktz?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 6, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-9946c05bf2a5",
+    "date": "November 6, 2026",
+    "publishedISO": "2026-11-06T08:59:40+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout",
+    "valueBillions": 55.0,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GamesIndustry.biz",
+    "summary": "Unity reportedly in acquisition talks with Silver Lake and Public Investment Fund, two firms involved in EA's $55bn buyout GamesIndustry.biz",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQR3pzUllub2dhZlZ3WmJIQ3ZaRXBSWGFkc2ZhX0JWUXkwVEtMczFQRTBvcHR1SktiLVZKeWRBWGZNSUFIb2JKYnJxWTIzUGpnMXE1VE9BaU9id19jdVl6dTJmczdWb2N2a3NpbXJ6WWQzS2tGa3BnVFhOZ1B6TXdxSzdxRjkzVWx6V2JzeDZWN2s3UzlWdmU4THY0dk1tR3dlemZobFVqTUFjMVJMaEFvUTE2dnpqZ2NZY1lpNl9zaU9HZUdDbTQxN0tCZjdrNGNpam42eHFBUmxwcHphUjBRNjUyRQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,81 +1201,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-2f093bb2c630",
-    "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T15:19:05+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure",
-    "valueBillions": 0.35,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "TechCrunch",
-    "summary": "Dropbox acquires Tigris Data for $350M to bolster its AI infrastructure TechCrunch",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUTFLLTQ0SkZWWU1sWUJVRXNJTDdNWklGc2t6dG9GY3JZc2xmSnBYLWxOZ3NUNGJDcllEYWlHcWFkVXVOLVdFTGRCVnZkQmowNkkzVVFISW1JN3pKdlZ2QXppcGp1cG9RMERsZkhQeGtjNjdPLXREMDlQX3lNdFlORXNSSzdlSzBZNFNjdnZGWGx1Zk9BNDdzMzM2MktUdjhpSFhtQ0VYTEpiUQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 5, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-e755c2442726",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T14:11:00+00:00",
@@ -1426,7 +1351,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-94124d4bac7d",
+    "id": "news-02df72a46a0d",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T12:13:33+00:00",
     "acquirer": "Potential acquirer",
@@ -1458,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heA?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heNIBfkFVX3lxTE1VTTdWQW9Vc1g2VGR5YlJjZl9ZWGtLWWV2LTNWUlR2YzZFUkc5d0hZanBwLVZ5TzFOaVl1YkYyUkZubFRaTEFQS2RRVnpWNklGX2REMWlVRmFMZUxpNk9UZUZXOC14dG1jbGpOMHpBQU0xeUJCdkxHMXFmSmc3dw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,13 +1501,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-432dddf7927d",
+    "id": "news-8e4fd80626c5",
     "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T08:00:00+00:00",
+    "publishedISO": "2026-11-05T07:14:05+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Milestone process guides Air Force acquisition decisions",
-    "valueBillions": null,
+    "headline": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division",
+    "valueBillions": 5.4,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1590,8 +1515,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Wright-Patterson AFB (.mil)",
-    "summary": "Milestone process guides Air Force acquisition decisions Wright-Patterson AFB (.mil)",
+    "sourceName": "Financial Times",
+    "summary": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division Financial Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1608,7 +1533,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQSEE1MEVDLTZVR2VGN2Jrb2M0SEFDX1R0bHFPZUJkZ1YyQmh5eWJqWktCTThTYUFBbjBINEl6REJCWl90MXJuSU9hZFRKM3d3dlpCX2M1V3ViamVUMW0zZVlqZEdLT1ZWai1PZ2NYSFhGYkdTMS00T3lzV3B2b044RjhabXc5RkZVa3dZZVpPNzVZbkFVc3huVE9lVlFrc00zMmVCN3pCTDJuMWRxX1VXeFFzNmJZQUI1Z1Mw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1651,13 +1576,13 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-8e4fd80626c5",
+    "id": "news-07dcbb8c8fb9",
     "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T07:14:05+00:00",
+    "publishedISO": "2026-11-05T06:21:01+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division",
-    "valueBillions": 5.4,
+    "headline": "Everett council votes to approve transit merger with CT",
+    "valueBillions": null,
     "sector": "M&A news",
     "countries": [
       "To be confirmed"
@@ -1665,8 +1590,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Financial Times",
-    "summary": "China blocks SoftBank’s $5.4bn takeover of ABB’s robotics division Financial Times",
+    "sourceName": "HeraldNet.com",
+    "summary": "Everett council votes to approve transit merger with CT HeraldNet.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1683,7 +1608,82 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONjg5YjFhVEN1YzBOd3pXaUdhdnlVTWtyT29yWDJBUzA3YlF6bnp4dDVncGhoRDNVYXB5WWsyVnpKU0tkd21aNVRUS01EUXlqRW9uVDBZbldLNFA1bTZxMEtjbnpBMW42cFpPTDFseVJXT1RrRG93X1RXTi1BOUpEaU1pRjM?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOY2YzNGg5aHFPWWNhLUd4WEJrZUFWMURGeVkwOVh6d1UyUkFRaTlBMDAwYzUtV0VqX3cxTjdwT3gwZGVnREpEOFhfLTZBckJFeEZXWmRaVW5qV2ZyQlA2OUIzaGZ3aTQzX1hVbDZsMEdDdlpYQ3A4ZkRBVkhYT1ZhZ1hIZkxhZ0NEOVRTeDN1dnRXUVhBMVFZcA?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 5, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-5dedf05902d3",
+    "date": "November 5, 2026",
+    "publishedISO": "2026-11-05T05:07:03+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Commissioner, Federal Acquisition Service",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "GSA (.gov)",
+    "summary": "Commissioner, Federal Acquisition Service GSA (.gov)",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNWGZ2WnhCM084RkJvTXBkQk9qU1FoWWNLV3FBU0Y1ZG9KREZvcmRxRHVhV3hWVGpJbEFHdnNGekxMMzMyZjdXQ2pVdUVCNlJyTE1PbWJfZWJiTU1zSHVmaHV0aVFud0pMX0R1R1hiSUo5SmNRc0paR2xwY2RVNkJTQmFFM2JpRDA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2101,12 +2101,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-18a5b738bd63",
+    "id": "news-99432c36fe14",
     "date": "November 2, 2026",
     "publishedISO": "2026-11-02T18:06:14+00:00",
-    "acquirer": "Driven by A.I. Boom, Marvell",
-    "target": "Lumentum Announce $115 Billion",
-    "headline": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Driven by A.I. Boom, Chipmakers Announce $115 Billion Merger",
     "valueBillions": 115.0,
     "sector": "M&A news",
     "countries": [
@@ -2116,7 +2116,7 @@ window.generatedDeals = [
     "crossBorder": false,
     "automated": true,
     "sourceName": "The New York Times",
-    "summary": "Driven by A.I. Boom, Marvell and Lumentum Announce $115 Billion Merger The New York Times",
+    "summary": "Driven by A.I. Boom, Chipmakers Announce $115 Billion Merger The New York Times",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
