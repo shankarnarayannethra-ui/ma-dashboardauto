@@ -1,6 +1,306 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9f1c4b87771d",
+    "date": "November 10, 2026",
+    "publishedISO": "2026-11-10T00:07:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shudders",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Bloomberg.com",
+    "summary": "Marvell-Lumentum Deal Odds Near Coin Flip as AI Trade Shudders Bloomberg.com",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPcW5LRmFmU0N1UGpydUN6V2otRW1qTktEM1pOaUFKUmEtTHhUMzhGZDFIcGVPUlFkTGRvS3hPMnh6cnJ1Tk1qaFB0MXZqbE5NdERBRjk2WVBUeFRkdmNyb3Fnc3NQVU55MGZtUG9iWTFlR1diUGI0MTY5cEdkNmdkbXVhblJqbFBFdkJoMTFWbUgtSkhwN0UwX3lxckQ2ZEc2aUppSTgyZjA2cHFXQVdRMEVLRQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 10, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-8df31b39294a",
+    "date": "November 9, 2026",
+    "publishedISO": "2026-11-09T21:55:35+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "DCU shake-up: James Gunn and Peter Safran out post-merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Ars Technica",
+    "summary": "DCU shake-up: James Gunn and Peter Safran out post-merger Ars Technica",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxQdGNpOW52MGk2YkxEeEt0aVBLS3diT28xeXNmZnA4LUlZYXg5NWl2eXhFVTd1UnN3X3dNUnY4M0w2VmRMbGlpbFdrNFJ3eDBOZHpBLWZaS0JHcW5TY1lTTkdvdUF3MjZ0eGdZSGx1XzVQQThlbzk1ZEx1d1liQUd5eDlTX3VKZ2MwLVNaV1VHa1FNcUpVdDY3LTlrM0Mydw?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-d18b1f0885f8",
+    "date": "November 9, 2026",
+    "publishedISO": "2026-11-09T20:48:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "CNN Sees Some Staff Buyouts Under Skydance Merger Plan",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "CNN Sees Some Staff Buyouts Under Skydance Merger Plan Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPdDV0TFZ1UVNMTERCWkMzZUM5QUtuUERna09ablNLWFVaWFJrN242WDJFbGRPaEZReFJ6OHJvcFNTMXl0emtRVnl4bGRvQVB6RmRrVnhPSGtMWjNLeVR0N0RLbGpkbUpOWkxiZDlla2FuYW00STF4bUQ0RGc0eGpUY2lybnE?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-2af07d43c06f",
+    "date": "November 9, 2026",
+    "publishedISO": "2026-11-09T19:35:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Skydance Games Layoffs Hit Following Warner Bros. Merger",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Variety",
+    "summary": "Skydance Games Layoffs Hit Following Warner Bros. Merger Variety",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxNNXBvR1ZjdjItQjBxMmxwZjQ4enlUNktadXM2eFBQcVJuV3RTYnhwb2pvY01HSDU5R3lDTW1LbVBSNGJ6NmpCWDRTTHRzbGFVcE5QLW5tcUFkTFV4VkhlV3N4NWtnMkgzQUNjOFhfTXI0NGhuY2FWaVh2bllwU3p5MUFzUXJCSFJjRnJB?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 9, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-41ca36a365ac",
     "date": "November 9, 2026",
     "publishedISO": "2026-11-09T18:44:59+00:00",
@@ -76,81 +376,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-81c55d9bfca6",
-    "date": "November 9, 2026",
-    "publishedISO": "2026-11-09T17:41:27+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Banking Dive",
-    "summary": "Morgan Stanley to bolster IPO wheelhouse with Vinyl acquisition Banking Dive",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQTU56c0ZwbF9Sa0lJY1JldlJhLXh5VHlmX1dPWVZiZVhCSXAzVlYwaF9VdUtoUk83TmlXQ0xtcmE3MjczWkhIRTZQY1lpbjFsY0RONmVUZUFmMlI4YnFUMlhJOXJ5Z1VEYzA4Qjg5SXNPX1ZKYlY3a1Nad1Rrcm5wZ1RGa0JnSE9nVzEzT0ZZNlU?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-dd728409ca70",
     "date": "November 9, 2026",
     "publishedISO": "2026-11-09T17:00:00+00:00",
@@ -184,81 +409,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOajZLaUd0MklFYUpFNkJ5NnBxSXNaUzV4dmtpdXZOWnAzc0t1MGRvLXg2N1RBU1hnWWtrTlh4VW5PbmVBR0dzaWlEMzc0Q2tyRXBwWldUakdTZFd6bzJqOWl3MDd5WV95VThIdks4c25pOUcyZE1OcUJRZnY2aGVObEFlRDAxX0VUYkJQdGFpckgxV2ZRdnJneGxzcXdfN0JyenVxZk4zMEphU0xfbVI4ZkEzMWpaM044a0xNLQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 9, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9e17eeb42a2f",
-    "date": "November 9, 2026",
-    "publishedISO": "2026-11-09T16:49:23+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "University Heights mayor addresses teen takeover at Urban Air",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Cleveland 19 News",
-    "summary": "University Heights mayor addresses teen takeover at Urban Air Cleveland 19 News",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3hVQkFPQURqaWtXTUxkR1NaMlBrZGdsUUFFanBxcC1QMEw4dm1jY285N2kxdUltS05kaEIyRUprUmhpX1dWNXZRSW05bjhmX2Q1NkxOTi1palJRUzlLNkt3VnpfWjJmOENkYkpYMy1Ea0ppTzNsTHRLQjJXcHd3TVVPakJmU011ODZXdTF4SEVDTEVHSHRYV0hjODBCWEU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -526,12 +676,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d1ee7e1fa094",
-    "date": "November 7, 2026",
-    "publishedISO": "2026-11-07T04:54:17+00:00",
+    "id": "news-9e17eeb42a2f",
+    "date": "November 8, 2026",
+    "publishedISO": "2026-11-08T19:45:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "New Course Gives SSC Guardians a Leap Forward on their Acquisition Careers",
+    "headline": "University Heights mayor addresses teen takeover at Urban Air",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -540,8 +690,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Space Force — Space Systems Command (.mil)",
-    "summary": "New Course Gives SSC Guardians a Leap Forward on their Acquisition Careers Space Force — Space Systems Command (.mil)",
+    "sourceName": "Cleveland 19 News",
+    "summary": "University Heights mayor addresses teen takeover at Urban Air Cleveland 19 News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -558,12 +708,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQY05xaXJuQ3F2a0IyOW5pd3V2Z0NWeFo3SWVQOTlhRGhEYVF0MUNtem42UjZaV1JKNHJmUEhSUVI5WUFGU2tWdy1XNEFxdFhYR2RFRk1KR3JIMkNCRjN4Vl80Z2NGbVNKZ2RkSE83bmFELW9SVFdhSnRJbU92ZGoyQXNMSFJjRVNneXhXRVJJRFM1T3NPdldnd3RkSnJNNkE4MjkzTUFrNmxwM01iWXVoTmFqeHdaenREdm5jYWhyclc3THBGd25IZ3pB?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPN3hVQkFPQURqaWtXTUxkR1NaMlBrZGdsUUFFanBxcC1QMEw4dm1jY285N2kxdUltS05kaEIyRUprUmhpX1dWNXZRSW05bjhmX2Q1NkxOTi1palJRUzlLNkt3VnpfWjJmOENkYkpYMy1Ea0ppTzNsTHRLQjJXcHd3TVVPakJmU011ODZXdTF4SEVDTEVHSHRYV0hjODBCWEU?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Nov 7, 2026"
+        "date": "Nov 8, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1126,12 +1276,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d0a6c114ffc5",
+    "id": "news-1d79a9f9386c",
     "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T20:33:37+00:00",
+    "publishedISO": "2026-11-05T19:55:07+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign - ABC News",
+    "headline": "Browns host 3rd Gym Class Takeover at Big Creek Elementary School",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1140,8 +1290,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Breaking News, Latest News and Videos",
-    "summary": "Wendy's rejects buyout bid and girds itself for a hostile takeover campaign ABC News - Breaking News, Latest News and Videos",
+    "sourceName": "Cleveland Browns",
+    "summary": "Browns host 3rd Gym Class Takeover at Big Creek Elementary School Cleveland Browns",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1158,7 +1308,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPOVJhWWhYOElBQkFaczM5cWx6YWhaYVNLUmpfR1duT2I2aHJvZ2Z1aC1qcFJSX1duVG1CaWt6VGh3UUxMZE5XWnB5N29iUkYwR00zUWZVSzlzMThBamJpenBIbzU1NEpBamktYklnTElkdk14cXducTJHUHNoZHJYX3lMb1VqYl8yNW1NWjJteFEzbFA5Wlh3eEhmWk5iQ1Y2V19jQWQ4TFFkZ9IBrwFBVV95cUxONHBEWXllLTlwcm9OSm8waVlDOGFlaWljaFJ0Q0gtLVowUG5pNzdkYXBfaGFyZjE2NF9uZllycnBIanV6ZXRlUUhCUFBSd2JmWWxreDV6VXE0V2RYdUR0WjdnWUg1bUxtUU9BclZpX2hKRFkwMld2WFA4dFZLNWFrTHF3VUhJSEJBN3VsN0JsLXRTUjBzZnUxZnNUUEFrYllYNFdqWjBFTnZoZmZDczBn?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2toVFBvZXIwVVRJUDJwdzdJLVU1cDZjNkNFSFlZb3dNWkstNWYzWFBlUUN6Y2tsanFGQjhQTzJHaWhwaW9mMnJyc1lfWXJOcmVlNWtfaV9yRlR2eW9Rdk9sV0NkUjRkODVrOElXNkRNeVFvNExMY3U1Sk8yRklCR3huamdSSm5NNUlaRTJ4Tmg3S2xZbjdDMFdLcFJlMlZ4a0VjaQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1201,12 +1351,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-1d79a9f9386c",
+    "id": "news-a53f7149e76c",
     "date": "November 5, 2026",
-    "publishedISO": "2026-11-05T19:55:07+00:00",
+    "publishedISO": "2026-11-05T17:04:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Browns host 3rd Gym Class Takeover at Big Creek Elementary School",
+    "headline": "Wendy’s rejects buyout bid and girds itself for a hostile takeover campaign",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1215,8 +1365,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Cleveland Browns",
-    "summary": "Browns host 3rd Gym Class Takeover at Big Creek Elementary School Cleveland Browns",
+    "sourceName": "AP News",
+    "summary": "Wendy’s rejects buyout bid and girds itself for a hostile takeover campaign AP News",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1233,7 +1383,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNU2toVFBvZXIwVVRJUDJwdzdJLVU1cDZjNkNFSFlZb3dNWkstNWYzWFBlUUN6Y2tsanFGQjhQTzJHaWhwaW9mMnJyc1lfWXJOcmVlNWtfaV9yRlR2eW9Rdk9sV0NkUjRkODVrOElXNkRNeVFvNExMY3U1Sk8yRklCR3huamdSSm5NNUlaRTJ4Tmg3S2xZbjdDMFdLcFJlMlZ4a0VjaQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPakdUbXlodVo0UEE0QWVtSm8tVjdCajhCNERYMWdtc1pzSC16ellVMUZoS3hJQlBOSVVSbWhxd2MtR3UzekRBN3kzazV1YmwyTG1LMnJudzhPdjNTaEp5YlJTMkZhWGxwaTM0UlJmQktFbFNMUjB5MjhlMTVGVDZ4d3lzTDU1Q2txVFA0TU0zZ1pMYkxFRXc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1576,7 +1726,7 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-02df72a46a0d",
+    "id": "news-94124d4bac7d",
     "date": "November 5, 2026",
     "publishedISO": "2026-11-05T12:13:33+00:00",
     "acquirer": "Potential acquirer",
@@ -1608,7 +1758,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heNIBfkFVX3lxTE1VTTdWQW9Vc1g2VGR5YlJjZl9ZWGtLWWV2LTNWUlR2YzZFUkc5d0hZanBwLVZ5TzFOaVl1YkYyUkZubFRaTEFQS2RRVnpWNklGX2REMWlVRmFMZUxpNk9UZUZXOC14dG1jbGpOMHpBQU0xeUJCdkxHMXFmSmc3dw?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1JZmFKLUx0dTJnUm45QjdsaG1pWWFSRDgtenlWT3M3dVVQcEZ5b2xtb2o3WHZpZHFLMGVRUVJJb1ZBZE95bS1xanQ2eFVVZmZtdmVLM3lfTU8td19IRjlvYkF5bDktQnJVU0w2enFYc1NnX2N4Nl9heA?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1801,12 +1951,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-81d1bd81e862",
+    "id": "news-3f2abc5d1464",
     "date": "November 4, 2026",
-    "publishedISO": "2026-11-04T15:48:10+00:00",
+    "publishedISO": "2026-11-04T16:31:31+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "EXCLUSIVE: Google extends voluntary buyout offers to employees in several countries",
+    "headline": "GSA names new acquisition chief after months with acting leader",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1815,8 +1965,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Reuters",
-    "summary": "EXCLUSIVE: Google extends voluntary buyout offers to employees in several countries Reuters",
+    "sourceName": "Government Executive",
+    "summary": "GSA names new acquisition chief after months with acting leader Government Executive",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1833,7 +1983,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N5M3JKaG93ZWY0OHkzNkZuaXNvcllrWV9EZTJocmdSZ19NTWU5Nzg4aVV3VTF1dUIxdHZoczZkZU1MYjVpaEJRQ0txUG44c214NjFDeFNvN21nbnltZFBUZ0F4YkVobEI2R3F2ZXJqUW56N3psczhCSWM2RXBMMEd2VXJjV1VqeFFsWnA5R1A0dnpOUTZGc2ZEVXNCTWNHME4tSU9yaTdSRzhWbzlaRF9QRXM3OVJSS3N5Q2diU2JKT00?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPZ2hoM1JsM2pIWWRaZTExUEZ5aWp3VmxBeFJaTTRtRzBHWGsyUkhpMW9BendDZV9xdWFGODBvQVdwYWlHMVJtcFhxcklNa0pmV3dXVTZRUmFFQVR6NzNVUHZCQ2xvbTJIR1dBUHVZeFl4R25FdEN6d21iVjMtLUdRNWJiQVNWdjhnREd2ZHNLWjYtMVJnNFJaUkV1TGVHLU51d0J0OE5wOVJjeXpHMGc?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1876,12 +2026,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-fc6f0e026565",
+    "id": "news-81d1bd81e862",
     "date": "November 4, 2026",
-    "publishedISO": "2026-11-04T15:44:00+00:00",
+    "publishedISO": "2026-11-04T15:48:10+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Former banking executive named GSA acquisition lead",
+    "headline": "EXCLUSIVE: Google extends voluntary buyout offers to employees in several countries",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1890,8 +2040,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Nextgov/FCW",
-    "summary": "Former banking executive named GSA acquisition lead Nextgov/FCW",
+    "sourceName": "Reuters",
+    "summary": "EXCLUSIVE: Google extends voluntary buyout offers to employees in several countries Reuters",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1908,7 +2058,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQTVMtZ3RqSnN6ODVuV2FHa00zNUtLMWhqT1dqS0FIWmc4Q3lrMTlnY3BtSEhvZ3lDLWI3MDVhbjh3a3pVTjRwVkxQYmVFOUM4eF9MMnVYc2tnZDhPUHJhODdIVmhnTThIQ2pQTXA4Xy03WkdPbXVSd1dqYW5MaXd6cjlfSmZYaVlPNWVuSkh3ZlcwSjZabVM3eHgzZHdXaGxxWTdpdDZwalozNjZCamhOUWM0eXF3NU5kUzFsaE93?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNN3N5M3JKaG93ZWY0OHkzNkZuaXNvcllrWV9EZTJocmdSZ19NTWU5Nzg4aVV3VTF1dUIxdHZoczZkZU1MYjVpaEJRQ0txUG44c214NjFDeFNvN21nbnltZFBUZ0F4YkVobEI2R3F2ZXJqUW56N3psczhCSWM2RXBMMEd2VXJjV1VqeFFsWnA5R1A0dnpOUTZGc2ZEVXNCTWNHME4tSU9yaTdSRzhWbzlaRF9QRXM3OVJSS3N5Q2diU2JKT00?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2026,81 +2176,6 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-a899fb778daa",
-    "date": "November 4, 2026",
-    "publishedISO": "2026-11-04T12:00:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "GSA Announces Commissioner Appointments for Public Buildings and Federal Acquisition Services",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "GSA (.gov)",
-    "summary": "GSA Announces Commissioner Appointments for Public Buildings and Federal Acquisition Services GSA (.gov)",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxObEJuR3dITjhQN1NiQmhtR2lUckJlT3hHVEgycngwQnJuUTdXRTFpSFpVMGdmd2ptZG11cG9fdkRuY2RETEl3NjJ1dHdTNWc0YV9TVDh3Y1R3ZGFDNDhYaEU3aGR5eS1JNDMyWXByRXNmdmYwd2lGRFhtQWxMazg5aEhldnhPR3N5ejkxMVRnZHVmM3gyeFl4eEpRS3psckFZYXotNnBNaTdHc1RpYWlZNHQ1UURiYm9z?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 4, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
     "id": "news-184f80f8229f",
     "date": "November 3, 2026",
     "publishedISO": "2026-11-03T15:19:49+00:00",
@@ -2134,81 +2209,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOV09Yb0RfcEdqV2VTTm91cW1uV0dmTkxZNkY2WVpmb3I3UWZ2WGg2TWRfNDRHUmRpS2JONVd0QWdEekg3TmhMSjJJWDhXb1BTbEhPZVhkQkRWa3NZUHZoeGt5aEY3dy04bHF0M3hSTVRCd3doVFFDMENRVWxHV1QzRjcwUlRHVlJUbS1ISmIwajFQMjItaVJv?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 3, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-5a08339bac3f",
-    "date": "November 3, 2026",
-    "publishedISO": "2026-11-03T06:20:29+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report.",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Kimberly-Clark Acquires Kenvue. Here’s What Investors Need to Know Ahead of Its Nov. 5 Earnings Report. Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNaVR2VVBSM3czRGo3VFdlb0NWZjlhdGZRS1ZtS2phOVJqWGdubDdPUnBLMFFneDNZYXBiSnM3OUdPMTlBczNfeUlmV2ZEc0VIbzRXVFpEblZaT0Vja3A2eUk2WmFRdElHR0lKX1cxZTkwSlhCbWwwcHIzeGRVdndPOGl4T0NhR2JwQjRqXzNzNlZ2T2Nqal9sdmxxcng4ZFVGNnZVVGlRN04?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
