@@ -1,6 +1,81 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-4af9e9695dca",
+    "date": "November 15, 2026",
+    "publishedISO": "2026-11-15T01:08:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "What is Jeff Lebby's buyout after Mississippi State loses sixth straight vs Auburn?",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "The Clarion-Ledger",
+    "summary": "What is Jeff Lebby's buyout after Mississippi State loses sixth straight vs Auburn? The Clarion-Ledger",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPOVk3RUJaWTF2MkFuVTQ4Qk5tSVZKV00xX1gycy05WlRpR3ZHbWdrbGdTOWQ2LXhCcVFEdlR2VnQtUzJYZm1FbTM4V1pSd0hta0Z6bHpHeElXTF9FMlZaUEFINU9GNk41bkxqOXdwOW9fVFJGRkN1S05aTENJSjdEeTEwaFR0U19UblFjUXFWTkFZbVB0TE1NX2dGNU1ndllvbmhUUmZwRTQta1ZVVGpndW9lZWNXRlJncnh5SzZsODdKVjBfVGpqWmU5ZzNUNFp0WnJFWko5M0xpd1g4WEk1bU5GT2g?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 15, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-b64bebc8eee5",
     "date": "November 14, 2026",
     "publishedISO": "2026-11-14T16:41:22+00:00",
@@ -39,81 +114,6 @@ window.generatedDeals = [
         "stage": "News detected",
         "status": "complete",
         "date": "Nov 14, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-597814fbb836",
-    "date": "November 13, 2026",
-    "publishedISO": "2026-11-13T19:25:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet",
-    "valueBillions": 74.0,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Motley Fool",
-    "summary": "SpaceX’s Big Day: A Historic Starship Launch, a Tesla Merger Under Scrutiny, and a $74 Billion AI Bet The Motley Fool",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNWDZJMHVySTJIZTlCX3hmeHIxWEJCQTZUblRPU0poOENiY0xsVEgxSkt4UEh5Zm9qc2pJcmRsZWtWT0lpYXM3aDVUZEw1d2JQMGZiYjhISUE5V0Ezc0owLWhSY281cVp6bjRFV3VybHZKaDRPc1hBaXVsV01yVlNpajgwSXRSbEx1M0twS0J4akZBX0FyZ0tNMm1kTS1LenB1UXdUMnZkRGwtc2NEWGU3U0J5S0dzazFkbnh2U05hYWxVem5iRFQ5UGpiMjhWQnZzS0R0cndR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 13, 2026"
       },
       {
         "stage": "Terms verified",
@@ -601,12 +601,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-d640665cc19c",
+    "id": "news-2cda7244fe77",
     "date": "November 13, 2026",
-    "publishedISO": "2026-11-13T09:36:49+00:00",
-    "acquirer": "Oura’s",
-    "target": "health tech startup raises conflict-of-interest questions",
-    "headline": "Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say",
+    "publishedISO": "2026-11-13T05:33:10+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -615,8 +615,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "STAT",
-    "summary": "Oura’s acquisition of health tech startup raises conflict-of-interest questions for Eli Lilly, experts say STAT",
+    "sourceName": "CoinDesk",
+    "summary": "SpaceX-Tesla merger talks put 30,000 bitcoin back in focus CoinDesk",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -633,7 +633,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeVNJY0tiRHFLRU9QTzVTbmtXUWgxWmNnMFp2TE1tckREV3dWYXZBT3F5ODFWOVFfdkoxV04xVnozWFh6Q2E5UmdKZnRKOWxoeWJQcWdoS3lLMllpcC1pcXc1T0lkYnhOeG9pXzJiQm5EX0FSQVFVNVVWQ0ZXWFhLSnEyNUc?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPdEdURUU2eTU3MTIzN2V0a2FYNVZhUVVYX0p1VnpYR2lrcW5mak9LRW9YdmgtbmFfYk1oZU1PX3lNWGhsLXEyWXBmLWNpeEoxa3FlMkstRFU3LXNtaFZwOXNCRE5lMjY0a3ZXMnpJWXk3cWpCY2hxOTRoM1pITTFWOUtUZ203aFg1QWVaUGdUdHhDRS02Vlo0TTM2SHV1T1FMMV9IUw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1051,6 +1051,81 @@ window.generatedDeals = [
     ]
   },
   {
+    "id": "news-56c1427b1804",
+    "date": "November 12, 2026",
+    "publishedISO": "2026-11-12T15:25:16+00:00",
+    "acquirer": "Deloitte Announces",
+    "target": "Flipside Crypto's AI Business and Launches Edisyl to Help Close the Context Gap ",
+    "headline": "Deloitte Announces Acquisition of Flipside Crypto's AI Business and Launches Edisyl to Help Close the Context Gap in Enterprise AI – Press Release",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "Deloitte",
+    "summary": "Deloitte Announces Acquisition of Flipside Crypto's AI Business and Launches Edisyl to Help Close the Context Gap in Enterprise AI – Press Release Deloitte",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONEV0TThqcWV5OXVhNUFPWGRMb3RYbzZ4MmkzaVl6MGJ1c2hqZVRrUEtvSExOMHgwa3d5NTlRM1ZCdFVEdWlLenJkYXYwZGNfRHNjZEREa05xUWdjTnZJdW83Njkzcmt1T1NMdUJCZmtseXBwZ0JQdjVLcGxnazRrYlhScnB0STg2Um5iNlhCLVE4ZExld1VYZnB4UTBIRkNVdUcydXVfRlYxa25ZZUlqSEIxeUx2bWRXYkR1S3hPS2Q3UnA2ZHVzTmVtaWlsUGhR?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 12, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-37e58ca83e62",
     "date": "November 12, 2026",
     "publishedISO": "2026-11-12T14:48:18+00:00",
@@ -1351,12 +1426,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-dc4ba5752eb7",
+    "id": "news-24414e8cea62",
     "date": "November 11, 2026",
-    "publishedISO": "2026-11-11T18:11:31+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Tesla (TSLA) Forms Special Committee To Review Possible All Stock Merger",
+    "publishedISO": "2026-11-11T15:03:50+00:00",
+    "acquirer": "Cleveland Clinic Expands Orthopaedic Care in the Mahoning Valley Through",
+    "target": "Youngstown Orthopaedic Associates Practice",
+    "headline": "Cleveland Clinic Expands Orthopaedic Care in the Mahoning Valley Through Acquisition of Youngstown Orthopaedic Associates Practice",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1365,8 +1440,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Tesla (TSLA) Forms Special Committee To Review Possible All Stock Merger Yahoo Finance",
+    "sourceName": "Cleveland Clinic Newsroom",
+    "summary": "Cleveland Clinic Expands Orthopaedic Care in the Mahoning Valley Through Acquisition of Youngstown Orthopaedic Associates Practice Cleveland Clinic Newsroom",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1383,7 +1458,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOR0pCbEVyVzFNbnk0RWxvcGFxdzJZWkx5LV92RExheFFQanptV25HWW1VWWtEbkdIT211WXRoZHp2QnR0NWYxSUw1bWtTbGtfS3hMQmZWcmptYzlYT2RUWEZ1YlFjeWpZMTYwZEgxTG1EVmlvNndGR0JWV0MwMm5hN2ZrYUFBVWMzNm9QZWdVdU1OQmotQ1VjREZDNU9tTjR6?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMiigJBVV95cUxOTnY5ZzZSM1FXbG1CT2ZKaTlDTjJXSzJ6eUdEZ1JXQ29MODVRNmVMbnZ2QWx2cU5HNG1taDd0UFdUek9rWkRVa0FGS3pOTUwtUDZHc0tJd18wbmxaS0RwVDNBVmpwblZqU0NZeWFfNlg2WnJTQzZEMV92S0JjT1BFTW9jU2RjOTVJWGpXTzFqUkJMN1VDZnQydHNkY05RV0dpVUctY3dSRmVzTUhrblpJZlZVUHlIS1VDM2ZPa2dwbldsOEg4TUQ5MUtpSXcxeHFyWjVsWkNUVUhsb1ZCdEY2MmQtMG1LNW5uTXd3UFFKeXpDaGtCcVVCUnd0RmJFYnZtRXBDVDJiRkhUdw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -1428,7 +1503,7 @@ window.generatedDeals = [
   {
     "id": "news-190f6883981f",
     "date": "November 11, 2026",
-    "publishedISO": "2026-11-11T12:03:00+00:00",
+    "publishedISO": "2026-11-11T12:20:53+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "Western Union Scraps $500 Million International Money Express Takeover",
@@ -1684,81 +1759,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOZnlSclk3NV81R05vWFNYbUZUTWh1Y3Voc3lqQ1k4aVhldHBXWVdFUVpTMTZJVS16WUw3Sllwd1dsWnJQclExMG5uU29mX2lpNlotQ1lTdXJkNUMtbDZYcnVWQVJ3aDRJRE9EVElkVENSMHlEN29rc1FwMDN3X1d3RVV6TG1XRmJoRkE5aU9KQm12R0dLQmsxUVpVbUZlTENq?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 10, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-9dd21563e572",
-    "date": "November 10, 2026",
-    "publishedISO": "2026-11-10T20:00:05+00:00",
-    "acquirer": "Latham & Watkins Advises Diamondback Energy on",
-    "target": "Deep Blue Midland Basin",
-    "headline": "Latham & Watkins Advises Diamondback Energy on Acquisition of Deep Blue Midland Basin",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Latham & Watkins LLP",
-    "summary": "Latham & Watkins Advises Diamondback Energy on Acquisition of Deep Blue Midland Basin Latham & Watkins LLP",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNdzZYWS1kd2Vyck8zS2V4REJKYm5uLU5iLU5ZTi1Hd1lpYWoxOU5Uc2dxX1UtM0JNU0hyaG1sTkxrXzhMRWxRalI4cXpia29LY0dKU0txblhmWFphdGd6Wm95emJnUWxIb3RGRndhOHpGVVVuTnNYTWxkaXFaNHZFVnZnRUFINExEUkFHVW51cDZFMWFGYTFyaDdkTjAxb2xtalZ4R1BFTkxlcDNoc0Rv?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
