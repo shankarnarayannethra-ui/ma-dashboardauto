@@ -1,6 +1,231 @@
 // Generated automatically. Do not edit by hand.
 window.generatedDeals = [
   {
+    "id": "news-9ebd7622ab18",
+    "date": "November 28, 2026",
+    "publishedISO": "2026-11-28T07:43:03+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "UniCredit Seeks Commerzbank Chair Role for CEO Orcel After Takeover Clears Final Hurdle WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQTFhLQXl6czBRZVFKUlRsdjU1VlFPYW9yTkZDQzRlSFFaSGpCeFZoMU93cHdfczlKemFWaHFiS3A2aVpJcVVTS01CSUk5TXZHMWFVbi1JcWVwSzRrRFRWeksybWVRZnhRM1h1VElnLWx6Y094U253THFBZlU1bHV3WU5zOUVEbVNLT3pIdmlDalFpTWlYUWc?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-125184af223f",
+    "date": "November 28, 2026",
+    "publishedISO": "2026-11-28T05:32:21+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "WSJ",
+    "summary": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns WSJ",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
+    "id": "news-e6413e87e018",
+    "date": "November 28, 2026",
+    "publishedISO": "2026-11-28T04:50:00+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "Mark Pope buyout, contract details: How much it would cost Kentucky to fire coach after loss to Wichita State",
+    "valueBillions": null,
+    "sector": "M&A news",
+    "countries": [
+      "To be confirmed"
+    ],
+    "status": "News detected",
+    "crossBorder": false,
+    "automated": true,
+    "sourceName": "CBS Sports",
+    "summary": "Mark Pope buyout, contract details: How much it would cost Kentucky to fire coach after loss to Wichita State CBS Sports",
+    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
+    "longTermGoals": [
+      "Confirm transaction terms",
+      "Review management rationale",
+      "Track approvals and closing conditions"
+    ],
+    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
+    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
+    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
+    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
+    "scores": {
+      "strategic": 5,
+      "cultural": 5,
+      "geographic": 5,
+      "valuation": 5
+    },
+    "source": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPa004Q25tOHRGcXMzQXVhX1k1azBBQkhra19LeU9VVnY2aXNQZWhpaERWZEdVbDg2dUExUU8zc05yV0NtTzlwejBjdGYya3h3VVpQazNBaW9nLWFGdXhpN051eGY3LXV2blp4TjZsWXZJMlV5LURqT3lVWERRdnBZSFJ5cUZoYXdtRV9PYTJPRktuWGFGa2c?oc=5",
+    "regulatoryTimeline": [
+      {
+        "stage": "News detected",
+        "status": "complete",
+        "date": "Nov 28, 2026"
+      },
+      {
+        "stage": "Terms verified",
+        "status": "current",
+        "date": "Manual review needed"
+      },
+      {
+        "stage": "Regulatory review",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      },
+      {
+        "stage": "Closing",
+        "status": "upcoming",
+        "date": "To be confirmed"
+      }
+    ],
+    "integrationTimeline": [
+      {
+        "stage": "Integration planning",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Leadership alignment",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Systems and operations",
+        "status": "upcoming"
+      },
+      {
+        "stage": "Synergy tracking",
+        "status": "upcoming"
+      }
+    ]
+  },
+  {
     "id": "news-674de96a6d16",
     "date": "November 27, 2026",
     "publishedISO": "2026-11-27T12:00:00+00:00",
@@ -453,7 +678,7 @@ window.generatedDeals = [
   {
     "id": "news-f9e9dd212abc",
     "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T05:01:14+00:00",
+    "publishedISO": "2026-11-27T05:00:31+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
     "headline": "The Ellisons’ debt-fuelled takeover of Hollywood",
@@ -526,162 +751,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3165ddc2ccca",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T01:31:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "Altria, Japan Tobacco explore takeover of Imperial Brands",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "The Japan Times",
-    "summary": "Altria, Japan Tobacco explore takeover of Imperial Brands The Japan Times",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOWEpMcDNTbmNIajBWNGR6aDRjMlVPWVZzZ096LTloWm9vTW8wdFRPU0w3N21LSTFSLVQzdWthYjVKbFhpVlFQVFhHeXEzYmVTSEJ2bEJVbk8wRldKblR3Qks5Nkd4OG54d1NoZ1F2dUhXRWhyUmdMUG1oSGdxM243aS1BQ1dKU0VxR3B1Qkx1WXc2Y0VHT2owZmhUYWRrYjBuNlh5SklYSQ?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-d54b9bf0cb88",
-    "date": "November 27, 2026",
-    "publishedISO": "2026-11-27T01:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock?",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "What Could Tesla (TSLA) Merger Talks Mean For Its Stock? Yahoo Finance",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQWGlndllBUTBXVHFLbzJ1c2dwSnk5aVNJOU0xUUt0RzlwNlNPekU4aGNGeFlPbVZqWVoxNnB5VVpWcXhkd1NjM08tRUl0Tk9RM1FsT0RsV1d0dFUtV0hKdlJId2tBa2oxNmtObTREaGIwQnhia3h4NnExNjBTQVFDZXBYdFFrckJwX25EenZLVGt2YktqeUpsTFpR?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 27, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-2513cbff41fe",
+    "id": "news-a28202e5b695",
     "date": "November 26, 2026",
-    "publishedISO": "2026-11-26T18:19:03+00:00",
+    "publishedISO": "2026-11-26T17:58:00+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Marlboro maker Altria exploring Imperial Brands takeover in Big Tobacco mega deal",
+    "headline": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -690,8 +765,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Yahoo Finance",
-    "summary": "Marlboro maker Altria exploring Imperial Brands takeover in Big Tobacco mega deal Yahoo Finance",
+    "sourceName": "WSJ",
+    "summary": "Marlboro Maker Altria Explores Deal for Rival Imperial Brands WSJ",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -708,7 +783,7 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcWdrZ080WkpRYVY5Z1FwR1kwWXBBZ2VpWTAwcHNoS3dweUJ0M0NzQVp1V1FmbUNXd0syRTRsOGxSOTlWZHJaRFNLeXdoZlRNTDFTaTcwbHRLYlpYTzZVT0xmSzl1aHN4Qmo0VzM5WGc2b3VOWDBhSHRROG1uUGg0VGoxLVNTc190WERyNl9IMGVYS0RfOHRfRFJ6a1lHTkp3N3J5dHB6bE4?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVDlqUVNCX3B1RGxwZXp3NTRjTXd5a0N3OTJ2amFkSnZNdFZvWVp6TlFyU0E3TVJOdWk5QTFGX19scjZqZW4zaHdiRFplXy0tb3AyT2Z2cHdBNmtXMUQxNmgwbTJqTThEdWNFLXgxc0RIaXZWTWNSV19tVk1CeXJsdENkT0hpQ1ZfdFBHVF9fak9yQzlZWGdMQjcxSlloZw?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -765,8 +840,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Bloomberg",
-    "summary": "Japan Tobacco, US Marlboro Maker Altria Explore Takeover of Britain’s Imperial Brands Bloomberg",
+    "sourceName": "Bloomberg.com",
+    "summary": "Japan Tobacco, US Marlboro Maker Altria Explore Takeover of Britain’s Imperial Brands Bloomberg.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1126,12 +1201,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-3c336f0afefd",
-    "date": "November 25, 2026",
-    "publishedISO": "2026-11-25T18:43:41+00:00",
+    "id": "news-9b0434739526",
+    "date": "November 26, 2026",
+    "publishedISO": "2026-11-26T01:01:51+00:00",
     "acquirer": "Potential acquirer",
     "target": "Potential target",
-    "headline": "Arcadis completes SATEL acquisition, strengthening power expertise",
+    "headline": "‘There’s safety in information’: West Seattle reporter asked to leave school merger meeting pushes back",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -1140,8 +1215,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Arcadis",
-    "summary": "Arcadis completes SATEL acquisition, strengthening power expertise Arcadis",
+    "sourceName": "MyNorthwest.com",
+    "summary": "‘There’s safety in information’: West Seattle reporter asked to leave school merger meeting pushes back MyNorthwest.com",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -1158,12 +1233,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPM0g0NnhwcktLRTBhbnd0djdHc0RBVkRnWjB5ZERwZHNJQVYxZjNYTTQyZVl0elVsYlM5eFpobmpBcDhTRkpkSU0tZnQ1TDVXNnJ6dFpiS3E1ZzUzeXc1YzBmc1VCZWRRaEUwbjNNQzVyWW10enZHbUwyOXFTMG82Mko3SWdJdG1zamlUOEJkV2oxN3R4SG5CMHd4OTZiYXBnUWd6SDRuQnJhUzZ6NG13?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1sUG12X2t6STVLU0JUNGdYS3dnT3VYc3RHSnJJZWRtNElVamY4Vl9Kb2ZWd0R0dDdYVWlVNlRlQjNQQ2stMk9iMDZQTXlEUFJvWmRSc2FVWXp1SWV4cmJZQXdRS29helNVYnV3STFnQWpwWDVzLWdB?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Nov 25, 2026"
+        "date": "Nov 26, 2026"
       },
       {
         "stage": "Terms verified",
@@ -1384,81 +1459,6 @@ window.generatedDeals = [
       "valuation": 5
     },
     "source": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5zOXV1dVBzQnQ0ZlZ1UHdFOEI5Tk1KTWVYVWFfbGVMMnFJb01NakNOYVQ3ODFjOEY4bDNoT05LSVpWRlhfUnJTeFphQ091SWI1TWxvWlltS3c0Vm1MMWFOSDdtOHNPTTMtM0doY3pkd2MtSm95UFozQVZsNA?oc=5",
-    "regulatoryTimeline": [
-      {
-        "stage": "News detected",
-        "status": "complete",
-        "date": "Nov 25, 2026"
-      },
-      {
-        "stage": "Terms verified",
-        "status": "current",
-        "date": "Manual review needed"
-      },
-      {
-        "stage": "Regulatory review",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      },
-      {
-        "stage": "Closing",
-        "status": "upcoming",
-        "date": "To be confirmed"
-      }
-    ],
-    "integrationTimeline": [
-      {
-        "stage": "Integration planning",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Leadership alignment",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Systems and operations",
-        "status": "upcoming"
-      },
-      {
-        "stage": "Synergy tracking",
-        "status": "upcoming"
-      }
-    ]
-  },
-  {
-    "id": "news-125184af223f",
-    "date": "November 25, 2026",
-    "publishedISO": "2026-11-25T08:30:00+00:00",
-    "acquirer": "Potential acquirer",
-    "target": "Potential target",
-    "headline": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns",
-    "valueBillions": null,
-    "sector": "M&A news",
-    "countries": [
-      "To be confirmed"
-    ],
-    "status": "News detected",
-    "crossBorder": false,
-    "automated": true,
-    "sourceName": "WSJ",
-    "summary": "U.K. Regulator Says McCormick Sale of Colman’s Could Address Unilever Foods Merger Concerns WSJ",
-    "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
-    "longTermGoals": [
-      "Confirm transaction terms",
-      "Review management rationale",
-      "Track approvals and closing conditions"
-    ],
-    "culture": "Not yet researched. Compare leadership, operating models, incentives, and employee practices.",
-    "geography": "Not yet researched. Confirm headquarters, operating regions, and regulatory jurisdictions.",
-    "valuation": "Deal value was extracted only when clearly stated in the headline or feed summary.",
-    "shareholderValue": "Review offer premium, financing, dilution, debt, and the market reaction in the original reporting.",
-    "scores": {
-      "strategic": 5,
-      "cultural": 5,
-      "geographic": 5,
-      "valuation": 5
-    },
-    "source": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQUUxrNTF0T3pFbVNJeU1tMVJLRWtjc0F0WnktOFA3c0FQRlRsSG5mUWxQUzNoSjBLdldCWnZXSXV4TkZGZ2w3Z3I2elFqZkVvbHdBNG80UEJucmFiZU5lNEFqNUYxRFJPcXVOdDd6TmNUY2plV3dhRG9aeVdYY3JHcG9KbjhNRGJNc19LRFJMSUpXdW5ldzZsVGZ2QWNGcFZiVkxDT1NfYWJKM3NEd0hrYW9lNExUTm5JdE9hLVFWSkNJNkVQR1RlS3J1NlYzMDQ?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
@@ -2176,12 +2176,12 @@ window.generatedDeals = [
     ]
   },
   {
-    "id": "news-9516d271930e",
-    "date": "November 21, 2026",
-    "publishedISO": "2026-11-21T03:48:59+00:00",
-    "acquirer": "Latham & Watkins Advises Platinum Equity on Financing for Completed",
-    "target": "EDP",
-    "headline": "Latham & Watkins Advises Platinum Equity on Financing for Completed Acquisition of EDP",
+    "id": "news-33e23381b126",
+    "date": "November 23, 2026",
+    "publishedISO": "2026-11-23T13:27:58+00:00",
+    "acquirer": "Potential acquirer",
+    "target": "Potential target",
+    "headline": "CrowdStrike's Zscaler Acquisition Could Broaden Security Platform, Says JPMorgan — Analysts Weigh Opportunities And Risks",
     "valueBillions": null,
     "sector": "M&A news",
     "countries": [
@@ -2190,8 +2190,8 @@ window.generatedDeals = [
     "status": "News detected",
     "crossBorder": false,
     "automated": true,
-    "sourceName": "Latham & Watkins LLP",
-    "summary": "Latham & Watkins Advises Platinum Equity on Financing for Completed Acquisition of EDP Latham & Watkins LLP",
+    "sourceName": "Yahoo Finance",
+    "summary": "CrowdStrike's Zscaler Acquisition Could Broaden Security Platform, Says JPMorgan — Analysts Weigh Opportunities And Risks Yahoo Finance",
     "intent": "This record was detected automatically from a news headline. Review the original reporting before drawing conclusions about strategic intent.",
     "longTermGoals": [
       "Confirm transaction terms",
@@ -2208,12 +2208,12 @@ window.generatedDeals = [
       "geographic": 5,
       "valuation": 5
     },
-    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQd3JaVVpUX2t1MmpmUmw5NnNDenhFYjc2eTZ2SC1XWVZJN0tQeXc1SVFleUtxZi10eVFYQTUxd2Q1b1NfLWVxeHFkbkFCMy0tYTVSZEdLU0I4MXp0b2l5QUFvZ2ZjOHNzb0hubnNTb0hJSDIzeVNFcnpadExnQ1JDNTZJTkdna2NOMEVJcG15TUc3NURMM1RkVUZBTmRqQmpGSjB4Y21Bb2xtdDVnNWRZRQ?oc=5",
+    "source": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNEtfeGtES3RfWHlMdzF6UXQ5WWhmU1F4NUJuejFDcFFQRFBJdUpVMnJVUDNzVlRSQm9tVUtjZk5BekUwZFpFMGYta09ZdVRITDRCcmNXNkw3aXNnTFhuSnBsQ3ZxNzFnb3hJWVE1S01RNnAzVWZmYXl2Vy1WVXBxT0ZFS3NYTVRSaWFuQ0FIekZnNEUzaEJrOWRsRXdUR1VnODVrZHU2UUhBbEgwZmtGeg?oc=5",
     "regulatoryTimeline": [
       {
         "stage": "News detected",
         "status": "complete",
-        "date": "Nov 21, 2026"
+        "date": "Nov 23, 2026"
       },
       {
         "stage": "Terms verified",
